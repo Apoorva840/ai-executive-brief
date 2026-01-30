@@ -14,6 +14,9 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 #PYTHON_EXE = r"C:\Python313\python.exe"
 PYTHON_EXE = sys.executable
 
+print("Using Python executable:", PYTHON_EXE)
+
+
 # Scripts to run in order
 SCRIPTS = [
     "fetch_news.py",
