@@ -2,12 +2,17 @@ name: Daily AI Executive Brief
 
 on:
   schedule:
-    - cron: "30 3 * * *"   # Runs daily at 09:00 IST
+    # Runs daily at 09:00 IST (03:30 UTC)
+    - cron: "30 3 * * *"
   workflow_dispatch:
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
+    
+    # GRANT PERMISSIONS: Required to push generated files back to the repo
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -24,6 +29,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run AI news pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python3 run_pipeline.py
 
@@ -31,6 +38,11 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          
+          # Stage all generated files (daily_brief.json, enriched_summaries.json, etc.)
           git add .
-          git commit -m "Daily AI Executive Brief update" || echo "No changes to commit"
+          
+          # Only commit if there are actual changes to prevent "empty commit" errors
+          git commit -m "🤖 Daily AI Executive Brief update (auto)" || echo "No changes to commit"
+          
           git push
