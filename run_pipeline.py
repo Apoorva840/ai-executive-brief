@@ -11,7 +11,8 @@ from datetime import datetime
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Full path to Python executable (adjust if needed)
-PYTHON_EXE = r"C:\Python313\python.exe"
+#PYTHON_EXE = r"C:\Python313\python.exe"
+PYTHON_EXE = sys.executable
 
 # Scripts to run in order
 SCRIPTS = [
