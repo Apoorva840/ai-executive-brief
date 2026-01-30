@@ -10,8 +10,8 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 
 # Set paths relative to the script location
-# This replaces the hardcoded C:/Users/HP/ drive path
 N8N_BASE = BASE_DIR / "n8n-files"
+# Adjusted to ensure it looks inside the 'data' folder relative to the script
 INPUT_FILE = BASE_DIR / "data" / "technical_summaries.json"
 OUTPUT_FILE = N8N_BASE / "ai-input" / "enriched_summaries.json"
 
@@ -20,8 +20,10 @@ OUTPUT_FILE = N8N_BASE / "ai-input" / "enriched_summaries.json"
 # ============================
 
 def enrich(article):
-    # Combine title and body to scan for keywords
-    text = f"{article.get('title','') beach} {article.get('what_happened','')}".lower()
+    # FIX: Removed the "beach" typo which caused the SyntaxError
+    title = article.get('title', '')
+    summary = article.get('what_happened', '')
+    text = f("{title} {summary}").lower()
 
     # Defaults (never null)  
     risk = article.get("primary_risk") or "Execution and adoption risks remain manageable but present."
@@ -60,6 +62,8 @@ def main():
     # Check if input file exists to avoid crash
     if not INPUT_FILE.exists():
         print(f"ERROR: Input file not found: {INPUT_FILE}")
+        # List files to help debug if it fails on GitHub
+        print("Available files in data directory:", [f.name for f in (BASE_DIR / "data").glob("*")])
         return
 
     # Create output directories if they don't exist
