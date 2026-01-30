@@ -25,7 +25,7 @@ jobs:
 
       - name: Run AI news pipeline
         run: |
-          python run_pipeline.py
+          python3 run_pipeline.py
 
       - name: Commit & push updated output
         run: |
