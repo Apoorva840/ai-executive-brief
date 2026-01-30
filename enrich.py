@@ -8,7 +8,7 @@ OUTPUT_FILE = N8N_BASE / "ai-input" / "enriched_summaries.json"
 def enrich(article):
     text = f"{article.get('title','')} {article.get('what_happened','')}".lower()
 
-    # Defaults (never null)
+    # Defaults (never null)  
     risk = article.get("primary_risk") or "Execution and adoption risks remain manageable but present."
     opportunity = article.get("primary_opportunity") or "Incremental gains through applied AI adoption."
     audience = article.get("who_should_care") or ["AI Professionals"]
