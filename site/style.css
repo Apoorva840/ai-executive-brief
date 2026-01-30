@@ -1,0 +1,133 @@
+/* =========================
+   Reset & Base
+========================= */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  background: #f3f4f6; /* soft executive gray */
+  color: #1f2937;
+  line-height: 1.65;
+}
+
+/* =========================
+   Header
+========================= */
+header {
+  background: linear-gradient(135deg, #0f172a, #020617);
+  color: #ffffff;
+  padding: 48px 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.6rem;
+  font-weight: 700;
+}
+
+header p {
+  margin: 10px 0;
+  opacity: 0.92;
+  font-size: 1.05rem;
+}
+
+#meta {
+  font-size: 0.9rem;
+  opacity: 0.75;
+}
+
+/* =========================
+   Main container
+========================= */
+main {
+  max-width: 920px;
+  margin: 48px auto;
+  padding: 0 20px;
+}
+
+/* =========================
+   STORY CARD (EXECUTIVE STYLE)
+========================= */
+.story {
+  background: #f9fafb;              /* premium off-white */
+  border-radius: 14px;
+  padding: 32px 36px;
+  margin-bottom: 36px;
+
+  border-left: 4px solid #0b1f3b;   /* calm authority blue */
+
+  box-shadow:
+    0 10px 25px rgba(0, 0, 0, 0.06),
+    0 3px 8px rgba(0, 0, 0, 0.04);
+
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.story:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 16px 40px rgba(0, 0, 0, 0.08),
+    0 6px 14px rgba(0, 0, 0, 0.06);
+}
+
+/* =========================
+   Headings inside cards
+========================= */
+.story h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: #020617;
+}
+
+.story h3 {
+  margin-top: 24px;
+  margin-bottom: 6px;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #111827; /* executive black */
+}
+
+
+/* =========================
+   Paragraphs
+========================= */
+.story p {
+  margin-top: 0;
+  font-size: 1rem;
+  color: #374151;
+}
+
+/* =========================
+   Source link
+========================= */
+.story .source {
+  margin-top: 22px;
+  font-size: 0.9rem;
+}
+
+.story .source a {
+  color: #1d4ed8;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.story .source a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   Footer
+========================= */
+footer {
+  text-align: center;
+  padding: 36px 20px;
+  font-size: 0.85rem;
+  color: #6b7280;
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+data/*.json
+site/data/*.json
+.n8n-files/
