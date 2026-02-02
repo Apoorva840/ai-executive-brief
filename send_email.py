@@ -14,7 +14,7 @@ JSON_INPUT = PROJECT_ROOT / "site" / "data" / "daily_brief.json"
 
 EMAIL_USER = os.getenv("EMAIL_USER")
 EMAIL_PASS = os.getenv("EMAIL_PASS")
-EMAIL_TO = os.getenv("EMAIL_TO")  # Comma-separated list
+EMAIL_TO = os.getenv("EMAIL_TO")  # Expected: "email1@me.com, email2@me.com"
 
 # ============================
 # HTML GENERATOR
@@ -37,7 +37,7 @@ def build_html_body(data):
     for item in stories:
         html += f"""
         <div style="margin-bottom: 30px; padding: 15px; border-left: 4px solid #3498db; background: #f9f9f9;">
-            <h3 style="margin-top: 0; color: #2980b9;">{item['rank']}. {item['title']}</h3>
+            <h3 style="margin-top: 0; color: #2980b9;">{item.get('rank', '•')}. {item['title']}</h3>
             <p><strong>Summary:</strong> {item['summary']}</p>
             <p><strong>Technical Takeaway:</strong> {item['technical_takeaway']}</p>
             <p style="color: #c0392b;"><strong>Primary Risk:</strong> {item['primary_risk']}</p>
@@ -72,24 +72,26 @@ def send_email():
     with open(JSON_INPUT, "r", encoding="utf-8") as f:
         brief_data = json.load(f)
 
+    # RECIPIENT HANDLING: Split the comma-separated string into a clean list
     recipients = [email.strip() for email in EMAIL_TO.split(",")]
-    subject = f"Daily AI Executive Brief – {brief_data.get('date')}"
     
-    # Generate HTML from data
+    subject = f"Daily AI Executive Brief – {brief_data.get('date')}"
     html_content = build_html_body(brief_data)
 
     msg = MIMEMultipart("alternative")
     msg["From"] = f"AI Briefing Service <{EMAIL_USER}>"
-    msg["To"] = ", ".join(recipients)
+    # The 'To' header expects a single string of comma-separated emails
+    msg["To"] = ", ".join(recipients) 
     msg["Subject"] = subject
 
     msg.attach(MIMEText(html_content, "html"))
 
     try:
-        with smtplib.SMTP("smtp.gmail.com", 587) as server:
-            server.starttls()
+        # Using SMTP_SSL for enhanced security on port 465
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
             server.login(EMAIL_USER, EMAIL_PASS)
-            server.send_message(msg)
+            # Use to_addrs to ensure the server delivers to the full list
+            server.send_message(msg, to_addrs=recipients)
         print(f"📧 Success: Email sent to {len(recipients)} recipients.")
     except Exception as e:
         print(f" Failed to send email: {e}")
