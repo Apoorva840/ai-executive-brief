@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "summary": "",
+    "url": "https://huggingface.co/blog/anylanguagemodel",
+    "source": "Hugging Face Blog",
+    "score": 13
+  },
+  {
+    "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers v5",
+    "summary": "",
+    "url": "https://huggingface.co/blog/train-sparse-encoder",
+    "source": "Hugging Face Blog",
+    "score": 13
+  },
+  {
+    "title": "ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems",
+    "summary": "arXiv:2601.11854v2 Announce Type: replace-cross Abstract: Recent advances in task-oriented dialogue (TOD) systems, driven by large language models (LLMs) with extensive API and tool integration, have enabled conversational agents to coordinate interleaved goals, maintain long-horizon context, and act proactively through asynchronous execution. Thes",
+    "url": "https://arxiv.org/abs/2601.11854",
+    "source": "Arxiv AI",
+    "score": 10
+  },
+  {
+    "title": "Perplexity accused of scraping websites that explicitly blocked AI scraping",
+    "summary": "Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.",
+    "url": "https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/",
+    "source": "TechCrunch AI",
+    "score": 7
+  },
+  {
+    "title": "Data centers love solar: Here\u2019s a comprehensive guide to deals over 100 megawatts",
+    "summary": "New and expanded data centers are expected to double the sector\u2019s power demand by 2029 as tech companies rush to capitalize on AI.",
+    "url": "https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/",
+    "source": "TechCrunch AI",
+    "score": 7
+  }
+]

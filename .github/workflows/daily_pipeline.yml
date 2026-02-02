@@ -3,7 +3,6 @@ name: Daily AI Executive Brief
 on:
   schedule:
     # Runs daily at 07:00 IST (01:30 UTC) 
-    # Note: 07:00 IST is actually 01:30 UTC. Adjusted from your 03:30 comment.
     - cron: "30 1 * * *"
   workflow_dispatch:
 
@@ -11,7 +10,6 @@ jobs:
   run-pipeline:
     runs-on: ubuntu-latest
     
-    # GRANT PERMISSIONS: Required to push generated files back to the repo
     permissions:
       contents: write
 
@@ -19,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history so push works reliably
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,7 +36,6 @@ jobs:
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: |
-          # The logic inside run_pipeline.py now handles the correct script order
           python3 run_pipeline.py
 
       - name: Commit & push updated output
@@ -46,16 +43,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Pull latest changes to avoid conflicts if you edited code locally
           git pull origin main --rebase
 
-          # Explicitly add the data and site folders
-          git add data/*.json site/data/*.json
+          # FORCE add ensures ignored files are caught if .gitignore is tricky
+          git add -f data/*.json site/data/*.json
           
-          # Only commit if there are actual changes
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "🤖 Auto-update: Brief, Logs, and Sent History [skip ci]"
             git push origin main
           else
-            echo "No changes detected in JSON files. Skipping push."
+            echo "No changes detected. Skipping push."
           fi

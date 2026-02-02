@@ -1,6 +1,11 @@
 __pycache__/
 *.pyc
 .env
-data/*.json
-site/data/*.json
 .n8n-files/
+
+# Allow specific data folders to be tracked
+!data/
+!site/data/
+
+# Optional: If you want to ignore massive raw data but keep the brief
+# data/raw_news.json
