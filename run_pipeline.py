@@ -25,6 +25,7 @@ SCRIPTS = [
     "enrich.py",
     "summarize.py",
     "format_brief.py",
+    "send_email.py"
 ]
 
 # ============================
