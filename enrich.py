@@ -1,5 +1,4 @@
 import json
-import os
 from pathlib import Path
 
 # ============================
@@ -9,9 +8,8 @@ from pathlib import Path
 # Get the directory where this script is located
 BASE_DIR = Path(__file__).resolve().parent
 
-# Set paths relative to the script location
+# Paths
 N8N_BASE = BASE_DIR / "n8n-files"
-# Adjusted to ensure it looks inside the 'data' folder relative to the script
 INPUT_FILE = BASE_DIR / "data" / "technical_summaries.json"
 OUTPUT_FILE = N8N_BASE / "ai-input" / "enriched_summaries.json"
 
@@ -20,17 +18,22 @@ OUTPUT_FILE = N8N_BASE / "ai-input" / "enriched_summaries.json"
 # ============================
 
 def enrich(article):
-    # FIX: Removed the "beach" typo which caused the SyntaxError
-    title = article.get('title', '')
-    summary = article.get('what_happened', '')
-    text = f("{title} {summary}").lower()
+    title = article.get("title", "")
+    summary = article.get("what_happened", "")
 
-    # Defaults (never null)  
-    risk = article.get("primary_risk") or "Execution and adoption risks remain manageable but present."
-    opportunity = article.get("primary_opportunity") or "Incremental gains through applied AI adoption."
+    #  CORRECT f-string (this was the crash cause earlier)
+    text = f"{title} {summary}".lower()
+
+    # Defaults (never null)
+    risk = article.get("primary_risk") or (
+        "Execution and adoption risks remain manageable but present."
+    )
+    opportunity = article.get("primary_opportunity") or (
+        "Incremental gains through applied AI adoption."
+    )
     audience = article.get("who_should_care") or ["AI Professionals"]
 
-    # Rule-based enrichment based on keywords
+    # Rule-based enrichment
     if "privacy" in text or "scraping" in text:
         risk = "Regulatory exposure and public trust risks if data governance is weak."
         opportunity = "Leadership in compliant, privacy-first AI system design."
@@ -46,10 +49,11 @@ def enrich(article):
         opportunity = "Accelerated development cycles using advanced AI tooling."
         audience = ["ML Engineers", "Product Leaders"]
 
-    # Update article dictionary
+    # Update article
     article["primary_risk"] = risk
     article["primary_opportunity"] = opportunity
     article["who_should_care"] = audience
+
     return article
 
 # ============================
@@ -58,18 +62,19 @@ def enrich(article):
 
 def main():
     print(f"Targeting Input: {INPUT_FILE}")
-    
-    # Check if input file exists to avoid crash
+
     if not INPUT_FILE.exists():
         print(f"ERROR: Input file not found: {INPUT_FILE}")
-        # List files to help debug if it fails on GitHub
-        print("Available files in data directory:", [f.name for f in (BASE_DIR / "data").glob("*")])
+        print(
+            "Available files in data directory:",
+            [f.name for f in (BASE_DIR / "data").glob("*")]
+        )
         return
 
-    # Create output directories if they don't exist
+    # Ensure output directory exists
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-    # Load data
+    # Load input
     with open(INPUT_FILE, "r", encoding="utf-8", errors="replace") as f:
         try:
             articles = json.load(f)
@@ -77,14 +82,14 @@ def main():
             print(f"ERROR: Could not decode JSON from {INPUT_FILE}")
             return
 
-    # Process
+    # Enrich
     enriched = [enrich(article) for article in articles]
 
-    # Save data
+    # Save output
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(enriched, f, indent=2, ensure_ascii=False)
 
-    print(f"Success! Enriched AI summaries created at: {OUTPUT_FILE}")
+    print(f" Success! Enriched AI summaries created at: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
