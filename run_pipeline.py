@@ -22,8 +22,8 @@ SCRIPTS = [
     "fetch_news.py",
     "ai_deduplicate.py",
     "rank_news.py",
-    "enrich.py",
-    "summarize.py",
+    "summarize.py",   
+    "enrich.py",      
     "format_brief.py",
     "send_email.py"
 ]
