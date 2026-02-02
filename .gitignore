@@ -1,11 +1,14 @@
+# Python environment
 __pycache__/
 *.pyc
 .env
+
+# n8n temporary files
 .n8n-files/
 
-# Allow specific data folders to be tracked
+# Allow tracking of specific data folders so history is saved
 !data/
 !site/data/
 
-# Optional: If you want to ignore massive raw data but keep the brief
+# If you want to keep specific large raw files out of GitHub later:
 # data/raw_news.json

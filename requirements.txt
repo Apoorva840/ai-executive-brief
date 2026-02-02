@@ -1,9 +1,9 @@
 feedparser
 requests
 beautifulsoup4
+lxml
 google-generativeai
 python-dateutil
 numpy
 sentence-transformers
 faiss-cpu
-lxml
