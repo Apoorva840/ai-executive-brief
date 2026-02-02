@@ -123,8 +123,8 @@ for source in SOURCES:
             summary = entry.get("summary", "")
 
             # GUARD CLAUSE: Skip if link or title is missing
-            if not link or not title:
-                continue
+            #if not link or not title:
+            #    continue
 
             if link in sent_today:
                 skipped += 1
