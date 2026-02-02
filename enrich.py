@@ -2,34 +2,42 @@ import json
 from pathlib import Path
 
 # ============================
-# DYNAMIC PATH CONFIGURATION
+# PATH CONFIGURATION (CI SAFE)
 # ============================
 
 # Get the directory where this script is located
-BASE_DIR = Path(__file__).resolve().parent
+#BASE_DIR = Path(__file__).resolve().parent
 
 # Paths
-N8N_BASE = BASE_DIR / "n8n-files"
-INPUT_FILE = BASE_DIR / "data" / "technical_summaries.json"
-OUTPUT_FILE = N8N_BASE / "ai-input" / "enriched_summaries.json"
+#N8N_BASE = BASE_DIR / "n8n-files"
+#INPUT_FILE = BASE_DIR / "data" / "technical_summaries.json"
+#OUTPUT_FILE = N8N_BASE / "ai-input" / "enriched_summaries.json"
+
+# Project root = directory of this file
+PROJECT_ROOT = Path(__file__).resolve().parent
+
+INPUT_FILE = PROJECT_ROOT / "data" / "technical_summaries.json"
+OUTPUT_FILE = PROJECT_ROOT / "data" / "enriched_summaries.json"
 
 # ============================
 # ENRICHMENT LOGIC
 # ============================
 
 def enrich(article):
-    title = article.get("title", "")
-    summary = article.get("what_happened", "")
+    title = article.get("title", "").strip()
+    summary = article.get("what_happened", "").strip()
 
-    #  CORRECT f-string (this was the crash cause earlier)
+    # Correct f-string
     text = f"{title} {summary}".lower()
 
     # Defaults (never null)
-    risk = article.get("primary_risk") or (
-        "Execution and adoption risks remain manageable but present."
+    risk = (
+        article.get("primary_risk")
+        or "Execution and adoption risks remain manageable but present."
     )
-    opportunity = article.get("primary_opportunity") or (
-        "Incremental gains through applied AI adoption."
+    opportunity = (
+        article.get("primary_opportunity")
+        or "Incremental gains through applied AI adoption."
     )
     audience = article.get("who_should_care") or ["AI Professionals"]
 
@@ -39,17 +47,17 @@ def enrich(article):
         opportunity = "Leadership in compliant, privacy-first AI system design."
         audience = ["AI Ethics Engineers", "Legal & Compliance Teams"]
 
-    if "energy" in text or "compute" in text:
+    elif "energy" in text or "compute" in text:
         risk = "Escalating infrastructure costs and capacity bottlenecks."
         opportunity = "Operational efficiency through optimized AI infrastructure."
         audience = ["AI Infrastructure Engineers"]
 
-    if "model" in text or "llm" in text:
+    elif "model" in text or "llm" in text:
         risk = "Dependence on rapidly evolving model ecosystems."
         opportunity = "Accelerated development cycles using advanced AI tooling."
         audience = ["ML Engineers", "Product Leaders"]
 
-    # Update article
+    # Update article (in-place)
     article["primary_risk"] = risk
     article["primary_opportunity"] = opportunity
     article["who_should_care"] = audience
@@ -57,39 +65,34 @@ def enrich(article):
     return article
 
 # ============================
-# MAIN EXECUTION
+# MAIN
 # ============================
 
 def main():
-    print(f"Targeting Input: {INPUT_FILE}")
+    print(f"Targeting input: {INPUT_FILE}")
 
     if not INPUT_FILE.exists():
-        print(f"ERROR: Input file not found: {INPUT_FILE}")
+        print(" ERROR: technical_summaries.json not found")
         print(
-            "Available files in data directory:",
-            [f.name for f in (BASE_DIR / "data").glob("*")]
+            " Available files:",
+            [f.name for f in (PROJECT_ROOT / "data").glob("*")]
         )
         return
 
-    # Ensure output directory exists
-    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-
     # Load input
     with open(INPUT_FILE, "r", encoding="utf-8", errors="replace") as f:
-        try:
-            articles = json.load(f)
-        except json.JSONDecodeError:
-            print(f"ERROR: Could not decode JSON from {INPUT_FILE}")
-            return
+        articles = json.load(f)
 
-    # Enrich
     enriched = [enrich(article) for article in articles]
+
+    # Ensure output directory exists
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
     # Save output
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(enriched, f, indent=2, ensure_ascii=False)
 
-    print(f" Success! Enriched AI summaries created at: {OUTPUT_FILE}")
+    print(f" Enriched summaries created at: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
