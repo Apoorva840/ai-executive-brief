@@ -1,5 +1,6 @@
 import json
 from datetime import date
+from pathlib import Path
 
 # ============================
 # Configuration
@@ -9,6 +10,12 @@ TOP_K = 5
 MAX_PER_SOURCE = 2        # diversity cap
 MAX_ARXIV = 1             # hard limit for arXiv
 TODAY = date.today().isoformat()
+
+# Pathing (CI Safe)
+PROJECT_ROOT = Path(__file__).resolve().parent
+RAW_NEWS_FILE = PROJECT_ROOT / "data" / "raw_news.json"
+TOP_NEWS_FILE = PROJECT_ROOT / "data" / "top_news.json"
+BACKUP_QUEUE_FILE = PROJECT_ROOT / "data" / "backup_queue.json"
 
 # ============================
 # Source authority (rebalanced)
@@ -98,7 +105,11 @@ def score_article(article):
 # Load articles
 # ============================
 
-with open("data/raw_news.json", "r", encoding="utf-8") as f:
+if not RAW_NEWS_FILE.exists():
+    print(f"ERROR: {RAW_NEWS_FILE} not found.")
+    exit(1)
+
+with open(RAW_NEWS_FILE, "r", encoding="utf-8") as f:
     articles = json.load(f)
 
 # ============================
@@ -108,13 +119,15 @@ with open("data/raw_news.json", "r", encoding="utf-8") as f:
 for article in articles:
     article["score"] = score_article(article)
 
+# Sort all articles by score descending
 ranked = sorted(articles, key=lambda x: x["score"], reverse=True)
 
 # ============================
-# Enforce diversity
+# Enforce diversity & Build Backup
 # ============================
 
-selected = []
+selected = []      # The Top 5 for today
+backup_pool = []   # The "Next Best" for slow news days
 source_counter = {}
 arxiv_count = 0
 
@@ -122,26 +135,36 @@ for article in ranked:
     src = article.get("source", "Unknown")
     source_counter[src] = source_counter.get(src, 0)
 
+    # Apply arXiv limit
     if src == "Arxiv AI" and arxiv_count >= MAX_ARXIV:
         continue
 
+    # Apply Source Diversity
     if source_counter[src] < MAX_PER_SOURCE:
-        selected.append(article)
-        source_counter[src] += 1
-
-        if src == "Arxiv AI":
-            arxiv_count += 1
-
-    if len(selected) == TOP_K:
-        break
+        if len(selected) < TOP_K:
+            selected.append(article)
+            source_counter[src] += 1
+            if src == "Arxiv AI":
+                arxiv_count += 1
+        else:
+            # Once Top 5 is full, fill the backup pool with high-quality leftovers
+            backup_pool.append(article)
 
 # ============================
-# Save output
+# Save outputs
 # ============================
 
-with open("data/top_news.json", "w", encoding="utf-8") as f:
-    json.dump(selected, f, indent=2)
+# 1. Save main selection
+with open(TOP_NEWS_FILE, "w", encoding="utf-8") as f:
+    json.dump(selected, f, indent=2, ensure_ascii=False)
 
-print("Top 5 AI-professional articles selected:\n")
+# 2. Save backup queue (next best 15 articles)
+with open(BACKUP_QUEUE_FILE, "w", encoding="utf-8") as f:
+    json.dump(backup_pool[:15], f, indent=2, ensure_ascii=False)
+
+print(f" Success: Selected {len(selected)} stories for today.")
+print(f" Archive: {len(backup_pool[:15])} stories saved to backup_queue.json.")
+
+print("\nTop 5 AI-professional articles selected:\n")
 for a in selected:
     print(f"- ({a['score']}) [{a.get('source')}] {a['title']}")
