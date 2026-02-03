@@ -5,47 +5,133 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
   background: #f3f4f6; /* soft executive gray */
   color: #1f2937;
   line-height: 1.65;
+  padding-top: 280px; /* Offset for the sticky header - adjust based on header height */
 }
 
 /* =========================
-   Header
+   Sticky Header & Controls
 ========================= */
 header {
   background: linear-gradient(135deg, #0f172a, #020617);
   color: #ffffff;
-  padding: 48px 20px;
+  padding: 40px 20px;
   text-align: center;
+  position: fixed; /* Makes header sticky */
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
 }
 
 header h1 {
   margin: 0;
-  font-size: 2.6rem;
+  font-size: 2.2rem;
   font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
 header p {
-  margin: 10px 0;
+  margin: 8px 0;
   opacity: 0.92;
-  font-size: 1.05rem;
+  font-size: 1rem;
+}
+
+.header-controls {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
 }
 
 #meta {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   opacity: 0.75;
+  font-weight: 500;
+}
+
+/* Reading Time Badge */
+/*.reading-badge {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.15);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}*/
+
+/* Reading Time Badge - Grounded Version */
+.reading-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 6px 14px;
+    border-radius: 30px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 16px; /* Space between badge and "AI Executive Brief" */
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.archive-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.archive-box label {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+/* Executive Dropdown Styling */
+#history-select {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+#history-select:hover {
+    border-color: white;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+#history-select option {
+    background-color: #020617;
+    color: white;
 }
 
 /* =========================
    Main container
 ========================= */
 main {
-  max-width: 920px;
-  margin: 48px auto;
+  max-width: 850px; /* Slightly narrower for better readability */
+  margin: 40px auto;
   padding: 0 20px;
 }
 
@@ -53,72 +139,79 @@ main {
    STORY CARD (EXECUTIVE STYLE)
 ========================= */
 .story {
-  background: #f9fafb;              /* premium off-white */
-  border-radius: 14px;
-  padding: 32px 36px;
-  margin-bottom: 36px;
-
-  border-left: 4px solid #0b1f3b;   /* calm authority blue */
-
-  box-shadow:
-    0 10px 25px rgba(0, 0, 0, 0.06),
-    0 3px 8px rgba(0, 0, 0, 0.04);
-
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 35px 40px;
+  margin-bottom: 40px;
+  border: 1px solid #e5e7eb;
+  border-left: 5px solid #0f172a; /* Navy accent */
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .story:hover {
-  transform: translateY(-2px);
-  box-shadow:
-    0 16px 40px rgba(0, 0, 0, 0.08),
-    0 6px 14px rgba(0, 0, 0, 0.06);
+  transform: translateY(-4px);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
 
-/* =========================
-   Headings inside cards
-========================= */
 .story h2 {
   margin-top: 0;
-  margin-bottom: 16px;
-  font-size: 1.45rem;
-  font-weight: 700;
-  color: #020617;
+  margin-bottom: 20px;
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #0f172a;
+  line-height: 1.3;
 }
 
 .story h3 {
-  margin-top: 24px;
-  margin-bottom: 6px;
-  font-size: 0.95rem;
+  margin-top: 28px;
+  margin-bottom: 8px;
+  font-size: 0.8rem;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: #111827; /* executive black */
+  letter-spacing: 0.1em;
+  font-weight: 800;
 }
 
+/* Section Specific Pop Colors */
+/* Summary - Neutral */
+.story h3:nth-of-type(1) { color: #4b5563; } 
+
+/* Technical Takeaway - Blue */
+.story h3:nth-of-type(2) { color: #2563eb; }
+
+/* Primary Risk - Red */
+.story h3:nth-of-type(3) { color: #dc2626; }
+
+/* Primary Opportunity - Green */
+.story h3:nth-of-type(4) { color: #16a34a; }
 
 /* =========================
-   Paragraphs
+   Paragraphs & Links
 ========================= */
 .story p {
   margin-top: 0;
-  font-size: 1rem;
+  font-size: 1.05rem;
   color: #374151;
+  line-height: 1.7;
 }
 
-/* =========================
-   Source link
-========================= */
 .story .source {
-  margin-top: 22px;
-  font-size: 0.9rem;
+  margin-top: 25px;
+  font-size: 0.85rem;
+  border-top: 1px solid #f3f4f6;
+  padding-top: 20px;
+  color: #6b7280;
 }
 
 .story .source a {
-  color: #1d4ed8;
+  color: #2563eb;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
+  transition: color 0.2s;
 }
 
 .story .source a:hover {
+  color: #1d4ed8;
   text-decoration: underline;
 }
 
@@ -127,7 +220,9 @@ main {
 ========================= */
 footer {
   text-align: center;
-  padding: 36px 20px;
+  padding: 60px 20px;
   font-size: 0.85rem;
-  color: #6b7280;
+  color: #9ca3af;
+  border-top: 1px solid #e5e7eb;
+  background: white;
 }
