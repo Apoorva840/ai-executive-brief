@@ -1,6 +1,1 @@
-[
-  {
-    "name": "VentureBeat AI",
-    "error": "HTTPSConnectionPool(host='venturebeat.com', port=443): Max retries exceeded with url: /category/ai/feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='venturebeat.com', port=443) at 0x1fdf590aa50>, 'Connection to venturebeat.com timed out. (connect timeout=10)'))"
-  }
-]
+[]
