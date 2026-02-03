@@ -1,0 +1,38 @@
+{
+  "date": "February 03, 2026",
+  "timestamp": "2026-02-03T12:13:06.049284",
+  "is_archive_run": false,
+  "total_stories": 3,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+      "summary": "",
+      "technical_takeaway": "Trending highly in our 24h archive. This development remains a key technical reference for current AI implementations.",
+      "primary_risk": "Dependence on rapidly evolving model ecosystems.",
+      "primary_opportunity": "Accelerated development cycles using advanced AI tooling.",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part2"
+    },
+    {
+      "rank": 2,
+      "title": "Hierarchical Adaptive Eviction for KV Cache Management in Multimodal Language Models",
+      "summary": "arXiv:2602.02197v1 Announce Type: cross Abstract: The integration of visual information into Large Language Models (LLMs) has enabled Multimodal LLMs (MLLMs), but the quadratic memory and computational costs of Transformer architectures remain a bottleneck. Existing KV cache eviction strategies fail to address the heterogeneous attention distributi",
+      "technical_takeaway": "Trending highly in our 24h archive. This development remains a key technical reference for current AI implementations.",
+      "primary_risk": "Dependence on rapidly evolving model ecosystems.",
+      "primary_opportunity": "Accelerated development cycles using advanced AI tooling.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.02197"
+    },
+    {
+      "rank": 3,
+      "title": "‘Fallout’ Producer Jonathan Nolan on AI: ‘We’re in Such a Frothy Moment’",
+      "summary": "The Westworld showrunner thinks AI will be good for burgeoning filmmakers, but not for Hollywood blockbusters.",
+      "technical_takeaway": "Trending highly in our 24h archive. This development remains a key technical reference for current AI implementations.",
+      "primary_risk": "Execution risk as adoption outpaces organizational readiness.",
+      "primary_opportunity": "Early-mover advantage for teams that operationalize AI effectively.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-jonathan-nolan-fallout/"
+    }
+  ]
+}
