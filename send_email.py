@@ -10,7 +10,7 @@ from datetime import datetime
 # CONFIGURATION & PATHS
 # ============================
 PROJECT_ROOT = Path(__file__).resolve().parent
-JSON_INPUT = PROJECT_ROOT / "site" / "data" / "daily_brief.json"
+JSON_INPUT = PROJECT_ROOT / "docs" / "data" / "daily_brief.json"
 
 EMAIL_USER = os.getenv("EMAIL_USER")
 EMAIL_PASS = os.getenv("EMAIL_PASS")

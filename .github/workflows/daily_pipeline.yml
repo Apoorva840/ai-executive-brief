@@ -46,22 +46,21 @@ jobs:
           # --- SYNC & ARCHIVE LOGIC ---
           FILE_DATE=$(TZ='Asia/Kolkata' date +'%Y-%m-%d')
           
-          # Force sync from root data to site data
+          # Force sync from root data to docs data
           if [ -f "data/daily_brief.json" ]; then
-            cp data/daily_brief.json site/data/daily_brief.json
+            cp data/daily_brief.json docs/data/daily_brief.json
           fi
           
-          mkdir -p site/data/archive
-          if [ -f "site/data/daily_brief.json" ]; then
-            cp site/data/daily_brief.json site/data/archive/brief_$FILE_DATE.json
+          mkdir -p docs/data/archive
+          if [ -f "docs/data/daily_brief.json" ]; then
+            cp docs/data/daily_brief.json docs/data/archive/brief_$FILE_DATE.json
           fi
           
-          ls site/data/archive | sed 's/brief_//;s/.json//' | jq -R . | jq -s . > site/data/manifest.json
+          ls docs/data/archive | sed 's/brief_//;s/.json//' | jq -R . | jq -s . > docs/data/manifest.json
 
           # --- SAFE PUSH LOGIC ---
-          git add data/*.json site/data/*.json site/data/archive/*.json
+          git add data/*.json docs/data/*.json docs/data/archive/*.json
           
-          # Only commit if there are actually changes to the data files
           if ! git diff --cached --exit-code; then
             git commit -m "🤖 Auto-update: Data for $FILE_DATE [skip ci]"
             git pull origin main --rebase

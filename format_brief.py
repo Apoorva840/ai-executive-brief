@@ -12,7 +12,7 @@ TOP_NEWS_FILE = PROJECT_ROOT / "data" / "top_news.json"
 ENRICHED_FILE = PROJECT_ROOT / "data" / "enriched_summaries.json"
 
 # Microsite/Data output
-SITE_DATA_DIR = PROJECT_ROOT / "site" / "data"
+SITE_DATA_DIR = PROJECT_ROOT / "docs" / "data"
 SITE_JSON_OUTPUT = SITE_DATA_DIR / "daily_brief.json"
 
 # ============================
