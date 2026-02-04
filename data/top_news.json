@@ -1,37 +1,16 @@
 [
   {
-    "title": "Perplexity accused of scraping websites that explicitly blocked AI scraping",
-    "summary": "Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.",
-    "url": "https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/",
-    "source": "TechCrunch AI",
-    "score": 7
+    "title": "HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims",
+    "summary": "Experts worry Robert F. Kennedy Jr.’s Health Department will use an internal AI tool to analyze vaccine injury claims in a way that furthers his anti-vaccine agenda.",
+    "url": "https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/",
+    "source": "Wired AI",
+    "score": 6
   },
   {
-    "title": "Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts",
-    "summary": "New and expanded data centers are expected to double the sector’s power demand by 2029 as tech companies rush to capitalize on AI.",
-    "url": "https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/",
-    "source": "TechCrunch AI",
-    "score": 7
-  },
-  {
-    "title": "Nvidia thinks AI can solve electrical grid problems caused by AI",
-    "summary": "The Open Power AI Consortium says it will use domain-specific AI models to tackle problems in the power industry.",
-    "url": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
-    "source": "TechCrunch AI",
-    "score": 7
-  },
-  {
-    "title": "Meta turns to solar — again — in its data center-building boom",
-    "summary": "The announcement comes as Meta CEO Mark Zuckerberg maintains the company’s ambitious AI strategy, which will require hefty capital investments in data centers.",
-    "url": "https://techcrunch.com/2025/01/31/meta-turns-to-solar-again-in-its-data-center-building-boom/",
-    "source": "TechCrunch AI",
-    "score": 7
-  },
-  {
-    "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
-    "summary": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models. The post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research.",
-    "url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
-    "source": "Microsoft Research",
-    "score": 7
+    "title": "AI Bots Are Now a Signifigant Source of Web Traffic",
+    "summary": "New data shows AI bots pushing deeper into the web, prompting publishers to roll out more aggressive defenses.",
+    "url": "https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/",
+    "source": "Wired AI",
+    "score": 5
   }
 ]

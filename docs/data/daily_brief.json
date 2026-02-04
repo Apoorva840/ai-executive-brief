@@ -1,58 +1,28 @@
 {
   "date": "February 04, 2026",
-  "timestamp": "2026-02-04T09:15:02.855377",
-  "is_archive_run": true,
-  "total_stories": 5,
+  "timestamp": "2026-02-04T12:25:00.101929",
+  "is_archive_run": false,
+  "total_stories": 2,
   "top_stories": [
     {
       "rank": 1,
-      "title": "[Archive] Perplexity accused of scraping websites that explicitly blocked AI scraping",
-      "summary": "Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.",
+      "title": "HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims",
+      "summary": "Experts worry Robert F. Kennedy Jr.’s Health Department will use an internal AI tool to analyze vaccine injury claims in a way that furthers his anti-vaccine agenda.",
       "technical_takeaway": "Trending highly in our 24h archive. This development remains a key technical reference for current AI implementations.",
-      "primary_risk": "Standard implementation and adoption risks apply.",
-      "primary_opportunity": "Leveraging existing frameworks for incremental gains.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/"
+      "primary_risk": "Execution risk as adoption outpaces organizational readiness.",
+      "primary_opportunity": "Early-mover advantage for teams that operationalize AI effectively.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/"
     },
     {
       "rank": 2,
-      "title": "[Archive] Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts",
-      "summary": "New and expanded data centers are expected to double the sector’s power demand by 2029 as tech companies rush to capitalize on AI.",
+      "title": "AI Bots Are Now a Signifigant Source of Web Traffic",
+      "summary": "New data shows AI bots pushing deeper into the web, prompting publishers to roll out more aggressive defenses.",
       "technical_takeaway": "Trending highly in our 24h archive. This development remains a key technical reference for current AI implementations.",
-      "primary_risk": "Standard implementation and adoption risks apply.",
-      "primary_opportunity": "Leveraging existing frameworks for incremental gains.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/"
-    },
-    {
-      "rank": 3,
-      "title": "[Archive] Nvidia thinks AI can solve electrical grid problems caused by AI",
-      "summary": "The Open Power AI Consortium says it will use domain-specific AI models to tackle problems in the power industry.",
-      "technical_takeaway": "Trending highly in our 24h archive. This development remains a key technical reference for current AI implementations.",
-      "primary_risk": "Standard implementation and adoption risks apply.",
-      "primary_opportunity": "Leveraging existing frameworks for incremental gains.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/"
-    },
-    {
-      "rank": 4,
-      "title": "[Archive] Meta turns to solar — again — in its data center-building boom",
-      "summary": "The announcement comes as Meta CEO Mark Zuckerberg maintains the company’s ambitious AI strategy, which will require hefty capital investments in data centers.",
-      "technical_takeaway": "Trending highly in our 24h archive. This development remains a key technical reference for current AI implementations.",
-      "primary_risk": "Standard implementation and adoption risks apply.",
-      "primary_opportunity": "Leveraging existing frameworks for incremental gains.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2025/01/31/meta-turns-to-solar-again-in-its-data-center-building-boom/"
-    },
-    {
-      "rank": 5,
-      "title": "[Archive] UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
-      "summary": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models. The post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research.",
-      "technical_takeaway": "Trending highly in our 24h archive. This development remains a key technical reference for current AI implementations.",
-      "primary_risk": "Standard implementation and adoption risks apply.",
-      "primary_opportunity": "Leveraging existing frameworks for incremental gains.",
-      "source": "Microsoft Research",
-      "url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/"
+      "primary_risk": "Execution risk as adoption outpaces organizational readiness.",
+      "primary_opportunity": "Early-mover advantage for teams that operationalize AI effectively.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/"
     }
   ]
 }

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "title": "AI Bots Are Now a Signifigant Source of Web Traffic",
+    "summary": "New data shows AI bots pushing deeper into the web, prompting publishers to roll out more aggressive defenses.",
+    "url": "https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/",
+    "source": "Wired AI"
+  },
+  {
+    "title": "HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims",
+    "summary": "Experts worry Robert F. Kennedy Jr.’s Health Department will use an internal AI tool to analyze vaccine injury claims in a way that furthers his anti-vaccine agenda.",
+    "url": "https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/",
+    "source": "Wired AI"
+  }
+]
