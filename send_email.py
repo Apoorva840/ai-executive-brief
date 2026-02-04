@@ -25,13 +25,16 @@ def build_html_body(data):
     date_str = data.get("date", datetime.now().strftime("%B %d, %Y"))
     stories = data.get("top_stories", [])
     
+    # URL for your newly deployed GitHub Pages site
+    microsite_url = "https://Apoorva840.github.io/ai-executive-brief/"
+    
     html = f"""
     <html>
     <body style="font-family: Arial, sans-serif; color: #333; line-height: 1.6; max-width: 600px; margin: auto;">
         <h2 style="color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px;">
             Daily AI Executive Brief
         </h2>
-        <p style="color: #7f8c8d; font-size: 0.9em;">{date_str}</p>
+        <p style="color: #7f8c8d; font-size: 0.9em;">{date_str} | <a href="{microsite_url}" style="color: #3498db; text-decoration: none;">View Online</a></p>
     """
     
     for item in stories:
@@ -46,10 +49,18 @@ def build_html_body(data):
         </div>
         """
     
-    html += """
-        <footer style="margin-top: 20px; font-size: 0.8em; color: #bdc3c7; text-align: center;">
-            Sent via Automated AI Pipeline
-        </footer>
+    # Updated Footer with Microsite and Archive link
+    html += f"""
+        <div style="margin-top: 40px; padding: 20px; text-align: center; border-top: 2px solid #eee;">
+            <p style="margin-bottom: 10px; font-weight: bold; color: #2c3e50;">Want to see previous editions?</p>
+            <a href="{microsite_url}" style="background-color: #3498db; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">
+                Visit Full Web Archive
+            </a>
+            <p style="margin-top: 20px; font-size: 0.8em; color: #bdc3c7;">
+                Sent via Automated AI Pipeline<br>
+                © 2026 AI Executive Brief
+            </p>
+        </div>
     </body>
     </html>
     """
@@ -65,7 +76,7 @@ def send_email():
         return
 
     if not JSON_INPUT.exists():
-        print(f" ERROR: {JSON_INPUT} not found. Run format_brief.py first.")
+        print(f" ERROR: {JSON_INPUT} not found. Ensure news is generated and saved to /docs/data/.")
         return
 
     # Load the JSON data
@@ -80,7 +91,6 @@ def send_email():
 
     msg = MIMEMultipart("alternative")
     msg["From"] = f"AI Briefing Service <{EMAIL_USER}>"
-    # The 'To' header expects a single string of comma-separated emails
     msg["To"] = ", ".join(recipients) 
     msg["Subject"] = subject
 
@@ -90,9 +100,8 @@ def send_email():
         # Using SMTP_SSL for enhanced security on port 465
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
             server.login(EMAIL_USER, EMAIL_PASS)
-            # Use to_addrs to ensure the server delivers to the full list
             server.send_message(msg, to_addrs=recipients)
-        print(f"📧 Success: Email sent to {len(recipients)} recipients.")
+        print(f"📧 Success: Email sent to {len(recipients)} recipients with web archive link.")
     except Exception as e:
         print(f" Failed to send email: {e}")
 
