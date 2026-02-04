@@ -22,7 +22,7 @@ jobs:
           fetch-depth: 0 
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -45,18 +45,25 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # --- ARCHIVE LOGIC START ---
-          # Force the date to IST to ensure the filename matches your morning
+          # --- SYNC & ARCHIVE LOGIC START ---
+          # 1. Capture current date in IST
           FILE_DATE=$(TZ='Asia/Kolkata' date +'%Y-%m-%d')
           
-          mkdir -p site/data/archive
+          # 2. SYNC: Copy fresh brief to the site folder so the homepage updates
+          if [ -f "data/daily_brief.json" ]; then
+            cp data/daily_brief.json site/data/daily_brief.json
+            echo "Successfully synced data/daily_brief.json to site/data/"
+          fi
           
+          # 3. ARCHIVE: Create today's historical copy
+          mkdir -p site/data/archive
           if [ -f "site/data/daily_brief.json" ]; then
             cp site/data/daily_brief.json site/data/archive/brief_$FILE_DATE.json
           fi
           
+          # 4. MANIFEST: Update the dropdown list
           ls site/data/archive | sed 's/brief_//;s/.json//' | jq -R . | jq -s . > site/data/manifest.json
-          # --- ARCHIVE LOGIC END ---
+          # --- SYNC & ARCHIVE LOGIC END ---
 
           git add -f data/*.json site/data/*.json site/data/archive/*.json
           
@@ -65,7 +72,7 @@ jobs:
           git stash pop || echo "No stashed changes to apply"
 
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "🤖 Auto-update: Brief for $FILE_DATE [skip ci]"
+            git commit -m "🤖 Auto-update: Brief, Site and Archive for $FILE_DATE [skip ci]"
             git push origin main
           else
             echo "No changes detected. Skipping push."
