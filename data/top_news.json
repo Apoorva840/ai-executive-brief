@@ -1,37 +1,37 @@
 [
   {
-    "title": "Perplexity accused of scraping websites that explicitly blocked AI scraping",
-    "summary": "Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.",
-    "url": "https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/",
-    "source": "TechCrunch AI",
-    "score": 7
+    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "summary": "",
+    "url": "https://huggingface.co/blog/anylanguagemodel",
+    "source": "Hugging Face Blog",
+    "score": 13
   },
   {
-    "title": "Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts",
-    "summary": "New and expanded data centers are expected to double the sector’s power demand by 2029 as tech companies rush to capitalize on AI.",
-    "url": "https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/",
-    "source": "TechCrunch AI",
-    "score": 7
+    "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers v5",
+    "summary": "",
+    "url": "https://huggingface.co/blog/train-sparse-encoder",
+    "source": "Hugging Face Blog",
+    "score": 13
   },
   {
-    "title": "Nvidia thinks AI can solve electrical grid problems caused by AI",
-    "summary": "The Open Power AI Consortium says it will use domain-specific AI models to tackle problems in the power industry.",
-    "url": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
-    "source": "TechCrunch AI",
-    "score": 7
+    "title": "Hierarchical Adaptive Eviction for KV Cache Management in Multimodal Language Models",
+    "summary": "arXiv:2602.02197v1 Announce Type: cross Abstract: The integration of visual information into Large Language Models (LLMs) has enabled Multimodal LLMs (MLLMs), but the quadratic memory and computational costs of Transformer architectures remain a bottleneck. Existing KV cache eviction strategies fail to address the heterogeneous attention distributi",
+    "url": "https://arxiv.org/abs/2602.02197",
+    "source": "Arxiv AI",
+    "score": 10
   },
   {
-    "title": "Meta turns to solar — again — in its data center-building boom",
-    "summary": "The announcement comes as Meta CEO Mark Zuckerberg maintains the company’s ambitious AI strategy, which will require hefty capital investments in data centers.",
-    "url": "https://techcrunch.com/2025/01/31/meta-turns-to-solar-again-in-its-data-center-building-boom/",
-    "source": "TechCrunch AI",
-    "score": 7
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest B200 graphics processors.The model, called NousCoder-14B, is ano",
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "source": "VentureBeat AI",
+    "score": 9
   },
   {
-    "title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
-    "summary": "ICE has been using an AI-powered Palantir system to summarize tips sent to its tip line since last spring, according to a newly released Homeland Security document.",
-    "url": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
-    "source": "Wired AI",
-    "score": 7
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to de",
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "source": "VentureBeat AI",
+    "score": 8
   }
 ]

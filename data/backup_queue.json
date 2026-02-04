@@ -28,13 +28,6 @@
     "score": 7
   },
   {
-    "title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
-    "summary": "ICE has been using an AI-powered Palantir system to summarize tips sent to its tip line since last spring, according to a newly released Homeland Security document.",
-    "url": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
-    "source": "Wired AI",
-    "score": 7
-  },
-  {
     "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
     "summary": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models. The post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research.",
     "url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
@@ -101,6 +94,13 @@
     "title": "Gridcare thinks more than 100 GW of data center capacity is hiding in the grid",
     "summary": "Gridcare raised $13.3 million for its data platform that finds underutilized capacity on the electrical grid.",
     "url": "https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-gw-of-data-center-capacity-is-hiding-in-the-grid/",
+    "source": "TechCrunch AI",
+    "score": 6
+  },
+  {
+    "title": "Meta adds another 650 MW of solar power to its AI push",
+    "summary": "The company already has more than 12 gigawatts of capacity in its renewable power portfolio.",
+    "url": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/",
     "source": "TechCrunch AI",
     "score": 6
   }

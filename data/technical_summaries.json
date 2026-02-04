@@ -28,11 +28,11 @@
     ]
   },
   {
-    "title": "ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems",
-    "url": "https://arxiv.org/abs/2601.11854",
+    "title": "Hierarchical Adaptive Eviction for KV Cache Management in Multimodal Language Models",
+    "url": "https://arxiv.org/abs/2602.02197",
     "source": "Arxiv AI",
     "score": 10,
-    "what_happened": "arXiv:2601.11854v2 Announce Type: replace-cross Abstract: Recent advances in task-oriented dialogue (TOD) systems, driven by large language models (LLMs) with extensive API and tool integration, have enabled conversational agents to coordinate interleaved goals, maintain long-horizon context, and act proactively through asynchronous execution. Thes",
+    "what_happened": "arXiv:2602.02197v1 Announce Type: cross Abstract: The integration of visual information into Large Language Models (LLMs) has enabled Multimodal LLMs (MLLMs), but the quadratic memory and computational costs of Transformer architectures remain a bottleneck. Existing KV cache eviction strategies fail to address the heterogeneous attention distributi",
     "technical_takeaway": "Demonstrates rapid evolution of model capabilities and the importance of tooling that accelerates development workflows.",
     "primary_risk": "Risk of vendor lock-in or over-reliance on rapidly changing AI platforms.",
     "primary_opportunity": "Productivity gains by integrating advanced AI models into workflows.",
