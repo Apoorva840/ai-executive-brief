@@ -3,8 +3,6 @@ name: Daily AI Executive Brief
 on:
   schedule:
     # 00:30 UTC = 06:00 IST
-    # This triggers at 6 AM local time. Expect the email/update 
-    # between 6:15 AM and 8:30 AM depending on GitHub server load.
     - cron: "30 0 * * *"
   workflow_dispatch:
 
@@ -22,7 +20,7 @@ jobs:
           fetch-depth: 0 
 
       - name: Set up Python
-        uses: uses: actions/setup-python@v5
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -46,22 +44,20 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
           # --- SYNC & ARCHIVE LOGIC START ---
-          # 1. Capture current date in IST
           FILE_DATE=$(TZ='Asia/Kolkata' date +'%Y-%m-%d')
           
-          # 2. SYNC: Copy fresh brief to the site folder so the homepage updates
+          # SYNC: Move fresh brief to the site folder
           if [ -f "data/daily_brief.json" ]; then
             cp data/daily_brief.json site/data/daily_brief.json
-            echo "Successfully synced data/daily_brief.json to site/data/"
           fi
           
-          # 3. ARCHIVE: Create today's historical copy
+          # ARCHIVE: Create today's historical copy
           mkdir -p site/data/archive
           if [ -f "site/data/daily_brief.json" ]; then
             cp site/data/daily_brief.json site/data/archive/brief_$FILE_DATE.json
           fi
           
-          # 4. MANIFEST: Update the dropdown list
+          # MANIFEST: Update the dropdown list
           ls site/data/archive | sed 's/brief_//;s/.json//' | jq -R . | jq -s . > site/data/manifest.json
           # --- SYNC & ARCHIVE LOGIC END ---
 
@@ -72,7 +68,7 @@ jobs:
           git stash pop || echo "No stashed changes to apply"
 
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "🤖 Auto-update: Brief, Site and Archive for $FILE_DATE [skip ci]"
+            git commit -m "🤖 Auto-update: Fixed Sync and Archive for $FILE_DATE [skip ci]"
             git push origin main
           else
             echo "No changes detected. Skipping push."
