@@ -1,16 +1,37 @@
 [
   {
-    "title": "HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims",
-    "summary": "Experts worry Robert F. Kennedy Jr.’s Health Department will use an internal AI tool to analyze vaccine injury claims in a way that furthers his anti-vaccine agenda.",
-    "url": "https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/",
-    "source": "Wired AI",
-    "score": 6
+    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "summary": "",
+    "url": "https://huggingface.co/blog/anylanguagemodel",
+    "source": "Hugging Face Blog",
+    "score": 13
   },
   {
-    "title": "AI Bots Are Now a Signifigant Source of Web Traffic",
-    "summary": "New data shows AI bots pushing deeper into the web, prompting publishers to roll out more aggressive defenses.",
-    "url": "https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/",
-    "source": "Wired AI",
-    "score": 5
+    "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers v5",
+    "summary": "",
+    "url": "https://huggingface.co/blog/train-sparse-encoder",
+    "source": "Hugging Face Blog",
+    "score": 13
+  },
+  {
+    "title": "Hierarchical Adaptive Eviction for KV Cache Management in Multimodal Language Models",
+    "summary": "arXiv:2602.02197v1 Announce Type: cross Abstract: The integration of visual information into Large Language Models (LLMs) has enabled Multimodal LLMs (MLLMs), but the quadratic memory and computational costs of Transformer architectures remain a bottleneck. Existing KV cache eviction strategies fail to address the heterogeneous attention distributi",
+    "url": "https://arxiv.org/abs/2602.02197",
+    "source": "Arxiv AI",
+    "score": 10
+  },
+  {
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest B200 graphics processors.The model, called NousCoder-14B, is ano",
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "source": "VentureBeat AI",
+    "score": 9
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to de",
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "source": "VentureBeat AI",
+    "score": 8
   }
 ]
