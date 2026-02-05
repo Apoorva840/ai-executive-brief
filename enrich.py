@@ -2,20 +2,9 @@ import json
 from pathlib import Path
 
 # ============================
-# PATH CONFIGURATION (CI SAFE)
+# PATH CONFIGURATION
 # ============================
-
-# Get the directory where this script is located
-#BASE_DIR = Path(__file__).resolve().parent
-
-# Paths
-#N8N_BASE = BASE_DIR / "n8n-files"
-#INPUT_FILE = BASE_DIR / "data" / "technical_summaries.json"
-#OUTPUT_FILE = N8N_BASE / "ai-input" / "enriched_summaries.json"
-
-# Project root = directory of this file
 PROJECT_ROOT = Path(__file__).resolve().parent
-
 INPUT_FILE = PROJECT_ROOT / "data" / "technical_summaries.json"
 OUTPUT_FILE = PROJECT_ROOT / "data" / "enriched_summaries.json"
 
@@ -25,70 +14,70 @@ OUTPUT_FILE = PROJECT_ROOT / "data" / "enriched_summaries.json"
 
 def enrich(article):
     title = article.get("title", "").strip()
-    summary = article.get("what_happened", "").strip()
-
-    # Correct f-string
+    summary = article.get("what_happened") or article.get("summary") or ""
+    
+    # Text for rule matching
     text = f"{title} {summary}".lower()
 
-    # Defaults (never null)
-    risk = (
-        article.get("primary_risk")
-        or "Execution and adoption risks remain manageable but present."
-    )
-    opportunity = (
-        article.get("primary_opportunity")
-        or "Incremental gains through applied AI adoption."
-    )
-    audience = article.get("who_should_care") or ["AI Professionals"]
+    # 1. Start with values from summarize.py if they exist
+    risk = article.get("primary_risk")
+    opportunity = article.get("primary_opportunity")
+    takeaway = article.get("technical_takeaway")
+    audience = article.get("who_should_care")
 
-    # Rule-based enrichment
-    if "privacy" in text or "scraping" in text:
-        risk = "Regulatory exposure and public trust risks if data governance is weak."
+    # 2. Refined Rule-based Overrides (Deeper Granularity)
+    if any(k in text for k in ["privacy", "scraping", "ethics", "legal"]):
+        risk = "Regulatory exposure and public trust risks regarding data governance."
         opportunity = "Leadership in compliant, privacy-first AI system design."
-        audience = ["AI Ethics Engineers", "Legal & Compliance Teams"]
+        takeaway = "Highlights the technical shift toward 'verifiable' data pipelines and ethical scraping."
+        audience = ["Legal & Compliance", "AI Ethics Engineers"]
 
-    elif "energy" in text or "compute" in text:
-        risk = "Escalating infrastructure costs and capacity bottlenecks."
-        opportunity = "Operational efficiency through optimized AI infrastructure."
-        audience = ["AI Infrastructure Engineers"]
+    elif any(k in text for k in ["energy", "compute", "solar", "grid", "data center"]):
+        risk = "Escalating infrastructure costs and power grid capacity bottlenecks."
+        opportunity = "Operational efficiency through decentralized or renewable AI infrastructure."
+        takeaway = "Infrastructure constraints are now a primary bottleneck for model scaling."
+        audience = ["AI Infrastructure Engineers", "Sustainability Officers"]
 
-    elif "model" in text or "llm" in text:
-        risk = "Dependence on rapidly evolving model ecosystems."
-        opportunity = "Accelerated development cycles using advanced AI tooling."
-        audience = ["ML Engineers", "Product Leaders"]
+    elif any(k in text for k in ["coding", "coder", "developer", "agent"]):
+        risk = "Technical debt and quality variance from autonomous agentic workflows."
+        opportunity = "Compression of software development lifecycles via AI agents."
+        takeaway = "The shift from LLM-chatbots to autonomous 'agents' is the key current trend."
+        audience = ["Engineering Leaders", "CTOs"]
 
-    # Update article (in-place)
+    elif "apple" in text or "local" in text or "on-device" in text:
+        risk = "Hardware-specific optimization silos (Apple vs. Rest)."
+        opportunity = "Privacy-first, zero-latency inference on edge devices."
+        takeaway = "Demonstrates the move toward hybrid local/remote model execution patterns."
+        audience = ["Mobile Engineers", "Product Leaders"]
+
+    # 3. Final Fallbacks (If everything is somehow missing)
+    risk = risk or "Standard implementation and adoption risks apply."
+    opportunity = opportunity or "Incremental gains through applied AI adoption."
+    takeaway = takeaway or "Refines current understanding of AI implementation patterns."
+    audience = audience or ["AI Professionals"]
+
+    # 4. Map back to fields used by format_brief.py
     article["primary_risk"] = risk
     article["primary_opportunity"] = opportunity
+    article["technical_angle"] = takeaway  # format_brief.py looks for this
     article["who_should_care"] = audience
+    article["what_happened"] = summary
 
     return article
-
-# ============================
-# MAIN
-# ============================
 
 def main():
     print(f"Targeting input: {INPUT_FILE}")
 
     if not INPUT_FILE.exists():
-        print(" ERROR: technical_summaries.json not found")
-        print(
-            " Available files:",
-            [f.name for f in (PROJECT_ROOT / "data").glob("*")]
-        )
+        print(f" ERROR: {INPUT_FILE.name} not found")
         return
 
-    # Load input
     with open(INPUT_FILE, "r", encoding="utf-8", errors="replace") as f:
         articles = json.load(f)
 
     enriched = [enrich(article) for article in articles]
 
-    # Ensure output directory exists
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-
-    # Save output
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(enriched, f, indent=2, ensure_ascii=False)
 

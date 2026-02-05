@@ -11,11 +11,12 @@ from datetime import datetime
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PYTHON_EXE = sys.executable
 
-# Paths to critical data files used for the "Backup Check"
-RAW_NEWS_PATH = os.path.join(BASE_DIR, "data", "raw_news.json")
-BACKUP_QUEUE_PATH = os.path.join(BASE_DIR, "data", "backup_queue.json")
-TOP_NEWS_PATH = os.path.join(BASE_DIR, "data", "top_news.json")
-ENRICHED_PATH = os.path.join(BASE_DIR, "data", "enriched_summaries.json")
+# Paths to critical data files
+DATA_DIR = os.path.join(BASE_DIR, "data")
+RAW_NEWS_PATH = os.path.join(DATA_DIR, "raw_news.json")
+BACKUP_QUEUE_PATH = os.path.join(DATA_DIR, "backup_queue.json")
+TOP_NEWS_PATH = os.path.join(DATA_DIR, "top_news.json")
+ENRICHED_PATH = os.path.join(DATA_DIR, "enriched_summaries.json")
 
 def run_step(script_name):
     """Utility to run individual scripts and print output"""
@@ -54,12 +55,19 @@ def run_pipeline():
     print("========== AI NEWS PIPELINE START ==========")
     print(f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
+    # PRE-STEP: Clear old session data to prevent "ghost" news from yesterday
+    for path in [RAW_NEWS_PATH, TOP_NEWS_PATH, ENRICHED_PATH]:
+        if os.path.exists(path):
+            os.remove(path)
+
     # STEP 1: Always Fetch News First
     if not run_step("fetch_news.py"):
+        print("CRITICAL: Fetch stage failed.")
         sys.exit(1)
 
     # STEP 2: Check for new content
     has_new_content = False
+    raw_data = []
     if os.path.exists(RAW_NEWS_PATH):
         with open(RAW_NEWS_PATH, "r", encoding="utf-8") as f:
             try:
@@ -76,6 +84,7 @@ def run_pipeline():
         standard_flow = ["ai_deduplicate.py", "rank_news.py", "summarize.py", "enrich.py"]
         for script in standard_flow:
             if not run_step(script):
+                print(f"Pipeline stopped at {script}")
                 sys.exit(1)
     else:
         # PATH B: 0 new news -> Try Archive/Backup
@@ -86,23 +95,23 @@ def run_pipeline():
             
             if len(backup_data) > 0:
                 print(f">>> Found {len(backup_data)} stories in backup queue. Using top 5.")
-                # Save backup stories as top_news.json so format_brief.py can see them
+                # Save backup stories as top_news.json
                 with open(TOP_NEWS_PATH, "w", encoding="utf-8") as f:
                     json.dump(backup_data[:5], f, indent=2, ensure_ascii=False)
                 
-                # Create a blank enriched file to avoid errors in the next steps
-                with open(ENRICHED_PATH, "w", encoding="utf-8") as f:
-                    json.dump([], f)
+                # IMPORTANT: We leave ENRICHED_PATH non-existent here.
+                # format_brief.py is now smart enough to handle this missing file
+                # by using the archive fallback strings we wrote earlier.
                 
                 print(">>> Archive articles loaded. Bypassing AI steps.")
             else:
-                print(">>> Archive is also empty. Ending pipeline to avoid blank email.")
+                print(">>> Archive is also empty. Ending pipeline.")
                 sys.exit(0)
         else:
             print(">>> No backup_queue.json found. Ending pipeline.")
             sys.exit(0)
 
-    # STEP 4: Always Format and Send (Works for both Path A and Path B)
+    # STEP 4: Always Format and Send
     final_steps = ["format_brief.py", "send_email.py"]
     for script in final_steps:
         if not run_step(script):
