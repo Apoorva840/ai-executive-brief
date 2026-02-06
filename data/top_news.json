@@ -14,9 +14,9 @@
     "score": 13
   },
   {
-    "title": "Hierarchical Adaptive Eviction for KV Cache Management in Multimodal Language Models",
-    "summary": "arXiv:2602.02197v1 Announce Type: cross Abstract: The integration of visual information into Large Language Models (LLMs) has enabled Multimodal LLMs (MLLMs), but the quadratic memory and computational costs of Transformer architectures remain a bottleneck. Existing KV cache eviction strategies fail to address the heterogeneous attention distributi",
-    "url": "https://arxiv.org/abs/2602.02197",
+    "title": "Investigating Redundancy in Multimodal Large Language Models with Multiple Vision Encoders",
+    "summary": "arXiv:2507.03262v3 Announce Type: replace-cross Abstract: Recent multimodal large language models (MLLMs) increasingly integrate multiple vision encoders to improve performance on various benchmarks, assuming that diverse pretraining objectives yield complementary visual signals. However, we show this assumption often fails in practice. Through sys",
+    "url": "https://arxiv.org/abs/2507.03262",
     "source": "Arxiv AI",
     "score": 10
   },
