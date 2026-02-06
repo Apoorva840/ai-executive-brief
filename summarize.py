@@ -7,24 +7,37 @@ INPUT_FILE = PROJECT_ROOT / "data" / "top_news.json"
 OUTPUT_FILE = PROJECT_ROOT / "data" / "technical_summaries.json"
 
 def clean_text(text, max_chars=350):
-    if not text: return ""
+    if not text:
+        return ""
     text = re.sub(r"<[^>]+>", "", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text[:max_chars]
 
+def neutral_fallback_summary(title, source):
+    # Executive-safe, non-hallucinatory fallback
+    return (
+        f"{source} announced '{title}', highlighting new developments "
+        f"relevant to AI researchers and practitioners."
+    )
+
 def technical_summary(article):
-    # Pass through data and provide initial technical context
-    # enrich.py will perform the heavy logic later
+    title = article.get("title")
+    source = article.get("source", "The publisher")
+    raw_summary = clean_text(article.get("summary"))
+
+    if not raw_summary:
+        raw_summary = neutral_fallback_summary(title, source)
+
     return {
-        "title": article.get("title"),
+        "title": title,
         "url": article.get("url"),
-        "source": article.get("source"),
+        "source": source,
         "score": article.get("score"),
-        "what_happened": clean_text(article.get("summary", "")),
-        "technical_takeaway": "Analyzing technical implications...", # Placeholder
+        "what_happened": raw_summary,
+        "technical_takeaway": None,
         "primary_risk": None,
         "primary_opportunity": None,
-        "who_should_care": ["AI Professionals"]
+        "who_should_care": None
     }
 
 def main():

@@ -1,106 +1,164 @@
 import json
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 # ============================
-# Configuration
+# CONFIG
 # ============================
 TOP_K = 5
+ARCHIVE_ADD_DAILY = 15
+ARCHIVE_MAX = 300
 MAX_PER_SOURCE = 2
 MAX_ARXIV = 1
-# Define the "Freshness" window (24 hours)
-FRESH_THRESHOLD = datetime.now() - timedelta(hours=24)
+
+NOW_UTC = datetime.now(timezone.utc)
+FRESH_THRESHOLD = NOW_UTC - timedelta(hours=24)
 
 PROJECT_ROOT = Path(__file__).resolve().parent
-RAW_NEWS_FILE = PROJECT_ROOT / "data" / "raw_news.json"
-TOP_NEWS_FILE = PROJECT_ROOT / "data" / "top_news.json"
-BACKUP_QUEUE_FILE = PROJECT_ROOT / "data" / "backup_queue.json"
-SENT_URLS_FILE = PROJECT_ROOT / "data" / "sent_urls.json"
+DATA_DIR = PROJECT_ROOT / "data"
 
+RAW_NEWS_FILE = DATA_DIR / "raw_news.json"
+TOP_NEWS_FILE = DATA_DIR / "top_news.json"
+ARCHIVE_FILE = DATA_DIR / "archive_news.json"
+BACKUP_QUEUE_FILE = DATA_DIR / "backup_queue.json"
+
+# ============================
+# SOURCE WEIGHTS
+# ============================
 SOURCE_SCORES = {
-    "OpenAI Blog": 6, "Google AI Blog": 6, "Meta AI": 6, "Hugging Face Blog": 6,
-    "TechCrunch AI": 5, "VentureBeat AI": 5, "Wired AI": 4, "Microsoft Research": 4, "Arxiv AI": 3
+    "Hugging Face Blog": 6,
+    "TechCrunch AI": 5,
+    "VentureBeat AI": 5,
+    "Wired AI": 4,
+    "Microsoft Research": 4,
+    "Arxiv AI": 3
 }
 
-TECH_KEYWORDS = ["model", "llm", "transformer", "architecture", "weights", "multimodal", "framework"]
+TECH_KEYWORDS = [
+    "model", "llm", "transformer",
+    "architecture", "multimodal",
+    "weights", "framework"
+]
 
-def score_article(article):
-    score = 0
-    source = article.get("source", "")
-    score += SOURCE_SCORES.get(source, 1)
-    text = (article.get("title", "") + " " + article.get("summary", "")).lower()
-    for word in TECH_KEYWORDS:
-        if word in text: score += 1
-    if len(article.get("title", "")) < 110: score += 1
-    if source == "Hugging Face Blog": score += 3
+# ============================
+# SCORING
+# ============================
+def score_article(a):
+    score = SOURCE_SCORES.get(a.get("source"), 2)
+    text = (a.get("title", "") + " " + a.get("summary", "")).lower()
+
+    for kw in TECH_KEYWORDS:
+        if kw in text:
+            score += 1
+
+    if len(a.get("title", "")) < 110:
+        score += 1
+
     return score
 
 # ============================
-# Load & Filter Logic
+# LOAD RAW ARTICLES
 # ============================
 if not RAW_NEWS_FILE.exists():
-    print("ERROR: raw_news.json not found")
+    print("ERROR: raw_news.json missing")
     exit(1)
 
-with open(RAW_NEWS_FILE, "r", encoding="utf-8") as f:
-    articles = json.load(f)
+articles = json.loads(RAW_NEWS_FILE.read_text(encoding="utf-8"))
 
-sent_urls = set()
-if SENT_URLS_FILE.exists():
-    with open(SENT_URLS_FILE, "r", encoding="utf-8") as f:
-        try:
-            sent_urls = set(json.load(f))
-        except:
-            sent_urls = set()
-
-fresh_articles = []
+# ============================
+# FILTER FRESH (24H)
+# ============================
+fresh = []
 for a in articles:
-    # 1. Skip if already sent
-    if a.get("url") in sent_urls:
-        continue
-    
-    # 2. Freshness Check
     try:
-        # Handling potential 'Z' or offset in isoformat
-        date_str = a.get("date", "").replace("Z", "+00:00")
-        pub_date = datetime.fromisoformat(date_str)
-        
-        # If the date is naive (no timezone), make it aware to compare with datetime.now()
-        if pub_date.tzinfo is None:
-            pub_date = pub_date.replace(tzinfo=None) # Ensure comparison is same-type
-            
-        if pub_date >= (datetime.now() - timedelta(hours=24)):
-            a["score"] = score_article(a)
-            fresh_articles.append(a)
-    except Exception as e:
+        published = datetime.fromisoformat(a["published_at"])
+    except:
         continue
 
-ranked = sorted(fresh_articles, key=lambda x: x["score"], reverse=True)
+    if published >= FRESH_THRESHOLD:
+        a["score"] = score_article(a)
+        fresh.append(a)
+
+fresh = sorted(fresh, key=lambda x: x["score"], reverse=True)
 
 # ============================
-# Selection
+# SELECT TOP STORIES
 # ============================
-selected, backup_pool = [], []
-source_counter, arxiv_count = {}, 0
+selected = []
+overflow = []
 
-for article in ranked:
-    src = article.get("source", "Unknown")
+source_counter = {}
+arxiv_count = 0
+
+for a in fresh:
+    src = a.get("source", "Unknown")
     source_counter[src] = source_counter.get(src, 0)
-    
+
     if src == "Arxiv AI" and arxiv_count >= MAX_ARXIV:
+        overflow.append(a)
         continue
 
     if source_counter[src] < MAX_PER_SOURCE and len(selected) < TOP_K:
-        selected.append(article)
+        selected.append(a)
         source_counter[src] += 1
-        if src == "Arxiv AI": arxiv_count += 1
+        if src == "Arxiv AI":
+            arxiv_count += 1
     else:
-        backup_pool.append(article)
+        overflow.append(a)
 
-with open(TOP_NEWS_FILE, "w", encoding="utf-8") as f:
-    json.dump(selected, f, indent=2, ensure_ascii=False)
+# ============================
+# LOAD ARCHIVE
+# ============================
+if ARCHIVE_FILE.exists():
+    archive = json.loads(ARCHIVE_FILE.read_text(encoding="utf-8"))
+else:
+    archive = []
 
-with open(BACKUP_QUEUE_FILE, "w", encoding="utf-8") as f:
-    json.dump(backup_pool[:15], f, indent=2, ensure_ascii=False)
+# ============================
+# FILL FROM ARCHIVE IF NEEDED
+# ============================
+if len(selected) < TOP_K:
+    needed = TOP_K - len(selected)
+    print(f"[ARCHIVE] Filling {needed} slots from archive")
 
-print(f" Success: Selected {len(selected)} stories from last 24h.")
+    for a in archive:
+        if len(selected) >= TOP_K:
+            break
+        selected.append(a)
+
+# ============================
+# UPDATE ARCHIVE
+# ============================
+today_archive = overflow[:ARCHIVE_ADD_DAILY]
+timestamp = NOW_UTC.isoformat()
+
+for a in today_archive:
+    a["archived_at"] = timestamp
+
+archive = today_archive + archive
+archive = archive[:ARCHIVE_MAX]
+
+# ============================
+# SAVE FILES
+# ============================
+TOP_NEWS_FILE.write_text(
+    json.dumps(selected, indent=2, ensure_ascii=False),
+    encoding="utf-8"
+)
+
+ARCHIVE_FILE.write_text(
+    json.dumps(archive, indent=2, ensure_ascii=False),
+    encoding="utf-8"
+)
+
+BACKUP_QUEUE_FILE.write_text(
+    json.dumps(overflow[:15], indent=2, ensure_ascii=False),
+    encoding="utf-8"
+)
+
+# ============================
+# LOGS
+# ============================
+print(f"Success: Selected {len(selected)} stories for today.")
+print(f"Archive: {len(today_archive)} stories added.")
+print(f"Archive size: {len(archive)}")
