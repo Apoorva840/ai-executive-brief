@@ -14,7 +14,8 @@ OUTPUT_FILE = PROJECT_ROOT / "data" / "enriched_summaries.json"
 
 def enrich(article):
     title = article.get("title", "").strip()
-    summary = article.get("what_happened") or article.get("summary") or ""
+    # Ensure we grab the best available summary
+    summary = article.get("what_happened") or article.get("summary") or "No summary available."
     
     # Text for rule matching
     text = f"{title} {summary}".lower()
@@ -25,7 +26,7 @@ def enrich(article):
     takeaway = article.get("technical_takeaway")
     audience = article.get("who_should_care")
 
-    # 2. Refined Rule-based Overrides (Deeper Granularity)
+    # 2. Refined Rule-based Overrides
     if any(k in text for k in ["privacy", "scraping", "ethics", "legal"]):
         risk = "Regulatory exposure and public trust risks regarding data governance."
         opportunity = "Leadership in compliant, privacy-first AI system design."
@@ -44,30 +45,28 @@ def enrich(article):
         takeaway = "The shift from LLM-chatbots to autonomous 'agents' is the key current trend."
         audience = ["Engineering Leaders", "CTOs"]
 
-    elif "apple" in text or "local" in text or "on-device" in text:
+    elif any(k in text for k in ["apple", "local", "on-device", "edge"]):
         risk = "Hardware-specific optimization silos (Apple vs. Rest)."
         opportunity = "Privacy-first, zero-latency inference on edge devices."
         takeaway = "Demonstrates the move toward hybrid local/remote model execution patterns."
         audience = ["Mobile Engineers", "Product Leaders"]
 
-    # 3. Final Fallbacks (If everything is somehow missing)
+    # 3. Final Fallbacks
     risk = risk or "Standard implementation and adoption risks apply."
     opportunity = opportunity or "Incremental gains through applied AI adoption."
     takeaway = takeaway or "Refines current understanding of AI implementation patterns."
     audience = audience or ["AI Professionals"]
 
-    # 4. Map back to fields used by format_brief.py
+    # 4. Final Mapping (Aligned with format_brief.py)
     article["primary_risk"] = risk
     article["primary_opportunity"] = opportunity
-    article["technical_angle"] = takeaway  # format_brief.py looks for this
+    article["technical_angle"] = takeaway  
     article["who_should_care"] = audience
     article["what_happened"] = summary
 
     return article
 
 def main():
-    print(f"Targeting input: {INPUT_FILE}")
-
     if not INPUT_FILE.exists():
         print(f" ERROR: {INPUT_FILE.name} not found")
         return
