@@ -15,63 +15,63 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "Introducing SyGra Studio",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-    "source": "Hugging Face Blog",
-    "score": 7,
-    "what_happened": "Hugging Face Blog announced 'Introducing SyGra Studio', highlighting new developments relevant to AI researchers and practitioners.",
-    "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
-    "who_should_care": [
-      "ML Engineers",
-      "Open-Source Contributors"
-    ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
-  },
-  {
-    "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
-    "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
-    "source": "Microsoft Research",
-    "score": 6,
-    "what_happened": "This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambiguity and learn from far fewer demonstrations. The post Rethinking imitation learning with Predictive Inverse Dynamics Models appeared first on Microsoft R",
-    "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
-    "who_should_care": [
-      "Applied Researchers",
-      "Enterprise ML Teams"
-    ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "Loyalty Is Dead in Silicon Valley",
-    "url": "https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/",
+    "title": "New York Is the Latest State to Consider a Data Center Pause",
+    "url": "https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "Founders used to be wedded to their companies. Now, anyone can be lured away for the right price.",
+    "what_happened": "Red and blue states alike have introduced legislation in recent weeks that would halt data center development, citing concerns from climate to high energy prices.",
+    "technical_takeaway": null,
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+    "who_should_care": [
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
+    ],
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
+  },
+  {
+    "title": "The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?",
+    "url": "https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "As AI systems grow more powerful, Anthropic’s resident philosopher says the startup is betting Claude itself can learn the wisdom needed to avoid disaster.",
+    "technical_takeaway": null,
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+    "who_should_care": [
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
+    ],
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
+  },
+  {
+    "title": "Moltbook was peak AI theater",
+    "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+    "source": "MIT Technology Review AI",
+    "score": 3,
+    "what_happened": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website’s tagline puts it: “Where AI agents share, discuss, and upvote. Humans welcome to observe.” We observed! Launched on January 28 by Matt Schlicht,&#8230;",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "Interfaze: The Future of AI is built on Task-Specific Small Models",
+    "url": "https://arxiv.org/abs/2602.04101",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2602.04101v1 Announce Type: new Abstract: We present Interfaze, a system that treats modern LLM applications as a problem of building and acting over context, not just picking the right monolithic model. Instead of a single transformer, we combine (i) a stack of heterogeneous DNNs paired with small language models as perception modules for OC",
     "technical_takeaway": null,
     "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "Research Scientists",
+      "ML Engineers"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
-    "url": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "ICE has used Mobile Fortify to identify immigrants and citizens alike over 100,000 times, by one estimate. It wasn't built to work like that—and only got approved after DHS abandoned its own privacy rules.",
-    "technical_takeaway": null,
-    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
-    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
-    "who_should_care": [
-      "AI Ethics Engineers",
-      "Legal & Compliance"
-    ],
-    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   }
 ]
