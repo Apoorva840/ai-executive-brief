@@ -1,35 +1,27 @@
 [
   {
-    "title": "AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent",
-    "summary": "arXiv:2602.03955v1 Announce Type: new Abstract: While large language model (LLM) multi-agent systems achieve superior reasoning performance through iterative debate, practical deployment is limited by their high computational cost and error propagation. This paper proposes AgentArk, a novel framework to distill multi-agent dynamics into the weights",
-    "url": "https://arxiv.org/abs/2602.03955",
+    "title": "DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search",
+    "summary": "arXiv:2602.05014v1 Announce Type: new Abstract: With the rapid progress of tool-using and agentic large language models (LLMs), Retrieval-Augmented Generation (RAG) is evolving from one-shot, passive retrieval into multi-turn, decision-driven evidence acquisition. Despite strong results in open-domain settings, existing agentic search frameworks co",
+    "url": "https://arxiv.org/abs/2602.05014",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
-    "score": 8
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7
   },
   {
-    "title": "New York Is the Latest State to Consider a Data Center Pause",
-    "summary": "Red and blue states alike have introduced legislation in recent weeks that would halt data center development, citing concerns from climate to high energy prices.",
-    "url": "https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/",
+    "title": "The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games",
+    "summary": "From drones with “first-person” visualization to real-time 360-degree replays and Olympics GPT, get ready to immerse yourself in the Winter Games in Milan and Cortina.",
+    "url": "https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/",
     "source": "Wired AI",
-    "published_at": "2026-02-06T18:58:46+00:00",
+    "published_at": "2026-02-07T12:00:00+00:00",
     "score": 5
   },
   {
-    "title": "The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?",
-    "summary": "As AI systems grow more powerful, Anthropic’s resident philosopher says the startup is betting Claude itself can learn the wisdom needed to avoid disaster.",
-    "url": "https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/",
+    "title": "Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data",
+    "summary": "Plus: Apple’s Lockdown mode keeps the FBI out of a reporter’s phone, Elon Musk’s Starlink cuts off Russian forces, and more.",
+    "url": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
     "source": "Wired AI",
-    "published_at": "2026-02-06T16:33:18+00:00",
+    "published_at": "2026-02-07T11:30:00+00:00",
     "score": 5
-  },
-  {
-    "title": "Moltbook was peak AI theater",
-    "summary": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website’s tagline puts it: “Where AI agents share, discuss, and upvote. Humans welcome to observe.” We observed! Launched on January 28 by Matt Schlicht,&#8230;",
-    "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-02-06T16:38:11+00:00",
-    "score": 3
   },
   {
     "title": "Interfaze: The Future of AI is built on Task-Specific Small Models",
@@ -38,6 +30,15 @@
     "source": "Arxiv AI",
     "published_at": "2026-02-06T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-06T12:43:59.740086+00:00"
+    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+  },
+  {
+    "title": "OMG-Agent: Toward Robust Missing Modality Generation with Decoupled Coarse-to-Fine Agentic Workflows",
+    "summary": "arXiv:2602.04144v1 Announce Type: new Abstract: Data incompleteness severely impedes the reliability of multimodal systems. Existing reconstruction methods face distinct bottlenecks: conventional parametric/generative models are prone to hallucinations due to over-reliance on internal memory, while retrieval-augmented frameworks struggle with retri",
+    "url": "https://arxiv.org/abs/2602.04144",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-06T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-07T03:10:55.111214+00:00"
   }
 ]

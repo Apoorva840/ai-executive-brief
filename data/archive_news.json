@@ -1,5 +1,140 @@
 [
   {
+    "title": "Understanding LLM Evaluator Behavior: A Structured Multi-Evaluator Framework for Merchant Risk Assessment",
+    "summary": "arXiv:2602.05110v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly used as evaluators of reasoning quality, yet their reliability and bias in payments-risk settings remain poorly understood. We introduce a structured multi-evaluator framework for assessing LLM reasoning in Merchant Category Code (MCC)-based merchant risk ",
+    "url": "https://arxiv.org/abs/2602.05110",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "Hallucination-Resistant Security Planning with a Large Language Model",
+    "summary": "arXiv:2602.05279v1 Announce Type: new Abstract: Large language models (LLMs) are promising tools for supporting security management tasks, such as incident response planning. However, their unreliability and tendency to hallucinate remain significant challenges. In this paper, we address these challenges by introducing a principled framework for us",
+    "url": "https://arxiv.org/abs/2602.05279",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "ProAct: Agentic Lookahead in Interactive Environments",
+    "summary": "arXiv:2602.05327v1 Announce Type: new Abstract: Existing Large Language Model (LLM) agents struggle in interactive environments requiring long-horizon planning, primarily due to compounding errors when simulating future states. To address this, we propose ProAct, a framework that enables agents to internalize accurate lookahead reasoning through a ",
+    "url": "https://arxiv.org/abs/2602.05327",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction",
+    "summary": "arXiv:2602.05353v1 Announce Type: new Abstract: Large Language Models have shown strong capabilities in complex problem solving, yet many agentic systems remain difficult to interpret and control due to opaque internal workflows. While some frameworks offer explicit architectures for collaboration, many deployed agentic systems operate as black box",
+    "url": "https://arxiv.org/abs/2602.05353",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "A Unified Multimodal Framework for Dataset Construction and Model-Based Diagnosis of Ameloblastoma",
+    "summary": "arXiv:2602.05515v1 Announce Type: new Abstract: Artificial intelligence (AI)-enabled diagnostics in maxillofacial pathology require structured, high-quality multimodal datasets. However, existing resources provide limited ameloblastoma coverage and lack the format consistency needed for direct model training. We present a newly curated multimodal d",
+    "url": "https://arxiv.org/abs/2602.05515",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "Reasoning-guided Collaborative Filtering with Language Models for Explainable Recommendation",
+    "summary": "arXiv:2602.05544v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit potential for explainable recommendation systems but overlook collaborative signals, while prevailing methods treat recommendation and explanation as separate tasks, resulting in a memory footprint. We present RGCF-XRec, a hybrid framework that introduces reasoning",
+    "url": "https://arxiv.org/abs/2602.05544",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "A$^2$-LLM: An End-to-end Conversational Audio Avatar Large Language Model",
+    "summary": "arXiv:2602.04913v1 Announce Type: cross Abstract: Developing expressive and responsive conversational digital humans is a cornerstone of next-generation human-computer interaction. While large language models (LLMs) have significantly enhanced dialogue capabilities, most current systems still rely on cascaded architectures that connect independent ",
+    "url": "https://arxiv.org/abs/2602.04913",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM",
+    "summary": "arXiv:2602.04927v1 Announce Type: cross Abstract: Artificial intelligence systems introduce complex privacy risks throughout their lifecycle, especially when processing sensitive or high-dimensional data. Beyond the seven traditional privacy threat categories defined by the LINDDUN framework, AI systems are also exposed to model-centric privacy att",
+    "url": "https://arxiv.org/abs/2602.04927",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "Linear Model Merging Unlocks Simple and Scalable Multimodal Data Mixture Optimization",
+    "summary": "arXiv:2602.04937v1 Announce Type: cross Abstract: Selecting the best data mixture is critical for successful Supervised Fine-Tuning (SFT) of Multimodal Large Language Models. However, determining the optimal mixture weights across multiple domain-specific datasets remains a significant bottleneck due to the combinatorial search space and the high c",
+    "url": "https://arxiv.org/abs/2602.04937",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "LMMRec: LLM-driven Motivation-aware Multimodal Recommendation",
+    "summary": "arXiv:2602.05474v1 Announce Type: cross Abstract: Motivation-based recommendation systems uncover user behavior drivers. Motivation modeling, crucial for decision-making and content preference, explains recommendation generation. Existing methods often treat motivation as latent variables from interaction data, neglecting heterogeneous information ",
+    "url": "https://arxiv.org/abs/2602.05474",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "A Unified Framework for Rethinking Policy Divergence Measures in GRPO",
+    "summary": "arXiv:2602.05494v1 Announce Type: cross Abstract: Reinforcement Learning with Verified Reward (RLVR) has emerged as a critical paradigm for advancing the reasoning capabilities of Large Language Models (LLMs). Most existing RLVR methods, such as GRPO and its variants, ensure stable updates by constraining policy divergence through clipping likeliho",
+    "url": "https://arxiv.org/abs/2602.05494",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "Transport and Merge: Cross-Architecture Merging for Large Language Models",
+    "summary": "arXiv:2602.05495v1 Announce Type: cross Abstract: Large language models (LLMs) achieve strong capabilities by scaling model capacity and training data, yet many real-world deployments rely on smaller models trained or adapted from low-resource data. This gap motivates the need for mechanisms to transfer knowledge from large, high-resource models to",
+    "url": "https://arxiv.org/abs/2602.05495",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "In-context Time Series Predictor",
+    "summary": "arXiv:2405.14982v2 Announce Type: replace-cross Abstract: Recent Transformer-based large language models (LLMs) demonstrate in-context learning ability to perform various functions based solely on the provided context, without updating model parameters. To fully utilize the in-context capabilities in time series forecasting (TSF) problems, unlike p",
+    "url": "https://arxiv.org/abs/2405.14982",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models",
+    "summary": "arXiv:2503.06749v3 Announce Type: replace-cross Abstract: DeepSeek-R1-Zero has successfully demonstrated the emergence of reasoning capabilities in LLMs purely through Reinforcement Learning (RL). Inspired by this breakthrough, we explore how RL can be utilized to enhance the reasoning capability of MLLMs. However, direct training with RL struggles",
+    "url": "https://arxiv.org/abs/2503.06749",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
+    "title": "Generalizable Trajectory Prediction via Inverse Reinforcement Learning with Mamba-Graph Architecture",
+    "summary": "arXiv:2506.12474v2 Announce Type: replace-cross Abstract: Accurate driving behavior modeling is fundamental to safe and efficient trajectory prediction, yet remains challenging in complex traffic scenarios. This paper presents a novel Inverse Reinforcement Learning (IRL) framework that captures human-like decision-making by inferring diverse reward",
+    "url": "https://arxiv.org/abs/2506.12474",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
+  },
+  {
     "title": "Interfaze: The Future of AI is built on Task-Specific Small Models",
     "summary": "arXiv:2602.04101v1 Announce Type: new Abstract: We present Interfaze, a system that treats modern LLM applications as a problem of building and acting over context, not just picking the right monolithic model. Instead of a single transformer, we combine (i) a stack of heterogeneous DNNs paired with small language models as perception modules for OC",
     "url": "https://arxiv.org/abs/2602.04101",

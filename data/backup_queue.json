@@ -1,137 +1,137 @@
 [
   {
-    "title": "Interfaze: The Future of AI is built on Task-Specific Small Models",
-    "summary": "arXiv:2602.04101v1 Announce Type: new Abstract: We present Interfaze, a system that treats modern LLM applications as a problem of building and acting over context, not just picking the right monolithic model. Instead of a single transformer, we combine (i) a stack of heterogeneous DNNs paired with small language models as perception modules for OC",
-    "url": "https://arxiv.org/abs/2602.04101",
+    "title": "Understanding LLM Evaluator Behavior: A Structured Multi-Evaluator Framework for Merchant Risk Assessment",
+    "summary": "arXiv:2602.05110v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly used as evaluators of reasoning quality, yet their reliability and bias in payments-risk settings remain poorly understood. We introduce a structured multi-evaluator framework for assessing LLM reasoning in Merchant Category Code (MCC)-based merchant risk ",
+    "url": "https://arxiv.org/abs/2602.05110",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "OMG-Agent: Toward Robust Missing Modality Generation with Decoupled Coarse-to-Fine Agentic Workflows",
-    "summary": "arXiv:2602.04144v1 Announce Type: new Abstract: Data incompleteness severely impedes the reliability of multimodal systems. Existing reconstruction methods face distinct bottlenecks: conventional parametric/generative models are prone to hallucinations due to over-reliance on internal memory, while retrieval-augmented frameworks struggle with retri",
-    "url": "https://arxiv.org/abs/2602.04144",
+    "title": "Hallucination-Resistant Security Planning with a Large Language Model",
+    "summary": "arXiv:2602.05279v1 Announce Type: new Abstract: Large language models (LLMs) are promising tools for supporting security management tasks, such as incident response planning. However, their unreliability and tendency to hallucinate remain significant challenges. In this paper, we address these challenges by introducing a principled framework for us",
+    "url": "https://arxiv.org/abs/2602.05279",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "ProxyWar: Dynamic Assessment of LLM Code Generation in Game Arenas",
-    "summary": "arXiv:2602.04296v1 Announce Type: cross Abstract: Large language models (LLMs) have revolutionized automated code generation, yet the evaluation of their real-world effectiveness remains limited by static benchmarks and simplistic metrics. We present ProxyWar, a novel framework that systematically assesses code generation quality by embedding LLM-g",
-    "url": "https://arxiv.org/abs/2602.04296",
+    "title": "ProAct: Agentic Lookahead in Interactive Environments",
+    "summary": "arXiv:2602.05327v1 Announce Type: new Abstract: Existing Large Language Model (LLM) agents struggle in interactive environments requiring long-horizon planning, primarily due to compounding errors when simulating future states. To address this, we propose ProAct, a framework that enables agents to internalize accurate lookahead reasoning through a ",
+    "url": "https://arxiv.org/abs/2602.05327",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "History-Guided Iterative Visual Reasoning with Self-Correction",
-    "summary": "arXiv:2602.04413v1 Announce Type: cross Abstract: Self-consistency methods are the core technique for improving the reasoning reliability of multimodal large language models (MLLMs). By generating multiple reasoning results through repeated sampling and selecting the best answer via voting, they play an important role in cross-modal tasks. However,",
-    "url": "https://arxiv.org/abs/2602.04413",
+    "title": "AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction",
+    "summary": "arXiv:2602.05353v1 Announce Type: new Abstract: Large Language Models have shown strong capabilities in complex problem solving, yet many agentic systems remain difficult to interpret and control due to opaque internal workflows. While some frameworks offer explicit architectures for collaboration, many deployed agentic systems operate as black box",
+    "url": "https://arxiv.org/abs/2602.05353",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "Alignment Drift in Multimodal LLMs: A Two-Phase, Longitudinal Evaluation of Harm Across Eight Model Releases",
-    "summary": "arXiv:2602.04739v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) are increasingly deployed in real-world systems, yet their safety under adversarial prompting remains underexplored. We present a two-phase evaluation of MLLM harmlessness using a fixed benchmark of 726 adversarial prompts authored by 26 professional red team",
-    "url": "https://arxiv.org/abs/2602.04739",
+    "title": "A Unified Multimodal Framework for Dataset Construction and Model-Based Diagnosis of Ameloblastoma",
+    "summary": "arXiv:2602.05515v1 Announce Type: new Abstract: Artificial intelligence (AI)-enabled diagnostics in maxillofacial pathology require structured, high-quality multimodal datasets. However, existing resources provide limited ameloblastoma coverage and lack the format consistency needed for direct model training. We present a newly curated multimodal d",
+    "url": "https://arxiv.org/abs/2602.05515",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "Improving Multimodal Brain Encoding Model with Dynamic Subject-awareness Routing",
-    "summary": "arXiv:2510.04670v3 Announce Type: replace Abstract: Naturalistic fMRI encoding must handle multimodal inputs, shifting fusion styles, and pronounced inter-subject variability. We introduce AFIRE (Agnostic Framework for Multimodal fMRI Response Encoding), an agnostic interface that standardizes time-aligned post-fusion tokens from varied encoders, a",
-    "url": "https://arxiv.org/abs/2510.04670",
+    "title": "Reasoning-guided Collaborative Filtering with Language Models for Explainable Recommendation",
+    "summary": "arXiv:2602.05544v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit potential for explainable recommendation systems but overlook collaborative signals, while prevailing methods treat recommendation and explanation as separate tasks, resulting in a memory footprint. We present RGCF-XRec, a hybrid framework that introduces reasoning",
+    "url": "https://arxiv.org/abs/2602.05544",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "M^3-Bench: Multi-Modal, Multi-Hop, Multi-Threaded Tool-Using MLLM Agent Benchmark",
-    "summary": "arXiv:2511.17729v4 Announce Type: replace Abstract: We present M^3-Bench, the first benchmark for evaluating multimodal tool use under the Model Context Protocol. The benchmark targets realistic, multi-hop and multi-threaded workflows that require visual grounding and textual reasoning, cross-tool dependencies, and persistence of intermediate resou",
-    "url": "https://arxiv.org/abs/2511.17729",
+    "title": "A$^2$-LLM: An End-to-end Conversational Audio Avatar Large Language Model",
+    "summary": "arXiv:2602.04913v1 Announce Type: cross Abstract: Developing expressive and responsive conversational digital humans is a cornerstone of next-generation human-computer interaction. While large language models (LLMs) have significantly enhanced dialogue capabilities, most current systems still rely on cascaded architectures that connect independent ",
+    "url": "https://arxiv.org/abs/2602.04913",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "Concise Geometric Description as a Bridge: Unleashing the Potential of LLM for Plane Geometry Problem Solving",
-    "summary": "arXiv:2601.21164v2 Announce Type: replace Abstract: Plane Geometry Problem Solving (PGPS) is a multimodal reasoning task that aims to solve a plane geometric problem based on a geometric diagram and problem textual descriptions. Although Large Language Models (LLMs) possess strong reasoning skills, their direct application to PGPS is hindered by th",
-    "url": "https://arxiv.org/abs/2601.21164",
+    "title": "PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM",
+    "summary": "arXiv:2602.04927v1 Announce Type: cross Abstract: Artificial intelligence systems introduce complex privacy risks throughout their lifecycle, especially when processing sensitive or high-dimensional data. Beyond the seven traditional privacy threat categories defined by the LINDDUN framework, AI systems are also exposed to model-centric privacy att",
+    "url": "https://arxiv.org/abs/2602.04927",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "Building Interpretable Models for Moral Decision-Making",
-    "summary": "arXiv:2602.03351v2 Announce Type: replace Abstract: We build a custom transformer model to study how neural networks make moral decisions on trolley-style dilemmas. The model processes structured scenarios using embeddings that encode who is affected, how many people, and which outcome they belong to. Our 2-layer architecture achieves 77% accuracy ",
-    "url": "https://arxiv.org/abs/2602.03351",
+    "title": "Linear Model Merging Unlocks Simple and Scalable Multimodal Data Mixture Optimization",
+    "summary": "arXiv:2602.04937v1 Announce Type: cross Abstract: Selecting the best data mixture is critical for successful Supervised Fine-Tuning (SFT) of Multimodal Large Language Models. However, determining the optimal mixture weights across multiple domain-specific datasets remains a significant bottleneck due to the combinatorial search space and the high c",
+    "url": "https://arxiv.org/abs/2602.04937",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "Investigating Redundancy in Multimodal Large Language Models with Multiple Vision Encoders",
-    "summary": "arXiv:2507.03262v3 Announce Type: replace-cross Abstract: Recent multimodal large language models (MLLMs) increasingly integrate multiple vision encoders to improve performance on various benchmarks, assuming that diverse pretraining objectives yield complementary visual signals. However, we show this assumption often fails in practice. Through sys",
-    "url": "https://arxiv.org/abs/2507.03262",
+    "title": "LMMRec: LLM-driven Motivation-aware Multimodal Recommendation",
+    "summary": "arXiv:2602.05474v1 Announce Type: cross Abstract: Motivation-based recommendation systems uncover user behavior drivers. Motivation modeling, crucial for decision-making and content preference, explains recommendation generation. Existing methods often treat motivation as latent variables from interaction data, neglecting heterogeneous information ",
+    "url": "https://arxiv.org/abs/2602.05474",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "Vid-LLM: A Compact Video-based 3D Multimodal LLM with Reconstruction-Reasoning Synergy",
-    "summary": "arXiv:2509.24385v2 Announce Type: replace-cross Abstract: Recent developments in Multimodal Large Language Models (MLLMs) have significantly improved Vision-Language (VL) reasoning in 2D domains. However, extending these capabilities to 3D scene understanding remains a major challenge. Existing 3D Multimodal Large Language Models (3D-MLLMs) often d",
-    "url": "https://arxiv.org/abs/2509.24385",
+    "title": "A Unified Framework for Rethinking Policy Divergence Measures in GRPO",
+    "summary": "arXiv:2602.05494v1 Announce Type: cross Abstract: Reinforcement Learning with Verified Reward (RLVR) has emerged as a critical paradigm for advancing the reasoning capabilities of Large Language Models (LLMs). Most existing RLVR methods, such as GRPO and its variants, ensure stable updates by constraining policy divergence through clipping likeliho",
+    "url": "https://arxiv.org/abs/2602.05494",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "Breaking the MoE LLM Trilemma: Dynamic Expert Clustering with Structured Compression",
-    "summary": "arXiv:2510.02345v3 Announce Type: replace-cross Abstract: Mixture-of-Experts (MoE) Large Language Models (LLMs) face a trilemma of load imbalance, parameter redundancy, and communication overhead. We introduce a unified framework based on dynamic expert clustering and structured compression to address these issues cohesively. Our method employs an ",
-    "url": "https://arxiv.org/abs/2510.02345",
+    "title": "Transport and Merge: Cross-Architecture Merging for Large Language Models",
+    "summary": "arXiv:2602.05495v1 Announce Type: cross Abstract: Large language models (LLMs) achieve strong capabilities by scaling model capacity and training data, yet many real-world deployments rely on smaller models trained or adapted from low-resource data. This gap motivates the need for mechanisms to transfer knowledge from large, high-resource models to",
+    "url": "https://arxiv.org/abs/2602.05495",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "Time-To-Inconsistency: A Survival Analysis of Large Language Model Robustness to Adversarial Attacks",
-    "summary": "arXiv:2510.02712v4 Announce Type: replace-cross Abstract: Large Language Models (LLMs) have revolutionized conversational AI, yet their robustness in extended multi-turn dialogues remains poorly understood. Existing evaluation frameworks focus on static benchmarks and single-turn assessments, failing to capture the temporal dynamics of conversation",
-    "url": "https://arxiv.org/abs/2510.02712",
+    "title": "In-context Time Series Predictor",
+    "summary": "arXiv:2405.14982v2 Announce Type: replace-cross Abstract: Recent Transformer-based large language models (LLMs) demonstrate in-context learning ability to perform various functions based solely on the provided context, without updating model parameters. To fully utilize the in-context capabilities in time series forecasting (TSF) problems, unlike p",
+    "url": "https://arxiv.org/abs/2405.14982",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing",
-    "summary": "arXiv:2602.02437v2 Announce Type: replace-cross Abstract: Unified multimodal models often struggle with complex synthesis tasks that demand deep reasoning, and typically treat text-to-image generation and image editing as isolated capabilities rather than interconnected reasoning steps. To address this, we propose UniReason, a unified framework tha",
-    "url": "https://arxiv.org/abs/2602.02437",
+    "title": "Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models",
+    "summary": "arXiv:2503.06749v3 Announce Type: replace-cross Abstract: DeepSeek-R1-Zero has successfully demonstrated the emergence of reasoning capabilities in LLMs purely through Reinforcement Learning (RL). Inspired by this breakthrough, we explore how RL can be utilized to enhance the reasoning capability of MLLMs. However, direct training with RL struggles",
+    "url": "https://arxiv.org/abs/2503.06749",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   },
   {
-    "title": "Knowledge Model Prompting Increases LLM Performance on Planning Tasks",
-    "summary": "arXiv:2602.03900v1 Announce Type: new Abstract: Large Language Models (LLM) can struggle with reasoning ability and planning tasks. Many prompting techniques have been developed to assist with LLM reasoning, notably Chain-of-Thought (CoT); however, these techniques, too, have come under scrutiny as LLMs' ability to reason at all has come into quest",
-    "url": "https://arxiv.org/abs/2602.03900",
+    "title": "Generalizable Trajectory Prediction via Inverse Reinforcement Learning with Mamba-Graph Architecture",
+    "summary": "arXiv:2506.12474v2 Announce Type: replace-cross Abstract: Accurate driving behavior modeling is fundamental to safe and efficient trajectory prediction, yet remains challenging in complex traffic scenarios. This paper presents a novel Inverse Reinforcement Learning (IRL) framework that captures human-like decision-making by inferring diverse reward",
+    "url": "https://arxiv.org/abs/2506.12474",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+    "published_at": "2026-02-07T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   }
 ]
