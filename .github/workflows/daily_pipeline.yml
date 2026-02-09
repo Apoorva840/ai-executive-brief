@@ -53,17 +53,23 @@ jobs:
           
           mkdir -p docs/data/archive
           if [ -f "docs/data/daily_brief.json" ]; then
-            cp docs/data/daily_brief.json docs/data/archive/brief_$FILE_DATE.json
+            cp docs/data/daily_brief.json "docs/data/archive/brief_$FILE_DATE.json"
           fi
           
+          # Improved manifest logic (list the correct directory)
           ls docs/data/archive | sed 's/brief_//;s/.json//' | jq -R . | jq -s . > docs/data/manifest.json
 
           # --- SAFE PUSH LOGIC ---
-          git add data/*.json docs/data/*.json docs/data/archive/*.json
+          # 1. Add EVERYTHING changed (including raw_news.json) to prevent rebase errors
+          git add .
           
-          if ! git diff --cached --exit-code; then
+          if ! git diff --cached --quiet; then
             git commit -m "🤖 Auto-update: Data for $FILE_DATE [skip ci]"
-            git pull origin main --rebase
+            
+            # 2. Pull with rebase to handle any remote changes
+            git pull --rebase origin main
+            
+            # 3. Push back to main
             git push origin main
           else
             echo "No data changes detected. Skipping commit."
