@@ -1,42 +1,44 @@
 [
   {
-    "title": "AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent",
-    "summary": "arXiv:2602.03955v1 Announce Type: new Abstract: While large language model (LLM) multi-agent systems achieve superior reasoning performance through iterative debate, practical deployment is limited by their high computational cost and error propagation. This paper proposes AgentArk, a novel framework to distill multi-agent dynamics into the weights",
-    "url": "https://arxiv.org/abs/2602.03955",
+    "title": "DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search",
+    "summary": "arXiv:2602.05014v1 Announce Type: new Abstract: With the rapid progress of tool-using and agentic large language models (LLMs), Retrieval-Augmented Generation (RAG) is evolving from one-shot, passive retrieval into multi-turn, decision-driven evidence acquisition. Despite strong results in open-domain settings, existing agentic search frameworks co",
+    "url": "https://arxiv.org/abs/2602.05014",
     "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "Introducing SyGra Studio",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-02-05T16:52:28+00:00",
+    "published_at": "2026-02-07T05:00:00+00:00",
     "score": 7
   },
   {
-    "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
-    "summary": "This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambiguity and learn from far fewer demonstrations. The post Rethinking imitation learning with Predictive Inverse Dynamics Models appeared first on Microsoft R",
-    "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-05T17:00:00+00:00",
-    "score": 6
-  },
-  {
-    "title": "Loyalty Is Dead in Silicon Valley",
-    "summary": "Founders used to be wedded to their companies. Now, anyone can be lured away for the right price.",
-    "url": "https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/",
+    "title": "The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games",
+    "summary": "From drones with “first-person” visualization to real-time 360-degree replays and Olympics GPT, get ready to immerse yourself in the Winter Games in Milan and Cortina.",
+    "url": "https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/",
     "source": "Wired AI",
-    "published_at": "2026-02-05T21:33:11+00:00",
+    "published_at": "2026-02-07T12:00:00+00:00",
     "score": 5
   },
   {
-    "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
-    "summary": "ICE has used Mobile Fortify to identify immigrants and citizens alike over 100,000 times, by one estimate. It wasn't built to work like that—and only got approved after DHS abandoned its own privacy rules.",
-    "url": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
+    "title": "Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data",
+    "summary": "Plus: Apple’s Lockdown mode keeps the FBI out of a reporter’s phone, Elon Musk’s Starlink cuts off Russian forces, and more.",
+    "url": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
     "source": "Wired AI",
-    "published_at": "2026-02-05T20:28:34+00:00",
+    "published_at": "2026-02-07T11:30:00+00:00",
     "score": 5
+  },
+  {
+    "title": "Interfaze: The Future of AI is built on Task-Specific Small Models",
+    "summary": "arXiv:2602.04101v1 Announce Type: new Abstract: We present Interfaze, a system that treats modern LLM applications as a problem of building and acting over context, not just picking the right monolithic model. Instead of a single transformer, we combine (i) a stack of heterogeneous DNNs paired with small language models as perception modules for OC",
+    "url": "https://arxiv.org/abs/2602.04101",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-06T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-07T03:10:55.111214+00:00"
+  },
+  {
+    "title": "OMG-Agent: Toward Robust Missing Modality Generation with Decoupled Coarse-to-Fine Agentic Workflows",
+    "summary": "arXiv:2602.04144v1 Announce Type: new Abstract: Data incompleteness severely impedes the reliability of multimodal systems. Existing reconstruction methods face distinct bottlenecks: conventional parametric/generative models are prone to hallucinations due to over-reliance on internal memory, while retrieval-augmented frameworks struggle with retri",
+    "url": "https://arxiv.org/abs/2602.04144",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-06T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-07T03:10:55.111214+00:00"
   }
 ]
