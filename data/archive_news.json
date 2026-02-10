@@ -6,6 +6,141 @@
     "source": "Arxiv AI",
     "published_at": "2026-02-09T05:00:00+00:00",
     "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "Towards Understanding What State Space Models Learn About Code",
+    "summary": "arXiv:2602.06774v1 Announce Type: new Abstract: State Space Models (SSMs) have emerged as an efficient alternative to the transformer architecture. Recent studies show that SSMs can match or surpass Transformers on code understanding tasks, such as code retrieval, when trained under similar conditions. However, their internal mechanisms remain a bl",
+    "url": "https://arxiv.org/abs/2602.06774",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "LLM Active Alignment: A Nash Equilibrium Perspective",
+    "summary": "arXiv:2602.06836v1 Announce Type: new Abstract: We develop a game-theoretic framework for predicting and steering the behavior of populations of large language models (LLMs) through Nash equilibrium (NE) analysis. To avoid the intractability of equilibrium computation in open-ended text spaces, we model each agent's action as a mixture over human s",
+    "url": "https://arxiv.org/abs/2602.06836",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "Analyzing Diffusion and Autoregressive Vision Language Models in Multimodal Embedding Space",
+    "summary": "arXiv:2602.06056v1 Announce Type: cross Abstract: Embedding models are a fundamental component of modern AI systems such as semantic search and retrieval-augmented generation. Recent advances in large foundation models have substantially accelerated the development of embedding models, including those based on Large Language Models (LLMs), Vision L",
+    "url": "https://arxiv.org/abs/2602.06056",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "DAVE: Distribution-aware Attribution via ViT Gradient Decomposition",
+    "summary": "arXiv:2602.06613v1 Announce Type: cross Abstract: Vision Transformers (ViTs) have become a dominant architecture in computer vision, yet producing stable and high-resolution attribution maps for these models remains challenging. Architectural components such as patch embeddings and attention routing often introduce structured artifacts in pixel-lev",
+    "url": "https://arxiv.org/abs/2602.06613",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "Multimodal Generative Retrieval Model with Staged Pretraining for Food Delivery on Meituan",
+    "summary": "arXiv:2602.06654v1 Announce Type: cross Abstract: Multimodal retrieval models are becoming increasingly important in scenarios such as food delivery, where rich multimodal features can meet diverse user needs and enable precise retrieval. Mainstream approaches typically employ a dual-tower architecture between queries and items, and perform joint o",
+    "url": "https://arxiv.org/abs/2602.06654",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "Bridging 6G IoT and AI: LLM-Based Efficient Approach for Physical Layer's Optimization Tasks",
+    "summary": "arXiv:2602.06819v1 Announce Type: cross Abstract: This paper investigates the role of large language models (LLMs) in sixth-generation (6G) Internet of Things (IoT) networks and proposes a prompt-engineering-based real-time feedback and verification (PE-RTFV) framework that perform physical-layer's optimization tasks through an iteratively process.",
+    "url": "https://arxiv.org/abs/2602.06819",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "The Quantum Sieve Tracer: A Hybrid Framework for Layer-Wise Activation Tracing in Large Language Models",
+    "summary": "arXiv:2602.06852v1 Announce Type: cross Abstract: Mechanistic interpretability aims to reverse-engineer the internal computations of Large Language Models (LLMs), yet separating sparse semantic signals from high-dimensional polysemantic noise remains a significant challenge. This paper introduces the Quantum Sieve Tracer, a hybrid quantum-classical",
+    "url": "https://arxiv.org/abs/2602.06852",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code",
+    "summary": "arXiv:2602.06875v1 Announce Type: cross Abstract: Large Language Models (LLMs) often generate code with subtle but critical bugs, especially for complex tasks. Existing automated repair methods typically rely on superficial pass/fail signals, offering limited visibility into program behavior and hindering precise error localization. In addition, wi",
+    "url": "https://arxiv.org/abs/2602.06875",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers",
+    "summary": "arXiv:2602.06923v1 Announce Type: cross Abstract: Can general-purpose AI architectures go beyond prediction to discover the physical laws governing the universe? True intelligence relies on \"world models\" -- causal abstractions that allow an agent to not only predict future states but understand the underlying governing dynamics. While previous \"AI",
+    "url": "https://arxiv.org/abs/2602.06923",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search",
+    "summary": "arXiv:2602.05014v2 Announce Type: replace Abstract: With the rapid progress of tool-using and agentic large language models (LLMs), Retrieval-Augmented Generation (RAG) is evolving from one-shot, passive retrieval into multi-turn, decision-driven evidence acquisition. Despite strong results in open-domain settings, existing agentic search framework",
+    "url": "https://arxiv.org/abs/2602.05014",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction",
+    "summary": "arXiv:2602.05353v2 Announce Type: replace Abstract: Large Language Models have shown strong capabilities in complex problem solving, yet many agentic systems remain difficult to interpret and control due to opaque internal workflows. While some frameworks offer explicit architectures for collaboration, many deployed agentic systems operate as black",
+    "url": "https://arxiv.org/abs/2602.05353",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "Echo State Transformer: Attention Over Finite Memories",
+    "summary": "arXiv:2507.02917v3 Announce Type: replace-cross Abstract: While Large Language Models and their underlying Transformer architecture are remarkably efficient, they do not reflect how our brain processes and learns a diversity of cognitive tasks such as language, nor how it leverages working memory. Furthermore, Transformers encounters a computationa",
+    "url": "https://arxiv.org/abs/2507.02917",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "D-SCoRE: Document-Centric Segmentation and CoT Reasoning with Structured Export for QA-CoT Data Generation",
+    "summary": "arXiv:2508.01309v2 Announce Type: replace-cross Abstract: The scarcity and high cost of high-quality domain-specific question-answering (QA) datasets limit supervised fine-tuning of large language models (LLMs). We introduce $\\textbf{D-SCoRE}$, a training-free framework that leverages LLMs and prompt engineering to automatically generate diverse, r",
+    "url": "https://arxiv.org/abs/2508.01309",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "An item is worth one token in Multimodal Large Language Models-based Sequential Recommendation",
+    "summary": "arXiv:2511.05885v3 Announce Type: replace-cross Abstract: Sequential recommendations (SR) predict users' future interactions based on their historical behavior. The rise of Large Language Models (LLMs) has brought powerful generative and reasoning capabilities, significantly enhancing SR performance, while Multimodal LLMs (MLLMs) further extend thi",
+    "url": "https://arxiv.org/abs/2511.05885",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-10T03:40:14.793398+00:00"
+  },
+  {
+    "title": "Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion",
+    "summary": "arXiv:2602.06351v1 Announce Type: new Abstract: GUI grounding maps natural language instructions to the correct interface elements, serving as the perception foundation for GUI agents. Existing approaches predominantly rely on fine-tuning multimodal large language models (MLLMs) using large-scale GUI datasets to predict target element coordinates, ",
+    "url": "https://arxiv.org/abs/2602.06351",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-09T05:00:00+00:00",
+    "score": 7,
     "archived_at": "2026-02-09T08:15:08.878734+00:00"
   },
   {
