@@ -4,134 +4,134 @@
     "summary": "arXiv:2602.07374v1 Announce Type: cross Abstract: Large language models (LLMs) achieve remarkable performance but demand substantial computational resources, limiting deployment on edge devices and resource-constrained environments. We present TernaryLM, a 132M parameter transformer architecture that employs native 1-bit ternary quantization {-1, 0",
     "url": "https://arxiv.org/abs/2602.07374",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs",
     "summary": "arXiv:2602.08621v1 Announce Type: cross Abstract: By introducing routers to selectively activate experts in Transformer layers, the mixture-of-experts (MoE) architecture significantly reduces computational costs in large language models (LLMs) while maintaining competitive performance, especially for models with massive parameters. However, prior w",
     "url": "https://arxiv.org/abs/2602.08621",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "MSP-LLM: A Unified Large Language Model Framework for Complete Material Synthesis Planning",
-    "summary": "arXiv:2602.07543v1 Announce Type: new Abstract: Material synthesis planning (MSP) remains a fundamental and underexplored bottleneck in AI-driven materials discovery, as it requires not only identifying suitable precursor materials but also designing coherent sequences of synthesis operations to realize a target material. Although several AI-based ",
+    "summary": "arXiv:2602.07543v2 Announce Type: new Abstract: Material synthesis planning (MSP) remains a fundamental and underexplored bottleneck in AI-driven materials discovery, as it requires not only identifying suitable precursor materials but also designing coherent sequences of synthesis operations to realize a target material. Although several AI-based ",
     "url": "https://arxiv.org/abs/2602.07543",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "Towards Adaptive, Scalable, and Robust Coordination of LLM Agents: A Dynamic Ad-Hoc Networking Perspective",
     "summary": "arXiv:2602.08009v1 Announce Type: new Abstract: Multi-agent architectures built on large language models (LLMs) have demonstrated the potential to realize swarm intelligence through well-crafted collaboration. However, the substantial burden of manual orchestration inherently raises an imperative to automate the design of agentic workflows. We fram",
     "url": "https://arxiv.org/abs/2602.08009",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "InfiCoEvalChain: A Blockchain-Based Decentralized Framework for Collaborative LLM Evaluation",
     "summary": "arXiv:2602.08229v1 Announce Type: new Abstract: The rapid advancement of large language models (LLMs) demands increasingly reliable evaluation, yet current centralized evaluation suffers from opacity, overfitting, and hardware-induced variance. Our empirical analysis reveals an alarming inconsistency in existing evaluations: the standard deviation ",
     "url": "https://arxiv.org/abs/2602.08229",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "Do MLLMs Really See It: Reinforcing Visual Attention in Multimodal LLMs",
     "summary": "arXiv:2602.08241v1 Announce Type: new Abstract: While chain-of-thought (CoT) reasoning has substantially improved multimodal large language models (MLLMs) on complex reasoning tasks, existing approaches largely rely on long textual reasoning trajectories and provide limited mechanisms for learning stable visual attention policies. Our analysis show",
     "url": "https://arxiv.org/abs/2602.08241",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "Toward Formalizing LLM-Based Agent Designs through Structural Context Modeling and Semantic Dynamics Analysis",
     "summary": "arXiv:2602.08276v1 Announce Type: new Abstract: Current research on large language model (LLM) agents is fragmented: discussions of conceptual frameworks and methodological principles are frequently intertwined with low-level implementation details, causing both readers and authors to lose track amid a proliferation of superficially distinct concep",
     "url": "https://arxiv.org/abs/2602.08276",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "Grounding Generative Planners in Verifiable Logic: A Hybrid Architecture for Trustworthy Embodied AI",
     "summary": "arXiv:2602.08373v1 Announce Type: new Abstract: Large Language Models (LLMs) show promise as planners for embodied AI, but their stochastic nature lacks formal reasoning, preventing strict safety guarantees for physical deployment. Current approaches often rely on unreliable LLMs for safety checks or simply reject unsafe plans without offering repa",
     "url": "https://arxiv.org/abs/2602.08373",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "PRISM: A Principled Framework for Multi-Agent Reasoning via Gain Decomposition",
-    "summary": "arXiv:2602.08586v1 Announce Type: new Abstract: Multi-agent collaboration has emerged as a promising paradigm for enhancing reasoning capabilities of Large Language Models (LLMs). However, existing approaches remain largely heuristic, lacking principled guidance on what drives performance gains and how to systematically optimize multi-agent reasoni",
+    "summary": "arXiv:2602.08586v2 Announce Type: new Abstract: Multi-agent collaboration has emerged as a promising paradigm for enhancing reasoning capabilities of Large Language Models (LLMs). However, existing approaches remain largely heuristic, lacking principled guidance on what drives performance gains and how to systematically optimize multi-agent reasoni",
     "url": "https://arxiv.org/abs/2602.08586",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "An Attention Mechanism for Robust Multimodal Integration in a Global Workspace Architecture",
     "summary": "arXiv:2602.08597v1 Announce Type: new Abstract: Global Workspace Theory (GWT), inspired by cognitive neuroscience, posits that flexible cognition could arise via the attentional selection of a relevant subset of modalities within a multimodal integration system. This cognitive framework can inspire novel computational architectures for multimodal i",
     "url": "https://arxiv.org/abs/2602.08597",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "iGRPO: Self-Feedback-Driven LLM Reasoning",
     "summary": "arXiv:2602.09000v1 Announce Type: new Abstract: Large Language Models (LLMs) have shown promise in solving complex mathematical problems, yet they still fall short of producing accurate and consistent solutions. Reinforcement Learning (RL) is a framework for aligning these models with task-specific rewards, improving overall quality and reliability",
     "url": "https://arxiv.org/abs/2602.09000",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "VLRS-Bench: A Vision-Language Reasoning Benchmark for Remote Sensing",
     "summary": "arXiv:2602.07045v1 Announce Type: cross Abstract: Recent advancements in Multimodal Large Language Models (MLLMs) have enabled complex reasoning. However, existing remote sensing (RS) benchmarks remain heavily biased toward perception tasks, such as object recognition and scene classification. This limitation hinders the development of MLLMs for co",
     "url": "https://arxiv.org/abs/2602.07045",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "Extended to Reality: Prompt Injection in 3D Environments",
     "summary": "arXiv:2602.07104v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have advanced the capabilities to interpret and act on visual input in 3D environments, empowering diverse applications such as robotics and situated conversational agents. When MLLMs reason over camera-captured views of the physical world, a new attack surfa",
     "url": "https://arxiv.org/abs/2602.07104",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large Language Models",
     "summary": "arXiv:2602.07106v1 Announce Type: cross Abstract: Omni-modal large language models (OLLMs) aim to unify multimodal understanding and generation, yet incorporating speech with 3D facial animation remains largely unexplored despite its importance for natural interaction. A key challenge arises from the representation mismatch between discrete, token-",
     "url": "https://arxiv.org/abs/2602.07106",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   },
   {
     "title": "Multimodal Enhancement of Sequential Recommendation",
     "summary": "arXiv:2602.07207v1 Announce Type: cross Abstract: We propose a novel recommender framework, MuSTRec (Multimodal and Sequential Transformer-based Recommendation), that unifies multimodal and sequential recommendation paradigms. MuSTRec captures cross-item similarities and collaborative filtering signals, by building item-item graphs from extracted t",
     "url": "https://arxiv.org/abs/2602.07207",
     "source": "Arxiv AI",
-    "published_at": "2026-02-10T05:00:00+00:00",
+    "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-11T03:33:27.528076+00:00"
+    "archived_at": "2026-02-12T03:28:41.934855+00:00"
   }
 ]
