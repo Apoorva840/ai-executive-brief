@@ -1,43 +1,28 @@
 [
   {
-    "title": "XAI-CLIP: ROI-Guided Perturbation Framework for Explainable Medical Image Segmentation in Multimodal Vision-Language Models",
-    "url": "https://arxiv.org/abs/2602.07017",
+    "title": "The CLEF-2026 FinMMEval Lab: Multilingual and Multimodal Evaluation of Financial AI Systems",
+    "url": "https://arxiv.org/abs/2602.10886",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2602.07017v1 Announce Type: cross Abstract: Medical image segmentation is a critical component of clinical workflows, enabling accurate diagnosis, treatment planning, and disease monitoring. However, despite the superior performance of transformer-based models over convolutional architectures, their limited interpretability remains a major ob",
+    "what_happened": "arXiv:2602.10886v1 Announce Type: cross Abstract: We present the setup and the tasks of the FinMMEval Lab at CLEF 2026, which introduces the first multilingual and multimodal evaluation framework for financial Large Language Models (LLMs). While recent advances in financial natural language processing have enabled automated analysis of market repor",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "Research Scientists",
       "ML Engineers"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
-    "url": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
+    "title": "‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’",
-    "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.",
+    "what_happened": "In this episode of Uncanny Valley, our hosts dive into WIRED’s scoop about a secret Trump administration campaign extending right into your backyard.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "Policy Leaders",
       "Tech Strategists"
@@ -45,33 +30,46 @@
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "Is a secure AI assistant possible?",
-    "url": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
-    "source": "MIT Technology Review AI",
-    "score": 4,
-    "what_happened": "AI agents are a risky business. Even when stuck inside the chatbox window, LLMs will make mistakes and behave badly. Once they have tools that they can use to interact with the outside world, such as web browsers and email addresses, the consequences of those mistakes become far more serious. That might explain why the&#8230;",
+    "title": "A Wave of Unexplained Bot Traffic Is Sweeping the Web",
+    "url": "https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "From small publishers to US federal agencies, websites are reporting unusual spikes in automated traffic linked to IP addresses in Lanzhou, China.",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "Policy Leaders",
+      "Tech Strategists"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "TernaryLM: Memory-Efficient Language Modeling via Native 1-Bit Quantization with Adaptive Layer-wise Scaling",
-    "url": "https://arxiv.org/abs/2602.07374",
-    "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2602.07374v1 Announce Type: cross Abstract: Large language models (LLMs) achieve remarkable performance but demand substantial computational resources, limiting deployment on edge devices and resource-constrained environments. We present TernaryLM, a 132M parameter transformer architecture that employs native 1-bit ternary quantization {-1, 0",
+    "title": "What’s next for Chinese open-source AI",
+    "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+    "source": "MIT Technology Review AI",
+    "score": 4,
+    "what_happened": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. The past year has marked a turning point for Chinese AI. Since DeepSeek released its R1 reasoning model in January 2025, Chinese companies have repeatedly delivered AI&#8230;",
     "technical_takeaway": null,
-    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
-    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
-      "Mobile Engineers",
-      "Product Managers"
+      "AI Professionals"
     ],
-    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "AI is already making online crimes easier. It could get much worse.",
+    "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+    "source": "MIT Technology Review AI",
+    "score": 3,
+    "what_happened": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him use to analyze submissions for potential viruses and other types of malicious software, often known as malware. On the surface it seemed&#8230;",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   }
 ]
