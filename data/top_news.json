@@ -1,42 +1,44 @@
 [
   {
-    "title": "The CLEF-2026 FinMMEval Lab: Multilingual and Multimodal Evaluation of Financial AI Systems",
-    "summary": "arXiv:2602.10886v1 Announce Type: cross Abstract: We present the setup and the tasks of the FinMMEval Lab at CLEF 2026, which introduces the first multilingual and multimodal evaluation framework for financial Large Language Models (LLMs). While recent advances in financial natural language processing have enabled automated analysis of market repor",
-    "url": "https://arxiv.org/abs/2602.10886",
+    "title": "RooflineBench: A Benchmarking Framework for On-Device LLMs via Roofline Analysis",
+    "summary": "arXiv:2602.11506v1 Announce Type: cross Abstract: The transition toward localized intelligence through Small Language Models (SLMs) has intensified the need for rigorous performance characterization on resource-constrained edge hardware. However, objectively measuring the theoretical performance ceilings of diverse architectures across heterogeneou",
+    "url": "https://arxiv.org/abs/2602.11506",
     "source": "Arxiv AI",
-    "published_at": "2026-02-12T05:00:00+00:00",
+    "published_at": "2026-02-13T05:00:00+00:00",
     "score": 8
   },
   {
-    "title": "‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants",
-    "summary": "In this episode of Uncanny Valley, our hosts dive into WIRED’s scoop about a secret Trump administration campaign extending right into your backyard.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/",
+    "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
+    "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
+    "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
     "source": "Wired AI",
-    "published_at": "2026-02-12T22:12:42+00:00",
+    "published_at": "2026-02-13T21:56:18+00:00",
+    "score": 6
+  },
+  {
+    "title": "Zillow Has Gone Wild—for AI",
+    "summary": "As the housing market stalls, Zillow’s CEO sees AI as “an ingredient rather than a threat” that can both help the company protect its turf and reinvent how people search for homes.",
+    "url": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/",
+    "source": "Wired AI",
+    "published_at": "2026-02-13T16:14:25+00:00",
     "score": 5
   },
   {
-    "title": "A Wave of Unexplained Bot Traffic Is Sweeping the Web",
-    "summary": "From small publishers to US federal agencies, websites are reporting unusual spikes in automated traffic linked to IP addresses in Lanzhou, China.",
-    "url": "https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/",
-    "source": "Wired AI",
-    "published_at": "2026-02-12T19:50:44+00:00",
-    "score": 5
+    "title": "Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle",
+    "summary": "arXiv:2508.05612v4 Announce Type: replace-cross Abstract: Reinforcement learning (RL) has emerged as an effective post-training paradigm for enhancing the reasoning capabilities of multimodal large language model (MLLM). However, current RL pipelines often suffer from training inefficiencies caused by two underexplored issues: Advantage Collapsing,",
+    "url": "https://arxiv.org/abs/2508.05612",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-12T05:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-02-13T03:29:04.573309+00:00"
   },
   {
-    "title": "What’s next for Chinese open-source AI",
-    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. The past year has marked a turning point for Chinese AI. Since DeepSeek released its R1 reasoning model in January 2025, Chinese companies have repeatedly delivered AI&#8230;",
-    "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-02-12T10:00:00+00:00",
-    "score": 4
-  },
-  {
-    "title": "AI is already making online crimes easier. It could get much worse.",
-    "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him use to analyze submissions for potential viruses and other types of malicious software, often known as malware. On the surface it seemed&#8230;",
-    "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-02-12T11:00:00+00:00",
-    "score": 3
+    "title": "Discovering Differences in Strategic Behavior Between Humans and LLMs",
+    "summary": "arXiv:2602.10324v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly deployed in social and strategic scenarios, it becomes critical to understand where and why their behavior diverges from that of humans. While behavioral game theory (BGT) provides a framework for analyzing behavior, existing models do not fully capture",
+    "url": "https://arxiv.org/abs/2602.10324",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-12T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-13T03:29:04.573309+00:00"
   }
 ]
