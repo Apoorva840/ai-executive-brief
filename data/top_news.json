@@ -1,44 +1,47 @@
 [
   {
-    "title": "RooflineBench: A Benchmarking Framework for On-Device LLMs via Roofline Analysis",
-    "summary": "arXiv:2602.11506v1 Announce Type: cross Abstract: The transition toward localized intelligence through Small Language Models (SLMs) has intensified the need for rigorous performance characterization on resource-constrained edge hardware. However, objectively measuring the theoretical performance ceilings of diverse architectures across heterogeneou",
-    "url": "https://arxiv.org/abs/2602.11506",
+    "title": "MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling",
+    "summary": "arXiv:2602.11761v1 Announce Type: cross Abstract: The evolution of large language models (LLMs) towards applications with ultra-long contexts faces challenges posed by the high computational and memory costs of the Transformer architecture. While existing sparse and linear attention mechanisms attempt to mitigate these issues, they typically involv",
+    "url": "https://arxiv.org/abs/2602.11761",
     "source": "Arxiv AI",
     "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
-    "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
-    "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
-    "source": "Wired AI",
-    "published_at": "2026-02-13T21:56:18+00:00",
-    "score": 6
-  },
-  {
-    "title": "Zillow Has Gone Wild—for AI",
-    "summary": "As the housing market stalls, Zillow’s CEO sees AI as “an ingredient rather than a threat” that can both help the company protect its turf and reinvent how people search for homes.",
-    "url": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/",
-    "source": "Wired AI",
-    "published_at": "2026-02-13T16:14:25+00:00",
-    "score": 5
-  },
-  {
-    "title": "Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle",
-    "summary": "arXiv:2508.05612v4 Announce Type: replace-cross Abstract: Reinforcement learning (RL) has emerged as an effective post-training paradigm for enhancing the reasoning capabilities of multimodal large language model (MLLM). However, current RL pipelines often suffer from training inefficiencies caused by two underexplored issues: Advantage Collapsing,",
-    "url": "https://arxiv.org/abs/2508.05612",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-12T05:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-02-13T03:29:04.573309+00:00"
+    "archived_at": "2026-02-14T03:14:31.327080+00:00"
   },
   {
-    "title": "Discovering Differences in Strategic Behavior Between Humans and LLMs",
-    "summary": "arXiv:2602.10324v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly deployed in social and strategic scenarios, it becomes critical to understand where and why their behavior diverges from that of humans. While behavioral game theory (BGT) provides a framework for analyzing behavior, existing models do not fully capture",
-    "url": "https://arxiv.org/abs/2602.10324",
+    "title": "Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge",
+    "summary": "arXiv:2602.11340v1 Announce Type: new Abstract: Large language models (LLMs) have become widely adopted as automated judges for evaluating AI-generated content. Despite their success, aligning LLM-based evaluations with human judgments remains challenging. While supervised fine-tuning on human-labeled data can improve alignment, it is costly and in",
+    "url": "https://arxiv.org/abs/2602.11340",
     "source": "Arxiv AI",
-    "published_at": "2026-02-12T05:00:00+00:00",
+    "published_at": "2026-02-13T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-13T03:29:04.573309+00:00"
+    "archived_at": "2026-02-14T03:14:31.327080+00:00"
+  },
+  {
+    "title": "Credit Where It is Due: Cross-Modality Connectivity Drives Precise Reinforcement Learning for MLLM Reasoning",
+    "summary": "arXiv:2602.11455v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced the reasoning capabilities of Multimodal Large Language Models (MLLMs), yet how visual evidence is integrated during reasoning remains poorly understood. We explore multimodal RLVR through the lens of cross-modal attentio",
+    "url": "https://arxiv.org/abs/2602.11455",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-13T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-14T03:14:31.327080+00:00"
+  },
+  {
+    "title": "scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery",
+    "summary": "arXiv:2602.11609v1 Announce Type: new Abstract: We present scPilot, the first systematic framework to practice omics-native reasoning: a large language model (LLM) converses in natural language while directly inspecting single-cell RNA-seq data and on-demand bioinformatics tools. scPilot converts core single-cell analyses, i.e., cell-type annotatio",
+    "url": "https://arxiv.org/abs/2602.11609",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-13T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-14T03:14:31.327080+00:00"
+  },
+  {
+    "title": "Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation",
+    "summary": "arXiv:2602.11635v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have achieved strong performance on perception-oriented tasks, yet their ability to perform mathematical spatial reasoning, defined as the capacity to parse and manipulate two- and three-dimensional relations, remains unclear. Humans easily solve textbook-style",
+    "url": "https://arxiv.org/abs/2602.11635",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-13T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-14T03:14:31.327080+00:00"
   }
 ]
