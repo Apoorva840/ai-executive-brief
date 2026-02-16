@@ -87,7 +87,7 @@ def send_email():
         brief_data = json.load(f)
 
     recipients = [e.strip() for e in EMAIL_TO.split(",")]
-    subject = f"AI Executive Brief: {len(brief_data.get('top_stories', []))} stories for {brief_data.get('date')}"
+    subject = f"TINKINT: AI Executive Brief: {len(brief_data.get('top_stories', []))} stories for {brief_data.get('date')}"
     html_content = build_html_body(brief_data)
 
     msg = MIMEMultipart("alternative")
