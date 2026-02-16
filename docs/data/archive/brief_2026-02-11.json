@@ -1,0 +1,58 @@
+{
+  "date": "February 11, 2026",
+  "timestamp": "2026-02-11T03:33:27.614099",
+  "is_archive_run": false,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "XAI-CLIP: ROI-Guided Perturbation Framework for Explainable Medical Image Segmentation in Multimodal Vision-Language Models",
+      "summary": "arXiv:2602.07017v1 Announce Type: cross Abstract: Medical image segmentation is a critical component of clinical workflows, enabling accurate diagnosis, treatment planning, and disease monitoring. However, despite the superior performance of transformer-based models over convolutional architectures, their limited interpretability remains a major ob",
+      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
+      "primary_risk": "Marginal performance gains may not justify integration effort.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.07017"
+    },
+    {
+      "rank": 2,
+      "title": "RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees",
+      "summary": "The site Realfood.gov uses Elon Musk’s Grok chatbot to dispense nutrition information—some of which contradicts the government’s new guidelines.",
+      "technical_takeaway": "Hardware and energy constraints now shape model design decisions.",
+      "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+      "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/"
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI Abandons ‘io’ Branding for Its AI Hardware",
+      "summary": "A court filing in a trademark lawsuit reveals OpenAI won't use the name “io” for its AI hardware device, which isn't expected to ship until 2027.",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Marginal performance gains may not justify integration effort.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/"
+    },
+    {
+      "rank": 4,
+      "title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
+      "summary": "In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his work. But he grew frustrated with the chatbot’s coding abilities and its gushing, meandering replies. Then he came across a post on Reddit about&#8230;",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/"
+    },
+    {
+      "rank": 5,
+      "title": "Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion",
+      "summary": "arXiv:2602.06351v1 Announce Type: new Abstract: GUI grounding maps natural language instructions to the correct interface elements, serving as the perception foundation for GUI agents. Existing approaches predominantly rely on fine-tuning multimodal large language models (MLLMs) using large-scale GUI datasets to predict target element coordinates,",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.06351"
+    }
+  ]
+}

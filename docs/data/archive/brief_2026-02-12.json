@@ -1,0 +1,58 @@
+{
+  "date": "February 12, 2026",
+  "timestamp": "2026-02-12T03:28:42.418491",
+  "is_archive_run": false,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "XAI-CLIP: ROI-Guided Perturbation Framework for Explainable Medical Image Segmentation in Multimodal Vision-Language Models",
+      "summary": "arXiv:2602.07017v1 Announce Type: cross Abstract: Medical image segmentation is a critical component of clinical workflows, enabling accurate diagnosis, treatment planning, and disease monitoring. However, despite the superior performance of transformer-based models over convolutional architectures, their limited interpretability remains a major ob",
+      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.07017"
+    },
+    {
+      "rank": 2,
+      "title": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
+      "summary": "I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/"
+    },
+    {
+      "rank": 3,
+      "title": "CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’",
+      "summary": "US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.",
+      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
+      "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/"
+    },
+    {
+      "rank": 4,
+      "title": "Is a secure AI assistant possible?",
+      "summary": "AI agents are a risky business. Even when stuck inside the chatbox window, LLMs will make mistakes and behave badly. Once they have tools that they can use to interact with the outside world, such as web browsers and email addresses, the consequences of those mistakes become far more serious. That might explain why the&#8230;",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/"
+    },
+    {
+      "rank": 5,
+      "title": "TernaryLM: Memory-Efficient Language Modeling via Native 1-Bit Quantization with Adaptive Layer-wise Scaling",
+      "summary": "arXiv:2602.07374v1 Announce Type: cross Abstract: Large language models (LLMs) achieve remarkable performance but demand substantial computational resources, limiting deployment on edge devices and resource-constrained environments. We present TernaryLM, a 132M parameter transformer architecture that employs native 1-bit ternary quantization {-1, 0",
+      "technical_takeaway": "Hybrid local-cloud inference is becoming the dominant deployment model.",
+      "primary_risk": "Fragmentation across hardware-specific inference stacks.",
+      "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.07374"
+    }
+  ]
+}

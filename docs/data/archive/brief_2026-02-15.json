@@ -1,0 +1,58 @@
+{
+  "date": "February 15, 2026",
+  "timestamp": "2026-02-15T03:27:59.186853",
+  "is_archive_run": true,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "[Archive] MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling",
+      "summary": "arXiv:2602.11761v1 Announce Type: cross Abstract: The evolution of large language models (LLMs) towards applications with ultra-long contexts faces challenges posed by the high computational and memory costs of the Transformer architecture. While existing sparse and linear attention mechanisms attempt to mitigate these issues, they typically involv",
+      "technical_takeaway": "Key technical reference from archive.",
+      "primary_risk": "Standard implementation risks apply.",
+      "primary_opportunity": "Incremental framework gains.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.11761"
+    },
+    {
+      "rank": 2,
+      "title": "[Archive] Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge",
+      "summary": "arXiv:2602.11340v1 Announce Type: new Abstract: Large language models (LLMs) have become widely adopted as automated judges for evaluating AI-generated content. Despite their success, aligning LLM-based evaluations with human judgments remains challenging. While supervised fine-tuning on human-labeled data can improve alignment, it is costly and in",
+      "technical_takeaway": "Key technical reference from archive.",
+      "primary_risk": "Standard implementation risks apply.",
+      "primary_opportunity": "Incremental framework gains.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.11340"
+    },
+    {
+      "rank": 3,
+      "title": "[Archive] Credit Where It is Due: Cross-Modality Connectivity Drives Precise Reinforcement Learning for MLLM Reasoning",
+      "summary": "arXiv:2602.11455v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced the reasoning capabilities of Multimodal Large Language Models (MLLMs), yet how visual evidence is integrated during reasoning remains poorly understood. We explore multimodal RLVR through the lens of cross-modal attentio",
+      "technical_takeaway": "Key technical reference from archive.",
+      "primary_risk": "Standard implementation risks apply.",
+      "primary_opportunity": "Incremental framework gains.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.11455"
+    },
+    {
+      "rank": 4,
+      "title": "[Archive] scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery",
+      "summary": "arXiv:2602.11609v1 Announce Type: new Abstract: We present scPilot, the first systematic framework to practice omics-native reasoning: a large language model (LLM) converses in natural language while directly inspecting single-cell RNA-seq data and on-demand bioinformatics tools. scPilot converts core single-cell analyses, i.e., cell-type annotatio",
+      "technical_takeaway": "Key technical reference from archive.",
+      "primary_risk": "Standard implementation risks apply.",
+      "primary_opportunity": "Incremental framework gains.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.11609"
+    },
+    {
+      "rank": 5,
+      "title": "[Archive] Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation",
+      "summary": "arXiv:2602.11635v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have achieved strong performance on perception-oriented tasks, yet their ability to perform mathematical spatial reasoning, defined as the capacity to parse and manipulate two- and three-dimensional relations, remains unclear. Humans easily solve textbook-style",
+      "technical_takeaway": "Key technical reference from archive.",
+      "primary_risk": "Standard implementation risks apply.",
+      "primary_opportunity": "Incremental framework gains.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.11635"
+    }
+  ]
+}
