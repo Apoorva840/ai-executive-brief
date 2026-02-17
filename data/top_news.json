@@ -1,46 +1,45 @@
 [
   {
     "title": "Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward",
-    "summary": "arXiv:2602.12430v1 Announce Type: cross Abstract: The transition from monolithic language models to modular, skill-equipped agents marks a defining shift in how large language models (LLMs) are deployed in practice. Rather than encoding all procedural knowledge within model weights, agent skills -- composable packages of instructions, code, and res",
+    "summary": "arXiv:2602.12430v2 Announce Type: replace-cross Abstract: The transition from monolithic language models to modular, skill-equipped agents marks a defining shift in how large language models (LLMs) are deployed in practice. Rather than encoding all procedural knowledge within model weights, agent skills -- composable packages of instructions, code,",
     "url": "https://arxiv.org/abs/2602.12430",
     "source": "Arxiv AI",
-    "published_at": "2026-02-16T05:00:00+00:00",
+    "published_at": "2026-02-17T05:00:00+00:00",
     "score": 8
   },
   {
-    "title": "MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling",
-    "summary": "arXiv:2602.11761v1 Announce Type: cross Abstract: The evolution of large language models (LLMs) towards applications with ultra-long contexts faces challenges posed by the high computational and memory costs of the Transformer architecture. While existing sparse and linear attention mechanisms attempt to mitigate these issues, they typically involv",
-    "url": "https://arxiv.org/abs/2602.11761",
+    "title": "The Small English Town Swept Up in the Global AI Arms Race",
+    "summary": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+    "url": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
+    "source": "Wired AI",
+    "published_at": "2026-02-17T07:00:00+00:00",
+    "score": 5
+  },
+  {
+    "title": "TriGen: NPU Architecture for End-to-End Acceleration of Large Language Models based on SW-HW Co-Design",
+    "summary": "arXiv:2602.12962v1 Announce Type: cross Abstract: Recent studies have extensively explored NPU architectures for accelerating AI inference in on-device environments, which are inherently resource-constrained. Meanwhile, transformer-based large language models (LLMs) have become dominant, with rapidly increasing model sizes but low degree of paramet",
+    "url": "https://arxiv.org/abs/2602.12962",
     "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
+    "published_at": "2026-02-16T05:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
+    "archived_at": "2026-02-17T03:20:57.359668+00:00"
   },
   {
-    "title": "Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge",
-    "summary": "arXiv:2602.11340v1 Announce Type: new Abstract: Large language models (LLMs) have become widely adopted as automated judges for evaluating AI-generated content. Despite their success, aligning LLM-based evaluations with human judgments remains challenging. While supervised fine-tuning on human-labeled data can improve alignment, it is costly and in",
-    "url": "https://arxiv.org/abs/2602.11340",
+    "title": "Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models",
+    "summary": "arXiv:2602.12419v1 Announce Type: new Abstract: The increasing complexity of smart manufacturing environments demands interfaces that can translate high-level human intents into machine-executable actions. This paper presents a unified framework that integrates instruction-tuned Large Language Models (LLMs) with ontology-aligned Knowledge Graphs (K",
+    "url": "https://arxiv.org/abs/2602.12419",
     "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
+    "published_at": "2026-02-16T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
+    "archived_at": "2026-02-17T03:20:57.359668+00:00"
   },
   {
-    "title": "Credit Where It is Due: Cross-Modality Connectivity Drives Precise Reinforcement Learning for MLLM Reasoning",
-    "summary": "arXiv:2602.11455v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced the reasoning capabilities of Multimodal Large Language Models (MLLMs), yet how visual evidence is integrated during reasoning remains poorly understood. We explore multimodal RLVR through the lens of cross-modal attentio",
-    "url": "https://arxiv.org/abs/2602.11455",
+    "title": "BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents",
+    "summary": "arXiv:2602.12876v1 Announce Type: new Abstract: Multimodal large language models (MLLMs), equipped with increasingly advanced planning and tool-use capabilities, are evolving into autonomous agents capable of performing multimodal web browsing and deep search in open-world environments. However, existing benchmarks for multimodal browsing remain li",
+    "url": "https://arxiv.org/abs/2602.12876",
     "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
+    "published_at": "2026-02-16T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery",
-    "summary": "arXiv:2602.11609v1 Announce Type: new Abstract: We present scPilot, the first systematic framework to practice omics-native reasoning: a large language model (LLM) converses in natural language while directly inspecting single-cell RNA-seq data and on-demand bioinformatics tools. scPilot converts core single-cell analyses, i.e., cell-type annotatio",
-    "url": "https://arxiv.org/abs/2602.11609",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
+    "archived_at": "2026-02-17T03:20:57.359668+00:00"
   }
 ]
