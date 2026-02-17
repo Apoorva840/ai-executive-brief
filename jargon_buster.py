@@ -9,7 +9,7 @@ OUTPUT_JSON = "docs/data/jargon_buster.json"
 
 # Configure Gemini
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-model = genai.GenerativeModel("gemini-pro")
+model = genai.GenerativeModel("models/gemini-pro")
 
 
 def load_deduped_data():
