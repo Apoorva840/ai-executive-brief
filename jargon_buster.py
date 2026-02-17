@@ -1,15 +1,15 @@
 import os
 import json
+import google.generativeai as genai
 from datetime import datetime
-from openai import OpenAI
 
 # --- CONFIGURATION ---
 INPUT_FILE = "data/deduped_news.json"
 OUTPUT_JSON = "docs/data/jargon_buster.json"
 
-# Load OpenAI API key
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-client = OpenAI(api_key=OPENAI_API_KEY)
+# Configure Gemini
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+model = genai.GenerativeModel("gemini-1.5-flash")
 
 
 def load_deduped_data():
@@ -41,16 +41,19 @@ def process_jargon(text):
     current_date = datetime.now().strftime('%B %d, %Y')
 
     prompt = f"""
+    You are an AI Expert Educator.
     Scan the following AI news:
+
     ---
     {text}
     ---
-    Identify 3 technical AI terms.
-    For each term provide:
-    - A clear beginner-friendly definition
-    - A car OR kitchen analogy
 
-    Return ONLY valid JSON in this structure:
+    Identify 3 technical AI terms.
+    Provide:
+    - A beginner-friendly definition
+    - A car or kitchen analogy
+
+    Return ONLY valid JSON in this format:
 
     {{
       "last_updated": "{current_date}",
@@ -66,17 +69,12 @@ def process_jargon(text):
     """
 
     try:
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            response_format={"type": "json_object"},
-            messages=[
-                {"role": "system", "content": "You are an AI Expert Educator. Return strictly valid JSON."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.3,
-        )
+        response = model.generate_content(prompt)
 
-        return json.loads(response.choices[0].message.content)
+        raw_text = response.text.strip()
+        raw_text = raw_text.replace("```json", "").replace("```", "").strip()
+
+        return json.loads(raw_text)
 
     except Exception as e:
         print(f"AI Error: {e}")
@@ -96,7 +94,6 @@ def main():
             os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
             with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
                 json.dump(jargon_data, f, indent=4)
-
     else:
         print("📅 Weekday: Clearing Jargon for Daily Brief view.")
         with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
