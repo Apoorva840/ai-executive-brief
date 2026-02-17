@@ -9,7 +9,6 @@
 <body>
 
   <header>
-    <!--<span class="reading-badge">⏱ 2 min read</span> -->
     <h1>AI Executive Brief</h1>
     <p>Daily AI news for founders, leaders, and decision-makers.</p>
     
@@ -20,14 +19,19 @@
             <label for="history-select">Past Briefs:</label>
             <select id="history-select">
                 <option value="latest">Today's Brief</option>
-                </select>
+            </select>
         </div>
     </div>
   </header>
 
   <main>
-    <div id="stories">
-      </div>
+    <section id="jargon-decoder" style="display: none;">
+      <h2 class="section-title">🎓 Jargon Decoder (Weekly)</h2>
+      <div id="jargon-container" class="jargon-grid"></div>
+      <hr>
+    </section>
+
+    <div id="stories"></div>
   </main>
 
   <footer>

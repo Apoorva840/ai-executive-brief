@@ -55,7 +55,7 @@ def run_pipeline():
     print("========== AI NEWS PIPELINE START ==========")
     print(f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
-    # PRE-STEP: Clear old session data to prevent "ghost" news from yesterday
+    # PRE-STEP: Clear old session data
     for path in [RAW_NEWS_PATH, TOP_NEWS_PATH, ENRICHED_PATH]:
         if os.path.exists(path):
             os.remove(path)
@@ -81,7 +81,16 @@ def run_pipeline():
     if has_new_content:
         # PATH A: New news exists -> Run full AI process
         print(f">>> {len(raw_data)} new articles found. Executing full AI enhancement...")
-        standard_flow = ["ai_deduplicate.py", "rank_news.py", "summarize.py", "enrich.py"]
+        
+        # ADDED jargon_buster.py to the flow here
+        standard_flow = [
+            "ai_deduplicate.py", 
+            "jargon_buster.py", # Extracts concepts from deduped news
+            "rank_news.py", 
+            "summarize.py", 
+            "enrich.py"
+        ]
+        
         for script in standard_flow:
             if not run_step(script):
                 print(f"Pipeline stopped at {script}")
@@ -95,14 +104,8 @@ def run_pipeline():
             
             if len(backup_data) > 0:
                 print(f">>> Found {len(backup_data)} stories in backup queue. Using top 5.")
-                # Save backup stories as top_news.json
                 with open(TOP_NEWS_PATH, "w", encoding="utf-8") as f:
                     json.dump(backup_data[:5], f, indent=2, ensure_ascii=False)
-                
-                # IMPORTANT: We leave ENRICHED_PATH non-existent here.
-                # format_brief.py is now smart enough to handle this missing file
-                # by using the archive fallback strings we wrote earlier.
-                
                 print(">>> Archive articles loaded. Bypassing AI steps.")
             else:
                 print(">>> Archive is also empty. Ending pipeline.")
@@ -112,7 +115,8 @@ def run_pipeline():
             sys.exit(0)
 
     # STEP 4: Always Format and Send
-    final_steps = ["format_brief.py", "send_email.py"]
+    #final_steps = ["format_brief.py", "send_email.py"]
+    final_steps = ["format_brief.py"]
     for script in final_steps:
         if not run_step(script):
             sys.exit(1)

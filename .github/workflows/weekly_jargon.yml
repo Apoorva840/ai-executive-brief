@@ -1,0 +1,58 @@
+name: Weekly Jargon & Concept Decoder
+
+on:
+  schedule:
+    # Runs at 04:00 AM UTC every Saturday (09:30 AM IST)
+    - cron: '0 4 * * 6'
+  workflow_dispatch: # Allows manual trigger for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11" # Matched to your daily pipeline
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SHOW_JARGON: "true" # The "Force Refresh" flag
+        run: python3 run_pipeline.py
+
+      - name: Commit and Push Jargon Library Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add all changes to avoid unstaged error
+          git add .
+          
+          # Check if jargon_buster.json was actually updated
+          if ! git diff --cached --quiet; then
+            git commit -m "🤖 Weekly Jargon Library Update [skip ci]"
+            
+            # Use the same safe pull logic from your daily script
+            git pull --rebase -X theirs origin main
+            git push origin main
+          else
+            echo "No jargon changes detected. Skipping commit."
+          fi
