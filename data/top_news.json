@@ -1,11 +1,11 @@
 [
   {
-    "title": "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe",
-    "summary": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths.",
-    "url": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
-    "source": "Wired AI",
-    "published_at": "2026-02-15T11:30:00+00:00",
-    "score": 5
+    "title": "Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward",
+    "summary": "arXiv:2602.12430v1 Announce Type: cross Abstract: The transition from monolithic language models to modular, skill-equipped agents marks a defining shift in how large language models (LLMs) are deployed in practice. Rather than encoding all procedural knowledge within model weights, agent skills -- composable packages of instructions, code, and res",
+    "url": "https://arxiv.org/abs/2602.12430",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-16T05:00:00+00:00",
+    "score": 8
   },
   {
     "title": "MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling",
