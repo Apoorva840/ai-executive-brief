@@ -1,15 +1,11 @@
 import os
 import json
-import google.generativeai as genai
+from google import genai
 from datetime import datetime
 
 # --- CONFIGURATION ---
 INPUT_FILE = "data/deduped_news.json"
 OUTPUT_JSON = "docs/data/jargon_buster.json"
-
-# Configure Gemini
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-model = genai.GenerativeModel("models/gemini-pro")
 
 
 def load_deduped_data():
@@ -41,35 +37,42 @@ def process_jargon(text):
     current_date = datetime.now().strftime('%B %d, %Y')
 
     prompt = f"""
-    You are an AI Expert Educator.
-    Scan the following AI news:
+You are an AI Expert Educator.
 
-    ---
-    {text}
-    ---
+Scan the following AI news:
 
-    Identify 3 technical AI terms.
-    Provide:
-    - A beginner-friendly definition
-    - A car or kitchen analogy
+---
+{text}
+---
 
-    Return ONLY valid JSON in this format:
+Identify 3 technical AI terms.
+For each term provide:
+- A beginner-friendly definition
+- A car OR kitchen analogy
 
+Return ONLY valid JSON in this exact format:
+
+{{
+  "last_updated": "{current_date}",
+  "is_weekly_active": true,
+  "terms": [
     {{
-      "last_updated": "{current_date}",
-      "is_weekly_active": true,
-      "terms": [
-        {{
-          "term": "Term Name",
-          "definition": "...",
-          "analogy": "..."
-        }}
-      ]
+      "term": "Term Name",
+      "definition": "...",
+      "analogy": "..."
     }}
-    """
+  ]
+}}
+"""
 
     try:
-        response = model.generate_content(prompt)
+        # Create Gemini client (NEW SDK)
+        client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+
+        response = client.models.generate_content(
+            model="gemini-1.5-flash",
+            contents=prompt
+        )
 
         raw_text = response.text.strip()
         raw_text = raw_text.replace("```json", "").replace("```", "").strip()

@@ -2,7 +2,6 @@ feedparser
 requests
 beautifulsoup4
 lxml
-google-generativeai
 google-genai
 python-dateutil
 numpy
