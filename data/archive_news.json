@@ -6,6 +6,141 @@
     "source": "Arxiv AI",
     "published_at": "2026-02-17T05:00:00+00:00",
     "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "PlotChain: Deterministic Checkpointed Evaluation of Multimodal LLMs on Engineering Plot Reading",
+    "summary": "arXiv:2602.13232v1 Announce Type: new Abstract: We present PlotChain, a deterministic, generator-based benchmark for evaluating multimodal large language models (MLLMs) on engineering plot reading-recovering quantitative values from classic plots (e.g., Bode/FFT, step response, stress-strain, pump curves) rather than OCR-only extraction or free-for",
+    "url": "https://arxiv.org/abs/2602.13232",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "MAPLE: A Sub-Agent Architecture for Memory, Learning, and Personalization in Agentic AI Systems",
+    "summary": "arXiv:2602.13258v1 Announce Type: new Abstract: Large language model (LLM) agents have emerged as powerful tools for complex tasks, yet their ability to adapt to individual users remains fundamentally limited. We argue this limitation stems from a critical architectural conflation: current systems treat memory, learning, and personalization as a un",
+    "url": "https://arxiv.org/abs/2602.13258",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "Information Fidelity in Tool-Using LLM Agents: A Martingale Analysis of the Model Context Protocol",
+    "summary": "arXiv:2602.13320v1 Announce Type: new Abstract: As AI agents powered by large language models (LLMs) increasingly use external tools for high-stakes decisions, a critical reliability question arises: how do errors propagate across sequential tool calls? We introduce the first theoretical framework for analyzing error accumulation in Model Context P",
+    "url": "https://arxiv.org/abs/2602.13320",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization",
+    "summary": "arXiv:2602.13653v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have substantially driven the progress of autonomous agents for Graphical User Interface (GUI). Nevertheless, in real-world applications, GUI agents are often faced with non-stationary environments, leading to high computational costs for dat",
+    "url": "https://arxiv.org/abs/2602.13653",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "AllMem: A Memory-centric Recipe for Efficient Long-context Modeling",
+    "summary": "arXiv:2602.13680v1 Announce Type: new Abstract: Large Language Models (LLMs) encounter significant performance bottlenecks in long-sequence tasks due to the computational complexity and memory overhead inherent in the self-attention mechanism. To address these challenges, we introduce \\textsc{AllMem}, a novel and efficient hybrid architecture that ",
+    "url": "https://arxiv.org/abs/2602.13680",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "Diagnosing Pathological Chain-of-Thought in Reasoning Models",
+    "summary": "arXiv:2602.13904v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning is fundamental to modern LLM architectures and represents a critical intervention point for AI safety. However, CoT reasoning may exhibit failure modes that we note as pathologies, which prevent it from being useful for monitoring. Prior work has identified three disti",
+    "url": "https://arxiv.org/abs/2602.13904",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "From Pixels to Policies: Reinforcing Spatial Reasoning in Language Models for Content-Aware Layout Design",
+    "summary": "arXiv:2602.13912v1 Announce Type: new Abstract: We introduce LaySPA, a reinforcement learning framework that equips large language models (LLMs) with explicit and interpretable spatial reasoning for content-aware graphic layout design. LaySPA addresses two key challenges: LLMs' limited spatial reasoning and the lack of opacity in design decision ma",
+    "url": "https://arxiv.org/abs/2602.13912",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling",
+    "summary": "arXiv:2602.13933v1 Announce Type: new Abstract: Large language model (LLM) agents demonstrate strong performance in short-text contexts but often underperform in extended dialogues due to inefficient memory management. Existing approaches face a fundamental trade-off between efficiency and effectiveness: memory compression risks losing critical det",
+    "url": "https://arxiv.org/abs/2602.13933",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "Algebraic Quantum Intelligence: A New Framework for Reproducible Machine Creativity",
+    "summary": "arXiv:2602.14130v1 Announce Type: new Abstract: Large language models (LLMs) have achieved remarkable success in generating fluent and contextually appropriate text; however, their capacity to produce genuinely creative outputs remains limited. This paper posits that this limitation arises from a structural property of contemporary LLMs: when provi",
+    "url": "https://arxiv.org/abs/2602.14130",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5",
+    "summary": "arXiv:2602.14457v1 Announce Type: new Abstract: To understand and identify the unprecedented risks posed by rapidly advancing artificial intelligence (AI) models, Frontier AI Risk Management Framework in Practice presents a comprehensive assessment of their frontier risks. As Large Language Models (LLMs) general capabilities rapidly evolve and the ",
+    "url": "https://arxiv.org/abs/2602.14457",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "Diagnosing Knowledge Conflict in Multimodal Long-Chain Reasoning",
+    "summary": "arXiv:2602.14518v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) in long chain-of-thought reasoning often fail when different knowledge sources provide conflicting signals. We formalize these failures under a unified notion of knowledge conflict, distinguishing input-level objective conflict from process-level effective conf",
+    "url": "https://arxiv.org/abs/2602.14518",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "Large Language Model (LLM)-enabled Reinforcement Learning for Wireless Network Optimization",
+    "summary": "arXiv:2602.13210v1 Announce Type: cross Abstract: Enhancing future wireless networks presents a significant challenge for networking systems due to diverse user demands and the emergence of 6G technology. While reinforcement learning (RL) is a powerful framework, it often encounters difficulties with high-dimensional state spaces and complex enviro",
+    "url": "https://arxiv.org/abs/2602.13210",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "Global AI Bias Audit for Technical Governance",
+    "summary": "arXiv:2602.13246v1 Announce Type: cross Abstract: This paper presents the outputs of the exploratory phase of a global audit of Large Language Models (LLMs) project. In this exploratory phase, I used the Global AI Dataset (GAID) Project as a framework to stress-test the Llama-3 8B model and evaluate geographic and socioeconomic biases in technical ",
+    "url": "https://arxiv.org/abs/2602.13246",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "Evaluating the Impact of Post-Training Quantization on Reliable VQA with Multimodal LLMs",
+    "summary": "arXiv:2602.13289v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLM) are increasingly deployed in domains where both reliability and efficiency are critical. However, current models remain overconfident, producing highly certain but incorrect answers. At the same time, their large size limits deployment on edge devices, necessi",
+    "url": "https://arxiv.org/abs/2602.13289",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-17T11:47:35.904354+00:00"
+  },
+  {
+    "title": "Variation is the Key: A Variation-Based Framework for LLM-Generated Text Detection",
+    "summary": "arXiv:2602.13226v1 Announce Type: new Abstract: Detecting text generated by large language models (LLMs) is crucial but challenging. Existing detectors depend on impractical assumptions, such as white-box settings, or solely rely on text-level features, leading to imprecise detection ability. In this paper, we propose a simple but effective and pra",
+    "url": "https://arxiv.org/abs/2602.13226",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-17T05:00:00+00:00",
+    "score": 7,
     "archived_at": "2026-02-17T11:38:27.188850+00:00"
   },
   {
