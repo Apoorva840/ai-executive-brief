@@ -15,6 +15,7 @@ def load_deduped_data():
 
         with open(INPUT_FILE, "r", encoding="utf-8") as f:
             articles = json.load(f)
+            
 
         combined_text = ""
         for art in articles[:20]:

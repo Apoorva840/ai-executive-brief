@@ -75,10 +75,10 @@ function loadBriefData(path) {
                         <h3>Summary</h3>
                         <p>${story.summary}</p>
                         
-                        <div class="tech-details">
-                            <p><strong>💡 Technical Takeaway:</strong> ${story.technical_takeaway}</p>
-                            <p><strong>⚖️ Primary Risk:</strong> ${story.primary_risk}</p>
-                            <p><strong>🚀 Primary Opportunity:</strong> ${story.primary_opportunity}</p>
+                        <div class="tech-details" style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 5px solid #2c3e50; margin: 15px 0;">
+                            <p style="margin: 8px 0;"><strong style="color: #2c3e50;">💡 Technical Takeaway:</strong> ${story.technical_takeaway}</p>
+                            <p style="margin: 8px 0;"><strong style="color: #c0392b;">⚖️ Primary Risk:</strong> ${story.primary_risk}</p>
+                            <p style="margin: 8px 0;"><strong style="color: #27ae60;">🚀 Primary Opportunity:</strong> ${story.primary_opportunity}</p>
                         </div>
 
                         <p class="source">Source: <a href="${story.url}" target="_blank">${story.source}</a></p>
