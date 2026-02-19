@@ -70,9 +70,19 @@ function loadBriefData(path) {
                 card.className = "story";
                 card.innerHTML = `
                     <h2>${story.rank}. ${story.title}</h2>
-                    <h3>Summary</h3>
-                    <p>${story.summary}</p>
-                    <p class="source">Source: <a href="${story.url}" target="_blank">${story.source}</a></p>
+                    
+                    <div class="story-content">
+                        <h3>Summary</h3>
+                        <p>${story.summary}</p>
+                        
+                        <div class="tech-details">
+                            <p><strong>💡 Technical Takeaway:</strong> ${story.technical_takeaway}</p>
+                            <p><strong>⚖️ Primary Risk:</strong> ${story.primary_risk}</p>
+                            <p><strong>🚀 Primary Opportunity:</strong> ${story.primary_opportunity}</p>
+                        </div>
+
+                        <p class="source">Source: <a href="${story.url}" target="_blank">${story.source}</a></p>
+                    </div>
                 `;
                 container.appendChild(card);
             });
