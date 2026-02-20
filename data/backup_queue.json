@@ -1,137 +1,137 @@
 [
   {
-    "title": "How Vision Becomes Language: A Layer-wise Information-Theoretic Analysis of Multimodal Reasoning",
-    "summary": "arXiv:2602.15580v1 Announce Type: new Abstract: When a multimodal Transformer answers a visual question, is the prediction driven by visual evidence, linguistic reasoning, or genuinely fused cross-modal computation -- and how does this structure evolve across layers? We address this question with a layer-wise framework based on Partial Information ",
-    "url": "https://arxiv.org/abs/2602.15580",
+    "title": "Fly0: Decoupling Semantic Grounding from Geometric Planning for Zero-Shot Aerial Navigation",
+    "summary": "arXiv:2602.15875v1 Announce Type: cross Abstract: Current Visual-Language Navigation (VLN) methodologies face a trade-off between semantic understanding and control precision. While Multimodal Large Language Models (MLLMs) offer superior reasoning, deploying them as low-level controllers leads to high latency, trajectory oscillations, and poor gene",
+    "url": "https://arxiv.org/abs/2602.15875",
     "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
+    "published_at": "2026-02-19T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
   },
   {
-    "title": "TokaMind: A Multi-Modal Transformer Foundation Model for Tokamak Plasma Dynamics",
-    "summary": "arXiv:2602.15084v1 Announce Type: cross Abstract: We present TokaMind, an open-source foundation model framework for fusion plasma modeling, based on a Multi-Modal Transformer (MMT) and trained on heterogeneous tokamak diagnostics from the publicly available MAST dataset. TokaMind supports multiple data modalities (time-series, 2D profiles, and vid",
-    "url": "https://arxiv.org/abs/2602.15084",
+    "title": "Surrogate Modeling for Neutron Transport: A Neural Operator Approach",
+    "summary": "arXiv:2602.15890v1 Announce Type: cross Abstract: This work introduces a neural operator based surrogate modeling framework for neutron transport computation. Two architectures, the Deep Operator Network (DeepONet) and the Fourier Neural Operator (FNO), were trained for fixed source problems to learn the mapping from anisotropic neutron sources, Q(",
+    "url": "https://arxiv.org/abs/2602.15890",
     "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
+    "published_at": "2026-02-19T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
   },
   {
-    "title": "Improving MLLMs in Embodied Exploration and Question Answering with Human-Inspired Memory Modeling",
-    "summary": "arXiv:2602.15513v1 Announce Type: cross Abstract: Deploying Multimodal Large Language Models as the brain of embodied agents remains challenging, particularly under long-horizon observations and limited context budgets. Existing memory assisted methods often rely on textual summaries, which discard rich visual and spatial details and remain brittle",
-    "url": "https://arxiv.org/abs/2602.15513",
+    "title": "Doc-to-LoRA: Learning to Instantly Internalize Contexts",
+    "summary": "arXiv:2602.15902v1 Announce Type: cross Abstract: Long input sequences are central to in-context learning, document understanding, and multi-step reasoning of Large Language Models (LLMs). However, the quadratic attention cost of Transformers makes inference memory-intensive and slow. While context distillation (CD) can transfer information into mo",
+    "url": "https://arxiv.org/abs/2602.15902",
     "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
+    "published_at": "2026-02-19T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
+  },
+  {
+    "title": "EarthSpatialBench: Benchmarking Spatial Reasoning Capabilities of Multimodal LLMs on Earth Imagery",
+    "summary": "arXiv:2602.15918v1 Announce Type: cross Abstract: Benchmarking spatial reasoning in multimodal large language models (MLLMs) has attracted growing interest in computer vision due to its importance for embodied AI and other agentic systems that require precise interaction with the physical world. However, spatial reasoning on Earth imagery has lagge",
+    "url": "https://arxiv.org/abs/2602.15918",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-19T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
+  },
+  {
+    "title": "IndicEval: A Bilingual Indian Educational Evaluation Framework for Large Language Models",
+    "summary": "arXiv:2602.16467v1 Announce Type: cross Abstract: The rapid advancement of large language models (LLMs) necessitates evaluation frameworks that reflect real-world academic rigor and multilingual complexity. This paper introduces IndicEval, a scalable benchmarking platform designed to assess LLM performance using authentic high-stakes examination qu",
+    "url": "https://arxiv.org/abs/2602.16467",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-19T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
+  },
+  {
+    "title": "From Pixels to Policies: Reinforcing Spatial Reasoning in Language Models for Content-Aware Layout Design",
+    "summary": "arXiv:2602.13912v2 Announce Type: replace Abstract: We introduce LaySPA, a reinforcement learning framework that equips large language models (LLMs) with explicit and interpretable spatial reasoning for content-aware graphic layout design. LaySPA addresses two key challenges: LLMs' limited spatial reasoning and the lack of opacity in design decisio",
+    "url": "https://arxiv.org/abs/2602.13912",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-19T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
+  },
+  {
+    "title": "Prompt When the Animal is: Temporal Animal Behavior Grounding with Positional Recovery Training",
+    "summary": "arXiv:2405.05523v2 Announce Type: replace-cross Abstract: Temporal grounding is crucial in multimodal learning, but it poses challenges when applied to animal behavior data due to the sparsity and uniform distribution of moments. To address these challenges, we propose a novel Positional Recovery Training framework (Port), which prompts the model w",
+    "url": "https://arxiv.org/abs/2405.05523",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-19T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
+  },
+  {
+    "title": "MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision",
+    "summary": "arXiv:2508.08177v3 Announce Type: replace-cross Abstract: Accurately grounding regions of interest (ROIs) is critical for diagnosis and treatment planning in medical imaging. While multimodal large language models (MLLMs) combine visual perception with natural language, current medical-grounding pipelines still rely on supervised fine-tuning with e",
+    "url": "https://arxiv.org/abs/2508.08177",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-19T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
+  },
+  {
+    "title": "Predicting Training Re-evaluation Curves Enables Effective Data Curriculums for LLMs",
+    "summary": "arXiv:2509.25380v2 Announce Type: replace-cross Abstract: Data curriculums have become central to successful LLM training, yet principles governing optimal data placement remain unclear. We introduce the *training re-evaluation curve (TREC)*, a diagnostic that retrospectively evaluates training batches *using the final model weights*. The TREC char",
+    "url": "https://arxiv.org/abs/2509.25380",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-19T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
+  },
+  {
+    "title": "CreativityPrism: A Holistic Evaluation Framework for Large Language Model Creativity",
+    "summary": "arXiv:2510.20091v2 Announce Type: replace-cross Abstract: Creativity is often seen as a hallmark of human intelligence. While large language models (LLMs) are increasingly perceived as generating creative text, there is still no holistic and scalable framework to evaluate their creativity across diverse scenarios. Existing methods of LLM creativity",
+    "url": "https://arxiv.org/abs/2510.20091",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-19T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
   },
   {
     "title": "A Content-Based Framework for Cybersecurity Refusal Decisions in Large Language Models",
-    "summary": "arXiv:2602.15689v1 Announce Type: cross Abstract: Large language models and LLM-based agents are increasingly used for cybersecurity tasks that are inherently dual-use. Existing approaches to refusal, spanning academic policy frameworks and commercially deployed systems, often rely on broad topic-based bans or offensive-focused taxonomies. As a res",
+    "summary": "arXiv:2602.15689v2 Announce Type: replace-cross Abstract: Large language models and LLM-based agents are increasingly used for cybersecurity tasks that are inherently dual-use. Existing approaches to refusal, spanning academic policy frameworks and commercially deployed systems, often rely on broad topic-based bans or offensive-focused taxonomies. ",
     "url": "https://arxiv.org/abs/2602.15689",
     "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
+    "published_at": "2026-02-19T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
   },
   {
-    "title": "ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models",
-    "summary": "arXiv:2602.15758v1 Announce Type: cross Abstract: While Multimodal Large Language Models (MLLMs) perform strongly on single-turn chart generation, their ability to support real-world exploratory data analysis remains underexplored. In practice, users iteratively refine visualizations through multi-turn interactions that require maintaining common g",
-    "url": "https://arxiv.org/abs/2602.15758",
+    "title": "How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment",
+    "summary": "arXiv:2602.16039v1 Announce Type: new Abstract: The rapid rise of large language models (LLMs) is reshaping the landscape of automatic assessment in education. While these systems demonstrate substantial advantages in adaptability to diverse question types and flexibility in output formats, they also introduce new challenges related to output uncer",
+    "url": "https://arxiv.org/abs/2602.16039",
     "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
-  },
-  {
-    "title": "Decision Quality Evaluation Framework at Pinterest",
-    "summary": "arXiv:2602.15809v1 Announce Type: cross Abstract: Online platforms require robust systems to enforce content safety policies at scale. A critical component of these systems is the ability to evaluate the quality of moderation decisions made by both human agents and Large Language Models (LLMs). However, this evaluation is challenging due to the inh",
-    "url": "https://arxiv.org/abs/2602.15809",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
-  },
-  {
-    "title": "Prover Agent: An Agent-Based Framework for Formal Mathematical Proofs",
-    "summary": "arXiv:2506.19923v5 Announce Type: replace Abstract: We present Prover Agent, a novel AI agent for automated theorem proving that integrates large language models (LLMs) with a formal proof assistant, Lean. Prover Agent coordinates an informal reasoning LLM, a formal prover model, and feedback from Lean while also generating auxiliary lemmas. These ",
-    "url": "https://arxiv.org/abs/2506.19923",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
-  },
-  {
-    "title": "MultiSHAP: A Shapley-Based Framework for Explaining Cross-Modal Interactions in Multimodal AI Models",
-    "summary": "arXiv:2508.00576v2 Announce Type: replace Abstract: Multimodal AI models have achieved impressive performance in tasks that require integrating information from multiple modalities, such as vision and language. However, their \"black-box\" nature poses a major barrier to deployment in high-stakes applications where interpretability and trustworthines",
-    "url": "https://arxiv.org/abs/2508.00576",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
-  },
-  {
-    "title": "Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces",
-    "summary": "arXiv:2511.07587v2 Announce Type: replace Abstract: Large Language Models (LLMs) face fundamental challenges in long-context reasoning: many documents exceed their finite context windows, while performance on texts that do fit degrades with sequence length, necessitating their augmentation with external memory frameworks. Current solutions, which h",
-    "url": "https://arxiv.org/abs/2511.07587",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
-  },
-  {
-    "title": "Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents",
-    "summary": "arXiv:2601.15311v3 Announce Type: replace Abstract: Large Language Models (LLMs) are fundamentally constrained by the quadratic computational cost of self-attention and the \"Lost in the Middle\" phenomenon, where reasoning capabilities degrade as context windows expand. Existing solutions, primarily \"Flat RAG\" architectures relying on vector databas",
-    "url": "https://arxiv.org/abs/2601.15311",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
-  },
-  {
-    "title": "Sparse Autoencoders for Sequential Recommendation Models: Interpretation and Flexible Control",
-    "summary": "arXiv:2507.12202v2 Announce Type: replace-cross Abstract: Many current state-of-the-art models for sequential recommendations are based on transformer architectures. Interpretation and explanation of such black box models is an important research question, as a better understanding of their internals can help understand, influence, and control thei",
-    "url": "https://arxiv.org/abs/2507.12202",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
-  },
-  {
-    "title": "LogiPart: Local Large Language Models for Data Exploration at Scale with Logical Partitioning",
-    "summary": "arXiv:2509.22211v3 Announce Type: replace-cross Abstract: The discovery of deep, steerable taxonomies in large text corpora is currently restricted by a trade-off between the surface-level efficiency of topic models and the prohibitive, non-scalable assignment costs of LLM-integrated frameworks. We introduce \\textbf{LogiPart}, a scalable, hypothesi",
-    "url": "https://arxiv.org/abs/2509.22211",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
-  },
-  {
-    "title": "Text-Guided Layer Fusion Mitigates Hallucination in Multimodal LLMs",
-    "summary": "arXiv:2601.03100v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) typically rely on a single late-layer feature from a frozen vision encoder, leaving the encoder's rich hierarchy of visual cues under-utilized. MLLMs still suffer from visually ungrounded hallucinations, often relying on language priors rather than im",
-    "url": "https://arxiv.org/abs/2601.03100",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
-  },
-  {
-    "title": "Annotation-Efficient Vision-Language Model Adaptation to the Polish Language Using the LLaVA Framework",
-    "summary": "arXiv:2602.14073v2 Announce Type: replace-cross Abstract: Most vision-language models (VLMs) are trained on English-centric data, limiting their performance in other languages and cultural contexts. This restricts their usability for non-English-speaking users and hinders the development of multimodal systems that reflect diverse linguistic and cul",
-    "url": "https://arxiv.org/abs/2602.14073",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
-  },
-  {
-    "title": "Protecting Language Models Against Unauthorized Distillation through Trace Rewriting",
-    "summary": "arXiv:2602.15143v1 Announce Type: new Abstract: Knowledge distillation is a widely adopted technique for transferring capabilities from LLMs to smaller, more efficient student models. However, unauthorized use of knowledge distillation takes unfair advantage of the considerable effort and cost put into developing frontier models. We investigate met",
-    "url": "https://arxiv.org/abs/2602.15143",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
+    "published_at": "2026-02-19T05:00:00+00:00",
     "score": 6,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
+  },
+  {
+    "title": "GPSBench: Do Large Language Models Understand GPS Coordinates?",
+    "summary": "arXiv:2602.16105v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in applications that interact with the physical world, such as navigation, robotics, or mapping, making robust geospatial reasoning a critical capability. Despite that, LLMs' ability to reason about GPS coordinates and real-world geography remains",
+    "url": "https://arxiv.org/abs/2602.16105",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-19T05:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
+  },
+  {
+    "title": "Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents",
+    "summary": "arXiv:2602.16246v1 Announce Type: new Abstract: Interactive large language model (LLM) agents operating via multi-turn dialogue and multi-step tool calling are increasingly used in production. Benchmarks for these agents must both reliably compare models and yield on-policy training data. Prior agentic benchmarks (e.g., tau-bench, tau2-bench, AppWo",
+    "url": "https://arxiv.org/abs/2602.16246",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-19T05:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
+  },
+  {
+    "title": "Agent Skill Framework: Perspectives on the Potential of Small Language Models in Industrial Environments",
+    "summary": "arXiv:2602.16653v1 Announce Type: new Abstract: Agent Skill framework, now widely and officially supported by major players such as GitHub Copilot, LangChain, and OpenAI, performs especially well with proprietary models by improving context engineering, reducing hallucinations, and boosting task accuracy. Based on these observations, an investigati",
+    "url": "https://arxiv.org/abs/2602.16653",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-19T05:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-02-20T03:18:27.367288+00:00"
   }
 ]
