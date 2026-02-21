@@ -1,5 +1,14 @@
 [
   {
+    "title": "Could AI Data Centers Be Moved to Outer Space?",
+    "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+    "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
+    "source": "Wired AI",
+    "published_at": "2026-02-20T12:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-02-21T05:04:55.318982+00:00"
+  },
+  {
     "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
     "summary": "arXiv:2602.16727v1 Announce Type: new Abstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat large language models (LLMs) as human agents to simulate realistic mobility behaviors using structured reasoning, but their high computational cost l",
     "url": "https://arxiv.org/abs/2602.16727",
@@ -2688,15 +2697,6 @@
     "source": "Arxiv AI",
     "published_at": "2026-02-06T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-06T12:43:59.740086+00:00"
-  },
-  {
-    "title": "Knowledge Model Prompting Increases LLM Performance on Planning Tasks",
-    "summary": "arXiv:2602.03900v1 Announce Type: new Abstract: Large Language Models (LLM) can struggle with reasoning ability and planning tasks. Many prompting techniques have been developed to assist with LLM reasoning, notably Chain-of-Thought (CoT); however, these techniques, too, have come under scrutiny as LLMs' ability to reason at all has come into quest",
-    "url": "https://arxiv.org/abs/2602.03900",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-06T05:00:00+00:00",
-    "score": 6,
     "archived_at": "2026-02-06T12:43:59.740086+00:00"
   }
 ]

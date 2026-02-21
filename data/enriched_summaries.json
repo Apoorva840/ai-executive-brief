@@ -1,33 +1,18 @@
 [
   {
-    "title": "MCIF: Multimodal Crosslingual Instruction-Following Benchmark from Scientific Talks",
-    "url": "https://arxiv.org/abs/2507.19634",
-    "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2507.19634v3 Announce Type: replace-cross Abstract: Recent advances in large language models have laid the foundation for multimodal LLMs (MLLMs), which unify text, speech, and vision within a single framework. As these models are rapidly evolving toward general-purpose instruction following across diverse and complex tasks, a key frontier is",
-    "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
-    "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
-    ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
-  },
-  {
     "title": "The Search Engine for OnlyFans Models Who Look Like Your Crush",
     "url": "https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/",
     "source": "Wired AI",
     "score": 6,
     "what_happened": "Presearch’s “Doppelgänger” is trying to help people discover adult creators rather than use nonconsensual deepfakes.",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "Policy Leaders",
       "Tech Strategists"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
     "title": "AI Safety Meets the War Machine",
@@ -45,33 +30,48 @@
     "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
   },
   {
-    "title": "Fly0: Decoupling Semantic Grounding from Geometric Planning for Zero-Shot Aerial Navigation",
-    "url": "https://arxiv.org/abs/2602.15875",
+    "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
+    "url": "https://arxiv.org/abs/2602.16727",
     "source": "Arxiv AI",
     "score": 7,
-    "what_happened": "arXiv:2602.15875v1 Announce Type: cross Abstract: Current Visual-Language Navigation (VLN) methodologies face a trade-off between semantic understanding and control precision. While Multimodal Large Language Models (MLLMs) offer superior reasoning, deploying them as low-level controllers leads to high latency, trajectory oscillations, and poor gene",
+    "what_happened": "arXiv:2602.16727v1 Announce Type: new Abstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat large language models (LLMs) as human agents to simulate realistic mobility behaviors using structured reasoning, but their high computational cost l",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "Surrogate Modeling for Neutron Transport: A Neural Operator Approach",
-    "url": "https://arxiv.org/abs/2602.15890",
+    "title": "Mechanistic Interpretability of Cognitive Complexity in LLMs via Linear Probing using Bloom's Taxonomy",
+    "url": "https://arxiv.org/abs/2602.17229",
     "source": "Arxiv AI",
     "score": 7,
-    "what_happened": "arXiv:2602.15890v1 Announce Type: cross Abstract: This work introduces a neural operator based surrogate modeling framework for neutron transport computation. Two architectures, the Deep Operator Network (DeepONet) and the Fourier Neural Operator (FNO), were trained for fixed source problems to learn the mapping from anisotropic neutron sources, Q(",
+    "what_happened": "arXiv:2602.17229v1 Announce Type: new Abstract: The black-box nature of Large Language Models necessitates novel evaluation frameworks that transcend surface-level performance metrics. This study investigates the internal neural representations of cognitive complexity using Bloom's Taxonomy as a hierarchical lens. By analyzing high-dimensional acti",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "Research Scientists",
       "ML Engineers"
     ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment",
+    "url": "https://arxiv.org/abs/2602.17560",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2602.17560v1 Announce Type: new Abstract: Activation steering, or representation engineering, offers a lightweight approach to align large language models (LLMs) by manipulating their internal activations at inference time. However, current methods suffer from two key limitations: \\textit{(i)} the lack of a unified theoretical framework for g",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "who_should_care": [
+      "Research Scientists",
+      "ML Engineers"
+    ],
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   }
 ]
