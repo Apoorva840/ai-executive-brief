@@ -1,25 +1,10 @@
 [
   {
-    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
-    "url": "https://huggingface.co/blog/unsloth-jobs",
-    "source": "Hugging Face Blog",
-    "score": 8,
-    "what_happened": "Hugging Face Blog announced 'Train AI models with Unsloth and Hugging Face Jobs for FREE', highlighting new developments relevant to AI researchers and practitioners.",
-    "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
-    "who_should_care": [
-      "ML Engineers",
-      "Open-Source Contributors"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Enhancing Action and Ingredient Modeling for Semantically Grounded Recipe Generation",
-    "url": "https://arxiv.org/abs/2602.15862",
+    "title": "MCIF: Multimodal Crosslingual Instruction-Following Benchmark from Scientific Talks",
+    "url": "https://arxiv.org/abs/2507.19634",
     "source": "Arxiv AI",
-    "score": 7,
-    "what_happened": "arXiv:2602.15862v1 Announce Type: cross Abstract: Recent advances in Multimodal Large Language Models (MLMMs) have enabled recipe generation from food images, yet outputs often contain semantically incorrect actions or ingredients despite high lexical scores (e.g., BLEU, ROUGE). To address this gap, we propose a semantically grounded framework that",
+    "score": 8,
+    "what_happened": "arXiv:2507.19634v3 Announce Type: replace-cross Abstract: Recent advances in large language models have laid the foundation for multimodal LLMs (MLLMs), which unify text, speech, and vision within a single framework. As these models are rapidly evolving toward general-purpose instruction following across diverse and complex tasks, a key frontier is",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
@@ -27,29 +12,14 @@
       "Research Scientists",
       "ML Engineers"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
-    "source": "Hugging Face Blog",
-    "score": 7,
-    "what_happened": "Hugging Face Blog announced '「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速', highlighting new developments relevant to AI researchers and practitioners.",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
-    "who_should_care": [
-      "ML Engineers",
-      "Open-Source Contributors"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
-    "url": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
+    "title": "The Search Engine for OnlyFans Models Who Look Like Your Crush",
+    "url": "https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/",
     "source": "Wired AI",
-    "score": 5,
-    "what_happened": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
+    "score": 6,
+    "what_happened": "Presearch’s “Doppelgänger” is trying to help people discover adult creators rather than use nonconsensual deepfakes.",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
@@ -60,18 +30,48 @@
     "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift",
-    "url": "https://www.wired.com/story/perplexity-ads-shift-search-google/",
+    "title": "AI Safety Meets the War Machine",
+    "url": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
+    "what_happened": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
+    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "AI Ethics Engineers",
+      "Legal & Compliance"
+    ],
+    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
+  },
+  {
+    "title": "Fly0: Decoupling Semantic Grounding from Geometric Planning for Zero-Shot Aerial Navigation",
+    "url": "https://arxiv.org/abs/2602.15875",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2602.15875v1 Announce Type: cross Abstract: Current Visual-Language Navigation (VLN) methodologies face a trade-off between semantic understanding and control precision. While Multimodal Large Language Models (MLLMs) offer superior reasoning, deploying them as low-level controllers leads to high latency, trajectory oscillations, and poor gene",
+    "technical_takeaway": null,
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "Research Scientists",
+      "ML Engineers"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+  },
+  {
+    "title": "Surrogate Modeling for Neutron Transport: A Neural Operator Approach",
+    "url": "https://arxiv.org/abs/2602.15890",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2602.15890v1 Announce Type: cross Abstract: This work introduces a neural operator based surrogate modeling framework for neutron transport computation. Two architectures, the Deep Operator Network (DeepONet) and the Fourier Neural Operator (FNO), were trained for fixed source problems to learn the mapping from anisotropic neutron sources, Q(",
+    "technical_takeaway": null,
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "who_should_care": [
+      "Research Scientists",
+      "ML Engineers"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   }
 ]
