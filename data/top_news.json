@@ -1,45 +1,11 @@
 [
   {
-    "title": "The Search Engine for OnlyFans Models Who Look Like Your Crush",
-    "summary": "Presearch’s “Doppelgänger” is trying to help people discover adult creators rather than use nonconsensual deepfakes.",
-    "url": "https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/",
+    "title": "Could AI Data Centers Be Moved to Outer Space?",
+    "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+    "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
     "source": "Wired AI",
-    "published_at": "2026-02-20T11:00:00+00:00",
-    "score": 6
-  },
-  {
-    "title": "AI Safety Meets the War Machine",
-    "summary": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
-    "url": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
-    "source": "Wired AI",
-    "published_at": "2026-02-20T17:00:00+00:00",
-    "score": 5
-  },
-  {
-    "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
-    "summary": "arXiv:2602.16727v1 Announce Type: new Abstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat large language models (LLMs) as human agents to simulate realistic mobility behaviors using structured reasoning, but their high computational cost l",
-    "url": "https://arxiv.org/abs/2602.16727",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-20T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-21T03:09:31.599259+00:00"
-  },
-  {
-    "title": "Mechanistic Interpretability of Cognitive Complexity in LLMs via Linear Probing using Bloom's Taxonomy",
-    "summary": "arXiv:2602.17229v1 Announce Type: new Abstract: The black-box nature of Large Language Models necessitates novel evaluation frameworks that transcend surface-level performance metrics. This study investigates the internal neural representations of cognitive complexity using Bloom's Taxonomy as a hierarchical lens. By analyzing high-dimensional acti",
-    "url": "https://arxiv.org/abs/2602.17229",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-20T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-21T03:09:31.599259+00:00"
-  },
-  {
-    "title": "ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment",
-    "summary": "arXiv:2602.17560v1 Announce Type: new Abstract: Activation steering, or representation engineering, offers a lightweight approach to align large language models (LLMs) by manipulating their internal activations at inference time. However, current methods suffer from two key limitations: \\textit{(i)} the lack of a unified theoretical framework for g",
-    "url": "https://arxiv.org/abs/2602.17560",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-20T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-21T03:09:31.599259+00:00"
+    "published_at": "2026-02-20T12:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-02-21T05:04:55.318982+00:00"
   }
 ]
