@@ -1,0 +1,18 @@
+{
+  "date": "February 22, 2026",
+  "timestamp": "2026-02-22T03:22:39.793062",
+  "is_archive_run": true,
+  "total_stories": 1,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "[Archive] Could AI Data Centers Be Moved to Outer Space?",
+      "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+      "technical_takeaway": "Key technical reference from archive.",
+      "primary_risk": "Standard implementation risks apply.",
+      "primary_opportunity": "Incremental framework gains.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/"
+    }
+  ]
+}

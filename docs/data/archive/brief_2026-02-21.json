@@ -1,0 +1,58 @@
+{
+  "date": "February 21, 2026",
+  "timestamp": "2026-02-21T03:09:31.670390",
+  "is_archive_run": false,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "MCIF: Multimodal Crosslingual Instruction-Following Benchmark from Scientific Talks",
+      "summary": "arXiv:2507.19634v3 Announce Type: replace-cross Abstract: Recent advances in large language models have laid the foundation for multimodal LLMs (MLLMs), which unify text, speech, and vision within a single framework. As these models are rapidly evolving toward general-purpose instruction following across diverse and complex tasks, a key frontier is",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2507.19634"
+    },
+    {
+      "rank": 2,
+      "title": "The Search Engine for OnlyFans Models Who Look Like Your Crush",
+      "summary": "Presearch’s “Doppelgänger” is trying to help people discover adult creators rather than use nonconsensual deepfakes.",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/"
+    },
+    {
+      "rank": 3,
+      "title": "AI Safety Meets the War Machine",
+      "summary": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
+      "technical_takeaway": "Trust, not model size, is becoming a core technical constraint in AI systems.",
+      "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
+      "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/"
+    },
+    {
+      "rank": 4,
+      "title": "Fly0: Decoupling Semantic Grounding from Geometric Planning for Zero-Shot Aerial Navigation",
+      "summary": "arXiv:2602.15875v1 Announce Type: cross Abstract: Current Visual-Language Navigation (VLN) methodologies face a trade-off between semantic understanding and control precision. While Multimodal Large Language Models (MLLMs) offer superior reasoning, deploying them as low-level controllers leads to high latency, trajectory oscillations, and poor gene",
+      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.15875"
+    },
+    {
+      "rank": 5,
+      "title": "Surrogate Modeling for Neutron Transport: A Neural Operator Approach",
+      "summary": "arXiv:2602.15890v1 Announce Type: cross Abstract: This work introduces a neural operator based surrogate modeling framework for neutron transport computation. Two architectures, the Deep Operator Network (DeepONet) and the Fourier Neural Operator (FNO), were trained for fixed source problems to learn the mapping from anisotropic neutron sources, Q(",
+      "technical_takeaway": "Adds empirical validation to approaches already used in production AI stacks.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.15890"
+    }
+  ]
+}

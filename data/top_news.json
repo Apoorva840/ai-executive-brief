@@ -1,42 +1,46 @@
 [
   {
-    "title": "Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward",
-    "summary": "arXiv:2602.12430v3 Announce Type: replace-cross Abstract: The transition from monolithic language models to modular, skill-equipped agents marks a defining shift in how large language models (LLMs) are deployed in practice. Rather than encoding all procedural knowledge within model weights, agent skills -- composable packages of instructions, code,",
-    "url": "https://arxiv.org/abs/2602.12430",
+    "title": "How to Hide Google’s AI Overviews From Your Search Results",
+    "summary": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
+    "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+    "source": "Wired AI",
+    "published_at": "2026-02-22T11:00:00+00:00",
+    "score": 5
+  },
+  {
+    "title": "Could AI Data Centers Be Moved to Outer Space?",
+    "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+    "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
+    "source": "Wired AI",
+    "published_at": "2026-02-20T12:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-02-21T05:04:55.318982+00:00"
+  },
+  {
+    "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
+    "summary": "arXiv:2602.16727v1 Announce Type: new Abstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat large language models (LLMs) as human agents to simulate realistic mobility behaviors using structured reasoning, but their high computational cost l",
+    "url": "https://arxiv.org/abs/2602.16727",
     "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 8
+    "published_at": "2026-02-20T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-21T03:09:31.599259+00:00"
   },
   {
-    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-02-18T16:15:45+00:00",
-    "score": 7
+    "title": "Mechanistic Interpretability of Cognitive Complexity in LLMs via Linear Probing using Bloom's Taxonomy",
+    "summary": "arXiv:2602.17229v1 Announce Type: new Abstract: The black-box nature of Large Language Models necessitates novel evaluation frameworks that transcend surface-level performance metrics. This study investigates the internal neural representations of cognitive complexity using Bloom's Taxonomy as a hierarchical lens. By analyzing high-dimensional acti",
+    "url": "https://arxiv.org/abs/2602.17229",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-20T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-21T03:09:31.599259+00:00"
   },
   {
-    "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-    "summary": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the same kind of rigor as their ability to code or do math. As LLMs improve, people are asking them to play more&#8230;",
-    "url": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-02-18T16:00:22+00:00",
-    "score": 5
-  },
-  {
-    "title": "This Defense Company Made AI Agents That Blow Things Up",
-    "summary": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
-    "url": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
-    "source": "Wired AI",
-    "published_at": "2026-02-18T19:47:15+00:00",
-    "score": 5
-  },
-  {
-    "title": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
-    "summary": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
-    "url": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
-    "source": "Wired AI",
-    "published_at": "2026-02-18T19:24:55+00:00",
-    "score": 5
+    "title": "ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment",
+    "summary": "arXiv:2602.17560v1 Announce Type: new Abstract: Activation steering, or representation engineering, offers a lightweight approach to align large language models (LLMs) by manipulating their internal activations at inference time. However, current methods suffer from two key limitations: \\textit{(i)} the lack of a unified theoretical framework for g",
+    "url": "https://arxiv.org/abs/2602.17560",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-20T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-21T03:09:31.599259+00:00"
   }
 ]

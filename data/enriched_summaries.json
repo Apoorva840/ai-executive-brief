@@ -1,54 +1,25 @@
 [
   {
-    "title": "Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward",
-    "url": "https://arxiv.org/abs/2602.12430",
-    "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2602.12430v3 Announce Type: replace-cross Abstract: The transition from monolithic language models to modular, skill-equipped agents marks a defining shift in how large language models (LLMs) are deployed in practice. Rather than encoding all procedural knowledge within model weights, agent skills -- composable packages of instructions, code,",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-    "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-    "source": "Hugging Face Blog",
-    "score": 7,
-    "what_happened": "Hugging Face Blog announced 'IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST', highlighting new developments relevant to AI researchers and practitioners.",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-    "url": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-    "source": "MIT Technology Review AI",
+    "title": "How to Hide Google’s AI Overviews From Your Search Results",
+    "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+    "source": "Wired AI",
     "score": 5,
-    "what_happened": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the same kind of rigor as their ability to code or do math. As LLMs improve, people are asking them to play more&#8230;",
+    "what_happened": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "AI Professionals"
+      "Policy Leaders",
+      "Tech Strategists"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "This Defense Company Made AI Agents That Blow Things Up",
-    "url": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
+    "title": "Could AI Data Centers Be Moved to Outer Space?",
+    "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
+    "what_happened": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
     "technical_takeaway": null,
     "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
     "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
@@ -59,18 +30,48 @@
     "technical_angle": "Hardware and energy constraints now shape model design decisions."
   },
   {
-    "title": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
-    "url": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
+    "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
+    "url": "https://arxiv.org/abs/2602.16727",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2602.16727v1 Announce Type: new Abstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat large language models (LLMs) as human agents to simulate realistic mobility behaviors using structured reasoning, but their high computational cost l",
     "technical_takeaway": null,
-    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
-    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "AI Infrastructure Engineers",
-      "Sustainability Leaders"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Hardware and energy constraints now shape model design decisions."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "Mechanistic Interpretability of Cognitive Complexity in LLMs via Linear Probing using Bloom's Taxonomy",
+    "url": "https://arxiv.org/abs/2602.17229",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2602.17229v1 Announce Type: new Abstract: The black-box nature of Large Language Models necessitates novel evaluation frameworks that transcend surface-level performance metrics. This study investigates the internal neural representations of cognitive complexity using Bloom's Taxonomy as a hierarchical lens. By analyzing high-dimensional acti",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "Research Scientists",
+      "ML Engineers"
+    ],
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment",
+    "url": "https://arxiv.org/abs/2602.17560",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2602.17560v1 Announce Type: new Abstract: Activation steering, or representation engineering, offers a lightweight approach to align large language models (LLMs) by manipulating their internal activations at inference time. However, current methods suffer from two key limitations: \\textit{(i)} the lack of a unified theoretical framework for g",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "who_should_care": [
+      "Research Scientists",
+      "ML Engineers"
+    ],
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   }
 ]

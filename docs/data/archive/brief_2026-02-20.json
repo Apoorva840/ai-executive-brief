@@ -1,0 +1,58 @@
+{
+  "date": "February 20, 2026",
+  "timestamp": "2026-02-20T03:18:27.440967",
+  "is_archive_run": false,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+      "summary": "Hugging Face Blog announced 'Train AI models with Unsloth and Hugging Face Jobs for FREE', highlighting new developments relevant to AI researchers and practitioners.",
+      "technical_takeaway": "Adds empirical validation to approaches already used in production AI stacks.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/unsloth-jobs"
+    },
+    {
+      "rank": 2,
+      "title": "Enhancing Action and Ingredient Modeling for Semantically Grounded Recipe Generation",
+      "summary": "arXiv:2602.15862v1 Announce Type: cross Abstract: Recent advances in Multimodal Large Language Models (MLMMs) have enabled recipe generation from food images, yet outputs often contain semantically incorrect actions or ingredients despite high lexical scores (e.g., BLEU, ROUGE). To address this gap, we propose a semantically grounded framework that",
+      "technical_takeaway": "Adds empirical validation to approaches already used in production AI stacks.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2602.15862"
+    },
+    {
+      "rank": 3,
+      "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
+      "summary": "Hugging Face Blog announced '「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速', highlighting new developments relevant to AI researchers and practitioners.",
+      "technical_takeaway": "Adds empirical validation to approaches already used in production AI stacks.",
+      "primary_risk": "Marginal performance gains may not justify integration effort.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja"
+    },
+    {
+      "rank": 4,
+      "title": "Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
+      "summary": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/"
+    },
+    {
+      "rank": 5,
+      "title": "Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift",
+      "summary": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
+      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
+      "primary_risk": "Marginal performance gains may not justify integration effort.",
+      "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/perplexity-ads-shift-search-google/"
+    }
+  ]
+}
