@@ -55,7 +55,7 @@ def run_pipeline():
     print("========== AI NEWS PIPELINE START ==========")
     print(f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
-    # PRE-STEP: Clear old session data
+    # PRE-STEP: Clear old session data to ensure fresh results
     for path in [RAW_NEWS_PATH, TOP_NEWS_PATH, ENRICHED_PATH]:
         if os.path.exists(path):
             os.remove(path)
@@ -65,7 +65,7 @@ def run_pipeline():
         print("CRITICAL: Fetch stage failed.")
         sys.exit(1)
 
-    # STEP 2: Check for new content
+    # STEP 2: Check for content
     has_new_content = False
     raw_data = []
     if os.path.exists(RAW_NEWS_PATH):
@@ -77,16 +77,15 @@ def run_pipeline():
             except json.JSONDecodeError:
                 has_new_content = False
 
-    # STEP 3: The Fork in the Road
+    # STEP 3: Content Processing
     if has_new_content:
-        # PATH A: New news exists -> Run full AI process
-        print(f">>> {len(raw_data)} new articles found. Executing full AI enhancement...")
+        print(f">>> {len(raw_data)} new articles found. Executing AI enhancement...")
         
-        # ADDED jargon_buster.py to the flow here
         standard_flow = [
             "ai_deduplicate.py", 
-            "jargon_buster.py", # Extracts concepts from deduped news
-            "rank_news.py", 
+            "jargon_buster.py",     # Project B: Weekly Jargon (Handles Saturday logic inside)
+            # "process_lab_report.py", # Project C: (Disabled for now to fix errors first)
+            "rank_news.py",         # Project A: Ranking & Selection
             "summarize.py", 
             "enrich.py"
         ]
@@ -96,27 +95,22 @@ def run_pipeline():
                 print(f"Pipeline stopped at {script}")
                 sys.exit(1)
     else:
-        # PATH B: 0 new news -> Try Archive/Backup
+        # PATH B: 0 new news -> Try Archive (Fixes Sunday Drought UI)
         print(">>> 0 new articles found. Switching to Archive Recovery Mode...")
         if os.path.exists(BACKUP_QUEUE_PATH):
             with open(BACKUP_QUEUE_PATH, "r", encoding="utf-8") as f:
                 backup_data = json.load(f)
             
             if len(backup_data) > 0:
-                print(f">>> Found {len(backup_data)} stories in backup queue. Using top 5.")
+                print(f">>> Found {len(backup_data)} stories in backup. Filling Today's Brief.")
                 with open(TOP_NEWS_PATH, "w", encoding="utf-8") as f:
                     json.dump(backup_data[:5], f, indent=2, ensure_ascii=False)
-                print(">>> Archive articles loaded. Bypassing AI steps.")
             else:
-                print(">>> Archive is also empty. Ending pipeline.")
+                print(">>> Archive empty. Pipeline cannot proceed.")
                 sys.exit(0)
-        else:
-            print(">>> No backup_queue.json found. Ending pipeline.")
-            sys.exit(0)
 
     # STEP 4: Always Format and Send
     final_steps = ["format_brief.py", "send_email.py"]
-    #final_steps = ["format_brief.py"]
     for script in final_steps:
         if not run_step(script):
             sys.exit(1)

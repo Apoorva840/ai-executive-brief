@@ -23,12 +23,14 @@ ARCHIVE_FILE = DATA_DIR / "archive_news.json"
 BACKUP_QUEUE_FILE = DATA_DIR / "backup_queue.json"
 
 # ============================
-# SOURCE WEIGHTS
+# SOURCE WEIGHTS (Updated with New Sources)
 # ============================
 SOURCE_SCORES = {
     "Hugging Face Blog": 6,
+    "The Decoder": 5,          # High rank for weekend/analytical coverage
     "TechCrunch AI": 5,
     "VentureBeat AI": 5,
+    "AI News": 4,              # Reliable weekend daily updates
     "Wired AI": 4,
     "Microsoft Research": 4,
     "Arxiv AI": 3
@@ -79,6 +81,7 @@ for a in articles:
         a["score"] = score_article(a)
         fresh.append(a)
 
+# Sort by score descending
 fresh = sorted(fresh, key=lambda x: x["score"], reverse=True)
 
 # ============================
@@ -94,10 +97,12 @@ for a in fresh:
     src = a.get("source", "Unknown")
     source_counter[src] = source_counter.get(src, 0)
 
+    # Arxiv constraint
     if src == "Arxiv AI" and arxiv_count >= MAX_ARXIV:
         overflow.append(a)
         continue
 
+    # Diversity constraint
     if source_counter[src] < MAX_PER_SOURCE and len(selected) < TOP_K:
         selected.append(a)
         source_counter[src] += 1
@@ -110,7 +115,10 @@ for a in fresh:
 # LOAD ARCHIVE
 # ============================
 if ARCHIVE_FILE.exists():
-    archive = json.loads(ARCHIVE_FILE.read_text(encoding="utf-8"))
+    try:
+        archive = json.loads(ARCHIVE_FILE.read_text(encoding="utf-8"))
+    except:
+        archive = []
 else:
     archive = []
 
@@ -124,7 +132,9 @@ if len(selected) < TOP_K:
     for a in archive:
         if len(selected) >= TOP_K:
             break
-        selected.append(a)
+        # Optional: Add check to avoid duplicates if they exist in both
+        if a["url"] not in [s["url"] for s in selected]:
+            selected.append(a)
 
 # ============================
 # UPDATE ARCHIVE

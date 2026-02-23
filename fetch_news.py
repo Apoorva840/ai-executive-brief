@@ -35,6 +35,8 @@ SOURCES = [
     {"name": "Arxiv AI", "rss": "http://export.arxiv.org/rss/cs.AI"},
     {"name": "Microsoft Research", "rss": "https://www.microsoft.com/en-us/research/feed/"},
     {"name": "Hugging Face Blog", "rss": "https://huggingface.co/blog/feed.xml"},
+    {"name": "The Decoder", "rss": "https://the-decoder.com/feed/"},
+    {"name": "AI News", "rss": "https://artificialintelligence-news.com/feed/"}
 ]
 
 # ============================
