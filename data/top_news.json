@@ -1,46 +1,42 @@
 [
   {
-    "title": "How to Hide Google’s AI Overviews From Your Search Results",
-    "summary": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
-    "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
-    "source": "Wired AI",
-    "published_at": "2026-02-22T11:00:00+00:00",
-    "score": 5
-  },
-  {
-    "title": "Could AI Data Centers Be Moved to Outer Space?",
-    "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
-    "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
-    "source": "Wired AI",
-    "published_at": "2026-02-20T12:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-02-21T05:04:55.318982+00:00"
-  },
-  {
-    "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
-    "summary": "arXiv:2602.16727v1 Announce Type: new Abstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat large language models (LLMs) as human agents to simulate realistic mobility behaviors using structured reasoning, but their high computational cost l",
-    "url": "https://arxiv.org/abs/2602.16727",
+    "title": "DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation",
+    "summary": "arXiv:2506.06251v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabilities in automated front-end engineering, e.g., generating UI code from visual designs. However, existing front-end UI code generation benchmarks have the following limitations: (1) While framework-based development",
+    "url": "https://arxiv.org/abs/2506.06251",
     "source": "Arxiv AI",
-    "published_at": "2026-02-20T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-21T03:09:31.599259+00:00"
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 8
   },
   {
-    "title": "Mechanistic Interpretability of Cognitive Complexity in LLMs via Linear Probing using Bloom's Taxonomy",
-    "summary": "arXiv:2602.17229v1 Announce Type: new Abstract: The black-box nature of Large Language Models necessitates novel evaluation frameworks that transcend surface-level performance metrics. This study investigates the internal neural representations of cognitive complexity using Bloom's Taxonomy as a hierarchical lens. By analyzing high-dimensional acti",
-    "url": "https://arxiv.org/abs/2602.17229",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-20T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-21T03:09:31.599259+00:00"
+    "title": "Inception launches Mercury 2, the first diffusion-based language reasoning model",
+    "summary": "Mercury 2 from Inception is the first diffusion-based reasoning model. Instead of generating text word by word, it refines entire passages in parallel, making it more than five times faster than conventional language models. The article Inception launches Mercury 2, the first diffusion-based language reasoning model appeared first on The Decoder.",
+    "url": "https://the-decoder.com/inception-launches-mercury-2-the-first-diffusion-based-language-reasoning-model/",
+    "source": "The Decoder",
+    "published_at": "2026-02-24T19:36:44+00:00",
+    "score": 7
   },
   {
-    "title": "ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment",
-    "summary": "arXiv:2602.17560v1 Announce Type: new Abstract: Activation steering, or representation engineering, offers a lightweight approach to align large language models (LLMs) by manipulating their internal activations at inference time. However, current methods suffer from two key limitations: \\textit{(i)} the lack of a unified theoretical framework for g",
-    "url": "https://arxiv.org/abs/2602.17560",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-20T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-21T03:09:31.599259+00:00"
+    "title": "OpenAI ships API upgrades targeting voice reliability and agent speed for developers",
+    "summary": "OpenAI brings a new audio model and faster connections for AI agents. The article OpenAI ships API upgrades targeting voice reliability and agent speed for developers appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-ships-api-upgrades-targeting-voice-reliability-and-agent-speed-for-developers/",
+    "source": "The Decoder",
+    "published_at": "2026-02-24T08:51:00+00:00",
+    "score": 7
+  },
+  {
+    "title": "Anthropic: Claude faces ‘industrial-scale’ AI model distillation",
+    "summary": "Anthropic has detailed three &#8220;industrial-scale&#8221; AI model distillation campaigns by overseas labs designed to extract abilities from Claude. These competitors generated over 16 million exchanges using approximately 24,000 deceptive accounts. Their goal was to acquire proprietary logic to improve their competing platforms. The extraction ",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/",
+    "source": "AI News",
+    "published_at": "2026-02-24T15:56:35+00:00",
+    "score": 6
+  },
+  {
+    "title": "Basware’s AI agents: From invoicing to ‘100% automated’",
+    "summary": "Basware has introduced a AI agents in its invoice lifecycle management platform to extend the existing InvoiceAI abilities of the platform. The company positions the agents as a step towards what it calls &#8220;Agentic Finance,&#8221; a model in which AI systems undertake finance tasks under preset controls. Jason Kurtz, chief executive officer of",
+    "url": "https://www.artificialintelligence-news.com/news/invoicing-agentic-ai-baswares-ai-agents-from-invoicing-to-100-automated/",
+    "source": "AI News",
+    "published_at": "2026-02-24T12:14:00+00:00",
+    "score": 6
   }
 ]
