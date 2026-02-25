@@ -1841,6 +1841,13 @@
     "published_at": "2026-02-25T05:00:00+00:00"
   },
   {
+    "title": "Claude Code sessions now accessible from any device",
+    "summary": "Claude Code users can now continue a locally running programming session from their smartphone, tablet, or browser. The article Claude Code sessions now accessible from any device appeared first on The Decoder.",
+    "url": "https://the-decoder.com/claude-code-sessions-now-accessible-from-any-device/",
+    "source": "The Decoder",
+    "published_at": "2026-02-25T10:20:48+00:00"
+  },
+  {
     "title": "Claude can now jump between Excel and PowerPoint on its own",
     "summary": "Anthropic now lets Claude switch independently between Excel and PowerPoint - for example, running an analysis and then building a presentation directly from the results. The article Claude can now jump between Excel and PowerPoint on its own appeared first on The Decoder.",
     "url": "https://the-decoder.com/claude-now-works-independently-across-excel-and-powerpoint/",
@@ -1869,11 +1876,11 @@
     "published_at": "2026-02-24T17:29:37+00:00"
   },
   {
-    "title": "OpenAI ships API upgrades targeting voice reliability and agent speed for developers",
-    "summary": "OpenAI brings a new audio model and faster connections for AI agents. The article OpenAI ships API upgrades targeting voice reliability and agent speed for developers appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-ships-api-upgrades-targeting-voice-reliability-and-agent-speed-for-developers/",
-    "source": "The Decoder",
-    "published_at": "2026-02-24T08:51:00+00:00"
+    "title": "Nokia and AWS pilot AI automation for real-time 5G network slicing",
+    "summary": "Telecom networks may soon begin adjusting themselves in real time, as operators test systems that allow AI agents to manage traffic and service quality. AI may soon be making operational decisions. This week, Nokia and AWS presented a new network slicing system that uses AI agents to monitor network conditions and adjust resources automatically. Th",
+    "url": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
+    "source": "AI News",
+    "published_at": "2026-02-25T10:00:00+00:00"
   },
   {
     "title": "Anthropic: Claude faces \u2018industrial-scale\u2019 AI model distillation",
@@ -1902,12 +1909,5 @@
     "url": "https://www.artificialintelligence-news.com/news/invoicing-agentic-ai-baswares-ai-agents-from-invoicing-to-100-automated/",
     "source": "AI News",
     "published_at": "2026-02-24T12:14:00+00:00"
-  },
-  {
-    "title": "COBOL modernisation just got an AI shortcut\u2013and the market noticed",
-    "summary": "It&#8217;s an open secret (that is, not many people seem to know) that the institutions keeping the global financial system turnig over run code that is ancient, barely understood, and frighteningly hard to replace. Now, AI is finally making that problem solvable \u2013 and the market has responded with a reality check for one of [&#8230;] The post COBO",
-    "url": "https://www.artificialintelligence-news.com/news/cobol-modernization-ai-claude-ibm/",
-    "source": "AI News",
-    "published_at": "2026-02-24T10:00:00+00:00"
   }
 ]

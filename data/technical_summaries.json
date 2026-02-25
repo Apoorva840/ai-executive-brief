@@ -22,11 +22,11 @@
     "who_should_care": null
   },
   {
-    "title": "OpenAI ships API upgrades targeting voice reliability and agent speed for developers",
-    "url": "https://the-decoder.com/openai-ships-api-upgrades-targeting-voice-reliability-and-agent-speed-for-developers/",
+    "title": "Claude Code sessions now accessible from any device",
+    "url": "https://the-decoder.com/claude-code-sessions-now-accessible-from-any-device/",
     "source": "The Decoder",
-    "score": 7,
-    "what_happened": "OpenAI brings a new audio model and faster connections for AI agents. The article OpenAI ships API upgrades targeting voice reliability and agent speed for developers appeared first on The Decoder.",
+    "score": 6,
+    "what_happened": "Claude Code users can now continue a locally running programming session from their smartphone, tablet, or browser. The article Claude Code sessions now accessible from any device appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": null,
     "primary_opportunity": null,
