@@ -50,26 +50,33 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
+          # --- SYNC & ARCHIVE LOGIC ---
           FILE_DATE=$(TZ='Asia/Kolkata' date +'%Y-%m-%d')
           
-          # Force sync from root data to docs data
-          if [ -f "data/daily_brief.json" ]; then
-            cp data/daily_brief.json docs/data/daily_brief.json
-          fi
-          
+          # CORRECTED: Only interact with docs/data/ where the output actually exists
           mkdir -p docs/data/archive
+          
           if [ -f "docs/data/daily_brief.json" ]; then
-            cp data/daily_brief.json "docs/data/archive/brief_$FILE_DATE.json"
+            # Copy from docs/data/ directly to the archive
+            cp docs/data/daily_brief.json "docs/data/archive/brief_$FILE_DATE.json"
+            echo "✅ Synced daily_brief.json to archive."
+          else
+            echo "❌ Error: docs/data/daily_brief.json not found! Check run_pipeline.py logs."
+            exit 1
           fi
           
-          # Generate manifest for the web archive
+          # Improved manifest logic
           ls docs/data/archive | sed 's/brief_//;s/.json//' | jq -R . | jq -s . > docs/data/manifest.json
 
+          # --- SAFE PUSH LOGIC ---
           git add .
           
           if ! git diff --cached --quiet; then
-            git commit -m "🤖 Fix: Unified Pipeline Sync for $FILE_DATE [skip ci]"
+            git commit -m "🤖 Auto-update: Data for $FILE_DATE [skip ci]"
+            
+            # Use rebase to avoid merge commits
             git pull --rebase -X theirs origin main
+            
             git push origin main
           else
             echo "No changes to commit."
