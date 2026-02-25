@@ -110,8 +110,8 @@ def run_pipeline():
                 sys.exit(0)
 
     # STEP 4: Always Format and Send
-    #final_steps = ["format_brief.py", "send_email.py"]
-    final_steps = ["format_brief.py"]
+    final_steps = ["format_brief.py", "send_email.py"]
+    #final_steps = ["format_brief.py"]
     for script in final_steps:
         if not run_step(script):
             sys.exit(1)
