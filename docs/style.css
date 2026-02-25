@@ -2,49 +2,49 @@
    Reset & Base
 ========================= */
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-  background: #f3f4f6; /* soft executive gray */
-  color: #1f2937;
-  line-height: 1.65;
-  padding-top: 280px; /* Offset for the sticky header - adjust based on header height */
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    background: #f3f4f6; /* soft executive gray */
+    color: #1f2937;
+    line-height: 1.65;
+    padding-top: 280px; /* Offset for the sticky header */
 }
 
 /* =========================
    Sticky Header & Controls
 ========================= */
 header {
-  background: linear-gradient(135deg, #0f172a, #020617);
-  color: #ffffff;
-  padding: 40px 20px;
-  text-align: center;
-  position: fixed; /* Makes header sticky */
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 1000;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    background: linear-gradient(135deg, #0f172a, #020617);
+    color: #ffffff;
+    padding: 40px 20px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
 }
 
 header h1 {
-  margin: 0;
-  font-size: 2.2rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
+    margin: 0;
+    font-size: 2.2rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
 }
 
 header p {
-  margin: 8px 0;
-  opacity: 0.92;
-  font-size: 1rem;
+    margin: 8px 0;
+    opacity: 0.92;
+    font-size: 1rem;
 }
 
 .header-controls {
@@ -56,25 +56,11 @@ header p {
 }
 
 #meta {
-  font-size: 0.85rem;
-  opacity: 0.75;
-  font-weight: 500;
+    font-size: 0.85rem;
+    opacity: 0.75;
+    font-weight: 500;
 }
 
-/* Reading Time Badge */
-/*.reading-badge {
-    display: inline-block;
-    background: rgba(255, 255, 255, 0.15);
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-}*/
-
-/* Reading Time Badge - Grounded Version */
 .reading-badge {
     display: inline-flex;
     align-items: center;
@@ -86,7 +72,7 @@ header p {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    margin-bottom: 16px; /* Space between badge and "AI Executive Brief" */
+    margin-bottom: 16px;
     border: 1px solid rgba(255, 255, 255, 0.15);
     color: rgba(255, 255, 255, 0.9);
 }
@@ -102,7 +88,6 @@ header p {
     color: rgba(255, 255, 255, 0.8);
 }
 
-/* Executive Dropdown Styling */
 #history-select {
     background-color: rgba(255, 255, 255, 0.05);
     color: white;
@@ -130,101 +115,73 @@ header p {
    Main container
 ========================= */
 main {
-  max-width: 850px; /* Slightly narrower for better readability */
-  margin: 40px auto;
-  padding: 0 20px;
+    max-width: 850px;
+    margin: 40px auto;
+    padding: 0 20px;
 }
 
 /* =========================
    STORY CARD (EXECUTIVE STYLE)
 ========================= */
 .story {
-  background: #ffffff;
-  border-radius: 16px;
-  padding: 35px 40px;
-  margin-bottom: 40px;
-  border: 1px solid #e5e7eb;
-  border-left: 5px solid #0f172a; /* Navy accent */
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 35px 40px;
+    margin-bottom: 40px;
+    border: 1px solid #e5e7eb;
+    border-left: 5px solid #0f172a; /* Navy accent */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .story:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    transform: translateY(-4px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
 }
 
 .story h2 {
-  margin-top: 0;
-  margin-bottom: 20px;
-  font-size: 1.6rem;
-  font-weight: 800;
-  color: #0f172a;
-  line-height: 1.3;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.3;
 }
 
 .story h3 {
-  margin-top: 28px;
-  margin-bottom: 8px;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-weight: 800;
+    margin-top: 28px;
+    margin-bottom: 8px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 800;
 }
 
 /* Section Specific Pop Colors */
-/* Summary - Neutral */
-.story h3:nth-of-type(1) { color: #4b5563; } 
+.story h3:nth-of-type(1) { color: #4b5563; } /* Summary */
+.story h3:nth-of-type(2) { color: #2563eb; } /* Technical Takeaway */
+.story h3:nth-of-type(3) { color: #dc2626; } /* Risk */
+.story h3:nth-of-type(4) { color: #16a34a; } /* Opportunity */
 
-/* Technical Takeaway - Blue */
-.story h3:nth-of-type(2) { color: #2563eb; }
-
-/* Primary Risk - Red */
-.story h3:nth-of-type(3) { color: #dc2626; }
-
-/* Primary Opportunity - Green */
-.story h3:nth-of-type(4) { color: #16a34a; }
-
-/* =========================
-   Paragraphs & Links
-========================= */
 .story p {
-  margin-top: 0;
-  font-size: 1.05rem;
-  color: #374151;
-  line-height: 1.7;
+    margin-top: 0;
+    font-size: 1.05rem;
+    color: #374151;
+    line-height: 1.7;
 }
 
 .story .source {
-  margin-top: 25px;
-  font-size: 0.85rem;
-  border-top: 1px solid #f3f4f6;
-  padding-top: 20px;
-  color: #6b7280;
+    margin-top: 25px;
+    font-size: 0.85rem;
+    border-top: 1px solid #f3f4f6;
+    padding-top: 20px;
+    color: #6b7280;
 }
 
 .story .source a {
-  color: #2563eb;
-  text-decoration: none;
-  font-weight: 600;
-  transition: color 0.2s;
-}
-
-.story .source a:hover {
-  color: #1d4ed8;
-  text-decoration: underline;
-}
-
-/* =========================
-   Footer
-========================= */
-footer {
-  text-align: center;
-  padding: 60px 20px;
-  font-size: 0.85rem;
-  color: #9ca3af;
-  border-top: 1px solid #e5e7eb;
-  background: white;
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 600;
 }
 
 /* =========================
@@ -245,6 +202,7 @@ footer {
     display: flex;
     align-items: center;
     gap: 10px;
+    font-weight: 700;
 }
 
 .jargon-grid {
@@ -258,31 +216,77 @@ footer {
     border: 1px solid #e2e8f0;
     padding: 20px;
     border-radius: 12px;
-    transition: all 0.2s ease;
 }
 
-.jargon-card:hover {
-    border-color: #2563eb;
-    background: #f0f7ff;
+/* =========================
+   LAB REPORT (RESEARCH) - BOTTOM SECTION
+========================= */
+#lab-report {
+    margin-top: 60px; /* Space from the last news story */
+    margin-bottom: 50px;
+    background: #ffffff;
+    padding: 35px;
+    border-radius: 16px;
+    border: 1px solid #e5e7eb;
+    border-top: 6px solid #6366f1; /* Scientific Indigo accent */
 }
 
-.jargon-card h4 {
+.lab-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.lab-card {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 25px;
+    border-radius: 12px;
+    border-left: 4px solid #6366f1;
+}
+
+.lab-card h4 {
     margin-top: 0;
-    color: #2563eb;
-    text-transform: uppercase;
-    font-size: 0.9rem;
-    letter-spacing: 0.05em;
+    margin-bottom: 12px;
+    color: #1e1b4b;
+    font-size: 1.2rem;
+    font-weight: 700;
 }
 
-.jargon-card p {
+.lab-meta p {
     font-size: 0.95rem;
-    line-height: 1.5;
     margin-bottom: 10px;
+    line-height: 1.5;
+    color: #334155;
 }
 
-.jargon-card em {
+.lab-meta strong {
+    color: #4338ca; /* Darker indigo for labels */
+}
+
+.lab-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #6366f1;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+
+.lab-link:hover {
+    text-decoration: underline;
+}
+
+/* =========================
+   Footer
+========================= */
+footer {
+    text-align: center;
+    padding: 60px 20px;
     font-size: 0.85rem;
-    color: #64748b;
+    color: #9ca3af;
+    border-top: 1px solid #e5e7eb;
+    background: white;
 }
 
 .update-tag {
@@ -292,7 +296,4 @@ footer {
     padding: 2px 10px;
     border-radius: 12px;
     margin-left: 10px;
-    font-weight: 500;
-    text-transform: none;
-    letter-spacing: normal;
 }

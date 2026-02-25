@@ -1,9 +1,12 @@
 document.addEventListener("DOMContentLoaded", () => {
     const historySelect = document.getElementById("history-select");
 
+    // Initialize all vertical data
     loadBriefData("./data/daily_brief.json");
     loadJargonData("./data/jargon_buster.json");
+    loadLabData("./data/lab_report.json");
 
+    // Archive Manifest Logic
     fetch("./data/manifest.json")
         .then(response => response.ok ? response.json() : [])
         .then(dates => {
@@ -34,11 +37,8 @@ function loadJargonData(path) {
 
             if (data && data.is_weekly_active === true) {
                 section.style.display = "block";
-                
-                // Add the "Last Updated" timestamp to the section title
                 const titleElement = section.querySelector(".section-title");
                 titleElement.innerHTML = `🎓 Jargon Decoder <span class="update-tag">Updated: ${data.last_updated}</span>`;
-
                 container.innerHTML = "";
                 data.terms.forEach(item => {
                     const box = document.createElement("div");
@@ -49,6 +49,36 @@ function loadJargonData(path) {
                         <p><em>Analogy: ${item.analogy}</em></p>
                     `;
                     container.appendChild(box);
+                });
+            } else {
+                section.style.display = "none";
+            }
+        });
+}
+
+function loadLabData(path) {
+    fetch(path)
+        .then(response => response.ok ? response.json() : null)
+        .then(data => {
+            const section = document.getElementById("lab-report");
+            const container = document.getElementById("lab-container");
+
+            if (data && data.papers && data.papers.length > 0) {
+                section.style.display = "block";
+                container.innerHTML = "";
+                data.papers.forEach(paper => {
+                    const card = document.createElement("div");
+                    card.className = "lab-card";
+                    card.innerHTML = `
+                        <h4>${paper.title}</h4>
+                        <div class="lab-meta">
+                            <p><strong>Innovation:</strong> ${paper.innovation}</p>
+                            <p><strong>Benchmarks:</strong> ${paper.benchmarks}</p>
+                            <p><strong>Use Case:</strong> ${paper.use_case}</p>
+                        </div>
+                        <a href="${paper.url}" target="_blank" class="lab-link">Read Full Paper →</a>
+                    `;
+                    container.appendChild(card);
                 });
             } else {
                 section.style.display = "none";
@@ -70,17 +100,14 @@ function loadBriefData(path) {
                 card.className = "story";
                 card.innerHTML = `
                     <h2>${story.rank}. ${story.title}</h2>
-                    
                     <div class="story-content">
                         <h3>Summary</h3>
                         <p>${story.summary}</p>
-                        
-                        <div class="tech-details" style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 5px solid #2c3e50; margin: 15px 0;">
-                            <p style="margin: 8px 0;"><strong style="color: #2c3e50;">💡 Technical Takeaway:</strong> ${story.technical_takeaway}</p>
-                            <p style="margin: 8px 0;"><strong style="color: #c0392b;">⚖️ Primary Risk:</strong> ${story.primary_risk}</p>
-                            <p style="margin: 8px 0;"><strong style="color: #27ae60;">🚀 Primary Opportunity:</strong> ${story.primary_opportunity}</p>
+                        <div class="tech-details">
+                            <p><strong>💡 Technical Takeaway:</strong> ${story.technical_takeaway}</p>
+                            <p><strong style="color: #c0392b;">⚖️ Primary Risk:</strong> ${story.primary_risk}</p>
+                            <p><strong style="color: #27ae60;">🚀 Primary Opportunity:</strong> ${story.primary_opportunity}</p>
                         </div>
-
                         <p class="source">Source: <a href="${story.url}" target="_blank">${story.source}</a></p>
                     </div>
                 `;
