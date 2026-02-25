@@ -84,7 +84,7 @@ def run_pipeline():
         standard_flow = [
             "ai_deduplicate.py", 
             "jargon_buster.py",     # Project B: Weekly Jargon (Handles Saturday logic inside)
-            # "process_lab_report.py", # Project C: (Disabled for now to fix errors first)
+            "process_lab_report.py", # Project C: (Disabled for now to fix errors first)
             "rank_news.py",         # Project A: Ranking & Selection
             "summarize.py", 
             "enrich.py"

@@ -2,6 +2,7 @@ import json
 import os
 from pathlib import Path
 from google import genai
+from google.genai import types # This is part of google-genai
 
 # --- CONFIG ---
 INPUT_FILE = "data/deduped_news.json"
@@ -14,7 +15,6 @@ def filter_research_papers():
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         all_articles = json.load(f)
 
-    # Only consider specific research sources
     research_sources = ["Arxiv AI", "Hugging Face Blog", "Microsoft Research"]
     papers = [a for a in all_articles if a.get("source") in research_sources]
     
@@ -24,7 +24,6 @@ def analyze_papers_with_gemini(papers):
     if not papers:
         return None
 
-    # We take the top 10 most recent to let Gemini decide the best 3
     sample_text = ""
     for p in papers[:10]:
         sample_text += f"Title: {p['title']}\nAbstract: {p.get('summary', 'No abstract')}\nURL: {p['url']}\n---\n"
@@ -36,11 +35,6 @@ def analyze_papers_with_gemini(papers):
     {sample_text}
 
     Select the 3 most important papers for an AI Engineer.
-    For each, provide:
-    1. Key Innovation (What is actually new?)
-    2. Benchmark/Result (Numbers or evidence of success)
-    3. Practical Use Case (How can a dev use this today?)
-
     Return ONLY valid JSON:
     {{
       "last_updated": "Today's Date",
@@ -56,16 +50,24 @@ def analyze_papers_with_gemini(papers):
     }}
     """
 
+    # Using your confirmed working model version
     response = client.models.generate_content(
         model="gemini-2.5-flash",
         contents=prompt,
-        config={'response_mime_type': 'application/json'}
+        config=types.GenerateContentConfig(
+            response_mime_type='application/json'
+        )
     )
     return json.loads(response.text)
 
 def main():
     print("🔬 Filtering Research Papers for Lab Report...")
     papers = filter_research_papers()
+    
+    if not papers:
+        print("⚠️ No research papers found today.")
+        return
+
     report = analyze_papers_with_gemini(papers)
     
     if report:
