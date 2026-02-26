@@ -1,10 +1,31 @@
 [
   {
-    "title": "AI Will Never Be Conscious",
-    "summary": "In his new book, A World Appears, Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.",
-    "url": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
+    "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
+    "summary": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
+    "url": "https://www.wired.com/story/openai-hires-riley-walz/",
     "source": "Wired AI",
-    "published_at": "2026-02-24T11:00:00+00:00"
+    "published_at": "2026-02-25T19:59:26+00:00"
+  },
+  {
+    "title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
+    "summary": "An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission.",
+    "url": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
+    "source": "Wired AI",
+    "published_at": "2026-02-25T19:00:00+00:00"
+  },
+  {
+    "title": "Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works",
+    "summary": "Starting with the Samsung Galaxy S26, Google’s Gemini can automate tasks in popular mobile apps. We got a live demo of the new feature in action.",
+    "url": "https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/",
+    "source": "Wired AI",
+    "published_at": "2026-02-25T18:00:00+00:00"
+  },
+  {
+    "title": "Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars",
+    "summary": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
+    "url": "https://www.wired.com/story/ailias-hologram-avatars/",
+    "source": "Wired AI",
+    "published_at": "2026-02-25T12:00:00+00:00"
   },
   {
     "title": "Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health",
@@ -1841,6 +1862,41 @@
     "published_at": "2026-02-25T05:00:00+00:00"
   },
   {
+    "title": "Perplexity Computer bundles rival AI models into one agentic workflow system for $200 a month",
+    "summary": "Perplexity bundles AI models from Anthropic, Google, xAI and OpenAI in an agentic system that is designed to carry out complex workflows independently. The article Perplexity Computer bundles rival AI models into one agentic workflow system for $200 a month appeared first on The Decoder.",
+    "url": "https://the-decoder.com/perplexity-computer-bundles-rival-ai-models-into-one-agentic-workflow-system-for-200-a-month/",
+    "source": "The Decoder",
+    "published_at": "2026-02-25T19:50:51+00:00"
+  },
+  {
+    "title": "Google relaunches its AI creative studio Flow with new features and integrations",
+    "summary": "Google is turning its AI creative studio Flow into an all-in-one tool for images and videos, with free image generators and new editing features. The article Google relaunches its AI creative studio Flow with new features and integrations appeared first on The Decoder.",
+    "url": "https://the-decoder.com/google-relaunches-its-ai-creative-studio-flow-with-new-features-and-integrations/",
+    "source": "The Decoder",
+    "published_at": "2026-02-25T18:46:00+00:00"
+  },
+  {
+    "title": "Study shows why reasoning models often think far beyond the solution",
+    "summary": "Large reasoning models frequently think well past the correct answer: cross-checking, reformulating, and confirming what they already got right. A new Bytedance study shows the models actually know when they're done. Common sampling methods just don't let them stop. The article Study shows why reasoning models often think far beyond the solution ap",
+    "url": "https://the-decoder.com/study-shows-why-reasoning-models-often-think-far-beyond-the-solution/",
+    "source": "The Decoder",
+    "published_at": "2026-02-25T18:06:04+00:00"
+  },
+  {
+    "title": "Adobe's new Firefly \"Quick Cut\" tool turns raw footage into a rough edit from a text prompt",
+    "summary": "Adobe Firefly can now automatically create a rough cut from raw footage. The new \"Quick Cut\" tool takes over the tedious first edit for creators. The article Adobe&#039;s new Firefly &quot;Quick Cut&quot; tool turns raw footage into a rough edit from a text prompt appeared first on The Decoder.",
+    "url": "https://the-decoder.com/adobes-new-firefly-quick-cut-tool-turns-raw-footage-into-a-rough-edit-from-a-text-prompt/",
+    "source": "The Decoder",
+    "published_at": "2026-02-25T17:35:25+00:00"
+  },
+  {
+    "title": "Anthropic refuses Pentagon demand to loosen military AI restrictions, faces Defense Production Act threat",
+    "summary": "Anthropic is holding firm on its refusal to let its AI be used for autonomous weapons and surveillance. The Pentagon's response: comply by Friday, or we'll force you. The article Anthropic refuses Pentagon demand to loosen military AI restrictions, faces Defense Production Act threat appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-refuses-pentagon-demand-to-loosen-military-ai-restrictions-faces-defense-production-act-threat/",
+    "source": "The Decoder",
+    "published_at": "2026-02-25T12:05:11+00:00"
+  },
+  {
     "title": "Claude Code sessions now accessible from any device",
     "summary": "Claude Code users can now continue a locally running programming session from their smartphone, tablet, or browser. The article Claude Code sessions now accessible from any device appeared first on The Decoder.",
     "url": "https://the-decoder.com/claude-code-sessions-now-accessible-from-any-device/",
@@ -1848,66 +1904,10 @@
     "published_at": "2026-02-25T10:20:48+00:00"
   },
   {
-    "title": "Claude can now jump between Excel and PowerPoint on its own",
-    "summary": "Anthropic now lets Claude switch independently between Excel and PowerPoint - for example, running an analysis and then building a presentation directly from the results. The article Claude can now jump between Excel and PowerPoint on its own appeared first on The Decoder.",
-    "url": "https://the-decoder.com/claude-now-works-independently-across-excel-and-powerpoint/",
-    "source": "The Decoder",
-    "published_at": "2026-02-24T21:33:50+00:00"
-  },
-  {
-    "title": "Inception launches Mercury 2, the first diffusion-based language reasoning model",
-    "summary": "Mercury 2 from Inception is the first diffusion-based reasoning model. Instead of generating text word by word, it refines entire passages in parallel, making it more than five times faster than conventional language models. The article Inception launches Mercury 2, the first diffusion-based language reasoning model appeared first on The Decoder.",
-    "url": "https://the-decoder.com/inception-launches-mercury-2-the-first-diffusion-based-language-reasoning-model/",
-    "source": "The Decoder",
-    "published_at": "2026-02-24T19:36:44+00:00"
-  },
-  {
-    "title": "Deepmind suggests AI should occasionally assign humans busywork so we do not forget how to do our jobs",
-    "summary": "AI systems should sometimes give tasks to humans they could easily handle themselves, just so people don't forget how to do their jobs. That's one of the more striking recommendations from a new Google Deepmind paper on how AI agents should delegate work. The article Deepmind suggests AI should occasionally assign humans busywork so we do not forge",
-    "url": "https://the-decoder.com/deepmind-suggests-ai-should-occasionally-assign-humans-busywork-so-we-do-not-forget-how-to-do-our-jobs/",
-    "source": "The Decoder",
-    "published_at": "2026-02-24T18:54:28+00:00"
-  },
-  {
-    "title": "AMD basically copy-pasted its OpenAI deal for Meta, six gigawatts and ten percent equity included",
-    "summary": "Meta and AMD have agreed on a multi-year partnership covering up to six gigawatts of AMD GPUs, with a focus on inference. The deal includes an unusual equity component. The article AMD basically copy-pasted its OpenAI deal for Meta, six gigawatts and ten percent equity included appeared first on The Decoder.",
-    "url": "https://the-decoder.com/amd-basically-copy-pasted-its-openai-deal-for-meta-six-gigawatts-and-ten-percent-equity-included/",
-    "source": "The Decoder",
-    "published_at": "2026-02-24T17:29:37+00:00"
-  },
-  {
     "title": "Nokia and AWS pilot AI automation for real-time 5G network slicing",
     "summary": "Telecom networks may soon begin adjusting themselves in real time, as operators test systems that allow AI agents to manage traffic and service quality. AI may soon be making operational decisions. This week, Nokia and AWS presented a new network slicing system that uses AI agents to monitor network conditions and adjust resources automatically. Th",
     "url": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
     "source": "AI News",
     "published_at": "2026-02-25T10:00:00+00:00"
-  },
-  {
-    "title": "Anthropic: Claude faces ‘industrial-scale’ AI model distillation",
-    "summary": "Anthropic has detailed three &#8220;industrial-scale&#8221; AI model distillation campaigns by overseas labs designed to extract abilities from Claude. These competitors generated over 16 million exchanges using approximately 24,000 deceptive accounts. Their goal was to acquire proprietary logic to improve their competing platforms. The extraction ",
-    "url": "https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/",
-    "source": "AI News",
-    "published_at": "2026-02-24T15:56:35+00:00"
-  },
-  {
-    "title": "How disconnected clouds improve AI data governance",
-    "summary": "Disconnected clouds aim to improve AI data governance as businesses rethink their infrastructure under tighter regulatory expectations. Ensuring operational continuity in isolated environments has become increasingly vital for businesses. Facilities lacking continuous internet access face unique constraints where external dependencies become unacce",
-    "url": "https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/",
-    "source": "AI News",
-    "published_at": "2026-02-24T14:42:44+00:00"
-  },
-  {
-    "title": "Deploying agentic finance AI for immediate business ROI",
-    "summary": "Agentic finance AI improves business efficiency and ROI only when deployed with strict governance and clear return on investment targets. A recent FT Longitude survey of 200 finance leaders across the US, UK, France, and Germany showed 61 percent have deployed AI agents merely as experiments. Meanwhile, one in four executives admit they do not [&#8",
-    "url": "https://www.artificialintelligence-news.com/news/deploying-agentic-finance-ai-for-immediate-business-roi/",
-    "source": "AI News",
-    "published_at": "2026-02-24T13:26:20+00:00"
-  },
-  {
-    "title": "Basware’s AI agents: From invoicing to ‘100% automated’",
-    "summary": "Basware has introduced a AI agents in its invoice lifecycle management platform to extend the existing InvoiceAI abilities of the platform. The company positions the agents as a step towards what it calls &#8220;Agentic Finance,&#8221; a model in which AI systems undertake finance tasks under preset controls. Jason Kurtz, chief executive officer of",
-    "url": "https://www.artificialintelligence-news.com/news/invoicing-agentic-ai-baswares-ai-agents-from-invoicing-to-100-automated/",
-    "source": "AI News",
-    "published_at": "2026-02-24T12:14:00+00:00"
   }
 ]
