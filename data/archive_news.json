@@ -6,6 +6,141 @@
     "source": "Arxiv AI",
     "published_at": "2026-02-25T05:00:00+00:00",
     "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "PyVision-RL: Forging Open Agentic Vision Models via RL",
+    "summary": "arXiv:2602.20739v1 Announce Type: new Abstract: Reinforcement learning for agentic multimodal models often suffers from interaction collapse, where models learn to reduce tool usage and multi-turn reasoning, limiting the benefits of agentic behavior. We introduce PyVision-RL, a reinforcement learning framework for open-weight multimodal models that",
+    "url": "https://arxiv.org/abs/2602.20739",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "Evaluating the Reliability of Digital Forensic Evidence Discovered by Large Language Model: A Case Study",
+    "summary": "arXiv:2602.20202v1 Announce Type: cross Abstract: The growing reliance on AI-identified digital evidence raises significant concerns about its reliability, particularly as large language models (LLMs) are increasingly integrated into forensic investigations. This paper proposes a structured framework that automates forensic artifact extraction, ref",
+    "url": "https://arxiv.org/abs/2602.20202",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem",
+    "summary": "arXiv:2602.20217v1 Announce Type: cross Abstract: Self-speculative decoding (SSD) accelerates LLM inference by skipping layers to create an efficient draft model, yet existing methods often rely on static heuristics that ignore the dynamic computational overhead of attention in long-context scenarios. We propose KnapSpec, a training-free framework ",
+    "url": "https://arxiv.org/abs/2602.20217",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "An Approach to Combining Video and Speech with Large Language Models in Human-Robot Interaction",
+    "summary": "arXiv:2602.20219v1 Announce Type: cross Abstract: Interpreting human intent accurately is a central challenge in human-robot interaction (HRI) and a key requirement for achieving more natural and intuitive collaboration between humans and machines. This work presents a novel multimodal HRI framework that combines advanced vision-language models, sp",
+    "url": "https://arxiv.org/abs/2602.20219",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "Circuit Tracing in Vision-Language Models: Understanding the Internal Mechanisms of Multimodal Thinking",
+    "summary": "arXiv:2602.20330v1 Announce Type: cross Abstract: Vision-language models (VLMs) are powerful but remain opaque black boxes. We introduce the first framework for transparent circuit tracing in VLMs to systematically analyze multimodal reasoning. By utilizing transcoders, attribution graphs, and attention-based methods, we uncover how VLMs hierarchic",
+    "url": "https://arxiv.org/abs/2602.20330",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "Protein Language Models Diverge from Natural Language: Comparative Analysis and Improved Inference",
+    "summary": "arXiv:2602.20449v1 Announce Type: cross Abstract: Modern Protein Language Models (PLMs) apply transformer-based model architectures from natural language processing to biological sequences, predicting a variety of protein functions and properties. However, protein language has key differences from natural language, such as a rich functional space d",
+    "url": "https://arxiv.org/abs/2602.20449",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "Communication-Inspired Tokenization for Structured Image Representations",
+    "summary": "arXiv:2602.20731v1 Announce Type: cross Abstract: Discrete image tokenizers have emerged as a key component of modern vision and multimodal systems, providing a sequential interface for transformer-based architectures. However, most existing approaches remain primarily optimized for reconstruction and compression, often yielding tokens that capture",
+    "url": "https://arxiv.org/abs/2602.20731",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "CrystaL: Spontaneous Emergence of Visual Latents in MLLMs",
+    "summary": "arXiv:2602.20980v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have achieved remarkable performance by integrating powerful language backbones with large-scale visual encoders. Among these, latent Chain-of-Thought (CoT) methods enable implicit reasoning in continuous hidden states, facilitating seamless vision-language i",
+    "url": "https://arxiv.org/abs/2602.20980",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents",
+    "summary": "arXiv:2602.12876v2 Announce Type: replace Abstract: Multimodal large language models (MLLMs), equipped with increasingly advanced planning and tool-use capabilities, are evolving into autonomous agents capable of performing multimodal web browsing and deep search in open-world environments. However, existing benchmarks for multimodal browsing remai",
+    "url": "https://arxiv.org/abs/2602.12876",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models",
+    "summary": "arXiv:2506.03922v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated significant potential to advance a broad range of domains. However, current benchmarks for evaluating MLLMs primarily emphasize general knowledge and vertical step-by-step reasoning typical of STEM disciplines, while overlooking the ",
+    "url": "https://arxiv.org/abs/2506.03922",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "K-Function: Joint Pronunciation Transcription and Feedback for Evaluating Kids Language Function",
+    "summary": "arXiv:2507.03043v3 Announce Type: replace-cross Abstract: Evaluating young children's language is challenging for automatic speech recognizers due to high-pitched voices, prolonged sounds, and limited data. We introduce K-Function, a framework that combines accurate sub-word transcription with objective, Large Language Model (LLM)-driven scoring. I",
+    "url": "https://arxiv.org/abs/2507.03043",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "Characterizing State Space Model and Hybrid Language Model Performance with Long Context",
+    "summary": "arXiv:2507.12442v3 Announce Type: replace-cross Abstract: Emerging applications such as AR are driving demands for machine intelligence capable of processing continuous and/or long-context inputs on local devices. However, currently dominant models based on Transformer architecture suffers from the quadratic computational and memory overhead, which",
+    "url": "https://arxiv.org/abs/2507.12442",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "Silent Inconsistency in Data-Parallel Full Fine-Tuning: Diagnosing Worker-Level Optimization Misalignment",
+    "summary": "arXiv:2602.14462v2 Announce Type: replace-cross Abstract: Data-parallel (DP) training with synchronous all-reduce is a dominant paradigm for full-parameter fine-tuning of large language models (LLMs). While parameter synchronization guarantees numerical equivalence of model weights after each iteration, it does not necessarily imply alignment of wo",
+    "url": "https://arxiv.org/abs/2602.14462",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production",
+    "summary": "arXiv:2602.20558v1 Announce Type: new Abstract: Large language models (LLMs) are promising backbones for generative recommender systems, yet a key challenge remains underexplored: verbalization, i.e., converting structured user interaction logs into effective natural language inputs. Existing methods rely on rigid templates that simply concatenate ",
+    "url": "https://arxiv.org/abs/2602.20558",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+  },
+  {
+    "title": "DMCD: Semantic-Statistical Framework for Causal Discovery",
+    "summary": "arXiv:2602.20333v1 Announce Type: new Abstract: We present DMCD (DataMap Causal Discovery), a two-phase causal discovery framework that integrates LLM-based semantic drafting from variable metadata with statistical validation on observational data. In Phase I, a large language model proposes a sparse draft DAG, serving as a semantically informed pr",
+    "url": "https://arxiv.org/abs/2602.20333",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-25T05:00:00+00:00",
+    "score": 7,
     "archived_at": "2026-02-25T10:46:39.680616+00:00"
   },
   {
@@ -2563,140 +2698,5 @@
     "published_at": "2026-02-09T05:00:00+00:00",
     "score": 7,
     "archived_at": "2026-02-09T08:15:08.878734+00:00"
-  },
-  {
-    "title": "An item is worth one token in Multimodal Large Language Models-based Sequential Recommendation",
-    "summary": "arXiv:2511.05885v3 Announce Type: replace-cross Abstract: Sequential recommendations (SR) predict users' future interactions based on their historical behavior. The rise of Large Language Models (LLMs) has brought powerful generative and reasoning capabilities, significantly enhancing SR performance, while Multimodal LLMs (MLLMs) further extend thi",
-    "url": "https://arxiv.org/abs/2511.05885",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-09T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-09T08:15:08.878734+00:00"
-  },
-  {
-    "title": "Understanding LLM Evaluator Behavior: A Structured Multi-Evaluator Framework for Merchant Risk Assessment",
-    "summary": "arXiv:2602.05110v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly used as evaluators of reasoning quality, yet their reliability and bias in payments-risk settings remain poorly understood. We introduce a structured multi-evaluator framework for assessing LLM reasoning in Merchant Category Code (MCC)-based merchant risk ",
-    "url": "https://arxiv.org/abs/2602.05110",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "Hallucination-Resistant Security Planning with a Large Language Model",
-    "summary": "arXiv:2602.05279v1 Announce Type: new Abstract: Large language models (LLMs) are promising tools for supporting security management tasks, such as incident response planning. However, their unreliability and tendency to hallucinate remain significant challenges. In this paper, we address these challenges by introducing a principled framework for us",
-    "url": "https://arxiv.org/abs/2602.05279",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "ProAct: Agentic Lookahead in Interactive Environments",
-    "summary": "arXiv:2602.05327v1 Announce Type: new Abstract: Existing Large Language Model (LLM) agents struggle in interactive environments requiring long-horizon planning, primarily due to compounding errors when simulating future states. To address this, we propose ProAct, a framework that enables agents to internalize accurate lookahead reasoning through a ",
-    "url": "https://arxiv.org/abs/2602.05327",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction",
-    "summary": "arXiv:2602.05353v1 Announce Type: new Abstract: Large Language Models have shown strong capabilities in complex problem solving, yet many agentic systems remain difficult to interpret and control due to opaque internal workflows. While some frameworks offer explicit architectures for collaboration, many deployed agentic systems operate as black box",
-    "url": "https://arxiv.org/abs/2602.05353",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "A Unified Multimodal Framework for Dataset Construction and Model-Based Diagnosis of Ameloblastoma",
-    "summary": "arXiv:2602.05515v1 Announce Type: new Abstract: Artificial intelligence (AI)-enabled diagnostics in maxillofacial pathology require structured, high-quality multimodal datasets. However, existing resources provide limited ameloblastoma coverage and lack the format consistency needed for direct model training. We present a newly curated multimodal d",
-    "url": "https://arxiv.org/abs/2602.05515",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "Reasoning-guided Collaborative Filtering with Language Models for Explainable Recommendation",
-    "summary": "arXiv:2602.05544v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit potential for explainable recommendation systems but overlook collaborative signals, while prevailing methods treat recommendation and explanation as separate tasks, resulting in a memory footprint. We present RGCF-XRec, a hybrid framework that introduces reasoning",
-    "url": "https://arxiv.org/abs/2602.05544",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "A$^2$-LLM: An End-to-end Conversational Audio Avatar Large Language Model",
-    "summary": "arXiv:2602.04913v1 Announce Type: cross Abstract: Developing expressive and responsive conversational digital humans is a cornerstone of next-generation human-computer interaction. While large language models (LLMs) have significantly enhanced dialogue capabilities, most current systems still rely on cascaded architectures that connect independent ",
-    "url": "https://arxiv.org/abs/2602.04913",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM",
-    "summary": "arXiv:2602.04927v1 Announce Type: cross Abstract: Artificial intelligence systems introduce complex privacy risks throughout their lifecycle, especially when processing sensitive or high-dimensional data. Beyond the seven traditional privacy threat categories defined by the LINDDUN framework, AI systems are also exposed to model-centric privacy att",
-    "url": "https://arxiv.org/abs/2602.04927",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "Linear Model Merging Unlocks Simple and Scalable Multimodal Data Mixture Optimization",
-    "summary": "arXiv:2602.04937v1 Announce Type: cross Abstract: Selecting the best data mixture is critical for successful Supervised Fine-Tuning (SFT) of Multimodal Large Language Models. However, determining the optimal mixture weights across multiple domain-specific datasets remains a significant bottleneck due to the combinatorial search space and the high c",
-    "url": "https://arxiv.org/abs/2602.04937",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "LMMRec: LLM-driven Motivation-aware Multimodal Recommendation",
-    "summary": "arXiv:2602.05474v1 Announce Type: cross Abstract: Motivation-based recommendation systems uncover user behavior drivers. Motivation modeling, crucial for decision-making and content preference, explains recommendation generation. Existing methods often treat motivation as latent variables from interaction data, neglecting heterogeneous information ",
-    "url": "https://arxiv.org/abs/2602.05474",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "A Unified Framework for Rethinking Policy Divergence Measures in GRPO",
-    "summary": "arXiv:2602.05494v1 Announce Type: cross Abstract: Reinforcement Learning with Verified Reward (RLVR) has emerged as a critical paradigm for advancing the reasoning capabilities of Large Language Models (LLMs). Most existing RLVR methods, such as GRPO and its variants, ensure stable updates by constraining policy divergence through clipping likeliho",
-    "url": "https://arxiv.org/abs/2602.05494",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "Transport and Merge: Cross-Architecture Merging for Large Language Models",
-    "summary": "arXiv:2602.05495v1 Announce Type: cross Abstract: Large language models (LLMs) achieve strong capabilities by scaling model capacity and training data, yet many real-world deployments rely on smaller models trained or adapted from low-resource data. This gap motivates the need for mechanisms to transfer knowledge from large, high-resource models to",
-    "url": "https://arxiv.org/abs/2602.05495",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "In-context Time Series Predictor",
-    "summary": "arXiv:2405.14982v2 Announce Type: replace-cross Abstract: Recent Transformer-based large language models (LLMs) demonstrate in-context learning ability to perform various functions based solely on the provided context, without updating model parameters. To fully utilize the in-context capabilities in time series forecasting (TSF) problems, unlike p",
-    "url": "https://arxiv.org/abs/2405.14982",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
-  },
-  {
-    "title": "Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models",
-    "summary": "arXiv:2503.06749v3 Announce Type: replace-cross Abstract: DeepSeek-R1-Zero has successfully demonstrated the emergence of reasoning capabilities in LLMs purely through Reinforcement Learning (RL). Inspired by this breakthrough, we explore how RL can be utilized to enhance the reasoning capability of MLLMs. However, direct training with RL struggles",
-    "url": "https://arxiv.org/abs/2503.06749",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-07T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-08T03:45:11.802210+00:00"
   }
 ]
