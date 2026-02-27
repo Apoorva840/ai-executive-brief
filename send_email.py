@@ -57,9 +57,13 @@ def build_html_body(data, jargon_data, lab_data): # <--- ADDED lab_data arg
         <div style="margin-bottom: 30px; padding: 25px; border-radius: 12px; border: 1px solid #e5e7eb; background: #ffffff;">
             <h3 style="margin-top: 0; color: #1e40af; font-size: 1.25em;">{item.get('rank', '•')}. {item['title']}</h3>
             <p style="font-size: 0.95em; color: #374151;">{item.get('summary', '')}</p>
+            
             <div style="background-color: #f8fafc; padding: 15px; border-radius: 8px; border-left: 4px solid #0f172a; margin: 15px 0;">
                 <p style="margin: 5px 0; font-size: 0.9em;"><strong style="color: #0f172a;">💡 Technical Takeaway:</strong> {item.get('technical_takeaway', '')}</p>
+                <p style="margin: 5px 0; font-size: 0.9em;"><strong style="color: #b91c1c;">⚖️ Primary Risk:</strong> {item.get('primary_risk', 'N/A')}</p>
+                <p style="margin: 5px 0; font-size: 0.9em;"><strong style="color: #15803d;">🚀 Primary Opportunity:</strong> {item.get('primary_opportunity', 'N/A')}</p>
             </div>
+            
             <p style="margin-top: 20px;"><a href="{item['url']}" style="background-color: #2563eb; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-size: 0.85em; font-weight: bold; display: inline-block;">Read Source &rarr;</a></p>
         </div>
         """
