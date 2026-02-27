@@ -1,42 +1,42 @@
 [
   {
-    "title": "DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation",
-    "summary": "arXiv:2506.06251v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabilities in automated front-end engineering, e.g., generating UI code from visual designs. However, existing front-end UI code generation benchmarks have the following limitations: (1) While framework-based development",
-    "url": "https://arxiv.org/abs/2506.06251",
+    "title": "ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices",
+    "summary": "arXiv:2602.21858v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have made significant progress in mobile agent development, yet their capabilities are predominantly confined to a reactive paradigm, where they merely execute explicit user commands. The emerging paradigm of proactive intelligence, where agents autonomously an",
+    "url": "https://arxiv.org/abs/2602.21858",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "Perplexity Computer bundles rival AI models into one agentic workflow system for $200 a month",
-    "summary": "Perplexity bundles AI models from Anthropic, Google, xAI and OpenAI in an agentic system that is designed to carry out complex workflows independently. The article Perplexity Computer bundles rival AI models into one agentic workflow system for $200 a month appeared first on The Decoder.",
-    "url": "https://the-decoder.com/perplexity-computer-bundles-rival-ai-models-into-one-agentic-workflow-system-for-200-a-month/",
-    "source": "The Decoder",
-    "published_at": "2026-02-25T19:50:51+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7
   },
   {
-    "title": "Study shows why reasoning models often think far beyond the solution",
-    "summary": "Large reasoning models frequently think well past the correct answer: cross-checking, reformulating, and confirming what they already got right. A new Bytedance study shows the models actually know when they're done. Common sampling methods just don't let them stop. The article Study shows why reasoning models often think far beyond the solution ap",
-    "url": "https://the-decoder.com/study-shows-why-reasoning-models-often-think-far-beyond-the-solution/",
+    "title": "Anthropic acquires Vercept to give Claude sharper eyes for reading and controlling computer screens",
+    "summary": "Anthropic acquires Vercept to boost Claude's computer use with the startup's screen recognition model \"VyUI.\" The article Anthropic acquires Vercept to give Claude sharper eyes for reading and controlling computer screens appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-acquires-vercept-to-give-claude-sharper-eyes-for-reading-and-controlling-computer-screens/",
     "source": "The Decoder",
-    "published_at": "2026-02-25T18:06:04+00:00",
+    "published_at": "2026-02-26T20:30:27+00:00",
     "score": 7
   },
   {
-    "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
-    "summary": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
-    "url": "https://www.wired.com/story/openai-hires-riley-walz/",
-    "source": "Wired AI",
-    "published_at": "2026-02-25T19:59:26+00:00",
-    "score": 5
+    "title": "Anthropic can't stop humanizing its AI models, now Claude Opus 3 gets a retirement blog",
+    "summary": "Anthropic is retiring its Claude Opus 3 AI model and letting it publish weekly essays on Substack. The company says it conducted \"retirement interviews\" to ask the model about its wishes, and it \"enthusiastically\" agreed. The move is a prime example of how AI companies keep pushing the humanization of their products, blurring the line between philo",
+    "url": "https://the-decoder.com/anthropic-cant-stop-humanizing-its-ai-models-now-claude-opus-3-gets-a-retirement-blog/",
+    "source": "The Decoder",
+    "published_at": "2026-02-26T19:15:48+00:00",
+    "score": 7
   },
   {
-    "title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
-    "summary": "An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission.",
-    "url": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
+    "title": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
+    "summary": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
+    "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
     "source": "Wired AI",
-    "published_at": "2026-02-25T19:00:00+00:00",
-    "score": 5
+    "published_at": "2026-02-27T00:01:10+00:00",
+    "score": 6
+  },
+  {
+    "title": "How Chinese AI Chatbots Censor Themselves",
+    "summary": "Researchers from Stanford and Princeton found that Chinese AI models are more likely than their Western counterparts to dodge political questions or deliver inaccurate answers.",
+    "url": "https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/",
+    "source": "Wired AI",
+    "published_at": "2026-02-26T20:08:08+00:00",
+    "score": 6
   }
 ]

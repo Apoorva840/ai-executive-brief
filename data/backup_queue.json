@@ -1,137 +1,137 @@
 [
   {
-    "title": "DMCD: Semantic-Statistical Framework for Causal Discovery",
-    "summary": "arXiv:2602.20333v1 Announce Type: new Abstract: We present DMCD (DataMap Causal Discovery), a two-phase causal discovery framework that integrates LLM-based semantic drafting from variable metadata with statistical validation on observational data. In Phase I, a large language model proposes a sparse draft DAG, serving as a semantically informed pr",
-    "url": "https://arxiv.org/abs/2602.20333",
+    "title": "Latent Context Compilation: Distilling Long Context into Compact Portable Memory",
+    "summary": "arXiv:2602.21221v1 Announce Type: cross Abstract: Efficient long-context LLM deployment is stalled by a dichotomy between amortized compression, which struggles with out-of-distribution generalization, and Test-Time Training, which incurs prohibitive synthetic data costs and requires modifying model weights, creating stateful parameters that compli",
+    "url": "https://arxiv.org/abs/2602.21221",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "PyVision-RL: Forging Open Agentic Vision Models via RL",
-    "summary": "arXiv:2602.20739v1 Announce Type: new Abstract: Reinforcement learning for agentic multimodal models often suffers from interaction collapse, where models learn to reduce tool usage and multi-turn reasoning, limiting the benefits of agentic behavior. We introduce PyVision-RL, a reinforcement learning framework for open-weight multimodal models that",
-    "url": "https://arxiv.org/abs/2602.20739",
+    "title": "A General Equilibrium Theory of Orchestrated AI Agent Systems",
+    "summary": "arXiv:2602.21255v1 Announce Type: cross Abstract: We establish a general equilibrium theory for systems of large language model (LLM) agents operating under centralized orchestration. The framework is a production economy in the sense of Arrow-Debreu (1954), extended to infinite-dimensional commodity spaces following Bewley (1972). Each LLM agent i",
+    "url": "https://arxiv.org/abs/2602.21255",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "Evaluating the Reliability of Digital Forensic Evidence Discovered by Large Language Model: A Case Study",
-    "summary": "arXiv:2602.20202v1 Announce Type: cross Abstract: The growing reliance on AI-identified digital evidence raises significant concerns about its reliability, particularly as large language models (LLMs) are increasingly integrated into forensic investigations. This paper proposes a structured framework that automates forensic artifact extraction, ref",
-    "url": "https://arxiv.org/abs/2602.20202",
+    "title": "Causal Decoding for Hallucination-Resistant Multimodal Large Language Models",
+    "summary": "arXiv:2602.21441v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) deliver detailed responses on vision-language tasks, yet remain susceptible to object hallucination (introducing objects not present in the image), undermining reliability in practice. Prior efforts often rely on heuristic penalties, post-hoc correction, or g",
+    "url": "https://arxiv.org/abs/2602.21441",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem",
-    "summary": "arXiv:2602.20217v1 Announce Type: cross Abstract: Self-speculative decoding (SSD) accelerates LLM inference by skipping layers to create an efficient draft model, yet existing methods often rely on static heuristics that ignore the dynamic computational overhead of attention in long-context scenarios. We propose KnapSpec, a training-free framework ",
-    "url": "https://arxiv.org/abs/2602.20217",
+    "title": "1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning",
+    "summary": "arXiv:2508.07667v3 Announce Type: replace Abstract: Addressing contextual privacy concerns remains challenging in interactive settings where large language models (LLMs) process information from multiple sources (e.g., summarizing meetings with private and public information). We introduce a multi-agent framework that decomposes privacy reasoning i",
+    "url": "https://arxiv.org/abs/2508.07667",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "An Approach to Combining Video and Speech with Large Language Models in Human-Robot Interaction",
-    "summary": "arXiv:2602.20219v1 Announce Type: cross Abstract: Interpreting human intent accurately is a central challenge in human-robot interaction (HRI) and a key requirement for achieving more natural and intuitive collaboration between humans and machines. This work presents a novel multimodal HRI framework that combines advanced vision-language models, sp",
-    "url": "https://arxiv.org/abs/2602.20219",
+    "title": "When Can Transformers Count to n?",
+    "summary": "arXiv:2407.15160v3 Announce Type: replace-cross Abstract: Large language models based on the transformer architecture can solve highly complex tasks, yet their fundamental limitations on simple algorithmic problems remain poorly understood. In this work, we focus on basic counting tasks and investigate how the difficulty of these tasks scales with ",
+    "url": "https://arxiv.org/abs/2407.15160",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "Circuit Tracing in Vision-Language Models: Understanding the Internal Mechanisms of Multimodal Thinking",
-    "summary": "arXiv:2602.20330v1 Announce Type: cross Abstract: Vision-language models (VLMs) are powerful but remain opaque black boxes. We introduce the first framework for transparent circuit tracing in VLMs to systematically analyze multimodal reasoning. By utilizing transcoders, attribution graphs, and attention-based methods, we uncover how VLMs hierarchic",
-    "url": "https://arxiv.org/abs/2602.20330",
+    "title": "Compose and Fuse: Revisiting the Foundational Bottlenecks in Multimodal Reasoning",
+    "summary": "arXiv:2509.23744v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) promise enhanced reasoning by integrating diverse inputs such as text, vision, and audio. Yet cross-modal reasoning remains underexplored, with conflicting reports on whether added modalities help or harm performance. These inconsistencies stem from a",
+    "url": "https://arxiv.org/abs/2509.23744",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "Protein Language Models Diverge from Natural Language: Comparative Analysis and Improved Inference",
-    "summary": "arXiv:2602.20449v1 Announce Type: cross Abstract: Modern Protein Language Models (PLMs) apply transformer-based model architectures from natural language processing to biological sequences, predicting a variety of protein functions and properties. However, protein language has key differences from natural language, such as a rich functional space d",
-    "url": "https://arxiv.org/abs/2602.20449",
+    "title": "SciTS: Scientific Time Series Understanding and Generation with LLMs",
+    "summary": "arXiv:2510.03255v2 Announce Type: replace-cross Abstract: The scientific reasoning ability of large language models (LLMs) has recently attracted significant attention. Time series, as a fundamental modality in scientific data, presents unique challenges that are often overlooked in current multimodal LLMs, which either encode numerical sequences a",
+    "url": "https://arxiv.org/abs/2510.03255",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "Communication-Inspired Tokenization for Structured Image Representations",
-    "summary": "arXiv:2602.20731v1 Announce Type: cross Abstract: Discrete image tokenizers have emerged as a key component of modern vision and multimodal systems, providing a sequential interface for transformer-based architectures. However, most existing approaches remain primarily optimized for reconstruction and compression, often yielding tokens that capture",
-    "url": "https://arxiv.org/abs/2602.20731",
+    "title": "TimeBlind: A Spatio-Temporal Compositionality Benchmark for Video LLMs",
+    "summary": "arXiv:2602.00288v3 Announce Type: replace-cross Abstract: Fine-grained spatio-temporal understanding is essential for video reasoning and embodied AI. Yet, while Multimodal Large Language Models (MLLMs) master static semantics, their grasp of temporal dynamics remains brittle. We present TimeBlind, a diagnostic benchmark for compositional spatio-te",
+    "url": "https://arxiv.org/abs/2602.00288",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "CrystaL: Spontaneous Emergence of Visual Latents in MLLMs",
-    "summary": "arXiv:2602.20980v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have achieved remarkable performance by integrating powerful language backbones with large-scale visual encoders. Among these, latent Chain-of-Thought (CoT) methods enable implicit reasoning in continuous hidden states, facilitating seamless vision-language i",
-    "url": "https://arxiv.org/abs/2602.20980",
+    "title": "MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation",
+    "summary": "arXiv:2602.16898v3 Announce Type: replace-cross Abstract: Task planning for robotic manipulation with large language models (LLMs) is an emerging area. Prior approaches rely on specialized models, fine tuning, or prompt tuning, and often operate in an open loop manner without robust environmental feedback, making them fragile in dynamic settings. M",
+    "url": "https://arxiv.org/abs/2602.16898",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents",
-    "summary": "arXiv:2602.12876v2 Announce Type: replace Abstract: Multimodal large language models (MLLMs), equipped with increasingly advanced planning and tool-use capabilities, are evolving into autonomous agents capable of performing multimodal web browsing and deep search in open-world environments. However, existing benchmarks for multimodal browsing remai",
-    "url": "https://arxiv.org/abs/2602.12876",
+    "title": "Dual-Channel Attention Guidance for Training-Free Image Editing Control in Diffusion Transformers",
+    "summary": "arXiv:2602.18022v2 Announce Type: replace-cross Abstract: Training-free control over editing intensity is a critical requirement for diffusion-based image editing models built on the Diffusion Transformer (DiT) architecture. Existing attention manipulation methods focus exclusively on the Key space to modulate attention routing, leaving the Value s",
+    "url": "https://arxiv.org/abs/2602.18022",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models",
-    "summary": "arXiv:2506.03922v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated significant potential to advance a broad range of domains. However, current benchmarks for evaluating MLLMs primarily emphasize general knowledge and vertical step-by-step reasoning typical of STEM disciplines, while overlooking the ",
-    "url": "https://arxiv.org/abs/2506.03922",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "title": "Google's Nano Banana 2 brings Pro-level image generation to Flash speeds at up to 40% lower API cost",
+    "summary": "Google's new Nano Banana 2 image generation model pairs the capabilities of the pricier Pro model with Gemini Flash speed at nearly half the cost. It's now the default in the Gemini app. The article Google&#039;s Nano Banana 2 brings Pro-level image generation to Flash speeds at up to 40% lower API cost appeared first on The Decoder.",
+    "url": "https://the-decoder.com/googles-nano-banana-2-brings-pro-level-image-generation-to-flash-speeds-at-up-to-40-lower-api-cost/",
+    "source": "The Decoder",
+    "published_at": "2026-02-26T18:45:03+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "K-Function: Joint Pronunciation Transcription and Feedback for Evaluating Kids Language Function",
-    "summary": "arXiv:2507.03043v3 Announce Type: replace-cross Abstract: Evaluating young children's language is challenging for automatic speech recognizers due to high-pitched voices, prolonged sounds, and limited data. We introduce K-Function, a framework that combines accurate sub-word transcription with objective, Large Language Model (LLM)-driven scoring. I",
-    "url": "https://arxiv.org/abs/2507.03043",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "title": "Alibaba's open Qwen 3.5 takes aim at GPT-5 mini and Claude Sonnet 4.5 at a fraction of the cost",
+    "summary": "Alibaba has introduced the new Qwen 3.5 model series. It comprises four models: Qwen3.5-Flash, Qwen3.5-35B-A3B, Qwen3.5-122B-A10B and Qwen3.5-27B. The article Alibaba&#039;s open Qwen 3.5 takes aim at GPT-5 mini and Claude Sonnet 4.5 at a fraction of the cost appeared first on The Decoder.",
+    "url": "https://the-decoder.com/alibabas-open-qwen-3-5-takes-aim-at-gpt-5-mini-and-claude-sonnet-4-5-at-a-fraction-of-the-cost/",
+    "source": "The Decoder",
+    "published_at": "2026-02-26T09:14:52+00:00",
     "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   },
   {
-    "title": "Characterizing State Space Model and Hybrid Language Model Performance with Long Context",
-    "summary": "arXiv:2507.12442v3 Announce Type: replace-cross Abstract: Emerging applications such as AR are driving demands for machine intelligence capable of processing continuous and/or long-context inputs on local devices. However, currently dominant models based on Transformer architecture suffers from the quadratic computational and memory overhead, which",
-    "url": "https://arxiv.org/abs/2507.12442",
+    "title": "A Dynamic Survey of Soft Set Theory and Its Extensions",
+    "summary": "arXiv:2602.21268v1 Announce Type: new Abstract: Soft set theory provides a direct framework for parameterized decision modeling by assigning to each attribute (parameter) a subset of a given universe, thereby representing uncertainty in a structured way [1, 2]. Over the past decades, the theory has expanded into numerous variants-including hypersof",
+    "url": "https://arxiv.org/abs/2602.21268",
     "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
-  },
-  {
-    "title": "Silent Inconsistency in Data-Parallel Full Fine-Tuning: Diagnosing Worker-Level Optimization Misalignment",
-    "summary": "arXiv:2602.14462v2 Announce Type: replace-cross Abstract: Data-parallel (DP) training with synchronous all-reduce is a dominant paradigm for full-parameter fine-tuning of large language models (LLMs). While parameter synchronization guarantees numerical equivalence of model weights after each iteration, it does not necessarily imply alignment of wo",
-    "url": "https://arxiv.org/abs/2602.14462",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
-  },
-  {
-    "title": "From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production",
-    "summary": "arXiv:2602.20558v1 Announce Type: new Abstract: Large language models (LLMs) are promising backbones for generative recommender systems, yet a key challenge remains underexplored: verbalization, i.e., converting structured user interaction logs into effective natural language inputs. Existing methods rely on rigid templates that simply concatenate ",
-    "url": "https://arxiv.org/abs/2602.20558",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
+    "published_at": "2026-02-26T05:00:00+00:00",
     "score": 6,
-    "archived_at": "2026-02-26T03:19:00.977217+00:00"
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+  },
+  {
+    "title": "Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information",
+    "summary": "arXiv:2602.21496v1 Announce Type: new Abstract: While defenses for structured PII are mature, Large Language Models (LLMs) pose a new threat: Semantic Sensitive Information (SemSI), where models infer sensitive identity attributes, generate reputation-harmful content, or hallucinate potentially wrong information. The capacity of LLMs to self-regula",
+    "url": "https://arxiv.org/abs/2602.21496",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-26T05:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+  },
+  {
+    "title": "The ASIR Courage Model: A Phase-Dynamic Framework for Truth Transitions in Human and AI Systems",
+    "summary": "arXiv:2602.21745v1 Announce Type: new Abstract: We introduce the ASIR (Awakened Shared Intelligence Relationship) Courage Model, a phase-dynamic framework that formalizes truth-disclosure as a state transition rather than a personality trait. The mode characterizes the shift from suppression (S0) to expression (S1) as occurring when facilitative fo",
+    "url": "https://arxiv.org/abs/2602.21745",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-26T05:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-02-27T03:16:01.376058+00:00"
   }
 ]

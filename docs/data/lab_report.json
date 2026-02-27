@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-02-26",
+    "last_updated": "2024-02-27",
     "papers": [
         {
-            "title": "Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use",
-            "innovation": "Proposes a method to automatically rewrite natural language tool descriptions and parameter schemas, making them more suitable for LLM-based agents and improving their reliability and performance in tool-using tasks.",
-            "benchmarks": "Focuses on improving the reliability of LLM-agent tool use, implicitly targeting improved performance on tool-augmented tasks (specific benchmarks will be detailed in the paper).",
-            "use_case": "Developing robust and reliable LLM-powered agents, automating tool integration for LLMs, enhancing the usability and interpretability of APIs for AI agents, and improving agentic workflows.",
-            "url": "https://arxiv.org/abs/2602.20426"
+            "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
+            "innovation": "Development of ARLArena, a unified framework designed to overcome the inherent instability and training collapse issues commonly faced in Agentic Reinforcement Learning (ARL). This framework promises to make ARL more robust and scalable for practical applications.",
+            "benchmarks": "The abstract implies focus on improving stability and scalability of ARL, but specific named benchmarks are not provided within the abstract itself.",
+            "use_case": "Training and deploying more robust, scalable, and stable agentic reinforcement learning systems for complex, multi-step interactive tasks, making ARL more viable for real-world applications where current instability is a major barrier.",
+            "url": "https://arxiv.org/abs/2602.21534"
         },
         {
-            "title": "ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory",
-            "innovation": "Introduces ActionEngine, a framework for programmatic GUI agents that uses state machine memory to overcome the high costs, latency, and limited context of current reactive, step-by-step vision-language model approaches.",
-            "benchmarks": "Aims to significantly improve efficiency, reduce cost, and enhance the capability of GUI agents for complex, multi-step tasks compared to existing reactive methods.",
-            "use_case": "Advanced GUI automation, developing efficient and scalable AI agents for user interfaces, robotic process automation (RPA), and automated testing of applications.",
-            "url": "https://arxiv.org/abs/2602.20502"
+            "title": "Prompt Architecture Determines Reasoning Quality: A Variable Isolation Study on the Car Wash Problem",
+            "innovation": "A variable isolation study systematically demonstrating how specific layers of prompt architecture (e.g., instruction, context, few-shot examples) profoundly influence the reasoning quality of Large Language Models, particularly for problems requiring implicit physical constraint inference. This provides actionable insights for prompt design.",
+            "benchmarks": "Evaluated using the 'car wash problem' as a viral reasoning benchmark, with a variable isolation study involving n=20 per condition across 6 conditions (120 total trials).",
+            "use_case": "Optimizing prompt design and prompt engineering strategies for Large Language Models to significantly enhance their reasoning capabilities on complex problems, directly improving the performance of LLM-powered applications.",
+            "url": "https://arxiv.org/abs/2602.21814"
         },
         {
-            "title": "Implicit Intelligence -- Evaluating Agents on What Users Don't Say",
-            "innovation": "Highlights the critical problem of underspecification in real-world AI agent requests and proposes new benchmarks to evaluate 'implicit intelligence'\u2014an agent's ability to infer shared context and unstated constraints from human communication.",
-            "benchmarks": "Introduces novel benchmarks specifically designed to test an agent's implicit instruction-following and reasoning capabilities beyond explicit instructions.",
-            "use_case": "Designing and evaluating more robust and human-centric AI agents, improving agent understanding of natural human language, enhancing human-AI interaction, and developing more reliable real-world AI applications by addressing underspecified requests.",
-            "url": "https://arxiv.org/abs/2602.20424"
+            "title": "Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information",
+            "innovation": "Investigation into the capacity of Large Language Models (LLMs) to self-regulate and correct for Semantic Sensitive Information (SemSI), which includes inferring sensitive identity attributes, generating reputation-harmful content, or hallucinating wrong information. This moves beyond traditional structured PII defenses by addressing inferred and generated sensitive content.",
+            "benchmarks": "The abstract describes 'probing the limits' of agentic self-correction, implying an evaluative study of LLM capabilities against SemSI, but no explicit benchmark names are provided.",
+            "use_case": "Developing and integrating advanced safety mechanisms and self-correction capabilities into Large Language Models to prevent the generation of sensitive, harmful, or hallucinated information, thereby improving model safety, reliability, and ethical compliance in deployed AI applications.",
+            "url": "https://arxiv.org/abs/2602.21496"
         }
     ]
 }
