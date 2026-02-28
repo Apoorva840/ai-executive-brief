@@ -1,137 +1,137 @@
 [
   {
-    "title": "Latent Context Compilation: Distilling Long Context into Compact Portable Memory",
-    "summary": "arXiv:2602.21221v1 Announce Type: cross Abstract: Efficient long-context LLM deployment is stalled by a dichotomy between amortized compression, which struggles with out-of-distribution generalization, and Test-Time Training, which incurs prohibitive synthetic data costs and requires modifying model weights, creating stateful parameters that compli",
-    "url": "https://arxiv.org/abs/2602.21221",
+    "title": "ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models",
+    "summary": "arXiv:2504.00037v2 Announce Type: replace-cross Abstract: Vision Transformers (ViTs) have delivered remarkable progress through global self-attention, yet their quadratic complexity can become prohibitive for high-resolution inputs. In this work, we present ViT-Linearizer, a cross-architecture distillation framework that transfers rich ViT represen",
+    "url": "https://arxiv.org/abs/2504.00037",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
+    "published_at": "2026-02-27T05:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
+  },
+  {
+    "title": "Agentic AI for Intent-driven Optimization in Cell-free O-RAN",
+    "summary": "arXiv:2602.22539v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) is emerging as a key enabler for autonomous radio access networks (RANs), where multiple large language model (LLM)-based agents reason and collaborate to achieve operator-defined intents. The open RAN (O-RAN) architecture enables the deployment and coordination of",
+    "url": "https://arxiv.org/abs/2602.22539",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "A General Equilibrium Theory of Orchestrated AI Agent Systems",
-    "summary": "arXiv:2602.21255v1 Announce Type: cross Abstract: We establish a general equilibrium theory for systems of large language model (LLM) agents operating under centralized orchestration. The framework is a production economy in the sense of Arrow-Debreu (1954), extended to infinite-dimensional commodity spaces following Bewley (1972). Each LLM agent i",
-    "url": "https://arxiv.org/abs/2602.21255",
+    "title": "CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety",
+    "summary": "arXiv:2602.22557v1 Announce Type: new Abstract: Current safety mechanisms for Large Language Models (LLMs) rely heavily on static, fine-tuned classifiers that suffer from adaptation rigidity, the inability to enforce new governance rules without expensive retraining. To address this, we introduce CourtGuard, a retrieval-augmented multi-agent framew",
+    "url": "https://arxiv.org/abs/2602.22557",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "Causal Decoding for Hallucination-Resistant Multimodal Large Language Models",
-    "summary": "arXiv:2602.21441v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) deliver detailed responses on vision-language tasks, yet remain susceptible to object hallucination (introducing objects not present in the image), undermining reliability in practice. Prior efforts often rely on heuristic penalties, post-hoc correction, or g",
-    "url": "https://arxiv.org/abs/2602.21441",
+    "title": "MiroFlow: Towards High-Performance and Robust Open-Source Agent Framework for General Deep Research Tasks",
+    "summary": "arXiv:2602.22808v1 Announce Type: new Abstract: Despite the remarkable progress of large language models (LLMs), the capabilities of standalone LLMs have begun to plateau when tackling real-world, complex tasks that require interaction with external tools and dynamic environments. Although recent agent frameworks aim to enhance model autonomy throu",
+    "url": "https://arxiv.org/abs/2602.22808",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning",
-    "summary": "arXiv:2508.07667v3 Announce Type: replace Abstract: Addressing contextual privacy concerns remains challenging in interactive settings where large language models (LLMs) process information from multiple sources (e.g., summarizing meetings with private and public information). We introduce a multi-agent framework that decomposes privacy reasoning i",
-    "url": "https://arxiv.org/abs/2508.07667",
+    "title": "FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning",
+    "summary": "arXiv:2602.22963v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have substantially advanced video misinformation detection through unified multimodal reasoning, but they often rely on fixed-depth inference and place excessive trust in internally generated assumptions, particularly in scenarios where critical evidence is spa",
+    "url": "https://arxiv.org/abs/2602.22963",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "When Can Transformers Count to n?",
-    "summary": "arXiv:2407.15160v3 Announce Type: replace-cross Abstract: Large language models based on the transformer architecture can solve highly complex tasks, yet their fundamental limitations on simple algorithmic problems remain poorly understood. In this work, we focus on basic counting tasks and investigate how the difficulty of these tasks scales with ",
-    "url": "https://arxiv.org/abs/2407.15160",
+    "title": "SPM-Bench: Benchmarking Large Language Models for Scanning Probe Microscopy",
+    "summary": "arXiv:2602.22971v1 Announce Type: new Abstract: As LLMs achieved breakthroughs in general reasoning, their proficiency in specialized scientific domains reveals pronounced gaps in existing benchmarks due to data contamination, insufficient complexity, and prohibitive human labor costs. Here we present SPM-Bench, an original, PhD-level multimodal be",
+    "url": "https://arxiv.org/abs/2602.22971",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "Compose and Fuse: Revisiting the Foundational Bottlenecks in Multimodal Reasoning",
-    "summary": "arXiv:2509.23744v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) promise enhanced reasoning by integrating diverse inputs such as text, vision, and audio. Yet cross-modal reasoning remains underexplored, with conflicting reports on whether added modalities help or harm performance. These inconsistencies stem from a",
-    "url": "https://arxiv.org/abs/2509.23744",
+    "title": "To Deceive is to Teach? Forging Perceptual Robustness via Adversarial Reinforcement Learning",
+    "summary": "arXiv:2602.22227v1 Announce Type: cross Abstract: Despite their impressive capabilities, Multimodal Large Language Models (MLLMs) exhibit perceptual fragility when confronted with visually complex scenes. This weakness stems from a reliance on finite training datasets, which are prohibitively expensive to scale and impose a ceiling on model robustn",
+    "url": "https://arxiv.org/abs/2602.22227",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "SciTS: Scientific Time Series Understanding and Generation with LLMs",
-    "summary": "arXiv:2510.03255v2 Announce Type: replace-cross Abstract: The scientific reasoning ability of large language models (LLMs) has recently attracted significant attention. Time series, as a fundamental modality in scientific data, presents unique challenges that are often overlooked in current multimodal LLMs, which either encode numerical sequences a",
-    "url": "https://arxiv.org/abs/2510.03255",
+    "title": "Deep Sequence Modeling with Quantum Dynamics: Language as a Wave Function",
+    "summary": "arXiv:2602.22255v1 Announce Type: cross Abstract: We introduce a sequence modeling framework in which the latent state is a complex-valued wave function evolving on a finite-dimensional Hilbert space under a learned, time-dependent Hamiltonian. Unlike standard recurrent architectures that rely on gating mechanisms to suppress competing hypotheses, ",
+    "url": "https://arxiv.org/abs/2602.22255",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "TimeBlind: A Spatio-Temporal Compositionality Benchmark for Video LLMs",
-    "summary": "arXiv:2602.00288v3 Announce Type: replace-cross Abstract: Fine-grained spatio-temporal understanding is essential for video reasoning and embodied AI. Yet, while Multimodal Large Language Models (MLLMs) master static semantics, their grasp of temporal dynamics remains brittle. We present TimeBlind, a diagnostic benchmark for compositional spatio-te",
-    "url": "https://arxiv.org/abs/2602.00288",
+    "title": "Decoding the Hook: A Multimodal LLM Framework for Analyzing the Hooking Period of Video Ads",
+    "summary": "arXiv:2602.22299v1 Announce Type: cross Abstract: Video-based ads are a vital medium for brands to engage consumers, with social media platforms leveraging user data to optimize ad delivery and boost engagement. A crucial but under-explored aspect is the 'hooking period', the first three seconds that capture viewer attention and influence engagemen",
+    "url": "https://arxiv.org/abs/2602.22299",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation",
-    "summary": "arXiv:2602.16898v3 Announce Type: replace-cross Abstract: Task planning for robotic manipulation with large language models (LLMs) is an emerging area. Prior approaches rely on specialized models, fine tuning, or prompt tuning, and often operate in an open loop manner without robust environmental feedback, making them fragile in dynamic settings. M",
-    "url": "https://arxiv.org/abs/2602.16898",
+    "title": "Ruyi2 Technical Report",
+    "summary": "arXiv:2602.22543v1 Announce Type: cross Abstract: Large Language Models (LLMs) face significant challenges regarding deployment costs and latency, necessitating adaptive computing strategies. Building upon the AI Flow framework, we introduce Ruyi2 as an evolution of our adaptive model series designed for efficient variable-depth computation. While ",
+    "url": "https://arxiv.org/abs/2602.22543",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "Dual-Channel Attention Guidance for Training-Free Image Editing Control in Diffusion Transformers",
-    "summary": "arXiv:2602.18022v2 Announce Type: replace-cross Abstract: Training-free control over editing intensity is a critical requirement for diffusion-based image editing models built on the Diffusion Transformer (DiT) architecture. Existing attention manipulation methods focus exclusively on the Key space to modulate attention routing, leaving the Value s",
-    "url": "https://arxiv.org/abs/2602.18022",
+    "title": "ContextRL: Enhancing MLLM's Knowledge Discovery Efficiency with Context-Augmented RL",
+    "summary": "arXiv:2602.22623v1 Announce Type: cross Abstract: We propose ContextRL, a novel framework that leverages context augmentation to overcome these bottlenecks. Specifically, to enhance Identifiability, we provide the reward model with full reference solutions as context, enabling fine-grained process verification to filter out false positives (samples",
+    "url": "https://arxiv.org/abs/2602.22623",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "Google's Nano Banana 2 brings Pro-level image generation to Flash speeds at up to 40% lower API cost",
-    "summary": "Google's new Nano Banana 2 image generation model pairs the capabilities of the pricier Pro model with Gemini Flash speed at nearly half the cost. It's now the default in the Gemini app. The article Google&#039;s Nano Banana 2 brings Pro-level image generation to Flash speeds at up to 40% lower API cost appeared first on The Decoder.",
-    "url": "https://the-decoder.com/googles-nano-banana-2-brings-pro-level-image-generation-to-flash-speeds-at-up-to-40-lower-api-cost/",
-    "source": "The Decoder",
-    "published_at": "2026-02-26T18:45:03+00:00",
+    "title": "IMMACULATE: A Practical LLM Auditing Framework via Verifiable Computation",
+    "summary": "arXiv:2602.22700v1 Announce Type: cross Abstract: Commercial large language models are typically deployed as black-box API services, requiring users to trust providers to execute inference correctly and report token usage honestly. We present IMMACULATE, a practical auditing framework that detects economically motivated deviations-such as model sub",
+    "url": "https://arxiv.org/abs/2602.22700",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "Alibaba's open Qwen 3.5 takes aim at GPT-5 mini and Claude Sonnet 4.5 at a fraction of the cost",
-    "summary": "Alibaba has introduced the new Qwen 3.5 model series. It comprises four models: Qwen3.5-Flash, Qwen3.5-35B-A3B, Qwen3.5-122B-A10B and Qwen3.5-27B. The article Alibaba&#039;s open Qwen 3.5 takes aim at GPT-5 mini and Claude Sonnet 4.5 at a fraction of the cost appeared first on The Decoder.",
-    "url": "https://the-decoder.com/alibabas-open-qwen-3-5-takes-aim-at-gpt-5-mini-and-claude-sonnet-4-5-at-a-fraction-of-the-cost/",
-    "source": "The Decoder",
-    "published_at": "2026-02-26T09:14:52+00:00",
+    "title": "SoPE: Spherical Coordinate-Based Positional Embedding for Enhancing Spatial Perception of 3D LVLMs",
+    "summary": "arXiv:2602.22716v1 Announce Type: cross Abstract: 3D Large Vision-Language Models (3D LVLMs) built upon Large Language Models (LLMs) have achieved remarkable progress across various multimodal tasks. However, their inherited position-dependent modeling mechanism, Rotary Position Embedding (RoPE), remains suboptimal for 3D multimodal understanding. ",
+    "url": "https://arxiv.org/abs/2602.22716",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-27T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "A Dynamic Survey of Soft Set Theory and Its Extensions",
-    "summary": "arXiv:2602.21268v1 Announce Type: new Abstract: Soft set theory provides a direct framework for parameterized decision modeling by assigning to each attribute (parameter) a subset of a given universe, thereby representing uncertainty in a structured way [1, 2]. Over the past decades, the theory has expanded into numerous variants-including hypersof",
-    "url": "https://arxiv.org/abs/2602.21268",
+    "title": "LLM4AD: A Platform for Algorithm Design with Large Language Model",
+    "summary": "arXiv:2412.17287v2 Announce Type: replace Abstract: We introduce LLM4AD, a unified Python platform for algorithm design (AD) with large language models (LLMs). LLM4AD is a generic framework with modularized blocks for search methods, algorithm design tasks, and LLM interface. The platform integrates numerous key methods and supports a wide range of",
+    "url": "https://arxiv.org/abs/2412.17287",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "published_at": "2026-02-27T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   },
   {
-    "title": "Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information",
-    "summary": "arXiv:2602.21496v1 Announce Type: new Abstract: While defenses for structured PII are mature, Large Language Models (LLMs) pose a new threat: Semantic Sensitive Information (SemSI), where models infer sensitive identity attributes, generate reputation-harmful content, or hallucinate potentially wrong information. The capacity of LLMs to self-regula",
-    "url": "https://arxiv.org/abs/2602.21496",
+    "title": "ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices",
+    "summary": "arXiv:2602.21858v2 Announce Type: replace Abstract: Multimodal large language models (MLLMs) have made significant progress in mobile agent development, yet their capabilities are predominantly confined to a reactive paradigm, where they merely execute explicit user commands. The emerging paradigm of proactive intelligence, where agents autonomousl",
+    "url": "https://arxiv.org/abs/2602.21858",
     "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
-  },
-  {
-    "title": "The ASIR Courage Model: A Phase-Dynamic Framework for Truth Transitions in Human and AI Systems",
-    "summary": "arXiv:2602.21745v1 Announce Type: new Abstract: We introduce the ASIR (Awakened Shared Intelligence Relationship) Courage Model, a phase-dynamic framework that formalizes truth-disclosure as a state transition rather than a personality trait. The mode characterizes the shift from suppression (S0) to expression (S1) as occurring when facilitative fo",
-    "url": "https://arxiv.org/abs/2602.21745",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-26T05:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-02-27T03:16:01.376058+00:00"
+    "published_at": "2026-02-27T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   }
 ]
