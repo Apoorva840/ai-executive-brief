@@ -4,39 +4,40 @@
     "summary": "arXiv:2602.22217v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) has established itself as the standard paradigm for grounding Large Language Models (LLMs) in domain-specific, up-to-date data. However, the prevailing architecture for RAG has evolved into a complex, distributed stack requiring cloud-hosted vector databases, hea",
     "url": "https://arxiv.org/abs/2602.22217",
     "source": "Arxiv AI",
-    "published_at": "2026-02-27T05:00:00+00:00",
+    "published_at": "2026-02-28T05:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Meta signs multi-billion dollar deal to rent Google's TPUs in a direct challenge to Nvidia's AI chip dominance",
-    "summary": "Meta is renting Google's AI chips to train its models, a deal worth billions that puts Nvidia's dominance on notice. The article Meta signs multi-billion dollar deal to rent Google&#039;s TPUs in a direct challenge to Nvidia&#039;s AI chip dominance appeared first on The Decoder.",
-    "url": "https://the-decoder.com/meta-signs-multi-billion-dollar-deal-to-rent-googles-tpus-in-a-direct-challenge-to-nvidias-ai-chip-dominance/",
+    "title": "Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long",
+    "summary": "Even with newer models like GPT-5.2 and Claude 4.6, AI chatbots still give worse answers the longer a conversation goes on. The article Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long appeared first on The Decoder.",
+    "url": "https://the-decoder.com/even-frontier-llms-from-gpt-5-onward-lose-up-to-33-accuracy-when-you-chat-too-long/",
     "source": "The Decoder",
-    "published_at": "2026-02-27T16:29:52+00:00",
+    "published_at": "2026-02-28T17:45:42+00:00",
+    "score": 8
+  },
+  {
+    "title": "Current language model training leaves large parts of the internet on the table",
+    "summary": "Large language models learn from web data, but which pages actually make it into training sets depends heavily on a seemingly mundane choice: the HTML extractor. Researchers at Apple, Stanford, and the University of Washington found that three common extraction tools pull surprisingly different content from the same web pages. The article Current l",
+    "url": "https://the-decoder.com/current-language-model-training-leaves-large-parts-of-the-internet-on-the-table/",
+    "source": "The Decoder",
+    "published_at": "2026-02-28T11:47:39+00:00",
+    "score": 7
+  },
+  {
+    "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+    "summary": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+    "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+    "source": "Wired AI",
+    "published_at": "2026-02-28T03:30:41+00:00",
     "score": 6
   },
   {
-    "title": "Figma and OpenAI connect design and code through new Codex integration",
-    "summary": "A new integration links Figma's design platform directly with OpenAI's Codex. The article Figma and OpenAI connect design and code through new Codex integration appeared first on The Decoder.",
-    "url": "https://the-decoder.com/figma-and-openai-connect-design-and-code-through-new-codex-integration/",
-    "source": "The Decoder",
-    "published_at": "2026-02-27T15:22:50+00:00",
-    "score": 6
-  },
-  {
-    "title": "Trump Moves to Ban Anthropic From the US Government",
-    "summary": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-    "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
-    "source": "Wired AI",
-    "published_at": "2026-02-27T21:36:31+00:00",
-    "score": 5
-  },
-  {
-    "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-    "summary": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-    "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-    "source": "Wired AI",
-    "published_at": "2026-02-27T19:07:28+00:00",
-    "score": 5
+    "title": "ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models",
+    "summary": "arXiv:2504.00037v2 Announce Type: replace-cross Abstract: Vision Transformers (ViTs) have delivered remarkable progress through global self-attention, yet their quadratic complexity can become prohibitive for high-resolution inputs. In this work, we present ViT-Linearizer, a cross-architecture distillation framework that transfers rich ViT represen",
+    "url": "https://arxiv.org/abs/2504.00037",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-27T05:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-02-28T02:45:35.207047+00:00"
   }
 ]

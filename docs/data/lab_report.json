@@ -3,24 +3,24 @@
     "papers": [
         {
             "title": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents",
-            "innovation": "This paper introduces the concept of 'Agent Behavioral Contracts' to formally specify and enforce the correct behavior of AI agents. It bridges the gap between traditional software engineering practices (APIs, type systems, assertions) and the less formal prompt-based nature of AI agents, aiming to mitigate issues like behavioral drift, governance failures, and unpredictability.",
-            "benchmarks": "While not a benchmark paper itself, the proposed framework would be evaluated on its ability to enforce specified behaviors, reduce agent failures, and improve system reliability and auditability in complex operational environments.",
-            "use_case": "Essential for AI engineers focused on building and deploying reliable, auditable, and production-ready autonomous AI agents. This innovation allows for greater control, predictability, and safety in agentic systems, crucial for high-stakes applications and ensuring compliance with desired operational parameters.",
+            "innovation": "Proposes formal behavioral specifications ('contracts') for AI agents, analogous to traditional software contracts (APIs, type systems). This enables runtime enforcement to guarantee correct agent behavior, directly addressing critical issues like drift, governance failures, and safety in autonomous AI systems.",
+            "benchmarks": "The abstract highlights the problem of 'drift, governance failures, and frequently unsafe behavior' as the motivation, implying the efficacy of the proposed contracts would be measured by improvements in these areas, rather than through a single named benchmark.",
+            "use_case": "Crucial for AI engineers developing, deploying, and maintaining reliable and safe autonomous AI agents in real-world applications. It provides a foundational method for specifying and enforcing predictable behavior, essential for trust and governance in production AI systems.",
             "url": "https://arxiv.org/abs/2602.22302"
         },
         {
-            "title": "Towards Autonomous Memory Agents",
-            "innovation": "This work advances LLM memory agents beyond passive information extraction and reactive updates. It proposes a shift towards autonomous memory growth, where agents proactively manage and evolve their external memory stores. This enables more sophisticated context assembly, continuous online memory updates, and improved adaptability without the need for expensive LLM retraining.",
-            "benchmarks": "Likely assessed through metrics related to long-term task performance, efficiency of memory usage, relevance of retrieved context, reduction in conversational inconsistencies or hallucinations over extended interactions, and the agent's ability to learn and adapt over time.",
-            "use_case": "Highly relevant for AI engineers developing sophisticated LLM-powered agents that require persistent state, long-term memory, and the ability to continuously learn and adapt. This facilitates the creation of more intelligent assistants, autonomous decision-making systems, and agents capable of complex, multi-session interactions.",
-            "url": "https://arxiv.org/abs/2602.22406"
+            "title": "FIRE: A Comprehensive Benchmark for Financial Intelligence and Reasoning Evaluation",
+            "innovation": "Introduces FIRE, a new comprehensive benchmark specifically designed to evaluate Large Language Models (LLMs) on both theoretical financial knowledge and practical business scenario reasoning. It curates diverse questions from recognized financial qualifications.",
+            "benchmarks": "FIRE itself *is* the benchmark, providing a standardized and comprehensive suite of tests for financial intelligence and reasoning in LLMs, encompassing theoretical knowledge and practical application scenarios.",
+            "use_case": "Essential for AI engineers and researchers working on LLMs for financial applications. It enables rigorous, standardized evaluation, comparison, and iterative improvement of models to ensure high accuracy and reliability before deployment in high-stakes financial domains.",
+            "url": "https://arxiv.org/abs/2602.22273"
         },
         {
-            "title": "Epistemic Filtering and Collective Hallucination: A Jury Theorem for Confidence-Calibrated Agents",
-            "innovation": "This paper investigates how a collective of heterogeneous agents can improve their overall accuracy and mitigate 'collective hallucination' by learning to estimate their individual reliability over time and selectively abstaining from voting. It extends the classical Condorcet Jury Theorem to scenarios with dynamic, confidence-calibrated participation.",
-            "benchmarks": "Evaluated on the collective accuracy of agent ensembles, robustness to individual agent errors, and the effectiveness in preventing or mitigating 'collective hallucination' in various multi-agent decision-making or information aggregation tasks.",
-            "use_case": "Crucial for AI engineers designing and optimizing multi-agent systems where robust collective intelligence, decision-making, and error mitigation are paramount. This research provides principles to build more reliable and accurate ensembles of AI agents, particularly for applications requiring high confidence in aggregated outcomes or consensus.",
-            "url": "https://arxiv.org/abs/2602.22413"
+            "title": "Towards Autonomous Memory Agents",
+            "innovation": "Addresses the limitations of existing passive memory agents for LLMs by proposing a framework for 'autonomous' memory agents. This innovation allows agents to proactively grow their memory, self-drive information seeking, consolidate experiences, and perform online updates, moving beyond reactive memory growth.",
+            "benchmarks": "The abstract implies evaluation based on improved memory management, efficient context assembly, and the ability of LLM-based agents to maintain and grow relevant information over extended interactions, rather than a specific benchmark suite.",
+            "use_case": "Highly relevant for AI engineers building advanced LLM-powered agents that require persistent, evolving, and actively managed memory. This enables more sophisticated long-term interactions, continuous learning from experience, and improved performance in complex, multi-turn applications like personal assistants or domain-specific expert systems.",
+            "url": "https://arxiv.org/abs/2602.22406"
         }
     ]
 }

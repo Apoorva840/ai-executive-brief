@@ -15,54 +15,55 @@
     "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
   },
   {
-    "title": "Meta signs multi-billion dollar deal to rent Google's TPUs in a direct challenge to Nvidia's AI chip dominance",
-    "url": "https://the-decoder.com/meta-signs-multi-billion-dollar-deal-to-rent-googles-tpus-in-a-direct-challenge-to-nvidias-ai-chip-dominance/",
+    "title": "Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long",
+    "url": "https://the-decoder.com/even-frontier-llms-from-gpt-5-onward-lose-up-to-33-accuracy-when-you-chat-too-long/",
     "source": "The Decoder",
-    "score": 6,
-    "what_happened": "Meta is renting Google's AI chips to train its models, a deal worth billions that puts Nvidia's dominance on notice. The article Meta signs multi-billion dollar deal to rent Google&#039;s TPUs in a direct challenge to Nvidia&#039;s AI chip dominance appeared first on The Decoder.",
+    "score": 8,
+    "what_happened": "Even with newer models like GPT-5.2 and Claude 4.6, AI chatbots still give worse answers the longer a conversation goes on. The article Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Figma and OpenAI connect design and code through new Codex integration",
-    "url": "https://the-decoder.com/figma-and-openai-connect-design-and-code-through-new-codex-integration/",
-    "source": "The Decoder",
-    "score": 6,
-    "what_happened": "A new integration links Figma's design platform directly with OpenAI's Codex. The article Figma and OpenAI connect design and code through new Codex integration appeared first on The Decoder.",
-    "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "Trump Moves to Ban Anthropic From the US Government",
-    "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+    "title": "Current language model training leaves large parts of the internet on the table",
+    "url": "https://the-decoder.com/current-language-model-training-leaves-large-parts-of-the-internet-on-the-table/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "Large language models learn from web data, but which pages actually make it into training sets depends heavily on a seemingly mundane choice: the HTML extractor. Researchers at Apple, Stanford, and the University of Washington found that three common extraction tools pull surprisingly different content from the same web pages. The article Current l",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
+    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "Mobile Engineers",
+      "Product Managers"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
   },
   {
-    "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-    "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+    "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+    "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
     "source": "Wired AI",
-    "score": 5,
-    "what_happened": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
+    "score": 6,
+    "what_happened": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+    "technical_takeaway": null,
+    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
+    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
+    "who_should_care": [
+      "AI Ethics Engineers",
+      "Legal & Compliance"
+    ],
+    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
+  },
+  {
+    "title": "ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models",
+    "url": "https://arxiv.org/abs/2504.00037",
+    "source": "Arxiv AI",
+    "score": 8,
+    "what_happened": "arXiv:2504.00037v2 Announce Type: replace-cross Abstract: Vision Transformers (ViTs) have delivered remarkable progress through global self-attention, yet their quadratic complexity can become prohibitive for high-resolution inputs. In this work, we present ViT-Linearizer, a cross-architecture distillation framework that transfers rich ViT represen",
     "technical_takeaway": null,
     "primary_risk": "Fragmentation across hardware-specific inference stacks.",
     "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
