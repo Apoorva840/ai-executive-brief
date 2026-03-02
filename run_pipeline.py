@@ -83,9 +83,10 @@ def run_pipeline():
         
         standard_flow = [
             "ai_deduplicate.py", 
-            "jargon_buster.py",     # Project B: Weekly Jargon (Handles Saturday logic inside)
-            "process_lab_report.py", # Project C: (Disabled for now to fix errors first)
-            "rank_news.py",         # Project A: Ranking & Selection
+            "jargon_buster.py",      # Project B: Weekly Jargon
+            "process_lab_report.py",  # Project C: Research Lab
+            "process_toolbox.py",     # Project D: Developer Toolbox (ADDED)
+            "rank_news.py",           # Project A: Ranking & Selection
             "summarize.py", 
             "enrich.py"
         ]
@@ -111,7 +112,6 @@ def run_pipeline():
 
     # STEP 4: Always Format and Send
     final_steps = ["format_brief.py", "send_email.py"]
-    #final_steps = ["format_brief.py"]
     for script in final_steps:
         if not run_step(script):
             sys.exit(1)

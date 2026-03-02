@@ -1,49 +1,52 @@
 import os
 import json
+import time
+import random
 from pathlib import Path
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 # ============================
 # CONFIGURATION & PATHS
 # ============================
 PROJECT_ROOT = Path(__file__).resolve().parent
-# This assumes your Ingest script saves raw repo data here
 RAW_DATA_INPUT = PROJECT_ROOT / "data" / "raw_github_trending.json"
 OUTPUT_FILE = PROJECT_ROOT / "docs" / "data" / "toolbox.json"
 
-# Configure Gemini
-GENAI_API_KEY = os.getenv("GEMINI_API_KEY")
-genai.configure(api_key=GENAI_API_KEY)
+def call_gemini_with_retry(prompt, max_retries=3):
+    """Handles 429 errors for Toolbox processing."""
+    client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+    
+    for attempt in range(max_retries):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.0-flash", # Consistent with your other stable scripts
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type='application/json'
+                )
+            )
+            return json.loads(response.text)
+            
+        except Exception as e:
+            if "429" in str(e) and attempt < max_retries - 1:
+                sleep_time = (2 ** attempt) + random.random()
+                print(f"⚠️ Toolbox Quota Hit. Retrying in {sleep_time:.2f}s...")
+                time.sleep(sleep_time)
+            else:
+                raise e
 
 def process_tools_with_ai(raw_repos):
-    """
-    Uses Gemini 2.5 Flash to categorize and summarize developer tools.
-    """
-    model = genai.GenerativeModel('gemini-2.5-flash')
-    
-    # Constructing the system prompt for structured JSON output
+    """Categorizes and summarizes developer tools using structured prompt."""
     prompt = f"""
-    You are an expert AI Developer Advocate. 
-    Analyze the following list of trending GitHub repositories and extract the top 3 most useful AI tools.
-    
-    For each tool, you MUST provide:
-    1. Name: Repository name.
-    2. Category: Strictly one of [Vision, NLP, Audio, Multimodal, DevTools, Infrastructure].
-    3. Description: A 1-sentence summary of what it does.
-    4. Use Case: How a developer would use this in a real project.
-    5. URL: The GitHub link.
-
-    Return the result as a VALID JSON object with the key "tools".
+    Analyze these trending GitHub repositories and extract the top 3 most useful AI tools.
+    For each tool, provide: Name, Category [Vision, NLP, Audio, Multimodal, DevTools, Infrastructure], 
+    Description (1-sentence), Use Case, and URL.
     
     RAW DATA:
-    {json.dumps(raw_repos)}
+    {json.dumps(raw_repos[:15])} 
     """
-
-    response = model.generate_content(prompt)
-    
-    # Clean the response to ensure it's pure JSON
-    clean_json = response.text.replace("```json", "").replace("```", "").strip()
-    return json.loads(clean_json)
+    return call_gemini_with_retry(prompt)
 
 def main():
     print("🛠️ [RUNNING] process_toolbox.py...")
@@ -52,22 +55,19 @@ def main():
         print(f"⚠️ No raw data found at {RAW_DATA_INPUT}. Skipping.")
         return
 
-    with open(RAW_DATA_INPUT, "r") as f:
+    with open(RAW_DATA_INPUT, "r", encoding="utf-8") as f:
         raw_repos = json.load(f)
 
     try:
-        # Process data with Gemini 2.5 Flash
         structured_data = process_tools_with_ai(raw_repos)
         
-        # Add metadata
         final_output = {
-            "last_updated": os.getenv("CURRENT_DATE", "2026-02-26"),
-            "tools": structured_data["tools"]
+            "last_updated": datetime.now().strftime('%B %d, %Y'),
+            "tools": structured_data.get("tools", [])
         }
 
-        # Save to the "Face" directory for the microsite
         OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-        with open(OUTPUT_FILE, "w") as f:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(final_output, f, indent=4)
             
         print(f"✅ Toolbox generated with {len(final_output['tools'])} tools.")
@@ -76,4 +76,5 @@ def main():
         print(f"❌ Error processing toolbox: {e}")
 
 if __name__ == "__main__":
+    from datetime import datetime
     main()
