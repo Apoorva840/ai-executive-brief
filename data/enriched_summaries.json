@@ -1,62 +1,31 @@
 [
   {
-    "title": "RAGdb: A Zero-Dependency, Embeddable Architecture for Multimodal Retrieval-Augmented Generation on the Edge",
-    "url": "https://arxiv.org/abs/2602.22217",
-    "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2602.22217v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) has established itself as the standard paradigm for grounding Large Language Models (LLMs) in domain-specific, up-to-date data. However, the prevailing architecture for RAG has evolved into a complex, distributed stack requiring cloud-hosted vector databases, hea",
-    "technical_takeaway": null,
-    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
-    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
-    "who_should_care": [
-      "Mobile Engineers",
-      "Product Managers"
-    ],
-    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
-  },
-  {
-    "title": "Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long",
-    "url": "https://the-decoder.com/even-frontier-llms-from-gpt-5-onward-lose-up-to-33-accuracy-when-you-chat-too-long/",
+    "title": "AI can link fake online names to real identities in minutes for just a few dollars",
+    "url": "https://the-decoder.com/ai-can-link-fake-online-names-to-real-identities-in-minutes-for-just-a-few-dollars/",
     "source": "The Decoder",
-    "score": 8,
-    "what_happened": "Even with newer models like GPT-5.2 and Claude 4.6, AI chatbots still give worse answers the longer a conversation goes on. The article Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long appeared first on The Decoder.",
+    "score": 7,
+    "what_happened": "Researchers from ETH Zurich and Anthropic demonstrate that pseudonymous internet users can be identified using commercially available AI models for just a few dollars per person. The results call into question fundamental assumptions about online anonymity. The article AI can link fake online names to real identities in minutes for just a few dolla",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "Current language model training leaves large parts of the internet on the table",
-    "url": "https://the-decoder.com/current-language-model-training-leaves-large-parts-of-the-internet-on-the-table/",
+    "title": "ElevenLabs and Google dominate Artificial Analysis' updated speech-to-text benchmark",
+    "url": "https://the-decoder.com/elevenlabs-and-google-dominate-artificial-analysis-updated-speech-to-text-benchmark/",
     "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Large language models learn from web data, but which pages actually make it into training sets depends heavily on a seemingly mundane choice: the HTML extractor. Researchers at Apple, Stanford, and the University of Washington found that three common extraction tools pull surprisingly different content from the same web pages. The article Current l",
-    "technical_takeaway": null,
-    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
-    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
-    "who_should_care": [
-      "Mobile Engineers",
-      "Product Managers"
-    ],
-    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
-  },
-  {
-    "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
-    "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-    "source": "Wired AI",
     "score": 6,
-    "what_happened": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+    "what_happened": "ElevenLabs and Google are neck and neck in the race for the best speech recognition. A new benchmark shows who comes out on top. The article ElevenLabs and Google dominate Artificial Analysis&#039; updated speech-to-text benchmark appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
-    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
-      "AI Ethics Engineers",
-      "Legal & Compliance"
+      "AI Professionals"
     ],
-    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
     "title": "ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models",
@@ -72,5 +41,35 @@
       "Product Managers"
     ],
     "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
+  },
+  {
+    "title": "Agentic AI for Intent-driven Optimization in Cell-free O-RAN",
+    "url": "https://arxiv.org/abs/2602.22539",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2602.22539v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) is emerging as a key enabler for autonomous radio access networks (RANs), where multiple large language model (LLM)-based agents reason and collaborate to achieve operator-defined intents. The open RAN (O-RAN) architecture enables the deployment and coordination of",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety",
+    "url": "https://arxiv.org/abs/2602.22557",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2602.22557v1 Announce Type: new Abstract: Current safety mechanisms for Large Language Models (LLMs) rely heavily on static, fine-tuned classifiers that suffer from adaptation rigidity, the inability to enforce new governance rules without expensive retraining. To address this, we introduce CourtGuard, a retrieval-augmented multi-agent framew",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "title": "Moltbook's alleged AI civilization is just a massive void of bloated bot traffic",
+    "summary": "Over 2.6 million AI agents interact on Moltbook with zero human involvement. They post, comment, and vote, but a new study shows they never learn from each other. It's hollow interaction without mutual influence, shared memory, or social structures, a new study finds. The article Moltbook&#039;s alleged AI civilization is just a massive void of blo",
+    "url": "https://the-decoder.com/moltbooks-alleged-ai-civilization-is-just-a-massive-void-of-bloated-bot-traffic/",
+    "source": "The Decoder",
+    "published_at": "2026-03-01T10:41:51+00:00",
+    "score": 6,
+    "archived_at": "2026-03-02T03:17:31.446520+00:00"
+  },
+  {
+    "title": "The Pentagon-OpenAI-Anthropic fallout comes down to three words: \"all lawful use\"",
+    "summary": "After signing a deal with the Department of War, OpenAI tries to build trust by publishing the contract details. So far, it's not working. The article The Pentagon-OpenAI-Anthropic fallout comes down to three words: &quot;all lawful use&quot; appeared first on The Decoder.",
+    "url": "https://the-decoder.com/the-pentagon-openai-anthropic-fallout-comes-down-to-three-words-all-lawful-use/",
+    "source": "The Decoder",
+    "published_at": "2026-03-01T09:43:45+00:00",
+    "score": 6,
+    "archived_at": "2026-03-02T03:17:31.446520+00:00"
+  },
+  {
     "title": "ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models",
     "summary": "arXiv:2504.00037v2 Announce Type: replace-cross Abstract: Vision Transformers (ViTs) have delivered remarkable progress through global self-attention, yet their quadratic complexity can become prohibitive for high-resolution inputs. In this work, we present ViT-Linearizer, a cross-architecture distillation framework that transfers rich ViT represen",
     "url": "https://arxiv.org/abs/2504.00037",
@@ -2676,24 +2694,6 @@
     "title": "VLRS-Bench: A Vision-Language Reasoning Benchmark for Remote Sensing",
     "summary": "arXiv:2602.07045v1 Announce Type: cross Abstract: Recent advancements in Multimodal Large Language Models (MLLMs) have enabled complex reasoning. However, existing remote sensing (RS) benchmarks remain heavily biased toward perception tasks, such as object recognition and scene classification. This limitation hinders the development of MLLMs for co",
     "url": "https://arxiv.org/abs/2602.07045",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-11T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-12T03:28:41.934855+00:00"
-  },
-  {
-    "title": "Extended to Reality: Prompt Injection in 3D Environments",
-    "summary": "arXiv:2602.07104v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have advanced the capabilities to interpret and act on visual input in 3D environments, empowering diverse applications such as robotics and situated conversational agents. When MLLMs reason over camera-captured views of the physical world, a new attack surfa",
-    "url": "https://arxiv.org/abs/2602.07104",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-11T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-12T03:28:41.934855+00:00"
-  },
-  {
-    "title": "Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large Language Models",
-    "summary": "arXiv:2602.07106v1 Announce Type: cross Abstract: Omni-modal large language models (OLLMs) aim to unify multimodal understanding and generation, yet incorporating speech with 3D facial animation remains largely unexplored despite its importance for natural interaction. A key challenge arises from the representation mismatch between discrete, token-",
-    "url": "https://arxiv.org/abs/2602.07106",
     "source": "Arxiv AI",
     "published_at": "2026-02-11T05:00:00+00:00",
     "score": 7,

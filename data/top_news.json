@@ -1,34 +1,18 @@
 [
   {
-    "title": "RAGdb: A Zero-Dependency, Embeddable Architecture for Multimodal Retrieval-Augmented Generation on the Edge",
-    "summary": "arXiv:2602.22217v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) has established itself as the standard paradigm for grounding Large Language Models (LLMs) in domain-specific, up-to-date data. However, the prevailing architecture for RAG has evolved into a complex, distributed stack requiring cloud-hosted vector databases, hea",
-    "url": "https://arxiv.org/abs/2602.22217",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-28T05:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long",
-    "summary": "Even with newer models like GPT-5.2 and Claude 4.6, AI chatbots still give worse answers the longer a conversation goes on. The article Even frontier LLMs from GPT-5 onward lose up to 33% accuracy when you chat too long appeared first on The Decoder.",
-    "url": "https://the-decoder.com/even-frontier-llms-from-gpt-5-onward-lose-up-to-33-accuracy-when-you-chat-too-long/",
+    "title": "AI can link fake online names to real identities in minutes for just a few dollars",
+    "summary": "Researchers from ETH Zurich and Anthropic demonstrate that pseudonymous internet users can be identified using commercially available AI models for just a few dollars per person. The results call into question fundamental assumptions about online anonymity. The article AI can link fake online names to real identities in minutes for just a few dolla",
+    "url": "https://the-decoder.com/ai-can-link-fake-online-names-to-real-identities-in-minutes-for-just-a-few-dollars/",
     "source": "The Decoder",
-    "published_at": "2026-02-28T17:45:42+00:00",
-    "score": 8
-  },
-  {
-    "title": "Current language model training leaves large parts of the internet on the table",
-    "summary": "Large language models learn from web data, but which pages actually make it into training sets depends heavily on a seemingly mundane choice: the HTML extractor. Researchers at Apple, Stanford, and the University of Washington found that three common extraction tools pull surprisingly different content from the same web pages. The article Current l",
-    "url": "https://the-decoder.com/current-language-model-training-leaves-large-parts-of-the-internet-on-the-table/",
-    "source": "The Decoder",
-    "published_at": "2026-02-28T11:47:39+00:00",
+    "published_at": "2026-03-01T11:47:40+00:00",
     "score": 7
   },
   {
-    "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
-    "summary": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-    "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-    "source": "Wired AI",
-    "published_at": "2026-02-28T03:30:41+00:00",
+    "title": "ElevenLabs and Google dominate Artificial Analysis' updated speech-to-text benchmark",
+    "summary": "ElevenLabs and Google are neck and neck in the race for the best speech recognition. A new benchmark shows who comes out on top. The article ElevenLabs and Google dominate Artificial Analysis&#039; updated speech-to-text benchmark appeared first on The Decoder.",
+    "url": "https://the-decoder.com/elevenlabs-and-google-dominate-artificial-analysis-updated-speech-to-text-benchmark/",
+    "source": "The Decoder",
+    "published_at": "2026-03-01T14:50:11+00:00",
     "score": 6
   },
   {
@@ -36,8 +20,26 @@
     "summary": "arXiv:2504.00037v2 Announce Type: replace-cross Abstract: Vision Transformers (ViTs) have delivered remarkable progress through global self-attention, yet their quadratic complexity can become prohibitive for high-resolution inputs. In this work, we present ViT-Linearizer, a cross-architecture distillation framework that transfers rich ViT represen",
     "url": "https://arxiv.org/abs/2504.00037",
     "source": "Arxiv AI",
-    "published_at": "2026-02-27T05:00:00+00:00",
+    "published_at": "2026-02-28T05:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-02-28T02:45:35.207047+00:00"
+    "archived_at": "2026-03-01T03:29:33.372316+00:00"
+  },
+  {
+    "title": "Agentic AI for Intent-driven Optimization in Cell-free O-RAN",
+    "summary": "arXiv:2602.22539v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) is emerging as a key enabler for autonomous radio access networks (RANs), where multiple large language model (LLM)-based agents reason and collaborate to achieve operator-defined intents. The open RAN (O-RAN) architecture enables the deployment and coordination of",
+    "url": "https://arxiv.org/abs/2602.22539",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-28T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-01T03:29:33.372316+00:00"
+  },
+  {
+    "title": "CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety",
+    "summary": "arXiv:2602.22557v1 Announce Type: new Abstract: Current safety mechanisms for Large Language Models (LLMs) rely heavily on static, fine-tuned classifiers that suffer from adaptation rigidity, the inability to enforce new governance rules without expensive retraining. To address this, we introduce CourtGuard, a retrieval-augmented multi-agent framew",
+    "url": "https://arxiv.org/abs/2602.22557",
+    "source": "Arxiv AI",
+    "published_at": "2026-02-28T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-01T03:29:33.372316+00:00"
   }
 ]
