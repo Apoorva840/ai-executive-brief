@@ -61,22 +61,6 @@ header p {
     font-weight: 500;
 }
 
-.reading-badge {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    background: rgba(255, 255, 255, 0.1);
-    padding: 6px 14px;
-    border-radius: 30px;
-    font-size: 0.7rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    margin-bottom: 16px;
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    color: rgba(255, 255, 255, 0.9);
-}
-
 .archive-box {
     display: flex;
     align-items: center;
@@ -157,7 +141,6 @@ main {
     font-weight: 800;
 }
 
-/* Section Specific Pop Colors */
 .story h3:nth-of-type(1) { color: #4b5563; } /* Summary */
 .story h3:nth-of-type(2) { color: #2563eb; } /* Technical Takeaway */
 .story h3:nth-of-type(3) { color: #dc2626; } /* Risk */
@@ -219,16 +202,89 @@ main {
 }
 
 /* =========================
-   LAB REPORT (RESEARCH) - BOTTOM SECTION
+   TOOLBOX (DEVELOPER TOOLS) - PROJECT D
 ========================= */
-#lab-report {
-    margin-top: 60px; /* Space from the last news story */
+#ai-toolbox {
     margin-bottom: 50px;
     background: #ffffff;
     padding: 35px;
     border-radius: 16px;
     border: 1px solid #e5e7eb;
-    border-top: 6px solid #6366f1; /* Scientific Indigo accent */
+    border-top: 6px solid #10b981; /* Emerald accent */
+}
+
+.toolbox-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+}
+
+.tool-card {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 20px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.tool-header {
+    margin-bottom: 12px;
+}
+
+.category-pill {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    background: #d1fae5;
+    color: #065f46;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
+.tool-card h4 {
+    margin: 0;
+    color: #064e3b;
+    font-size: 1.1rem;
+}
+
+.tool-desc {
+    font-size: 0.9rem;
+    color: #374151;
+    margin: 10px 0;
+}
+
+.tool-usage {
+    font-size: 0.85rem;
+    color: #6b7280;
+    background: white;
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px dashed #d1d5db;
+}
+
+.tool-link {
+    display: block;
+    margin-top: 15px;
+    color: #10b981;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.85rem;
+}
+
+/* =========================
+   LAB REPORT (RESEARCH)
+========================= */
+#lab-report {
+    margin-bottom: 50px;
+    background: #ffffff;
+    padding: 35px;
+    border-radius: 16px;
+    border: 1px solid #e5e7eb;
+    border-top: 6px solid #6366f1; /* Indigo accent */
 }
 
 .lab-grid {
@@ -253,17 +309,6 @@ main {
     font-weight: 700;
 }
 
-.lab-meta p {
-    font-size: 0.95rem;
-    margin-bottom: 10px;
-    line-height: 1.5;
-    color: #334155;
-}
-
-.lab-meta strong {
-    color: #4338ca; /* Darker indigo for labels */
-}
-
 .lab-link {
     display: inline-block;
     margin-top: 10px;
@@ -271,10 +316,6 @@ main {
     text-decoration: none;
     font-weight: 700;
     font-size: 0.9rem;
-}
-
-.lab-link:hover {
-    text-decoration: underline;
 }
 
 /* =========================

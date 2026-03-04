@@ -82,6 +82,7 @@ def run_pipeline():
         print(f">>> {len(raw_data)} new articles found. Executing AI enhancement...")
         
         standard_flow = [
+            "fetch_github.py",
             "ai_deduplicate.py", 
             "jargon_buster.py",      # Project B: Weekly Jargon
             "process_lab_report.py",  # Project C: Research Lab

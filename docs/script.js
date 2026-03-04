@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
     loadBriefData("./data/daily_brief.json");
     loadJargonData("./data/jargon_buster.json");
     loadLabData("./data/lab_report.json");
+    loadToolboxData("./data/toolbox.json"); // Project D Initialization
 
     // Archive Manifest Logic
     fetch("./data/manifest.json")
@@ -27,6 +28,37 @@ document.addEventListener("DOMContentLoaded", () => {
         loadBriefData(selectedPath);
     });
 });
+
+// PROJECT D: Load Trending AI Tools
+function loadToolboxData(path) {
+    fetch(path)
+        .then(response => response.ok ? response.json() : null)
+        .then(data => {
+            const section = document.getElementById("ai-toolbox");
+            const container = document.getElementById("toolbox-container");
+
+            if (data && data.tools && data.tools.length > 0) {
+                section.style.display = "block";
+                container.innerHTML = "";
+                data.tools.forEach(tool => {
+                    const card = document.createElement("div");
+                    card.className = "tool-card";
+                    card.innerHTML = `
+                        <div class="tool-header">
+                            <span class="category-pill">${tool.Category}</span>
+                            <h4>${tool.Name}</h4>
+                        </div>
+                        <p class="tool-desc">${tool.Description}</p>
+                        <p class="tool-usage"><strong>Use Case:</strong> ${tool.Use_Case}</p>
+                        <a href="${tool.URL}" target="_blank" class="tool-link">View Repository →</a>
+                    `;
+                    container.appendChild(card);
+                });
+            } else {
+                section.style.display = "none";
+            }
+        });
+}
 
 function loadJargonData(path) {
     fetch(path)
