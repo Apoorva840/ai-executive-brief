@@ -4,134 +4,134 @@
     "summary": "arXiv:2603.00510v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) project visual tokens into the embedding space of language models, yet the internal structuring and processing of visual semantics remain poorly understood. In this work, we introduce a two-fold analytical framework featuring a novel probing tool, $\\textbf{Em",
     "url": "https://arxiv.org/abs/2603.00510",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "Uni-X: Mitigating Modality Conflict with a Two-End-Separated Architecture for Unified Multimodal Models",
     "summary": "arXiv:2509.24365v3 Announce Type: replace-cross Abstract: Unified Multimodal Models (UMMs) built on shared autoregressive (AR) transformers are attractive for their architectural simplicity. However, we identify a critical limitation: when trained on multimodal inputs, modality-shared transformers suffer from severe gradient conflicts between visio",
     "url": "https://arxiv.org/abs/2509.24365",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling",
     "summary": "arXiv:2602.11761v2 Announce Type: replace-cross Abstract: The evolution of large language models (LLMs) towards applications with ultra-long contexts faces challenges posed by the high computational and memory costs of the Transformer architecture. While existing sparse and linear attention mechanisms attempt to mitigate these issues, they typicall",
     "url": "https://arxiv.org/abs/2602.11761",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
     "summary": "arXiv:2603.00349v1 Announce Type: new Abstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exceed the capabilities of any single agent. Recent advances in large language models (LLMs) enable high-level cognitive coordination through reasoning, p",
     "url": "https://arxiv.org/abs/2603.00349",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks",
     "summary": "arXiv:2603.00490v1 Announce Type: new Abstract: The rapid progress of Multimodal Large Language Models (MLLMs) marks a significant step toward artificial general intelligence, offering great potential for augmenting human capabilities. However, their ability to provide effective assistance in dynamic, real-world environments remains largely underex",
     "url": "https://arxiv.org/abs/2603.00490",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "Advancing Multimodal Judge Models through a Capability-Oriented Benchmark and MCTS-Driven Data Generation",
     "summary": "arXiv:2603.00546v1 Announce Type: new Abstract: Using Multimodal Large Language Models (MLLMs) as judges to achieve precise and consistent evaluations has gradually become an emerging paradigm across various domains. Evaluating the capability and reliability of MLLM-as-a-judge systems is therefore essential for ensuring trustworthy assessment. Exis",
     "url": "https://arxiv.org/abs/2603.00546",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "LiTS: A Modular Framework for LLM Tree Search",
     "summary": "arXiv:2603.00631v1 Announce Type: new Abstract: LiTS is a modular Python framework for LLM reasoning via tree search. It decomposes tree search into three reusable components (Policy, Transition, and RewardModel) that plug into algorithms like MCTS and BFS. A decorator-based registry enables domain experts to extend to new domains by registering co",
     "url": "https://arxiv.org/abs/2603.00631",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains",
     "summary": "arXiv:2603.00873v1 Announce Type: new Abstract: With the increasing demand for step-wise, cross-modal, and knowledge-grounded reasoning, multimodal large language models (MLLMs) are evolving beyond the traditional fixed retrieve-then-generate paradigm toward more sophisticated agentic multimodal retrieval-augmented generation (MM-RAG). Existing ben",
     "url": "https://arxiv.org/abs/2603.00873",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "DIVA-GRPO: Enhancing Multimodal Reasoning through Difficulty-Adaptive Variant Advantage",
     "summary": "arXiv:2603.01106v1 Announce Type: new Abstract: Reinforcement learning (RL) with group relative policy optimization (GRPO) has become a widely adopted approach for enhancing the reasoning capabilities of multimodal large language models (MLLMs). While GRPO enables long-chain reasoning without a critic, it often suffers from sparse rewards on diffic",
     "url": "https://arxiv.org/abs/2603.01106",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "Words & Weights: Streamlining Multi-Turn Interactions via Co-Adaptation",
     "summary": "arXiv:2603.01375v1 Announce Type: new Abstract: Test-time policy adaptation for multi-turn interactions (T2PAM) is essential for aligning Large Language Models (LLMs) with dynamic user needs during inference time. However, existing paradigms commonly treat test-time adaptation as a single-axis problem, either purely refining instructions (Prompt En",
     "url": "https://arxiv.org/abs/2603.01375",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "Benchmarking LLM Summaries of Multimodal Clinical Time Series for Remote Monitoring",
     "summary": "arXiv:2603.01557v1 Announce Type: new Abstract: Large language models (LLMs) can generate fluent clinical summaries of remote therapeutic monitoring time series. However, it remains unclear whether these narratives faithfully capture clinically significant events, such as sustained abnormalities. Existing evaluation metrics primarily focus on seman",
     "url": "https://arxiv.org/abs/2603.01557",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "ActMem: Bridging the Gap Between Memory Retrieval and Reasoning in LLM Agents",
     "summary": "arXiv:2603.00026v1 Announce Type: cross Abstract: Effective memory management is essential for large language model (LLM) agents handling long-term interactions. Current memory frameworks typically treat agents as passive \"recorders\" and retrieve information without understanding its deeper implications. They may fail in scenarios requiring conflic",
     "url": "https://arxiv.org/abs/2603.00026",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "LitBench: A Graph-Centric Large Language Model Benchmarking Tool For Literature Tasks",
     "summary": "arXiv:2603.00051v1 Announce Type: cross Abstract: While large language models (LLMs) have become the de facto framework for literature-related tasks, they still struggle to function as domain-specific literature agents due to their inability to connect pieces of knowledge and reason across domain-specific contexts, terminologies, and nomenclatures.",
     "url": "https://arxiv.org/abs/2603.00051",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection",
     "summary": "arXiv:2603.00055v1 Announce Type: cross Abstract: Although multimodal large language models (MLLMs) have advanced industrial anomaly detection toward a zero-shot paradigm, they still tend to produce high-confidence yet unreliable decisions in fine-grained and structurally complex industrial scenarios, and lack effective self-corrective mechanisms. ",
     "url": "https://arxiv.org/abs/2603.00055",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   },
   {
     "title": "Autorubric: A Unified Framework for Rubric-Based LLM Evaluation",
     "summary": "arXiv:2603.00077v1 Announce Type: cross Abstract: Rubric-based evaluation with large language models (LLMs) has become standard practice for assessing text generation at scale, yet the underlying techniques are scattered across papers with inconsistent terminology and partial solutions. We present a unified framework: each identified technique is p",
     "url": "https://arxiv.org/abs/2603.00077",
     "source": "Arxiv AI",
-    "published_at": "2026-03-03T05:00:00+00:00",
+    "published_at": "2026-03-04T05:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-04T03:12:24.310319+00:00"
+    "archived_at": "2026-03-05T03:15:46.932764+00:00"
   }
 ]
