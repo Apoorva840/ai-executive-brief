@@ -1,75 +1,77 @@
 [
   {
-    "title": "Transformers Remember First, Forget Last: Dual-Process Interference in LLMs",
-    "url": "https://arxiv.org/abs/2603.00270",
+    "title": "A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development",
+    "url": "https://arxiv.org/abs/2603.04390",
     "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2603.00270v1 Announce Type: cross Abstract: When large language models encounter conflicting information in context, which memories survive -- early or recent? We adapt classical interference paradigms from cognitive psychology to answer this question, testing 39 LLMs across diverse architectures and scales. Every model shows the same pattern",
+    "score": 7,
+    "what_happened": "arXiv:2603.04390v1 Announce Type: new Abstract: WebGIS development requires rigor, yet agentic AI frequently fails due to five large language model (LLM) limitations: context constraints, cross-session forgetting, stochasticity, instruction failure, and adaptation rigidity. We propose a dual-helix governance framework reframing these challenges as",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
-    "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
     "source": "Hugging Face Blog",
-    "score": 8,
-    "what_happened": "Hugging Face Blog announced 'PRX Part 3 — Training a Text-to-Image Model in 24h!', highlighting new developments relevant to AI researchers and practitioners.",
+    "score": 7,
+    "what_happened": "Hugging Face Blog announced 'Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "ML Engineers",
       "Open-Source Contributors"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "Google's fastest and cheapest model Gemini 3.1 Flash-Lite got smarter but also tripled the price",
-    "url": "https://the-decoder.com/googles-fastest-and-cheapest-model-gemini-3-1-flash-lite-got-smarter-but-also-tripled-the-price/",
+    "title": "OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model",
+    "url": "https://the-decoder.com/openai-launches-gpt-5-4-thinking-and-pro-combining-coding-reasoning-and-computer-use-in-one-model/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Google Deepmind has released a preview of Gemini 3.1 Flash-Lite, the fastest and cheapest model in the Gemini 3 series. It's significantly more capable than its predecessor, but output costs have more than tripled. The article Google&#039;s fastest and cheapest model Gemini 3.1 Flash-Lite got smarter but also tripled the price appeared first on The",
+    "what_happened": "GPT-5.4 is OpenAI's most capable model yet, combining coding, computer operation, and reasoning in a single package for the first time. The article OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model appeared first on The Decoder.",
+    "technical_takeaway": null,
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+    "who_should_care": [
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
+    ],
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
+  },
+  {
+    "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+    "url": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+    "source": "Wired AI",
+    "score": 6,
+    "what_happened": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "AI Professionals"
+      "Policy Leaders",
+      "Tech Strategists"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "OpenAI releases GPT-5.3 Instant for smoother everyday conversations and better search",
-    "url": "https://the-decoder.com/openai-releases-gpt-5-3-instant-for-smoother-everyday-conversations-and-better-search/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "OpenAI has released GPT-5.3 Instant. The model is designed to respond more naturally and hallucinate less, especially when using web search. The article OpenAI releases GPT-5.3 Instant for smoother everyday conversations and better search appeared first on The Decoder.",
+    "title": "ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns",
+    "url": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
+    "source": "Wired AI",
+    "score": 6,
+    "what_happened": "ByteDance’s new Seedance 2.0 AI video model seemed unstoppable—until heavy demand strained the company’s compute capacity and copyright complaints began piling up.",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
     "who_should_care": [
-      "AI Professionals"
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Trailer: The Shape of Things to Come",
-    "url": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
-    "source": "Microsoft Research",
-    "score": 5,
-    "what_happened": "Microsoft research lead Doug Burger introduces his new podcast series, \"The Shape of Things to Come\", an exploration into the fundamental truths about AI and how the technology will reshape the future. The post Trailer: The Shape of Things to Come appeared first on Microsoft Research.",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
-    "who_should_care": [
-      "Applied Researchers",
-      "Enterprise ML Teams"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
   }
 ]

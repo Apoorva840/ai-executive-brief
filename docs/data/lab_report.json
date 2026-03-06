@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 12, 2024",
+    "last_updated": "2024-03-07",
     "papers": [
         {
-            "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
-            "innovation": "Introduces TraderBench, a novel benchmark for evaluating the robustness of AI agents in dynamic and adversarial capital markets, addressing limitations of static benchmarks and uncontrolled variance from LLM-based judges.",
-            "benchmarks": "TraderBench",
-            "use_case": "Developing, evaluating, and stress-testing robust AI trading agents; assessing the resilience of AI systems in high-stakes, dynamic financial environments; guiding research into secure and reliable financial AI.",
-            "url": "https://arxiv.org/abs/2603.00285"
+            "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
+            "innovation": "Presents a comprehensive blueprint for moving multi-agent systems from prototype to production, tackling the underexplored challenges of evaluating multi-turn interactions and optimizing tightly coupled multi-agent systems for continuous improvement.",
+            "benchmarks": "Addresses challenges in evaluating multi-turn interactions and optimizing tightly coupled multi-agent systems, providing a framework for practical, production-level assessment.",
+            "use_case": "Development and continuous improvement of conversational shopping assistants and general multi-agent consumer assistants in real-world production environments.",
+            "url": "https://arxiv.org/abs/2603.03565"
         },
         {
-            "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
-            "innovation": "Proposes EmCoop, a comprehensive framework and benchmark to facilitate the development and evaluation of multiple embodied LLM agents capable of complex cooperation in dynamic environments, addressing the challenges of high-level cognitive coordination under embodied constraints.",
-            "benchmarks": "EmCoop",
-            "use_case": "Designing and testing collaborative multi-agent robotic systems; training and evaluating embodied AI for complex real-world tasks; simulating and developing advanced LLM-based coordination strategies for autonomous agents.",
-            "url": "https://arxiv.org/abs/2603.00349"
+            "title": "AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation",
+            "innovation": "Introduces a principled methodology and benchmark for navigating the exploding space of LLM agent configurations, enabling engineers to effectively select the most suitable agent for a given narrative query or task, bridging a critical gap in agent ecosystem management.",
+            "benchmarks": "Proposes 'AgentSelect,' a novel benchmark specifically designed for narrative query-to-agent recommendation, facilitating comparative evaluation of agent selection strategies.",
+            "use_case": "Practical task automation via LLM agents, principled agent selection, and managing the increasing complexity of agent ecosystems for deployment.",
+            "url": "https://arxiv.org/abs/2603.03761"
         },
         {
-            "title": "MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval",
-            "innovation": "Introduces MED-COPILOT, a medical assistant that enhances LLM reasoning by combining GraphRAG with a novel similar patient case retrieval mechanism. This approach addresses LLM hallucinations and difficulties in integrating long, structured clinical evidence for robust clinical decision-making.",
-            "benchmarks": "Implicitly, clinical reasoning accuracy, reduction of hallucinations, and effectiveness in synthesizing heterogeneous medical evidence.",
-            "use_case": "Developing reliable and accurate AI assistants for clinical decision support; building production-grade RAG systems for domain-specific knowledge in high-stakes applications like healthcare; improving LLM performance on complex, evidence-based reasoning tasks.",
-            "url": "https://arxiv.org/abs/2603.00460"
+            "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
+            "innovation": "Tackles two critical deployment bottlenecks for LLM agents in high-stakes domains: unconstrained tool-use governance and poor long-horizon reliability, proposing a framework for governed autonomy that unifies scientific reasoning with computation.",
+            "benchmarks": "Addresses fundamental reliability and governance issues crucial for the deployment of LLM agents in complex, dependency-heavy scientific workflows and high-stakes environments.",
+            "use_case": "Deployment of tool-augmented LLM agents in high-stakes domains like drug discovery, and generally for any application requiring robust governance over tool-use and long-term reliability.",
+            "url": "https://arxiv.org/abs/2603.03655"
         }
     ]
 }
