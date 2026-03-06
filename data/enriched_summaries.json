@@ -1,54 +1,10 @@
 [
   {
-    "title": "Transformers Remember First, Forget Last: Dual-Process Interference in LLMs",
-    "url": "https://arxiv.org/abs/2603.00270",
+    "title": "A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development",
+    "url": "https://arxiv.org/abs/2603.04390",
     "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2603.00270v1 Announce Type: cross Abstract: When large language models encounter conflicting information in context, which memories survive -- early or recent? We adapt classical interference paradigms from cognitive psychology to answer this question, testing 39 LLMs across diverse architectures and scales. Every model shows the same pattern",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
-    "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
-    "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
-    "source": "Microsoft Research",
     "score": 7,
-    "what_happened": "We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open‑weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in new tab) and GitHub (opens in new tab). Phi-4-reasoning-vision-15B is a broadly capable model that can be used for a wide array of vision-language tasks s",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
-    "who_should_care": [
-      "Applied Researchers",
-      "Enterprise ML Teams"
-    ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "US military uses Anthropic's Claude for AI-driven strike planning in Iran war",
-    "url": "https://the-decoder.com/us-military-uses-anthropics-claude-for-ai-driven-strike-planning-in-iran-war/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "In the war against Iran, the US military is using generative AI at scale for target selection and strike planning for the first time. Of all models, it's the one from the company Washington just banned. The article US military uses Anthropic&#039;s Claude for AI-driven strike planning in Iran war appeared first on The Decoder.",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
-  },
-  {
-    "title": "AI agents prefer Bitcoin shaping new finance architecture",
-    "url": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/",
-    "source": "AI News",
-    "score": 7,
-    "what_happened": "AI agents prefer Bitcoin for digital wealth storage, forcing finance chiefs to adapt their architecture for machine autonomy. When AI systems gain economic autonomy, their internal logic dictates how corporate capital flows. Non-partisan research by the Bitcoin Policy Institute evaluated how these frontier models would transact if operating as inde",
+    "what_happened": "arXiv:2603.04390v1 Announce Type: new Abstract: WebGIS development requires rigor, yet agentic AI frequently fails due to five large language model (LLM) limitations: context constraints, cross-session forgetting, stochasticity, instruction failure, and adaptation rigidity. We propose a dual-helix governance framework reframing these challenges as",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -59,11 +15,41 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "What AI Models for War Actually Look Like",
-    "url": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+    "source": "Hugging Face Blog",
+    "score": 7,
+    "what_happened": "Hugging Face Blog announced 'Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations', highlighting new developments relevant to AI researchers and practitioners.",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "who_should_care": [
+      "ML Engineers",
+      "Open-Source Contributors"
+    ],
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model",
+    "url": "https://the-decoder.com/openai-launches-gpt-5-4-thinking-and-pro-combining-coding-reasoning-and-computer-use-in-one-model/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "GPT-5.4 is OpenAI's most capable model yet, combining coding, computer operation, and reasoning in a single package for the first time. The article OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model appeared first on The Decoder.",
+    "technical_takeaway": null,
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+    "who_should_care": [
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
+    ],
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
+  },
+  {
+    "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+    "url": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
     "source": "Wired AI",
     "score": 6,
-    "what_happened": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
+    "what_happened": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
@@ -71,6 +57,21 @@
       "Policy Leaders",
       "Tech Strategists"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns",
+    "url": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
+    "source": "Wired AI",
+    "score": 6,
+    "what_happened": "ByteDance’s new Seedance 2.0 AI video model seemed unstoppable—until heavy demand strained the company’s compute capacity and copyright complaints began piling up.",
+    "technical_takeaway": null,
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+    "who_should_care": [
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
+    ],
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
   }
 ]

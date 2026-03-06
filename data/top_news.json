@@ -1,42 +1,42 @@
 [
   {
-    "title": "Transformers Remember First, Forget Last: Dual-Process Interference in LLMs",
-    "summary": "arXiv:2603.00270v1 Announce Type: cross Abstract: When large language models encounter conflicting information in context, which memories survive -- early or recent? We adapt classical interference paradigms from cognitive psychology to answer this question, testing 39 LLMs across diverse architectures and scales. Every model shows the same pattern",
-    "url": "https://arxiv.org/abs/2603.00270",
+    "title": "A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development",
+    "summary": "arXiv:2603.04390v1 Announce Type: new Abstract: WebGIS development requires rigor, yet agentic AI frequently fails due to five large language model (LLM) limitations: context constraints, cross-session forgetting, stochasticity, instruction failure, and adaptation rigidity. We propose a dual-helix governance framework reframing these challenges as ",
+    "url": "https://arxiv.org/abs/2603.04390",
     "source": "Arxiv AI",
-    "published_at": "2026-03-04T05:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
-    "summary": "We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open‑weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in new tab) and GitHub (opens in new tab). Phi-4-reasoning-vision-15B is a broadly capable model that can be used for a wide array of vision-language tasks s",
-    "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
-    "source": "Microsoft Research",
-    "published_at": "2026-03-04T18:05:57+00:00",
+    "published_at": "2026-03-05T05:00:00+00:00",
     "score": 7
   },
   {
-    "title": "US military uses Anthropic's Claude for AI-driven strike planning in Iran war",
-    "summary": "In the war against Iran, the US military is using generative AI at scale for target selection and strike planning for the first time. Of all models, it's the one from the company Washington just banned. The article US military uses Anthropic&#039;s Claude for AI-driven strike planning in Iran war appeared first on The Decoder.",
-    "url": "https://the-decoder.com/us-military-uses-anthropics-claude-for-ai-driven-strike-planning-in-iran-war/",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-03-05T14:16:49+00:00",
+    "score": 7
+  },
+  {
+    "title": "OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model",
+    "summary": "GPT-5.4 is OpenAI's most capable model yet, combining coding, computer operation, and reasoning in a single package for the first time. The article OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-launches-gpt-5-4-thinking-and-pro-combining-coding-reasoning-and-computer-use-in-one-model/",
     "source": "The Decoder",
-    "published_at": "2026-03-04T16:14:58+00:00",
+    "published_at": "2026-03-05T19:15:40+00:00",
     "score": 7
   },
   {
-    "title": "AI agents prefer Bitcoin shaping new finance architecture",
-    "summary": "AI agents prefer Bitcoin for digital wealth storage, forcing finance chiefs to adapt their architecture for machine autonomy. When AI systems gain economic autonomy, their internal logic dictates how corporate capital flows. Non-partisan research by the Bitcoin Policy Institute evaluated how these frontier models would transact if operating as inde",
-    "url": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/",
-    "source": "AI News",
-    "published_at": "2026-03-04T10:52:45+00:00",
-    "score": 7
-  },
-  {
-    "title": "What AI Models for War Actually Look Like",
-    "summary": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
-    "url": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
+    "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+    "summary": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
+    "url": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
     "source": "Wired AI",
-    "published_at": "2026-03-04T22:00:03+00:00",
+    "published_at": "2026-03-05T22:00:00+00:00",
+    "score": 6
+  },
+  {
+    "title": "ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns",
+    "summary": "ByteDance’s new Seedance 2.0 AI video model seemed unstoppable—until heavy demand strained the company’s compute capacity and copyright complaints began piling up.",
+    "url": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
+    "source": "Wired AI",
+    "published_at": "2026-03-05T21:14:22+00:00",
     "score": 6
   }
 ]

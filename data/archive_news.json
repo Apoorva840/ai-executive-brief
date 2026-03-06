@@ -1,5 +1,140 @@
 [
   {
+    "title": "Knowledge Graph and Hypergraph Transformers with Repository-Attention and Journey-Based Role Transport",
+    "summary": "arXiv:2603.03304v1 Announce Type: cross Abstract: We present a concise architecture for joint training on sentences and structured data while keeping knowledge and language representations separable. The model treats knowledge graphs and hypergraphs as structured instances with role slots and encodes them into a key-value repository that a language",
+    "url": "https://arxiv.org/abs/2603.03304",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "Quantum-Inspired Self-Attention in a Large Language Model",
+    "summary": "arXiv:2603.03318v1 Announce Type: cross Abstract: Recent advances in Natural Language Processing have been predominantly driven by transformer-based architectures, which rely heavily on self-attention mechanisms to model relationships between tokens in a sequence. Similarly, the field of Quantum Natural Language Processing, which seeks to leverage ",
+    "url": "https://arxiv.org/abs/2603.03318",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "Sleeper Cell: Injecting Latent Malice Temporal Backdoors into Tool-Using LLMs",
+    "summary": "arXiv:2603.03371v1 Announce Type: cross Abstract: The proliferation of open-weight Large Language Models (LLMs) has democratized agentic AI, yet fine-tuned weights are frequently shared and adopted with limited scrutiny beyond leaderboard performance. This creates a risk where third-party models are incorporated without strong behavioral guarantees",
+    "url": "https://arxiv.org/abs/2603.03371",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "LiteVLA-Edge: Quantized On-Device Multimodal Control for Embedded Robotics",
+    "summary": "arXiv:2603.03380v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models provide a unified framework for perception, language conditioning, and action generation, but many existing systems remain difficult to deploy in embedded robotic settings because of their computational requirements and inference latency. In this paper, we present",
+    "url": "https://arxiv.org/abs/2603.03380",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "Test-Time Meta-Adaptation with Self-Synthesis",
+    "summary": "arXiv:2603.03524v1 Announce Type: cross Abstract: As strong general reasoners, large language models (LLMs) encounter diverse domains and tasks, where the ability to adapt and self-improve at test time is valuable. We introduce MASS, a meta-learning framework that enables LLMs to self-adapt by generating problem-specific synthetic training data and",
+    "url": "https://arxiv.org/abs/2603.03524",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions",
+    "summary": "arXiv:2603.03637v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) integrate vision and text to power applications, but this integration introduces new vulnerabilities. We study Image-based Prompt Injection (IPI), a black-box attack in which adversarial instructions are embedded into natural images to override model behavior",
+    "url": "https://arxiv.org/abs/2603.03637",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs",
+    "summary": "arXiv:2603.03681v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have shown strong performance in vision-language tasks, but their inference efficiency is severely limited by the exponential growth of visual tokens in complex scenarios such as high-resolution images and videos. Existing visual token pruning methods mainly ",
+    "url": "https://arxiv.org/abs/2603.03681",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "BLOCK: An Open-Source Bi-Stage MLLM Character-to-Skin Pipeline for Minecraft",
+    "summary": "arXiv:2603.03964v1 Announce Type: cross Abstract: We present \\textbf{BLOCK}, an open-source bi-stage character-to-skin pipeline that generates pixel-perfect Minecraft skins from arbitrary character concepts. BLOCK decomposes the problem into (i) a \\textbf{3D preview synthesis stage} driven by a large multimodal model (MLLM) with a carefully designe",
+    "url": "https://arxiv.org/abs/2603.03964",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "A Multi-Dimensional Quality Scoring Framework for Decentralized LLM Inference with Proof of Quality",
+    "summary": "arXiv:2603.04028v1 Announce Type: cross Abstract: Decentralized large language model (LLM) inference networks can pool heterogeneous compute to scale serving, but they require lightweight and incentive-compatible mechanisms to assess output quality. Prior work introduced cost-aware Proof of Quality (PoQ) and adaptive robust PoQ to allocate rewards ",
+    "url": "https://arxiv.org/abs/2603.04028",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "Crab$^{+}$: A Scalable and Unified Audio-Visual Scene Understanding Model with Explicit Cooperation",
+    "summary": "arXiv:2603.04128v1 Announce Type: cross Abstract: Developing Audio-Visual Large Language Models (AV-LLMs) for unified scene understanding is pivotal in multimodal intelligence. While instruction tuning enables pre-trained models with multi-task abilities, we observe that conventional multi-task unification methods often suffer from severe negative ",
+    "url": "https://arxiv.org/abs/2603.04128",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "Architectural Proprioception in State Space Models: Thermodynamic Training Induces Anticipatory Halt Detection",
+    "summary": "arXiv:2603.04180v1 Announce Type: cross Abstract: We introduce the Probability Navigation Architecture (PNA) framework, which treats neural computation as navigation through a probability manifold governed by thermodynamic principles. We train State Space Models (SSMs) and Transformers with a novel thermodynamic loss function that penalizes computa",
+    "url": "https://arxiv.org/abs/2603.04180",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation",
+    "summary": "arXiv:2603.04348v1 Announce Type: cross Abstract: Pathology report generation remains a relatively under-explored downstream task, primarily due to the gigapixel scale and complex morphological heterogeneity of Whole Slide Images (WSIs). Existing pathology report generation frameworks typically employ transformer architectures, relying on a homogen",
+    "url": "https://arxiv.org/abs/2603.04348",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "HAMLET: A Hierarchical and Adaptive Multi-Agent Framework for Live Embodied Theatrics",
+    "summary": "arXiv:2507.15518v4 Announce Type: replace Abstract: Creating an immersive and interactive theatrical experience is a long-term goal in the field of interactive narrative. The emergence of large language models (LLMs) provides a new path to achieve this goal. However, existing LLM-based drama generation methods often produce models that lack initiat",
+    "url": "https://arxiv.org/abs/2507.15518",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety",
+    "summary": "arXiv:2509.21782v2 Announce Type: replace Abstract: Multimodal large language models (MLLMs) are increasingly deployed as the core reasoning engine for web-facing systems, powering GUI agents and front-end automation that must interpret page structure, select actionable widgets, and execute multi-step interactions reliably. However, existing benchm",
+    "url": "https://arxiv.org/abs/2509.21782",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
+    "title": "The Geometry of Reasoning: Flowing Logics in Representation Space",
+    "summary": "arXiv:2510.09782v2 Announce Type: replace Abstract: We study how large language models (LLMs) ``think'' through their representation space. We propose a novel geometric framework that models an LLM's reasoning as flows -- embedding trajectories evolving where logic goes. We disentangle logical structure from semantics by employing the same natural ",
+    "url": "https://arxiv.org/abs/2510.09782",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-05T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+  },
+  {
     "title": "What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models",
     "summary": "arXiv:2603.00510v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) project visual tokens into the embedding space of language models, yet the internal structuring and processing of visual semantics remain poorly understood. In this work, we introduce a two-fold analytical framework featuring a novel probing tool, $\\textbf{Em",
     "url": "https://arxiv.org/abs/2603.00510",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-02-16T05:00:00+00:00",
     "score": 7,
     "archived_at": "2026-02-17T03:20:57.359668+00:00"
-  },
-  {
-    "title": "Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows",
-    "summary": "arXiv:2509.11079v5 Announce Type: replace Abstract: Large Language Model (LLM)-based agentic systems have shown strong capabilities across various tasks. However, existing multi-agent frameworks often rely on static or task-level workflows, which either over-process simple queries or underperform on complex ones, while also neglecting the efficienc",
-    "url": "https://arxiv.org/abs/2509.11079",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-16T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T03:20:57.359668+00:00"
-  },
-  {
-    "title": "LTSM-Bundle: A Toolbox and Benchmark on Large Language Models for Time Series Forecasting",
-    "summary": "arXiv:2406.14045v3 Announce Type: replace-cross Abstract: Time Series Forecasting (TSF) has long been a challenge in time series analysis. Inspired by the success of Large Language Models (LLMs), researchers are now developing Large Time Series Models (LTSMs)-universal transformer-based models that use autoregressive prediction-to improve TSF. Howe",
-    "url": "https://arxiv.org/abs/2406.14045",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-16T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T03:20:57.359668+00:00"
-  },
-  {
-    "title": "Investigating Redundancy in Multimodal Large Language Models with Multiple Vision Encoders",
-    "summary": "arXiv:2507.03262v4 Announce Type: replace-cross Abstract: Recent multimodal large language models (MLLMs) increasingly integrate multiple vision encoders to improve performance on various benchmarks, assuming that diverse pretraining objectives yield complementary visual signals. However, we show this assumption often fails in practice. Through sys",
-    "url": "https://arxiv.org/abs/2507.03262",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-16T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T03:20:57.359668+00:00"
-  },
-  {
-    "title": "MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling",
-    "summary": "arXiv:2602.11761v1 Announce Type: cross Abstract: The evolution of large language models (LLMs) towards applications with ultra-long contexts faces challenges posed by the high computational and memory costs of the Transformer architecture. While existing sparse and linear attention mechanisms attempt to mitigate these issues, they typically involv",
-    "url": "https://arxiv.org/abs/2602.11761",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge",
-    "summary": "arXiv:2602.11340v1 Announce Type: new Abstract: Large language models (LLMs) have become widely adopted as automated judges for evaluating AI-generated content. Despite their success, aligning LLM-based evaluations with human judgments remains challenging. While supervised fine-tuning on human-labeled data can improve alignment, it is costly and in",
-    "url": "https://arxiv.org/abs/2602.11340",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "Credit Where It is Due: Cross-Modality Connectivity Drives Precise Reinforcement Learning for MLLM Reasoning",
-    "summary": "arXiv:2602.11455v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced the reasoning capabilities of Multimodal Large Language Models (MLLMs), yet how visual evidence is integrated during reasoning remains poorly understood. We explore multimodal RLVR through the lens of cross-modal attentio",
-    "url": "https://arxiv.org/abs/2602.11455",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery",
-    "summary": "arXiv:2602.11609v1 Announce Type: new Abstract: We present scPilot, the first systematic framework to practice omics-native reasoning: a large language model (LLM) converses in natural language while directly inspecting single-cell RNA-seq data and on-demand bioinformatics tools. scPilot converts core single-cell analyses, i.e., cell-type annotatio",
-    "url": "https://arxiv.org/abs/2602.11609",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation",
-    "summary": "arXiv:2602.11635v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have achieved strong performance on perception-oriented tasks, yet their ability to perform mathematical spatial reasoning, defined as the capacity to parse and manipulate two- and three-dimensional relations, remains unclear. Humans easily solve textbook-style",
-    "url": "https://arxiv.org/abs/2602.11635",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "PhyNiKCE: A Neurosymbolic Agentic Framework for Autonomous Computational Fluid Dynamics",
-    "summary": "arXiv:2602.11666v1 Announce Type: new Abstract: The deployment of autonomous agents for Computational Fluid Dynamics (CFD), is critically limited by the probabilistic nature of Large Language Models (LLMs), which struggle to enforce the strict conservation laws and numerical stability required for physics-based simulations. Reliance on purely seman",
-    "url": "https://arxiv.org/abs/2602.11666",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "Benchmark Health Index: A Systematic Framework for Benchmarking the Benchmarks of LLMs",
-    "summary": "arXiv:2602.11674v1 Announce Type: new Abstract: Large Language Models (LLMs) are advancing rapidly, yet the benchmarks used to measure this progress are becoming increasingly unreliable. Score inflation and selective reporting have eroded the authority of standard benchmarks, leaving the community uncertain about which evaluation results remain tru",
-    "url": "https://arxiv.org/abs/2602.11674",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "Beyond Pixels: Vector-to-Graph Transformation for Reliable Schematic Auditing",
-    "summary": "arXiv:2602.11678v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have shown remarkable progress in visual understanding, yet they suffer from a critical limitation: structural blindness. Even state-of-the-art models fail to capture topology and symbolic logic in engineering schematics, as their pixel-driven paradigm discards",
-    "url": "https://arxiv.org/abs/2602.11678",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs",
-    "summary": "arXiv:2602.11729v1 Announce Type: new Abstract: Model diffing, the process of comparing models' internal representations to identify their differences, is a promising approach for uncovering safety-critical behaviors in new models. However, its application has so far been primarily focused on comparing a base model with its finetune. Since new LLM ",
-    "url": "https://arxiv.org/abs/2602.11729",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "Prototype Transformer: Towards Language Model Architectures Interpretable by Design",
-    "summary": "arXiv:2602.11852v1 Announce Type: new Abstract: While state-of-the-art language models (LMs) surpass the vast majority of humans in certain domains, their reasoning remains largely opaque, undermining trust in their output. Furthermore, while autoregressive LMs can output explicit reasoning, their true reasoning process is opaque, which introduces ",
-    "url": "https://arxiv.org/abs/2602.11852",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "HybridRAG: A Practical LLM-based ChatBot Framework based on Pre-Generated Q&A over Raw Unstructured Documents",
-    "summary": "arXiv:2602.11156v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) has emerged as a powerful approach for grounding Large Language Model (LLM)-based chatbot responses on external knowledge. However, existing RAG studies typically assume well-structured textual sources (e.g. Wikipedia or curated datasets) and perform retrieval an",
-    "url": "https://arxiv.org/abs/2602.11156",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
-  },
-  {
-    "title": "The Energy of Falsehood: Detecting Hallucinations via Diffusion Model Likelihoods",
-    "summary": "arXiv:2602.11364v1 Announce Type: cross Abstract: Large Language Models (LLMs) frequently hallucinate plausible but incorrect assertions, a vulnerability often missed by uncertainty metrics when models are confidently wrong. We propose DiffuTruth, an unsupervised framework that reconceptualizes fact verification via non equilibrium thermodynamics, ",
-    "url": "https://arxiv.org/abs/2602.11364",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-13T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-14T03:14:31.327080+00:00"
   }
 ]
