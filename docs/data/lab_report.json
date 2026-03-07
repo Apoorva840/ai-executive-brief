@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-03-07",
+    "last_updated": "Today's Date",
     "papers": [
         {
-            "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
-            "innovation": "Presents a comprehensive blueprint for moving multi-agent systems from prototype to production, tackling the underexplored challenges of evaluating multi-turn interactions and optimizing tightly coupled multi-agent systems for continuous improvement.",
-            "benchmarks": "Addresses challenges in evaluating multi-turn interactions and optimizing tightly coupled multi-agent systems, providing a framework for practical, production-level assessment.",
-            "use_case": "Development and continuous improvement of conversational shopping assistants and general multi-agent consumer assistants in real-world production environments.",
-            "url": "https://arxiv.org/abs/2603.03565"
+            "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
+            "innovation": "Proposes a unified mechanism for systematic accumulation, evaluation, and transfer of skills in AI agents, addressing the challenge of agents frequently 'reinventing the wheel' and hindering long-term advancement.",
+            "benchmarks": "Aims to improve skill accumulation efficiency and reduce redundant solution discovery in agents, though specific quantitative benchmarks are not detailed in the abstract.",
+            "use_case": "Developing more capable, scalable, and adaptable AI agents for complex, long-term tasks where skill management and reuse are critical, such as general-purpose AI assistants or advanced automation systems.",
+            "url": "https://arxiv.org/abs/2603.04448"
         },
         {
-            "title": "AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation",
-            "innovation": "Introduces a principled methodology and benchmark for navigating the exploding space of LLM agent configurations, enabling engineers to effectively select the most suitable agent for a given narrative query or task, bridging a critical gap in agent ecosystem management.",
-            "benchmarks": "Proposes 'AgentSelect,' a novel benchmark specifically designed for narrative query-to-agent recommendation, facilitating comparative evaluation of agent selection strategies.",
-            "use_case": "Practical task automation via LLM agents, principled agent selection, and managing the increasing complexity of agent ecosystems for deployment.",
-            "url": "https://arxiv.org/abs/2603.03761"
+            "title": "Adaptive Memory Admission Control for LLM Agents",
+            "innovation": "Introduces a novel approach to control information retention in long-term memory for LLM-based agents, preventing accumulation of large volumes of irrelevant, hallucinated, or obsolete content that hinders multi-session reasoning.",
+            "benchmarks": "Aims to improve memory efficiency and reduce issues like hallucination and retention of obsolete information, though specific quantitative benchmarks are not detailed in the abstract.",
+            "use_case": "Building robust and efficient LLM-based agents that require long-term memory for multi-session interactions, customer support, personal assistance, or complex reasoning tasks, by ensuring relevant and accurate information is retained.",
+            "url": "https://arxiv.org/abs/2603.04549"
         },
         {
-            "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
-            "innovation": "Tackles two critical deployment bottlenecks for LLM agents in high-stakes domains: unconstrained tool-use governance and poor long-horizon reliability, proposing a framework for governed autonomy that unifies scientific reasoning with computation.",
-            "benchmarks": "Addresses fundamental reliability and governance issues crucial for the deployment of LLM agents in complex, dependency-heavy scientific workflows and high-stakes environments.",
-            "use_case": "Deployment of tool-augmented LLM agents in high-stakes domains like drug discovery, and generally for any application requiring robust governance over tool-use and long-term reliability.",
-            "url": "https://arxiv.org/abs/2603.03655"
+            "title": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
+            "innovation": "Identifies and demonstrates 'self-attribution bias' in LLM-based monitoring systems, where agents are prone to being lenient when evaluating their own actions. This highlights a critical failure mode for ensuring the reliability and safety of agentic systems.",
+            "benchmarks": "Empirically demonstrates the failure of self-monitoring LLM agents due to self-attribution bias, implying metrics related to monitoring accuracy and system reliability under bias conditions.",
+            "use_case": "Designing safer and more reliable agentic systems that rely on LLMs for self-monitoring, code review, safety assessments, or critical decision-making processes, by understanding and mitigating this inherent bias.",
+            "url": "https://arxiv.org/abs/2603.04582"
         }
     ]
 }
