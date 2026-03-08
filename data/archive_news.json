@@ -1,5 +1,77 @@
 [
   {
+    "title": "When language models hallucinate, they leave \"spilled energy\" in their own math",
+    "summary": "When large language models hallucinate, they leave measurable traces in their own computations. Researchers at the Sapienza University of Rome have developed a training-free method that picks up on these traces and generalizes better than previous approaches. The article When language models hallucinate, they leave &quot;spilled energy&quot; in the",
+    "url": "https://the-decoder.com/when-language-models-hallucinate-they-leave-spilled-energy-in-their-own-math/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T12:20:45+00:00",
+    "score": 7,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+  },
+  {
+    "title": "Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic's AI models",
+    "summary": "Anthropic in a clinch with the Pentagon: Google, Amazon and Microsoft are backing their AI partner, at least outside the military. The article Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic&#039;s AI models appeared first on The Decoder.",
+    "url": "https://the-decoder.com/despite-pentagon-ban-google-aws-and-microsoft-stick-with-anthropics-ai-models/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T09:21:48+00:00",
+    "score": 7,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+  },
+  {
+    "title": "Anthropic's new marketplace lets enterprise customers spend their existing AI budget on third-party tools",
+    "summary": "Anthropic is launching the Anthropic Marketplace, a storefront where corporate customers can buy third-party software built on Anthropic's AI models. The article Anthropic&#039;s new marketplace lets enterprise customers spend their existing AI budget on third-party tools appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropics-new-marketplace-lets-enterprise-customers-spend-their-existing-ai-budget-on-third-party-tools/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T08:56:14+00:00",
+    "score": 7,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+  },
+  {
+    "title": "Trump administration drafts AI contract rules requiring companies to license systems for \"all lawful use\"",
+    "summary": "New US guidelines for AI contracts would force companies to grant the government an irrevocable license for \"all lawful use\" and ban ideological bias in AI outputs, which is itself an ideological requirement with striking parallels to China's approach. The article Trump administration drafts AI contract rules requiring companies to license systems ",
+    "url": "https://the-decoder.com/trump-administration-drafts-ai-contract-rules-requiring-companies-to-license-systems-for-all-lawful-use/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T18:09:33+00:00",
+    "score": 6,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+  },
+  {
+    "title": "OpenAI offers open-source maintainers six months of free ChatGPT Pro and Codex access",
+    "summary": "OpenAI supports open-source developers with free access to ChatGPT Pro, Codex and security tools. The article OpenAI offers open-source maintainers six months of free ChatGPT Pro and Codex access appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-offers-open-source-maintainers-six-months-of-free-chatgpt-pro-and-codex-access/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T11:44:29+00:00",
+    "score": 6,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+  },
+  {
+    "title": "OpenAI and Oracle stop expanding their flagship data center in Texas over power supply delays",
+    "summary": "OpenAI and Oracle are halting the expansion of their Stargate data center in Texas. Instead, OpenAI plans to invest in Nvidia's next-gen Vera Rubin chips at new locations. The article OpenAI and Oracle stop expanding their flagship data center in Texas over power supply delays appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-and-oracle-stop-expanding-their-flagship-data-center-in-texas-over-power-supply-delays/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T10:15:39+00:00",
+    "score": 6,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+  },
+  {
+    "title": "Anthropic turns Claude Code into a background worker with local scheduled tasks",
+    "summary": "Claude Code Desktop now lets users schedule recurring tasks that run automatically, like checking error logs and creating pull requests for fixable bugs every few hours. The article Anthropic turns Claude Code into a background worker with local scheduled tasks appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-turns-claude-code-into-a-background-worker-with-local-scheduled-tasks/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T09:42:58+00:00",
+    "score": 6,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+  },
+  {
+    "title": "Anthropic's Claude Code subscription may consume up to $5,000 in compute per month while charging the user just $200",
+    "summary": "Anthropic's $200 Claude Code subscription could consume up to $5,000 in compute per user, according to Cursor's internal analysis reported by Forbes. The numbers reveal just how aggressively AI companies are subsidizing their coding tools and what that could mean for prices once these tools become essential. The article Anthropic&#039;s Claude Code",
+    "url": "https://the-decoder.com/anthropics-claude-code-subscription-may-consume-up-to-5000-in-compute-per-month-while-charging-the-user-just-200/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T11:34:57+00:00",
+    "score": 5,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+  },
+  {
     "title": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
     "summary": "arXiv:2603.04631v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly integrated into critical decision-making pipelines, a trend that raises the demand for robust and automated data analysis. Current approaches to dataset risk analysis are limited to manual auditing methods which involve time-consuming and complex tasks, wh",
     "url": "https://arxiv.org/abs/2603.04631",
@@ -2622,78 +2694,6 @@
     "title": "Information Fidelity in Tool-Using LLM Agents: A Martingale Analysis of the Model Context Protocol",
     "summary": "arXiv:2602.13320v1 Announce Type: new Abstract: As AI agents powered by large language models (LLMs) increasingly use external tools for high-stakes decisions, a critical reliability question arises: how do errors propagate across sequential tool calls? We introduce the first theoretical framework for analyzing error accumulation in Model Context P",
     "url": "https://arxiv.org/abs/2602.13320",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-17T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T10:48:45.936071+00:00"
-  },
-  {
-    "title": "Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization",
-    "summary": "arXiv:2602.13653v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have substantially driven the progress of autonomous agents for Graphical User Interface (GUI). Nevertheless, in real-world applications, GUI agents are often faced with non-stationary environments, leading to high computational costs for dat",
-    "url": "https://arxiv.org/abs/2602.13653",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-17T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T10:48:45.936071+00:00"
-  },
-  {
-    "title": "AllMem: A Memory-centric Recipe for Efficient Long-context Modeling",
-    "summary": "arXiv:2602.13680v1 Announce Type: new Abstract: Large Language Models (LLMs) encounter significant performance bottlenecks in long-sequence tasks due to the computational complexity and memory overhead inherent in the self-attention mechanism. To address these challenges, we introduce \\textsc{AllMem}, a novel and efficient hybrid architecture that ",
-    "url": "https://arxiv.org/abs/2602.13680",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-17T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T10:48:45.936071+00:00"
-  },
-  {
-    "title": "Diagnosing Pathological Chain-of-Thought in Reasoning Models",
-    "summary": "arXiv:2602.13904v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning is fundamental to modern LLM architectures and represents a critical intervention point for AI safety. However, CoT reasoning may exhibit failure modes that we note as pathologies, which prevent it from being useful for monitoring. Prior work has identified three disti",
-    "url": "https://arxiv.org/abs/2602.13904",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-17T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T10:48:45.936071+00:00"
-  },
-  {
-    "title": "From Pixels to Policies: Reinforcing Spatial Reasoning in Language Models for Content-Aware Layout Design",
-    "summary": "arXiv:2602.13912v1 Announce Type: new Abstract: We introduce LaySPA, a reinforcement learning framework that equips large language models (LLMs) with explicit and interpretable spatial reasoning for content-aware graphic layout design. LaySPA addresses two key challenges: LLMs' limited spatial reasoning and the lack of opacity in design decision ma",
-    "url": "https://arxiv.org/abs/2602.13912",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-17T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T10:48:45.936071+00:00"
-  },
-  {
-    "title": "HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling",
-    "summary": "arXiv:2602.13933v1 Announce Type: new Abstract: Large language model (LLM) agents demonstrate strong performance in short-text contexts but often underperform in extended dialogues due to inefficient memory management. Existing approaches face a fundamental trade-off between efficiency and effectiveness: memory compression risks losing critical det",
-    "url": "https://arxiv.org/abs/2602.13933",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-17T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T10:48:45.936071+00:00"
-  },
-  {
-    "title": "Algebraic Quantum Intelligence: A New Framework for Reproducible Machine Creativity",
-    "summary": "arXiv:2602.14130v1 Announce Type: new Abstract: Large language models (LLMs) have achieved remarkable success in generating fluent and contextually appropriate text; however, their capacity to produce genuinely creative outputs remains limited. This paper posits that this limitation arises from a structural property of contemporary LLMs: when provi",
-    "url": "https://arxiv.org/abs/2602.14130",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-17T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T10:48:45.936071+00:00"
-  },
-  {
-    "title": "Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5",
-    "summary": "arXiv:2602.14457v1 Announce Type: new Abstract: To understand and identify the unprecedented risks posed by rapidly advancing artificial intelligence (AI) models, Frontier AI Risk Management Framework in Practice presents a comprehensive assessment of their frontier risks. As Large Language Models (LLMs) general capabilities rapidly evolve and the ",
-    "url": "https://arxiv.org/abs/2602.14457",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-17T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-17T10:48:45.936071+00:00"
-  },
-  {
-    "title": "Diagnosing Knowledge Conflict in Multimodal Long-Chain Reasoning",
-    "summary": "arXiv:2602.14518v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) in long chain-of-thought reasoning often fail when different knowledge sources provide conflicting signals. We formalize these failures under a unified notion of knowledge conflict, distinguishing input-level objective conflict from process-level effective conf",
-    "url": "https://arxiv.org/abs/2602.14518",
     "source": "Arxiv AI",
     "published_at": "2026-02-17T05:00:00+00:00",
     "score": 7,

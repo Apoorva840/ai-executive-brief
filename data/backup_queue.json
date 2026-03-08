@@ -1,137 +1,74 @@
 [
   {
-    "title": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
-    "summary": "arXiv:2603.04631v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly integrated into critical decision-making pipelines, a trend that raises the demand for robust and automated data analysis. Current approaches to dataset risk analysis are limited to manual auditing methods which involve time-consuming and complex tasks, wh",
-    "url": "https://arxiv.org/abs/2603.04631",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
+    "title": "When language models hallucinate, they leave \"spilled energy\" in their own math",
+    "summary": "When large language models hallucinate, they leave measurable traces in their own computations. Researchers at the Sapienza University of Rome have developed a training-free method that picks up on these traces and generalizes better than previous approaches. The article When language models hallucinate, they leave &quot;spilled energy&quot; in the",
+    "url": "https://the-decoder.com/when-language-models-hallucinate-they-leave-spilled-energy-in-their-own-math/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T12:20:45+00:00",
     "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
   },
   {
-    "title": "Design Behaviour Codes (DBCs): A Taxonomy-Driven Layered Governance Benchmark for Large Language Models",
-    "summary": "arXiv:2603.04837v1 Announce Type: new Abstract: We introduce the Dynamic Behavioral Constraint (DBC) benchmark, the first empirical framework for evaluating the efficacy of a structured, 150-control behavioral governance layer, the MDBC (Madan DBC) system, applied at inference time to large language models (LLMs). Unlike training time alignment met",
-    "url": "https://arxiv.org/abs/2603.04837",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
+    "title": "Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic's AI models",
+    "summary": "Anthropic in a clinch with the Pentagon: Google, Amazon and Microsoft are backing their AI partner, at least outside the military. The article Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic&#039;s AI models appeared first on The Decoder.",
+    "url": "https://the-decoder.com/despite-pentagon-ban-google-aws-and-microsoft-stick-with-anthropics-ai-models/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T09:21:48+00:00",
     "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
   },
   {
-    "title": "K-Gen: A Multimodal Language-Conditioned Approach for Interpretable Keypoint-Guided Trajectory Generation",
-    "summary": "arXiv:2603.04868v1 Announce Type: new Abstract: Generating realistic and diverse trajectories is a critical challenge in autonomous driving simulation. While Large Language Models (LLMs) show promise, existing methods often rely on structured data like vectorized maps, which fail to capture the rich, unstructured visual context of a scene. To addre",
-    "url": "https://arxiv.org/abs/2603.04868",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
+    "title": "Anthropic's new marketplace lets enterprise customers spend their existing AI budget on third-party tools",
+    "summary": "Anthropic is launching the Anthropic Marketplace, a storefront where corporate customers can buy third-party software built on Anthropic's AI models. The article Anthropic&#039;s new marketplace lets enterprise customers spend their existing AI budget on third-party tools appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropics-new-marketplace-lets-enterprise-customers-spend-their-existing-ai-budget-on-third-party-tools/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T08:56:14+00:00",
     "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
   },
   {
-    "title": "Unpacking Human Preference for LLMs: Demographically Aware Evaluation with the HUMAINE Framework",
-    "summary": "arXiv:2603.04409v1 Announce Type: cross Abstract: The evaluation of large language models faces significant challenges. Technical benchmarks often lack real-world relevance, while existing human preference evaluations suffer from unrepresentative sampling, superficial assessment depth, and single-metric reductionism. To address these issues, we int",
-    "url": "https://arxiv.org/abs/2603.04409",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
+    "title": "Trump administration drafts AI contract rules requiring companies to license systems for \"all lawful use\"",
+    "summary": "New US guidelines for AI contracts would force companies to grant the government an irrevocable license for \"all lawful use\" and ban ideological bias in AI outputs, which is itself an ideological requirement with striking parallels to China's approach. The article Trump administration drafts AI contract rules requiring companies to license systems ",
+    "url": "https://the-decoder.com/trump-administration-drafts-ai-contract-rules-requiring-companies-to-license-systems-for-all-lawful-use/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T18:09:33+00:00",
+    "score": 6,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
   },
   {
-    "title": "Do Mixed-Vendor Multi-Agent LLMs Improve Clinical Diagnosis?",
-    "summary": "arXiv:2603.04421v1 Announce Type: cross Abstract: Multi-agent large language model (LLM) systems have emerged as a promising approach for clinical diagnosis, leveraging collaboration among agents to refine medical reasoning. However, most existing frameworks rely on single-vendor teams (e.g., multiple agents from the same model family), which risk ",
-    "url": "https://arxiv.org/abs/2603.04421",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
+    "title": "OpenAI offers open-source maintainers six months of free ChatGPT Pro and Codex access",
+    "summary": "OpenAI supports open-source developers with free access to ChatGPT Pro, Codex and security tools. The article OpenAI offers open-source maintainers six months of free ChatGPT Pro and Codex access appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-offers-open-source-maintainers-six-months-of-free-chatgpt-pro-and-codex-access/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T11:44:29+00:00",
+    "score": 6,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
   },
   {
-    "title": "Thin Keys, Full Values: Reducing KV Cache via Low-Dimensional Attention Selection",
-    "summary": "arXiv:2603.04427v1 Announce Type: cross Abstract: Standard transformer attention uses identical dimensionality for queries, keys, and values ($d_q = d_k = d_v = \\dmodel$). Our insight is that these components serve fundamentally different roles, and this symmetry is unnecessary. Queries and keys produce scalar attention weights (\\emph{selection}), ",
-    "url": "https://arxiv.org/abs/2603.04427",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
+    "title": "OpenAI and Oracle stop expanding their flagship data center in Texas over power supply delays",
+    "summary": "OpenAI and Oracle are halting the expansion of their Stargate data center in Texas. Instead, OpenAI plans to invest in Nvidia's next-gen Vera Rubin chips at new locations. The article OpenAI and Oracle stop expanding their flagship data center in Texas over power supply delays appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-and-oracle-stop-expanding-their-flagship-data-center-in-texas-over-power-supply-delays/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T10:15:39+00:00",
+    "score": 6,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
   },
   {
-    "title": "A unified foundational framework for knowledge injection and evaluation of Large Language Models in Combustion Science",
-    "summary": "arXiv:2603.04452v1 Announce Type: cross Abstract: To advance foundation Large Language Models (LLMs) for combustion science, this study presents the first end-to-end framework for developing domain-specialized models for the combustion community. The framework comprises an AI-ready multimodal knowledge base at the 3.5 billion-token scale, extracted",
-    "url": "https://arxiv.org/abs/2603.04452",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
+    "title": "Anthropic turns Claude Code into a background worker with local scheduled tasks",
+    "summary": "Claude Code Desktop now lets users schedule recurring tasks that run automatically, like checking error logs and creating pull requests for fixable bugs every few hours. The article Anthropic turns Claude Code into a background worker with local scheduled tasks appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-turns-claude-code-into-a-background-worker-with-local-scheduled-tasks/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T09:42:58+00:00",
+    "score": 6,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
   },
   {
-    "title": "Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild",
-    "summary": "arXiv:2603.04727v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have demonstrated impressive general competence in video understanding, yet their reliability for real-world Video Anomaly Detection (VAD) remains largely unexplored. Unlike conventional pipelines relying on reconstruction or pose-based cues, MLLMs enable a p",
-    "url": "https://arxiv.org/abs/2603.04727",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
-  },
-  {
-    "title": "Attention's Gravitational Field:A Power-Law Interpretation of Positional Correlation",
-    "summary": "arXiv:2603.04805v1 Announce Type: cross Abstract: This paper explores the underlying principles of positional relationships and encodings within Large Language Models (LLMs) and introduces the concept of the Attention Gravitational Field (AGF). By decoupling positional encodings from semantic embeddings, we optimize the model architecture and achie",
-    "url": "https://arxiv.org/abs/2603.04805",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
-  },
-  {
-    "title": "FedAFD: Multimodal Federated Learning via Adversarial Fusion and Distillation",
-    "summary": "arXiv:2603.04890v1 Announce Type: cross Abstract: Multimodal Federated Learning (MFL) enables clients with heterogeneous data modalities to collaboratively train models without sharing raw data, offering a privacy-preserving framework that leverages complementary cross-modal information. However, existing methods often overlook personalized client ",
-    "url": "https://arxiv.org/abs/2603.04890",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
-  },
-  {
-    "title": "Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
-    "summary": "arXiv:2603.05494v1 Announce Type: cross Abstract: Large language models sometimes produce false or misleading responses. Two approaches to this problem are honesty elicitation -- modifying prompts or weights so that the model answers truthfully -- and lie detection -- classifying whether a given response is false. Prior work evaluates such methods ",
-    "url": "https://arxiv.org/abs/2603.05494",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
-  },
-  {
-    "title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
-    "summary": "arXiv:2603.05500v1 Announce Type: cross Abstract: Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equivalen",
-    "url": "https://arxiv.org/abs/2603.05500",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
-  },
-  {
-    "title": "Foam-Agent: Towards Automated Intelligent CFD Workflows",
-    "summary": "arXiv:2505.04997v2 Announce Type: replace Abstract: Computational fluid dynamics (CFD) has been the main workhorse of computational physics. Yet its steep learning curve and fragmented, multi-stage workflow create significant barriers. To address these challenges, we present Foam-Agent, a multi-agent framework leveraging large language models (LLMs",
-    "url": "https://arxiv.org/abs/2505.04997",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
-  },
-  {
-    "title": "OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs",
-    "summary": "arXiv:2510.10689v3 Announce Type: replace Abstract: Recent advances in multimodal large language models (MLLMs) have demonstrated substantial potential in video understanding. However, existing benchmarks fail to comprehensively evaluate synergistic reasoning capabilities across audio and visual modalities, often neglecting either one of the modali",
-    "url": "https://arxiv.org/abs/2510.10689",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
-  },
-  {
-    "title": "Towards Trustworthy Legal AI through LLM Agents and Formal Reasoning",
-    "summary": "arXiv:2511.21033v2 Announce Type: replace Abstract: Legal decisions should be logical and based on statutory laws. While large language models(LLMs) are good at understanding legal text, they cannot provide verifiable justifications. We present L4L, a solver-centric framework that enforces formal alignment between LLM-based legal reasoning and stat",
-    "url": "https://arxiv.org/abs/2511.21033",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-07T03:04:25.969600+00:00"
+    "title": "Anthropic's Claude Code subscription may consume up to $5,000 in compute per month while charging the user just $200",
+    "summary": "Anthropic's $200 Claude Code subscription could consume up to $5,000 in compute per user, according to Cursor's internal analysis reported by Forbes. The numbers reveal just how aggressively AI companies are subsidizing their coding tools and what that could mean for prices once these tools become essential. The article Anthropic&#039;s Claude Code",
+    "url": "https://the-decoder.com/anthropics-claude-code-subscription-may-consume-up-to-5000-in-compute-per-month-while-charging-the-user-just-200/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T11:34:57+00:00",
+    "score": 5,
+    "archived_at": "2026-03-08T03:18:05.617866+00:00"
   }
 ]

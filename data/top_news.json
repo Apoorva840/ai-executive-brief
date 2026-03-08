@@ -1,42 +1,45 @@
 [
   {
-    "title": "TSEmbed: Unlocking Task Scaling in Universal Multimodal Embeddings",
-    "summary": "arXiv:2603.04772v1 Announce Type: cross Abstract: Despite the exceptional reasoning capabilities of Multimodal Large Language Models (MLLMs), their adaptation into universal embedding models is significantly impeded by task conflict. To address this, we propose TSEmbed, a universal multimodal embedding framework that synergizes Mixture-of-Experts (",
-    "url": "https://arxiv.org/abs/2603.04772",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-06T05:00:00+00:00",
+    "title": "Bytedance's open-weight Helios model brings minute-long AI video generation close to real time",
+    "summary": "Bytedance researchers say Helios is the first 14-billion-parameter video model to hit 19.5 FPS on a single GPU while generating minute-long clips. Code and weights are publicly available. The article Bytedance&#039;s open-weight Helios model brings minute-long AI video generation close to real time appeared first on The Decoder.",
+    "url": "https://the-decoder.com/bytedances-open-weight-helios-model-brings-minute-long-ai-video-generation-close-to-real-time/",
+    "source": "The Decoder",
+    "published_at": "2026-03-07T11:00:47+00:00",
     "score": 8
   },
   {
-    "title": "OpenAI's new GPT-5.4 model powers ChatGPT for Excel with finance-optimized reasoning",
-    "summary": "OpenAI is launching \"ChatGPT for Excel,\" a beta add-in that lets users create, edit, and analyze spreadsheets through natural language. The article OpenAI&#039;s new GPT-5.4 model powers ChatGPT for Excel with finance-optimized reasoning appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openais-new-gpt-5-4-model-powers-chatgpt-for-excel-with-finance-optimized-reasoning/",
+    "title": "Anthropic's Claude AI uncovers over 100 security vulnerabilities in Firefox",
+    "summary": "Anthropic's AI model Claude has found over 100 bugs in Firefox, including vulnerabilities that decades of testing had missed. The article Anthropic&#039;s Claude AI uncovers over 100 security vulnerabilities in Firefox appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropics-claude-ai-uncovers-over-100-security-vulnerabilities-in-firefox/",
     "source": "The Decoder",
-    "published_at": "2026-03-06T13:45:38+00:00",
+    "published_at": "2026-03-07T12:39:41+00:00",
     "score": 7
   },
   {
-    "title": "AI models can barely control their own reasoning, and OpenAI says that's a good sign",
-    "summary": "With GPT-5.4 Thinking, OpenAI is reporting on \"CoT controllability\" for the first time - a measure of whether AI models can deliberately manipulate their own reasoning. An accompanying study finds that reasoning models almost universally fail at this task, which OpenAI says is encouraging for AI safety. The article AI models can barely control thei",
-    "url": "https://the-decoder.com/ai-models-can-barely-control-their-own-reasoning-and-openai-says-thats-a-good-sign/",
-    "source": "The Decoder",
-    "published_at": "2026-03-06T12:08:06+00:00",
-    "score": 7
+    "title": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
+    "summary": "arXiv:2603.04631v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly integrated into critical decision-making pipelines, a trend that raises the demand for robust and automated data analysis. Current approaches to dataset risk analysis are limited to manual auditing methods which involve time-consuming and complex tasks, wh",
+    "url": "https://arxiv.org/abs/2603.04631",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-06T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-07T03:04:25.969600+00:00"
   },
   {
-    "title": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
-    "summary": "Private equity runs on judgment–and judgment, it turns out, is extraordinarily hard to scale. Decades of deal memos, underwriting models, partner notes, and portfolio data are scattered across systems that were never designed to communicate with each other. Every time a new deal crosses a firm’s desk, analysts start from scratch, even when the answ",
-    "url": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
-    "source": "AI News",
-    "published_at": "2026-03-06T10:00:00+00:00",
-    "score": 6
+    "title": "Design Behaviour Codes (DBCs): A Taxonomy-Driven Layered Governance Benchmark for Large Language Models",
+    "summary": "arXiv:2603.04837v1 Announce Type: new Abstract: We introduce the Dynamic Behavioral Constraint (DBC) benchmark, the first empirical framework for evaluating the efficacy of a structured, 150-control behavioral governance layer, the MDBC (Madan DBC) system, applied at inference time to large language models (LLMs). Unlike training time alignment met",
+    "url": "https://arxiv.org/abs/2603.04837",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-06T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-07T03:04:25.969600+00:00"
   },
   {
-    "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
-    "summary": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
-    "url": "https://www.wired.com/story/deveillance-spectre-i/",
-    "source": "Wired AI",
-    "published_at": "2026-03-06T23:45:14+00:00",
-    "score": 5
+    "title": "K-Gen: A Multimodal Language-Conditioned Approach for Interpretable Keypoint-Guided Trajectory Generation",
+    "summary": "arXiv:2603.04868v1 Announce Type: new Abstract: Generating realistic and diverse trajectories is a critical challenge in autonomous driving simulation. While Large Language Models (LLMs) show promise, existing methods often rely on structured data like vectorized maps, which fail to capture the rich, unstructured visual context of a scene. To addre",
+    "url": "https://arxiv.org/abs/2603.04868",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-06T05:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-07T03:04:25.969600+00:00"
   }
 ]
