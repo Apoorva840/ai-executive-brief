@@ -16,30 +16,29 @@
     "score": 8
   },
   {
-    "title": "When language models hallucinate, they leave \"spilled energy\" in their own math",
-    "summary": "When large language models hallucinate, they leave measurable traces in their own computations. Researchers at the Sapienza University of Rome have developed a training-free method that picks up on these traces and generalizes better than previous approaches. The article When language models hallucinate, they leave &quot;spilled energy&quot; in the",
-    "url": "https://the-decoder.com/when-language-models-hallucinate-they-leave-spilled-energy-in-their-own-math/",
-    "source": "The Decoder",
-    "published_at": "2026-03-07T12:20:45+00:00",
-    "score": 7,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+    "title": "Omni-C: Compressing Heterogeneous Modalities into a Single Dense Encoder",
+    "summary": "arXiv:2603.05528v1 Announce Type: cross Abstract: Recent multimodal systems often rely on separate expert modality encoders which cause linearly scaling complexity and computational overhead with added modalities. While unified Omni-models address this via Mixture-of-Expert (MoE) architectures with specialized experts and routing, they still inflat",
+    "url": "https://arxiv.org/abs/2603.05528",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 7
   },
   {
-    "title": "Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic's AI models",
-    "summary": "Anthropic in a clinch with the Pentagon: Google, Amazon and Microsoft are backing their AI partner, at least outside the military. The article Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic&#039;s AI models appeared first on The Decoder.",
-    "url": "https://the-decoder.com/despite-pentagon-ban-google-aws-and-microsoft-stick-with-anthropics-ai-models/",
+    "title": "Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that",
+    "summary": "Fake citations are slipping past peer review at top AI conferences, and commercial LLMs can't spot the fakes they generate. A new open-source tool called CiteAudit allegedly catches what GPT, Gemini, and Claude miss. The article Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that appeared firs",
+    "url": "https://the-decoder.com/hallucinated-references-are-passing-peer-review-at-top-ai-conferences-and-a-new-open-tool-wants-to-fix-that/",
     "source": "The Decoder",
-    "published_at": "2026-03-07T09:21:48+00:00",
+    "published_at": "2026-03-08T09:00:25+00:00",
     "score": 7,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+    "archived_at": "2026-03-09T03:21:44.787772+00:00"
   },
   {
-    "title": "Anthropic's new marketplace lets enterprise customers spend their existing AI budget on third-party tools",
-    "summary": "Anthropic is launching the Anthropic Marketplace, a storefront where corporate customers can buy third-party software built on Anthropic's AI models. The article Anthropic&#039;s new marketplace lets enterprise customers spend their existing AI budget on third-party tools appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropics-new-marketplace-lets-enterprise-customers-spend-their-existing-ai-budget-on-third-party-tools/",
+    "title": "OpenAI's hardware and robotics chief quits over military deal she says lacked enough deliberation",
+    "summary": "OpenAI's head of robotics, Caitlin Kalinowski, is leaving the company over its Pentagon deal, citing concerns about mass surveillance and lethal autonomy. The article OpenAI&#039;s hardware and robotics chief quits over military deal she says lacked enough deliberation appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openais-hardware-and-robotics-chief-quits-over-military-deal-she-says-lacked-enough-deliberation/",
     "source": "The Decoder",
-    "published_at": "2026-03-07T08:56:14+00:00",
-    "score": 7,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+    "published_at": "2026-03-08T08:11:09+00:00",
+    "score": 6,
+    "archived_at": "2026-03-09T03:21:44.787772+00:00"
   }
 ]
