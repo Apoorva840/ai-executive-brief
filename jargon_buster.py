@@ -10,12 +10,16 @@ from datetime import datetime
 INPUT_FILE = "data/deduped_news.json"
 OUTPUT_JSON = "docs/data/jargon_buster.json"
 
-def call_gemini_with_retry(prompt, max_retries=3):
+def call_gemini_with_retry(prompt, max_retries=5):
     """
-    Helper function to handle 429 Resource Exhausted errors 
-    using exponential backoff.
+    Enhanced retry logic to specifically handle Gemini Free Tier 429 limits.
     """
-    client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        print("❌ Error: GEMINI_API_KEY not found in environment.")
+        return None
+
+    client = genai.Client(api_key=api_key)
     
     for attempt in range(max_retries):
         try:
@@ -23,30 +27,46 @@ def call_gemini_with_retry(prompt, max_retries=3):
                 model="gemini-2.0-flash",
                 contents=prompt
             )
-            # Clean the response text
-            raw_text = response.text.strip().replace("```json", "").replace("```", "").strip()
+            # Clean the response text from potential Markdown wrappers
+            raw_text = response.text.strip()
+            if "```json" in raw_text:
+                raw_text = raw_text.split("```json")[1].split("```")[0].strip()
+            elif "```" in raw_text:
+                raw_text = raw_text.split("```")[1].split("```")[0].strip()
+            
             return json.loads(raw_text)
             
         except Exception as e:
             error_msg = str(e)
-            # If it's a quota error (429), wait and retry
-            if "429" in error_msg and attempt < max_retries - 1:
-                sleep_time = (2 ** attempt) + random.random()
-                print(f"⚠️ Quota Hit (429). Retrying in {sleep_time:.2f}s... (Attempt {attempt + 1}/{max_retries})")
+            
+            # If it's a quota error (429), we need a significant wait
+            if "429" in error_msg:
+                # Exponential backoff: 30s, 60s, 90s...
+                sleep_time = (30 * (attempt + 1)) + random.uniform(1, 5)
+                print(f"⚠️ Quota Hit (429). Gemini Free Tier busy. Waiting {sleep_time:.2f}s before retry {attempt + 1}/{max_retries}...")
                 time.sleep(sleep_time)
             else:
                 print(f"❌ AI Error: {error_msg}")
                 return None
+    
+    print("❌ Failed after maximum retries due to Quota limits.")
+    return None
 
 def load_deduped_data():
     try:
         if not os.path.exists(INPUT_FILE):
-            return None
+            print(f"⚠️ {INPUT_FILE} not found. Using generic prompt.")
+            return "General AI advancements and Large Language Models."
+            
         with open(INPUT_FILE, "r", encoding="utf-8") as f:
             articles = json.load(f)
         
+        if not articles:
+            return "General AI advancements."
+
         combined_text = ""
-        for art in articles[:20]:
+        # Take a sample of news to stay within token limits
+        for art in articles[:15]:
             combined_text += f"Title: {art.get('title', '')}\nSummary: {art.get('summary', '')}\n\n"
         return combined_text
     except Exception as e:
@@ -60,17 +80,21 @@ def process_jargon(text):
     current_date = datetime.now().strftime('%B %d, %Y')
     prompt = f"""
     You are an AI Expert Educator.
-    Scan the following AI news:
+    Identify 3 technical AI terms from the news below or general trending AI topics.
+    For each term provide a beginner-friendly definition and a clever car OR kitchen analogy.
+    
+    Context:
     ---
     {text}
     ---
-    Identify 3 technical AI terms.
-    For each term provide a beginner-friendly definition and a car OR kitchen analogy.
+    
     Return ONLY valid JSON:
     {{
       "last_updated": "{current_date}",
       "is_weekly_active": true,
       "terms": [
+        {{ "term": "...", "definition": "...", "analogy": "..." }},
+        {{ "term": "...", "definition": "...", "analogy": "..." }},
         {{ "term": "...", "definition": "...", "analogy": "..." }}
       ]
     }}
@@ -78,32 +102,24 @@ def process_jargon(text):
     return call_gemini_with_retry(prompt)
 
 def main():
-    # 0=Mon, 5=Sat, 6=Sun
-    now = datetime.now()
-    is_saturday = now.weekday() == 5
-    force_run = os.environ.get("SHOW_JARGON") == "true"
-
-    if is_saturday or force_run:
-        print("🚀 Saturday: Refreshing Weekly Jargon Library...")
-        news_content = load_deduped_data()
-        jargon_data = process_jargon(news_content)
-        
-        if jargon_data:
-            os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
-            with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-                json.dump(jargon_data, f, indent=4)
-            print("✅ Jargon Library updated successfully.")
-        else:
-            print("⚠️ Critical: AI failed to generate jargon. Skipping update to preserve old data.")
-            # We exit with 0 so the pipeline continues, but we don't break the JSON.
-            sys.exit(0) 
-            
-    else:
-        # Runs on Sunday-Friday to hide the section
-        print(f"📅 Weekday/Sunday ({now.strftime('%A')}): Deactivating Jargon.")
+    print(f"🚀 Running Daily Jargon Update ({datetime.now().strftime('%A')})...")
+    
+    news_content = load_deduped_data()
+    jargon_data = process_jargon(news_content)
+    
+    if jargon_data:
         os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
         with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-            json.dump({"is_weekly_active": False, "terms": []}, f, indent=4)
+            json.dump(jargon_data, f, indent=4)
+        print("✅ Jargon Library updated successfully and is now VISIBLE.")
+    else:
+        # If AI fails, we try to keep the existing file so the website doesn't break
+        if os.path.exists(OUTPUT_JSON):
+            print("⚠️ Keeping existing jargon data due to AI failure.")
+        else:
+            print("⚠️ Creating empty fallback jargon file.")
+            with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
+                json.dump({"is_weekly_active": True, "terms": [{"term": "Neural Networks", "definition": "Computer systems modeled on the human brain.", "analogy": "Like a series of filters in a coffee machine."}]}, f)
 
 if __name__ == "__main__":
     main()
