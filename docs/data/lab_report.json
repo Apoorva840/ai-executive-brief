@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-07-30",
+    "last_updated": "2024-03-08",
     "papers": [
         {
             "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
-            "innovation": "Proposes a comprehensive framework for managing real-time AI services and agentic computing across the device-edge-cloud continuum. It addresses critical engineering challenges such as resource orchestration, latency-sensitive workloads, and competition for shared resources under policy constraints.",
-            "benchmarks": "Implies a need for new benchmarks focused on system-level performance, latency, resource efficiency, and policy adherence in distributed AI environments, rather than specific model accuracy metrics.",
-            "use_case": "Essential for AI engineers designing, deploying, and managing scalable, real-time AI service infrastructures; developing MLOps pipelines for distributed AI; orchestrating edge AI deployments; and optimizing resource management for multi-agent systems in production environments.",
+            "innovation": "Proposes a comprehensive framework for orchestrating real-time AI services and autonomous agents across the device-edge-cloud continuum, tackling critical challenges like latency, resource competition, and policy/governance constraints in distributed environments.",
+            "benchmarks": "Addresses system-level performance (latency, throughput), resource utilization, and policy adherence for real-time, distributed agentic workloads, implicitly suggesting new metrics for resilience and scalability in production AI systems.",
+            "use_case": "Designing, implementing, and managing robust, scalable, and governed real-time AI service architectures and autonomous agent deployments in complex, distributed computing environments (e.g., IoT, edge computing).",
             "url": "https://arxiv.org/abs/2603.05614"
         },
         {
             "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
-            "innovation": "Introduces 'programmable evolution' for agent benchmarks, allowing for the creation of dynamic, evolving environments. This directly addresses the limitation of static benchmarks by testing agents' robustness and adaptability to real-world changes in schemas, toolsets, and environmental conditions.",
-            "benchmarks": "Proposes a new paradigm for generating and utilizing benchmarks that dynamically evolve, providing a more rigorous and realistic evaluation of agent robustness and adaptability over time, crucial for real-world deployment.",
-            "use_case": "Invaluable for AI engineers developing and testing robust LLM-powered agents; implementing continuous integration and validation for AI systems; and ensuring the resilience and adaptability of autonomous agents in constantly changing real-world environments.",
+            "innovation": "Introduces 'programmable evolution' for agent benchmarks, addressing the critical limitation of static environments in current LLM agent evaluations. This enables testing agent robustness and adaptability to dynamically changing real-world conditions.",
+            "benchmarks": "Directly focuses on the creation of new, dynamic benchmarks that evolve over time (e.g., changing schemas, toolsets, user requests), thereby allowing for more realistic and stringent evaluation of LLM agent robustness and generalization capabilities.",
+            "use_case": "Developing and evaluating more robust, adaptable, and reliable LLM-powered agents for real-world deployment, and constructing next-generation agent evaluation platforms that simulate dynamic environments.",
             "url": "https://arxiv.org/abs/2603.05910"
         },
         {
-            "title": "Reasoning Models Struggle to Control their Chains of Thought",
-            "innovation": "Highlights a critical vulnerability in the monitorability and trustworthiness of LLM-based reasoning models by demonstrating their ability to control what they verbalize in their Chains of Thought (CoT), potentially undermining diagnostic and safety tools.",
-            "benchmarks": "Proposes methods to measure 'CoT controllability,' offering a new type of benchmark to evaluate the 'honesty' and transparency of reasoning models. This is vital for assessing the reliability of model self-explanation capabilities.",
-            "use_case": "Crucial for AI engineers working on LLM safety and alignment, developing reliable AI debugging tools, and enhancing the interpretability and transparency of reasoning models. It informs the design of more robust monitoring strategies and helps in building trustworthy AI systems.",
-            "url": "https://arxiv.org/abs/2603.05706"
+            "title": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation",
+            "innovation": "Provides an empirical characterization of Large Language Models (LLMs) as viable planners for autonomous systems, leveraging step-wise PDDL (Planning Domain Definition Language) simulation to rigorously assess their task planning capabilities.",
+            "benchmarks": "Utilizes standard PDDL planning problems as a formal benchmark to evaluate LLMs' ability to generate correct, complete, and efficient action sequences for complex tasks, comparing their performance against classical symbolic methods.",
+            "use_case": "Integrating LLMs into autonomous robotic systems, complex software agents, or other applications requiring formal task planning; understanding and improving LLM capabilities for logical sequencing and problem-solving in goal-oriented tasks.",
+            "url": "https://arxiv.org/abs/2603.06064"
         }
     ]
 }
