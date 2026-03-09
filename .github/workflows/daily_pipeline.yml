@@ -4,12 +4,7 @@ on:
   schedule:
     # 00:30 UTC = 06:00 IST
     - cron: "30 0 * * *"
-  workflow_dispatch:
-    inputs:
-      show_jargon:
-        description: 'Force Jargon Generation (true/false)'
-        required: false
-        default: 'false'
+  workflow_dispatch: # Manual trigger is now a clean button with no "true/false" dropdown
 
 jobs:
   run-pipeline:
@@ -40,8 +35,6 @@ jobs:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
-          # Environment variable for jargon_buster logic
-          SHOW_JARGON: ${{ github.event.inputs.show_jargon || 'false' }}
         run: |
           python3 run_pipeline.py
 
@@ -53,11 +46,11 @@ jobs:
           # --- SYNC & ARCHIVE LOGIC ---
           FILE_DATE=$(TZ='Asia/Kolkata' date +'%Y-%m-%d')
           
-          # CORRECTED: Only interact with docs/data/ where the output actually exists
+          # Ensure archive directory exists
           mkdir -p docs/data/archive
           
           if [ -f "docs/data/daily_brief.json" ]; then
-            # Copy from docs/data/ directly to the archive
+            # Copy output to the archive
             cp docs/data/daily_brief.json "docs/data/archive/brief_$FILE_DATE.json"
             echo "✅ Synced daily_brief.json to archive."
           else
@@ -65,7 +58,7 @@ jobs:
             exit 1
           fi
           
-          # Improved manifest logic
+          # Generate manifest for the frontend history dropdown
           ls docs/data/archive | sed 's/brief_//;s/.json//' | jq -R . | jq -s . > docs/data/manifest.json
 
           # --- SAFE PUSH LOGIC ---
@@ -74,9 +67,8 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "🤖 Auto-update: Data for $FILE_DATE [skip ci]"
             
-            # Use rebase to avoid merge commits
+            # Use rebase to stay in sync with remote changes
             git pull --rebase -X theirs origin main
-            
             git push origin main
           else
             echo "No changes to commit."

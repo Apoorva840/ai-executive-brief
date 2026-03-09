@@ -60,6 +60,7 @@ function loadToolboxData(path) {
         });
 }
 
+// UPDATED: Jargon Decoder now displays daily if data is present
 function loadJargonData(path) {
     fetch(path)
         .then(response => response.ok ? response.json() : null)
@@ -67,7 +68,8 @@ function loadJargonData(path) {
             const section = document.getElementById("jargon-decoder");
             const container = document.getElementById("jargon-container");
 
-            if (data && data.is_weekly_active === true) {
+            // Removed the check for 'is_weekly_active === true' to allow daily display
+            if (data && data.terms && data.terms.length > 0) {
                 section.style.display = "block";
                 const titleElement = section.querySelector(".section-title");
                 titleElement.innerHTML = `🎓 Jargon Decoder <span class="update-tag">Updated: ${data.last_updated}</span>`;
