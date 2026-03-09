@@ -11,48 +11,48 @@ from datetime import datetime
 INPUT_FILE = "data/deduped_news.json"
 OUTPUT_JSON = "docs/data/jargon_buster.json"
 
-def call_gemini_with_retry(prompt, max_retries=5):
+def call_gemini_with_retry(prompt, max_retries=3):
     """
-    Enhanced retry logic to specifically handle Gemini Free Tier 429 limits
-    and robustly extract JSON from the response.
+    Enhanced failover logic: Tries multiple models to bypass individual model quotas.
     """
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
-        print("❌ Error: GEMINI_API_KEY not found in environment.")
+        print("❌ Error: GEMINI_API_KEY not found.")
         return None
 
     client = genai.Client(api_key=api_key)
     
-    for attempt in range(max_retries):
-        try:
-            response = client.models.generate_content(
-                model="gemini-3-flash-preview",
-                contents=prompt
-            )
-            
-            # Robust JSON extraction using regex
-            raw_text = response.text.strip()
-            json_match = re.search(r'\{.*\}', raw_text, re.DOTALL)
-            
-            if json_match:
-                clean_json = json_match.group(0)
-                return json.loads(clean_json)
-            else:
-                print("⚠️ AI returned text but no valid JSON block found.")
-                continue
-            
-        except Exception as e:
-            error_msg = str(e)
-            
-            # 429 RESOURCE_EXHAUSTED handling
-            if "429" in error_msg:
-                sleep_time = (30 * (attempt + 1)) + random.uniform(2, 5)
-                print(f"⚠️ Quota Hit (429). Waiting {sleep_time:.2f}s before retry {attempt + 1}/{max_retries}...")
-                time.sleep(sleep_time)
-            else:
-                print(f"❌ AI Error: {error_msg}")
-                return None
+    # Model Pool to distribute load and bypass 'Daily Quota' blocks
+    model_pool = [
+        "gemini-3-flash-preview", 
+        "gemini-1.5-flash", 
+        "gemini-2.0-flash"
+    ]
     
+    for model_name in model_pool:
+        print(f"🤖 Attempting Jargon generation with: {model_name}")
+        for attempt in range(max_retries):
+            try:
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt
+                )
+                
+                raw_text = response.text.strip()
+                json_match = re.search(r'\{.*\}', raw_text, re.DOTALL)
+                
+                if json_match:
+                    return json.loads(json_match.group(0))
+                
+            except Exception as e:
+                error_msg = str(e)
+                if "429" in error_msg:
+                    sleep_time = (20 * (attempt + 1)) + random.uniform(2, 5)
+                    print(f"⚠️ {model_name} Quota Hit. Retrying in {sleep_time:.2f}s...")
+                    time.sleep(sleep_time)
+                else:
+                    print(f"❌ {model_name} Error: {error_msg}")
+                    break # Skip to next model in pool
     return None
 
 def load_deduped_data():
@@ -67,8 +67,8 @@ def load_deduped_data():
             return "General AI advancements."
 
         combined_text = ""
-        # Limiting to top 10 articles to avoid context window/token limits
-        for art in articles[:10]:
+        # Send a concentrated slice of news to keep prompt high-quality
+        for art in articles[:12]:
             combined_text += f"Title: {art.get('title', '')}\nSummary: {art.get('summary', '')}\n\n"
         return combined_text
     except Exception as e:
@@ -80,11 +80,17 @@ def process_jargon(text):
         return None
         
     current_date = datetime.now().strftime('%B %d, %Y')
-    prompt = f"""
-    You are an AI Expert Educator.
-    Identify 3 technical AI terms from the news below.
-    For each term provide a beginner-friendly definition and a clever car OR kitchen analogy.
     
+    # NEW PROFESSIONAL PROMPT: Longer definitions, Business Value, and Analogies
+    prompt = f"""
+    You are an AI Expert Educator for a high-end technical executive brief. 
+    Identify 3 complex technical AI terms or trends from the news below. 
+    
+    For each term, provide:
+    1. A 'Deep Dive' definition (2-3 sentences) that explains the mechanics.
+    2. A clever Car OR Kitchen analogy to make it relatable.
+    3. A 'Business Value' or 'CEO Insight' explaining why this matters for the bottom line.
+
     Context:
     ---
     {text}
@@ -95,9 +101,12 @@ def process_jargon(text):
       "last_updated": "{current_date}",
       "is_weekly_active": true,
       "terms": [
-        {{ "term": "...", "definition": "...", "analogy": "..." }},
-        {{ "term": "...", "definition": "...", "analogy": "..." }},
-        {{ "term": "...", "definition": "...", "analogy": "..." }}
+        {{ 
+          "term": "...", 
+          "definition": "...", 
+          "analogy": "...", 
+          "business_value": "..." 
+        }}
       ]
     }}
     """
@@ -115,17 +124,7 @@ def main():
             json.dump(jargon_data, f, indent=4)
         print("✅ Jargon Library updated successfully.")
     else:
-        if os.path.exists(OUTPUT_JSON):
-            print("⚠️ AI failed. Keeping existing jargon data to prevent site breakage.")
-        else:
-            print("⚠️ Creating fallback jargon file.")
-            fallback = {
-                "last_updated": datetime.now().strftime('%B %d, %Y'),
-                "is_weekly_active": True, 
-                "terms": [{"term": "LLM", "definition": "Large Language Model", "analogy": "A giant digital library that can talk back."}]
-            }
-            with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-                json.dump(fallback, f, indent=4)
+        print("⚠️ AI failed. Keeping existing data.")
 
 if __name__ == "__main__":
     main()
