@@ -1,74 +1,29 @@
 [
   {
-    "title": "When language models hallucinate, they leave \"spilled energy\" in their own math",
-    "summary": "When large language models hallucinate, they leave measurable traces in their own computations. Researchers at the Sapienza University of Rome have developed a training-free method that picks up on these traces and generalizes better than previous approaches. The article When language models hallucinate, they leave &quot;spilled energy&quot; in the",
-    "url": "https://the-decoder.com/when-language-models-hallucinate-they-leave-spilled-energy-in-their-own-math/",
+    "title": "Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that",
+    "summary": "Fake citations are slipping past peer review at top AI conferences, and commercial LLMs can't spot the fakes they generate. A new open-source tool called CiteAudit allegedly catches what GPT, Gemini, and Claude miss. The article Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that appeared firs",
+    "url": "https://the-decoder.com/hallucinated-references-are-passing-peer-review-at-top-ai-conferences-and-a-new-open-tool-wants-to-fix-that/",
     "source": "The Decoder",
-    "published_at": "2026-03-07T12:20:45+00:00",
+    "published_at": "2026-03-08T09:00:25+00:00",
     "score": 7,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+    "archived_at": "2026-03-09T03:21:44.787772+00:00"
   },
   {
-    "title": "Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic's AI models",
-    "summary": "Anthropic in a clinch with the Pentagon: Google, Amazon and Microsoft are backing their AI partner, at least outside the military. The article Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic&#039;s AI models appeared first on The Decoder.",
-    "url": "https://the-decoder.com/despite-pentagon-ban-google-aws-and-microsoft-stick-with-anthropics-ai-models/",
+    "title": "OpenAI's hardware and robotics chief quits over military deal she says lacked enough deliberation",
+    "summary": "OpenAI's head of robotics, Caitlin Kalinowski, is leaving the company over its Pentagon deal, citing concerns about mass surveillance and lethal autonomy. The article OpenAI&#039;s hardware and robotics chief quits over military deal she says lacked enough deliberation appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openais-hardware-and-robotics-chief-quits-over-military-deal-she-says-lacked-enough-deliberation/",
     "source": "The Decoder",
-    "published_at": "2026-03-07T09:21:48+00:00",
-    "score": 7,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
-  },
-  {
-    "title": "Anthropic's new marketplace lets enterprise customers spend their existing AI budget on third-party tools",
-    "summary": "Anthropic is launching the Anthropic Marketplace, a storefront where corporate customers can buy third-party software built on Anthropic's AI models. The article Anthropic&#039;s new marketplace lets enterprise customers spend their existing AI budget on third-party tools appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropics-new-marketplace-lets-enterprise-customers-spend-their-existing-ai-budget-on-third-party-tools/",
-    "source": "The Decoder",
-    "published_at": "2026-03-07T08:56:14+00:00",
-    "score": 7,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
-  },
-  {
-    "title": "Trump administration drafts AI contract rules requiring companies to license systems for \"all lawful use\"",
-    "summary": "New US guidelines for AI contracts would force companies to grant the government an irrevocable license for \"all lawful use\" and ban ideological bias in AI outputs, which is itself an ideological requirement with striking parallels to China's approach. The article Trump administration drafts AI contract rules requiring companies to license systems ",
-    "url": "https://the-decoder.com/trump-administration-drafts-ai-contract-rules-requiring-companies-to-license-systems-for-all-lawful-use/",
-    "source": "The Decoder",
-    "published_at": "2026-03-07T18:09:33+00:00",
+    "published_at": "2026-03-08T08:11:09+00:00",
     "score": 6,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+    "archived_at": "2026-03-09T03:21:44.787772+00:00"
   },
   {
-    "title": "OpenAI offers open-source maintainers six months of free ChatGPT Pro and Codex access",
-    "summary": "OpenAI supports open-source developers with free access to ChatGPT Pro, Codex and security tools. The article OpenAI offers open-source maintainers six months of free ChatGPT Pro and Codex access appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-offers-open-source-maintainers-six-months-of-free-chatgpt-pro-and-codex-access/",
+    "title": "AI agent benchmarks obsess over coding while ignoring 92% of the US labor market, study finds",
+    "summary": "A large-scale study shows that AI agent development focuses almost entirely on programming tasks, ignoring the vast majority of the labor market. The article AI agent benchmarks obsess over coding while ignoring 92% of the US labor market, study finds appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ai-agent-benchmarks-obsess-over-coding-while-ignoring-92-of-the-us-labor-market-study-finds/",
     "source": "The Decoder",
-    "published_at": "2026-03-07T11:44:29+00:00",
+    "published_at": "2026-03-08T07:15:20+00:00",
     "score": 6,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
-  },
-  {
-    "title": "OpenAI and Oracle stop expanding their flagship data center in Texas over power supply delays",
-    "summary": "OpenAI and Oracle are halting the expansion of their Stargate data center in Texas. Instead, OpenAI plans to invest in Nvidia's next-gen Vera Rubin chips at new locations. The article OpenAI and Oracle stop expanding their flagship data center in Texas over power supply delays appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-and-oracle-stop-expanding-their-flagship-data-center-in-texas-over-power-supply-delays/",
-    "source": "The Decoder",
-    "published_at": "2026-03-07T10:15:39+00:00",
-    "score": 6,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
-  },
-  {
-    "title": "Anthropic turns Claude Code into a background worker with local scheduled tasks",
-    "summary": "Claude Code Desktop now lets users schedule recurring tasks that run automatically, like checking error logs and creating pull requests for fixable bugs every few hours. The article Anthropic turns Claude Code into a background worker with local scheduled tasks appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropic-turns-claude-code-into-a-background-worker-with-local-scheduled-tasks/",
-    "source": "The Decoder",
-    "published_at": "2026-03-07T09:42:58+00:00",
-    "score": 6,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
-  },
-  {
-    "title": "Anthropic's Claude Code subscription may consume up to $5,000 in compute per month while charging the user just $200",
-    "summary": "Anthropic's $200 Claude Code subscription could consume up to $5,000 in compute per user, according to Cursor's internal analysis reported by Forbes. The numbers reveal just how aggressively AI companies are subsidizing their coding tools and what that could mean for prices once these tools become essential. The article Anthropic&#039;s Claude Code",
-    "url": "https://the-decoder.com/anthropics-claude-code-subscription-may-consume-up-to-5000-in-compute-per-month-while-charging-the-user-just-200/",
-    "source": "The Decoder",
-    "published_at": "2026-03-07T11:34:57+00:00",
-    "score": 5,
-    "archived_at": "2026-03-08T03:18:05.617866+00:00"
+    "archived_at": "2026-03-09T03:21:44.787772+00:00"
   }
 ]
