@@ -1,5 +1,12 @@
 [
   {
+    "title": "Can AI Kill the Venture Capitalist?",
+    "summary": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
+    "url": "https://www.wired.com/story/ai-kill-venture-capital/",
+    "source": "Wired AI",
+    "published_at": "2026-03-09T09:00:00+00:00"
+  },
+  {
     "title": "RoboLayout: Differentiable 3D Scene Generation for Embodied Agents",
     "summary": "arXiv:2603.05522v1 Announce Type: new Abstract: Recent advances in vision language models (VLMs) have shown strong potential for spatial reasoning and 3D scene layout generation from open-ended language instructions. However, generating layouts that are not only semantically coherent but also feasible for interaction by embodied agents remains chal",
     "url": "https://arxiv.org/abs/2603.05522",
@@ -1813,10 +1820,10 @@
     "published_at": "2026-03-08T14:21:54+00:00"
   },
   {
-    "title": "Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that",
-    "summary": "Fake citations are slipping past peer review at top AI conferences, and commercial LLMs can't spot the fakes they generate. A new open-source tool called CiteAudit allegedly catches what GPT, Gemini, and Claude miss. The article Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that appeared firs",
-    "url": "https://the-decoder.com/hallucinated-references-are-passing-peer-review-at-top-ai-conferences-and-a-new-open-tool-wants-to-fix-that/",
-    "source": "The Decoder",
-    "published_at": "2026-03-08T09:00:25+00:00"
+    "title": "City Union Bank launches AI centre to support banking operations",
+    "summary": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to create a Centre of Excellence for Artificial Intelligence ",
+    "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
+    "source": "AI News",
+    "published_at": "2026-03-09T10:00:00+00:00"
   }
 ]

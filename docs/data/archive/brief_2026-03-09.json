@@ -1,6 +1,6 @@
 {
   "date": "March 09, 2026",
-  "timestamp": "2026-03-09T08:57:18.241407",
+  "timestamp": "2026-03-09T10:16:24.197922",
   "is_archive_run": false,
   "total_stories": 5,
   "top_stories": [
@@ -8,9 +8,9 @@
       "rank": 1,
       "title": "LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier",
       "summary": "A research team from Meta FAIR and New York University trained a multimodal AI model from scratch and found that several common assumptions about how these models should be built don't hold up. The article LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier appeared first on The Decoder.",
-      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
-      "primary_risk": "Unclear production readiness despite promising early results.",
-      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
       "source": "The Decoder",
       "url": "https://the-decoder.com/llm-text-data-is-drying-up-but-meta-points-to-unlabeled-video-as-the-next-massive-training-frontier/"
     },
@@ -20,7 +20,7 @@
       "summary": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates. The article Luma AI&#039;s new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks appeared first on The Decoder.",
       "technical_takeaway": "Adds empirical validation to approaches already used in production AI stacks.",
       "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-      "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
       "source": "The Decoder",
       "url": "https://the-decoder.com/luma-ais-new-uni-1-image-model-tops-nano-banana-2-and-gpt-image-1-5-on-logic-based-benchmarks/"
     },
@@ -28,31 +28,31 @@
       "rank": 3,
       "title": "Omni-C: Compressing Heterogeneous Modalities into a Single Dense Encoder",
       "summary": "arXiv:2603.05528v1 Announce Type: cross Abstract: Recent multimodal systems often rely on separate expert modality encoders which cause linearly scaling complexity and computational overhead with added modalities. While unified Omni-models address this via Mixture-of-Expert (MoE) architectures with specialized experts and routing, they still inflat",
-      "technical_takeaway": "Adds empirical validation to approaches already used in production AI stacks.",
-      "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
       "source": "Arxiv AI",
       "url": "https://arxiv.org/abs/2603.05528"
     },
     {
       "rank": 4,
-      "title": "Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that",
-      "summary": "Fake citations are slipping past peer review at top AI conferences, and commercial LLMs can't spot the fakes they generate. A new open-source tool called CiteAudit allegedly catches what GPT, Gemini, and Claude miss. The article Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that appeared firs",
+      "title": "Can AI Kill the Venture Capitalist?",
+      "summary": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
       "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
-      "primary_risk": "Marginal performance gains may not justify integration effort.",
-      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/hallucinated-references-are-passing-peer-review-at-top-ai-conferences-and-a-new-open-tool-wants-to-fix-that/"
+      "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/ai-kill-venture-capital/"
     },
     {
       "rank": 5,
-      "title": "OpenAI's hardware and robotics chief quits over military deal she says lacked enough deliberation",
-      "summary": "OpenAI's head of robotics, Caitlin Kalinowski, is leaving the company over its Pentagon deal, citing concerns about mass surveillance and lethal autonomy. The article OpenAI&#039;s hardware and robotics chief quits over military deal she says lacked enough deliberation appeared first on The Decoder.",
-      "technical_takeaway": "Trust, not model size, is becoming a core technical constraint in AI systems.",
-      "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
-      "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/openais-hardware-and-robotics-chief-quits-over-military-deal-she-says-lacked-enough-deliberation/"
+      "title": "City Union Bank launches AI centre to support banking operations",
+      "summary": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to create a Centre of Excellence for Artificial Intelligence",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "AI News",
+      "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/"
     }
   ]
 }
