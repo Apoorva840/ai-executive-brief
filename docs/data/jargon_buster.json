@@ -4,18 +4,18 @@
     "terms": [
         {
             "term": "Chain-of-Thought (CoT)",
-            "definition": "A technique where an AI model breaks down a complex problem into a sequence of intermediate logical steps instead of jumping straight to a final conclusion.",
-            "analogy": "In a professional kitchen, this is like a chef who narrates every step of a recipe out loud\u2014cracking eggs, whisking flour, and checking the temperature\u2014rather than just handing you a finished cake without explaining how they made it."
+            "definition": "A technique used by AI models to solve complex problems by breaking them down into a sequence of logical intermediate steps, effectively 'thinking out loud' before giving a final answer.",
+            "analogy": "In a kitchen, it is the difference between a chef simply handing you a finished cake versus a chef who narrates every step\u2014'first I cream the butter, then I fold in the flour'\u2014to ensure the logic of the recipe is followed correctly."
         },
         {
             "term": "Embodied Agents",
-            "definition": "AI systems that possess a physical or virtual 'body,' allowing them to perceive, move through, and physically interact with a 3D environment rather than just processing data on a screen.",
-            "analogy": "Think of the difference between a paper map and a self-driving car. The map provides information, but the self-driving car is an 'embodied agent' that actually feels the road, turns the steering wheel, and moves through the world."
+            "definition": "AI systems that are integrated into a physical body (like a robot) or a simulated 3D environment, allowing them to perceive and interact with the world rather than just processing text or images on a screen.",
+            "analogy": "A standard GPS is just software that tells you where to go, but a self-driving car is an 'embodied agent' because it has 'eyes' (sensors) and 'limbs' (wheels and steering) to actually move through and impact the physical world."
         },
         {
-            "term": "Agentic Computing",
-            "definition": "A framework where AI operates as an autonomous worker that can proactively use tools, plan its own multi-step workflows, and make decisions to solve a problem with minimal human intervention.",
-            "analogy": "It is the difference between using a manual blender that only spins when you hold the button, and a smart sous-chef who knows you're making dinner and autonomously starts the coffee, preheats the oven, and preps the vegetables without being asked for each individual step."
+            "term": "Multi-Agent System",
+            "definition": "A framework where multiple AI programs, or 'agents,' work together, communicate, and coordinate their actions to solve tasks that are too complex for a single AI to handle alone.",
+            "analogy": "Think of a professional restaurant kitchen: instead of one person trying to cook everything, you have a specialized team\u2014a head chef, a pastry chef, and a line cook\u2014all communicating in real-time to get a complex five-course dinner to the table."
         }
     ]
 }
