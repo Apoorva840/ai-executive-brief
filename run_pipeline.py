@@ -2,6 +2,7 @@ import subprocess
 import os
 import sys
 import json
+import time  # Added for pauses
 from datetime import datetime
 
 # ============================
@@ -81,21 +82,28 @@ def run_pipeline():
     if has_new_content:
         print(f">>> {len(raw_data)} new articles found. Executing AI enhancement...")
         
+        # Format: (Script Name, Delay in Seconds after execution)
+        # We add 60s delays for the most AI-intensive scripts to reset Free Tier quotas.
         standard_flow = [
-            "fetch_github.py",
-            "ai_deduplicate.py", 
-            "jargon_buster.py",      # Project B: Weekly Jargon
-            "process_lab_report.py",  # Project C: Research Lab
-            "process_toolbox.py",     # Project D: Developer Toolbox (ADDED)
-            "rank_news.py",           # Project A: Ranking & Selection
-            "summarize.py", 
-            "enrich.py"
+            ("fetch_github.py", 0),
+            ("ai_deduplicate.py", 30),     # Local model (no quota hit), but 30s breather helps
+            ("jargon_buster.py", 65),      # HEAVY AI: 65s pause to fully reset RPM
+            ("process_lab_report.py", 30),  # MEDIUM AI: 30s pause
+            ("process_toolbox.py", 65),    # HEAVY AI: 65s pause to reset RPM
+            ("rank_news.py", 30),
+            ("summarize.py", 30), 
+            ("enrich.py", 0)
         ]
         
-        for script in standard_flow:
+        for script, delay in standard_flow:
             if not run_step(script):
                 print(f"Pipeline stopped at {script}")
                 sys.exit(1)
+            
+            if delay > 0:
+                print(f"☕ Taking a {delay}s breather to respect Gemini Free Tier limits...")
+                time.sleep(delay)
+                
     else:
         # PATH B: 0 new news -> Try Archive (Fixes Sunday Drought UI)
         print(">>> 0 new articles found. Switching to Archive Recovery Mode...")
