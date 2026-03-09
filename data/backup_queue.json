@@ -1,137 +1,29 @@
 [
   {
-    "title": "Knowledge Graph and Hypergraph Transformers with Repository-Attention and Journey-Based Role Transport",
-    "summary": "arXiv:2603.03304v1 Announce Type: cross Abstract: We present a concise architecture for joint training on sentences and structured data while keeping knowledge and language representations separable. The model treats knowledge graphs and hypergraphs as structured instances with role slots and encodes them into a key-value repository that a language",
-    "url": "https://arxiv.org/abs/2603.03304",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
+    "title": "Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that",
+    "summary": "Fake citations are slipping past peer review at top AI conferences, and commercial LLMs can't spot the fakes they generate. A new open-source tool called CiteAudit allegedly catches what GPT, Gemini, and Claude miss. The article Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that appeared firs",
+    "url": "https://the-decoder.com/hallucinated-references-are-passing-peer-review-at-top-ai-conferences-and-a-new-open-tool-wants-to-fix-that/",
+    "source": "The Decoder",
+    "published_at": "2026-03-08T09:00:25+00:00",
     "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+    "archived_at": "2026-03-09T03:21:44.787772+00:00"
   },
   {
-    "title": "Quantum-Inspired Self-Attention in a Large Language Model",
-    "summary": "arXiv:2603.03318v1 Announce Type: cross Abstract: Recent advances in Natural Language Processing have been predominantly driven by transformer-based architectures, which rely heavily on self-attention mechanisms to model relationships between tokens in a sequence. Similarly, the field of Quantum Natural Language Processing, which seeks to leverage ",
-    "url": "https://arxiv.org/abs/2603.03318",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+    "title": "OpenAI's hardware and robotics chief quits over military deal she says lacked enough deliberation",
+    "summary": "OpenAI's head of robotics, Caitlin Kalinowski, is leaving the company over its Pentagon deal, citing concerns about mass surveillance and lethal autonomy. The article OpenAI&#039;s hardware and robotics chief quits over military deal she says lacked enough deliberation appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openais-hardware-and-robotics-chief-quits-over-military-deal-she-says-lacked-enough-deliberation/",
+    "source": "The Decoder",
+    "published_at": "2026-03-08T08:11:09+00:00",
+    "score": 6,
+    "archived_at": "2026-03-09T03:21:44.787772+00:00"
   },
   {
-    "title": "Sleeper Cell: Injecting Latent Malice Temporal Backdoors into Tool-Using LLMs",
-    "summary": "arXiv:2603.03371v1 Announce Type: cross Abstract: The proliferation of open-weight Large Language Models (LLMs) has democratized agentic AI, yet fine-tuned weights are frequently shared and adopted with limited scrutiny beyond leaderboard performance. This creates a risk where third-party models are incorporated without strong behavioral guarantees",
-    "url": "https://arxiv.org/abs/2603.03371",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "LiteVLA-Edge: Quantized On-Device Multimodal Control for Embedded Robotics",
-    "summary": "arXiv:2603.03380v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models provide a unified framework for perception, language conditioning, and action generation, but many existing systems remain difficult to deploy in embedded robotic settings because of their computational requirements and inference latency. In this paper, we present",
-    "url": "https://arxiv.org/abs/2603.03380",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "Test-Time Meta-Adaptation with Self-Synthesis",
-    "summary": "arXiv:2603.03524v1 Announce Type: cross Abstract: As strong general reasoners, large language models (LLMs) encounter diverse domains and tasks, where the ability to adapt and self-improve at test time is valuable. We introduce MASS, a meta-learning framework that enables LLMs to self-adapt by generating problem-specific synthetic training data and",
-    "url": "https://arxiv.org/abs/2603.03524",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions",
-    "summary": "arXiv:2603.03637v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) integrate vision and text to power applications, but this integration introduces new vulnerabilities. We study Image-based Prompt Injection (IPI), a black-box attack in which adversarial instructions are embedded into natural images to override model behavior",
-    "url": "https://arxiv.org/abs/2603.03637",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs",
-    "summary": "arXiv:2603.03681v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have shown strong performance in vision-language tasks, but their inference efficiency is severely limited by the exponential growth of visual tokens in complex scenarios such as high-resolution images and videos. Existing visual token pruning methods mainly ",
-    "url": "https://arxiv.org/abs/2603.03681",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "BLOCK: An Open-Source Bi-Stage MLLM Character-to-Skin Pipeline for Minecraft",
-    "summary": "arXiv:2603.03964v1 Announce Type: cross Abstract: We present \\textbf{BLOCK}, an open-source bi-stage character-to-skin pipeline that generates pixel-perfect Minecraft skins from arbitrary character concepts. BLOCK decomposes the problem into (i) a \\textbf{3D preview synthesis stage} driven by a large multimodal model (MLLM) with a carefully designe",
-    "url": "https://arxiv.org/abs/2603.03964",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "A Multi-Dimensional Quality Scoring Framework for Decentralized LLM Inference with Proof of Quality",
-    "summary": "arXiv:2603.04028v1 Announce Type: cross Abstract: Decentralized large language model (LLM) inference networks can pool heterogeneous compute to scale serving, but they require lightweight and incentive-compatible mechanisms to assess output quality. Prior work introduced cost-aware Proof of Quality (PoQ) and adaptive robust PoQ to allocate rewards ",
-    "url": "https://arxiv.org/abs/2603.04028",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "Crab$^{+}$: A Scalable and Unified Audio-Visual Scene Understanding Model with Explicit Cooperation",
-    "summary": "arXiv:2603.04128v1 Announce Type: cross Abstract: Developing Audio-Visual Large Language Models (AV-LLMs) for unified scene understanding is pivotal in multimodal intelligence. While instruction tuning enables pre-trained models with multi-task abilities, we observe that conventional multi-task unification methods often suffer from severe negative ",
-    "url": "https://arxiv.org/abs/2603.04128",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "Architectural Proprioception in State Space Models: Thermodynamic Training Induces Anticipatory Halt Detection",
-    "summary": "arXiv:2603.04180v1 Announce Type: cross Abstract: We introduce the Probability Navigation Architecture (PNA) framework, which treats neural computation as navigation through a probability manifold governed by thermodynamic principles. We train State Space Models (SSMs) and Transformers with a novel thermodynamic loss function that penalizes computa",
-    "url": "https://arxiv.org/abs/2603.04180",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation",
-    "summary": "arXiv:2603.04348v1 Announce Type: cross Abstract: Pathology report generation remains a relatively under-explored downstream task, primarily due to the gigapixel scale and complex morphological heterogeneity of Whole Slide Images (WSIs). Existing pathology report generation frameworks typically employ transformer architectures, relying on a homogen",
-    "url": "https://arxiv.org/abs/2603.04348",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "HAMLET: A Hierarchical and Adaptive Multi-Agent Framework for Live Embodied Theatrics",
-    "summary": "arXiv:2507.15518v4 Announce Type: replace Abstract: Creating an immersive and interactive theatrical experience is a long-term goal in the field of interactive narrative. The emergence of large language models (LLMs) provides a new path to achieve this goal. However, existing LLM-based drama generation methods often produce models that lack initiat",
-    "url": "https://arxiv.org/abs/2507.15518",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety",
-    "summary": "arXiv:2509.21782v2 Announce Type: replace Abstract: Multimodal large language models (MLLMs) are increasingly deployed as the core reasoning engine for web-facing systems, powering GUI agents and front-end automation that must interpret page structure, select actionable widgets, and execute multi-step interactions reliably. However, existing benchm",
-    "url": "https://arxiv.org/abs/2509.21782",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
-  },
-  {
-    "title": "The Geometry of Reasoning: Flowing Logics in Representation Space",
-    "summary": "arXiv:2510.09782v2 Announce Type: replace Abstract: We study how large language models (LLMs) ``think'' through their representation space. We propose a novel geometric framework that models an LLM's reasoning as flows -- embedding trajectories evolving where logic goes. We disentangle logical structure from semantics by employing the same natural ",
-    "url": "https://arxiv.org/abs/2510.09782",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-05T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-06T03:15:02.959655+00:00"
+    "title": "AI agent benchmarks obsess over coding while ignoring 92% of the US labor market, study finds",
+    "summary": "A large-scale study shows that AI agent development focuses almost entirely on programming tasks, ignoring the vast majority of the labor market. The article AI agent benchmarks obsess over coding while ignoring 92% of the US labor market, study finds appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ai-agent-benchmarks-obsess-over-coding-while-ignoring-92-of-the-us-labor-market-study-finds/",
+    "source": "The Decoder",
+    "published_at": "2026-03-08T07:15:20+00:00",
+    "score": 6,
+    "archived_at": "2026-03-09T03:21:44.787772+00:00"
   }
 ]
