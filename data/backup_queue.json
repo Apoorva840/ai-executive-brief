@@ -1,29 +1,137 @@
 [
   {
+    "title": "The Fragility Of Moral Judgment In Large Language Models",
+    "summary": "arXiv:2603.05651v1 Announce Type: cross Abstract: People increasingly use large language models (LLMs) for everyday moral and interpersonal guidance, yet these systems cannot interrogate missing context and judge dilemmas as presented. We introduce a perturbation framework for testing the stability and manipulability of LLM moral judgments while ho",
+    "url": "https://arxiv.org/abs/2603.05651",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "Depth Charge: Jailbreak Large Language Models from Deep Safety Attention Heads",
+    "summary": "arXiv:2603.05772v1 Announce Type: cross Abstract: Currently, open-sourced large language models (OSLLMs) have demonstrated remarkable generative performance. However, as their structure and weights are made public, they are exposed to jailbreak attacks even after alignment. Existing attacks operate primarily at shallow levels, such as the prompt or",
+    "url": "https://arxiv.org/abs/2603.05772",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "Margin and Consistency Supervision for Calibrated and Robust Vision Models",
+    "summary": "arXiv:2603.05812v1 Announce Type: cross Abstract: Deep vision classifiers often achieve high accuracy while remaining poorly calibrated and fragile under small distribution shifts. We present Margin and Consistency Supervision (MaCS), a simple, architecture-agnostic regularization framework that jointly enforces logit-space separation and local pre",
+    "url": "https://arxiv.org/abs/2603.05812",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "LUMINA: LLM-Guided GPU Architecture Exploration via Bottleneck Analysis",
+    "summary": "arXiv:2603.05904v1 Announce Type: cross Abstract: GPU design space exploration (DSE) for modern AI workloads, such as Large-Language Model (LLM) inference, is challenging because of GPUs' vast, multi-modal design spaces, high simulation costs, and complex design optimization objectives (e.g. performance, power and area trade-offs). Existing automat",
+    "url": "https://arxiv.org/abs/2603.05904",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "CORE-Seg: Reasoning-Driven Segmentation for Complex Lesions via Reinforcement Learning",
+    "summary": "arXiv:2603.05911v1 Announce Type: cross Abstract: Medical image segmentation is undergoing a paradigm shift from conventional visual pattern matching to cognitive reasoning analysis. Although Multimodal Large Language Models (MLLMs) have shown promise in integrating linguistic and visual knowledge, significant gaps remain: existing general MLLMs po",
+    "url": "https://arxiv.org/abs/2603.05911",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "MASFactory: A Graph-centric Framework for Orchestrating LLM-Based Multi-Agent Systems with Vibe Graphing",
+    "summary": "arXiv:2603.06007v1 Announce Type: cross Abstract: Large language model-based (LLM-based) multi-agent systems (MAS) are increasingly used to extend agentic problem solving via role specialization and collaboration. MAS workflows can be naturally modeled as directed computation graphs, where nodes execute agents/sub-workflows and edges encode depende",
+    "url": "https://arxiv.org/abs/2603.06007",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "Partial Policy Gradients for RL in LLMs",
+    "summary": "arXiv:2603.06138v1 Announce Type: cross Abstract: Reinforcement learning is a framework for learning to act sequentially in an unknown environment. We propose a natural approach for modeling policy structure in policy gradients. The key idea is to optimize for a subset of future rewards: smaller subsets represent simpler policies, which can be lear",
+    "url": "https://arxiv.org/abs/2603.06138",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "Transforming Agency. On the mode of existence of Large Language Models",
+    "summary": "arXiv:2407.10735v3 Announce Type: replace Abstract: This paper investigates the ontological characterization of Large Language Models (LLMs) like ChatGPT. Between inflationary and deflationary accounts, we pay special attention to their status as agents. This requires explaining in detail the architecture, processing, and training procedures that e",
+    "url": "https://arxiv.org/abs/2407.10735",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
     "title": "Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that",
     "summary": "Fake citations are slipping past peer review at top AI conferences, and commercial LLMs can't spot the fakes they generate. A new open-source tool called CiteAudit allegedly catches what GPT, Gemini, and Claude miss. The article Hallucinated references are passing peer review at top AI conferences and a new open tool wants to fix that appeared firs",
     "url": "https://the-decoder.com/hallucinated-references-are-passing-peer-review-at-top-ai-conferences-and-a-new-open-tool-wants-to-fix-that/",
     "source": "The Decoder",
     "published_at": "2026-03-08T09:00:25+00:00",
     "score": 7,
-    "archived_at": "2026-03-09T03:21:44.787772+00:00"
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
   },
   {
-    "title": "OpenAI's hardware and robotics chief quits over military deal she says lacked enough deliberation",
-    "summary": "OpenAI's head of robotics, Caitlin Kalinowski, is leaving the company over its Pentagon deal, citing concerns about mass surveillance and lethal autonomy. The article OpenAI&#039;s hardware and robotics chief quits over military deal she says lacked enough deliberation appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openais-hardware-and-robotics-chief-quits-over-military-deal-she-says-lacked-enough-deliberation/",
-    "source": "The Decoder",
-    "published_at": "2026-03-08T08:11:09+00:00",
+    "title": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation",
+    "summary": "arXiv:2603.06064v1 Announce Type: new Abstract: Task planning, the problem of sequencing actions to reach a goal from an initial state, is a core capability requirement for autonomous robotic systems. Whether large language models (LLMs) can serve as viable planners alongside classical symbolic methods remains an open question. We present PyPDDLEng",
+    "url": "https://arxiv.org/abs/2603.06064",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
     "score": 6,
-    "archived_at": "2026-03-09T03:21:44.787772+00:00"
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
   },
   {
-    "title": "AI agent benchmarks obsess over coding while ignoring 92% of the US labor market, study finds",
-    "summary": "A large-scale study shows that AI agent development focuses almost entirely on programming tasks, ignoring the vast majority of the labor market. The article AI agent benchmarks obsess over coding while ignoring 92% of the US labor market, study finds appeared first on The Decoder.",
-    "url": "https://the-decoder.com/ai-agent-benchmarks-obsess-over-coding-while-ignoring-92-of-the-us-labor-market-study-finds/",
-    "source": "The Decoder",
-    "published_at": "2026-03-08T07:15:20+00:00",
+    "title": "Aggregative Semantics for Quantitative Bipolar Argumentation Frameworks",
+    "summary": "arXiv:2603.06067v1 Announce Type: new Abstract: Formal argumentation is being used increasingly in artificial intelligence as an effective and understandable way to model potentially conflicting pieces of information, called arguments, and identify so-called acceptable arguments depending on a chosen semantics. This paper deals with the specific co",
+    "url": "https://arxiv.org/abs/2603.06067",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
     "score": 6,
-    "archived_at": "2026-03-09T03:21:44.787772+00:00"
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "Talk Freely, Execute Strictly: Schema-Gated Agentic AI for Flexible and Reproducible Scientific Workflows",
+    "summary": "arXiv:2603.06394v1 Announce Type: new Abstract: Large language models (LLMs) can now translate a researcher's plain-language goal into executable computation, yet scientific workflows demand determinism, provenance, and governance that are difficult to guarantee when an LLM decides what runs. Semi-structured interviews with 18 experts across 10 ind",
+    "url": "https://arxiv.org/abs/2603.06394",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "Traversal-as-Policy: Log-Distilled Gated Behavior Trees as Externalized, Verifiable Policies for Safe, Robust, and Efficient Agents",
+    "summary": "arXiv:2603.05517v1 Announce Type: cross Abstract: Autonomous LLM agents fail because long-horizon policy remains implicit in model weights and transcripts, while safety is retrofitted post hoc. We propose Traversal-as-Policy: distill sandboxed OpenHands execution logs into a single executable Gated Behavior Tree (GBT) and treat tree traversal -- ra",
+    "url": "https://arxiv.org/abs/2603.05517",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "CBR-to-SQL: Rethinking Retrieval-based Text-to-SQL using Case-based Reasoning in the Healthcare Domain",
+    "summary": "arXiv:2603.05569v1 Announce Type: cross Abstract: Extracting insights from Electronic Health Record (EHR) databases often requires SQL expertise, creating a barrier for healthcare decision-making and research. While a promising approach is to use Large Language Models (LLMs) to translate natural language questions to SQL via Retrieval-Augmented Gen",
+    "url": "https://arxiv.org/abs/2603.05569",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
+  },
+  {
+    "title": "SecureRAG-RTL: A Retrieval-Augmented, Multi-Agent, Zero-Shot LLM-Driven Framework for Hardware Vulnerability Detection",
+    "summary": "arXiv:2603.05689v1 Announce Type: cross Abstract: Large language models (LLMs) have shown remarkable capabilities in natural language processing tasks, yet their application in hardware security verification remains limited due to scarcity of publicly available hardware description language (HDL) datasets. This knowledge gap constrains LLM performa",
+    "url": "https://arxiv.org/abs/2603.05689",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-09T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-03-09T08:57:18.156830+00:00"
   }
 ]
