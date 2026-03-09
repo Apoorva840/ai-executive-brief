@@ -1,4 +1,21 @@
 {
-    "is_weekly_active": false,
-    "terms": []
+    "last_updated": "March 09, 2026",
+    "is_weekly_active": true,
+    "terms": [
+        {
+            "term": "Chain-of-Thought (CoT)",
+            "definition": "A technique where an AI model breaks down a complex problem into a sequence of intermediate logical steps instead of jumping straight to a final conclusion.",
+            "analogy": "In a professional kitchen, this is like a chef who narrates every step of a recipe out loud\u2014cracking eggs, whisking flour, and checking the temperature\u2014rather than just handing you a finished cake without explaining how they made it."
+        },
+        {
+            "term": "Embodied Agents",
+            "definition": "AI systems that possess a physical or virtual 'body,' allowing them to perceive, move through, and physically interact with a 3D environment rather than just processing data on a screen.",
+            "analogy": "Think of the difference between a paper map and a self-driving car. The map provides information, but the self-driving car is an 'embodied agent' that actually feels the road, turns the steering wheel, and moves through the world."
+        },
+        {
+            "term": "Agentic Computing",
+            "definition": "A framework where AI operates as an autonomous worker that can proactively use tools, plan its own multi-step workflows, and make decisions to solve a problem with minimal human intervention.",
+            "analogy": "It is the difference between using a manual blender that only spins when you hold the button, and a smart sous-chef who knows you're making dinner and autonomously starts the coffee, preheats the oven, and preps the vegetables without being asked for each individual step."
+        }
+    ]
 }

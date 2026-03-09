@@ -20,7 +20,7 @@ def call_gemini_with_retry(prompt, max_retries=3):
     for attempt in range(max_retries):
         try:
             response = client.models.generate_content(
-                model="gemini-2.0-flash", # Consistent with your other stable scripts
+                model="gemini-3.1-flash-lite-preview", # Consistent with your other stable scripts
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     response_mime_type='application/json'
