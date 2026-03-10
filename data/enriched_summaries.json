@@ -1,27 +1,13 @@
 [
   {
-    "title": "LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier",
-    "url": "https://the-decoder.com/llm-text-data-is-drying-up-but-meta-points-to-unlabeled-video-as-the-next-massive-training-frontier/",
-    "source": "The Decoder",
-    "score": 9,
-    "what_happened": "A research team from Meta FAIR and New York University trained a multimodal AI model from scratch and found that several common assumptions about how these models should be built don't hold up. The article LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier appeared first on The Decoder.",
-    "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Luma AI's new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks",
-    "url": "https://the-decoder.com/luma-ais-new-uni-1-image-model-tops-nano-banana-2-and-gpt-image-1-5-on-logic-based-benchmarks/",
+    "title": "OpenAI employees hint at a new omni model",
+    "url": "https://the-decoder.com/openai-employees-hint-at-a-new-omni-model/",
     "source": "The Decoder",
     "score": 8,
-    "what_happened": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates. The article Luma AI&#039;s new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks appeared first on The Decoder.",
+    "what_happened": "A new omni model from OpenAI? Employee posts and a leaked audio project called \"BiDi\" suggest the company is working on its next big multimodal upgrade. The article OpenAI employees hint at a new omni model appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "AI Professionals"
     ],
@@ -34,7 +20,7 @@
     "score": 7,
     "what_happened": "arXiv:2603.05528v1 Announce Type: cross Abstract: Recent multimodal systems often rely on separate expert modality encoders which cause linearly scaling complexity and computational overhead with added modalities. While unified Omni-models address this via Mixture-of-Expert (MoE) architectures with specialized experts and routing, they still inflat",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "Research Scientists",
@@ -43,32 +29,47 @@
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "Can AI Kill the Venture Capitalist?",
-    "url": "https://www.wired.com/story/ai-kill-venture-capital/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "source": "Hugging Face Blog",
+    "score": 7,
+    "what_happened": "Hugging Face Blog announced 'Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge', highlighting new developments relevant to AI researchers and practitioners.",
+    "technical_takeaway": null,
+    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
+    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
+    "who_should_care": [
+      "Mobile Engineers",
+      "Product Managers"
+    ],
+    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
+  },
+  {
+    "title": "OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform",
+    "url": "https://the-decoder.com/openai-plans-to-acquire-promptfoo-and-bake-ai-security-testing-directly-into-its-frontier-enterprise-platform/",
+    "source": "The Decoder",
+    "score": 6,
+    "what_happened": "OpenAI is acquiring AI security platform Promptfoo to build automated vulnerability testing, covering jailbreaks, prompt injections, and data leaks, directly into its Frontier enterprise platform. The article OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "AI Professionals"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "City Union Bank launches AI centre to support banking operations",
-    "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
-    "source": "AI News",
+    "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+    "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+    "source": "Wired AI",
     "score": 5,
-    "what_happened": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to create a Centre of Excellence for Artificial Intelligence",
+    "what_happened": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "AI Professionals"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   }
 ]

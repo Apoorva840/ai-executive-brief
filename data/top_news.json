@@ -1,18 +1,10 @@
 [
   {
-    "title": "LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier",
-    "summary": "A research team from Meta FAIR and New York University trained a multimodal AI model from scratch and found that several common assumptions about how these models should be built don't hold up. The article LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier appeared first on The Decoder.",
-    "url": "https://the-decoder.com/llm-text-data-is-drying-up-but-meta-points-to-unlabeled-video-as-the-next-massive-training-frontier/",
+    "title": "OpenAI employees hint at a new omni model",
+    "summary": "A new omni model from OpenAI? Employee posts and a leaked audio project called \"BiDi\" suggest the company is working on its next big multimodal upgrade. The article OpenAI employees hint at a new omni model appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-employees-hint-at-a-new-omni-model/",
     "source": "The Decoder",
-    "published_at": "2026-03-08T14:21:54+00:00",
-    "score": 9
-  },
-  {
-    "title": "Luma AI's new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks",
-    "summary": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates. The article Luma AI&#039;s new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks appeared first on The Decoder.",
-    "url": "https://the-decoder.com/luma-ais-new-uni-1-image-model-tops-nano-banana-2-and-gpt-image-1-5-on-logic-based-benchmarks/",
-    "source": "The Decoder",
-    "published_at": "2026-03-08T17:08:52+00:00",
+    "published_at": "2026-03-09T13:41:59+00:00",
     "score": 8
   },
   {
@@ -24,19 +16,27 @@
     "score": 7
   },
   {
-    "title": "Can AI Kill the Venture Capitalist?",
-    "summary": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
-    "url": "https://www.wired.com/story/ai-kill-venture-capital/",
-    "source": "Wired AI",
-    "published_at": "2026-03-09T09:00:00+00:00",
-    "score": 5
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-03-09T18:36:33+00:00",
+    "score": 7
   },
   {
-    "title": "City Union Bank launches AI centre to support banking operations",
-    "summary": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to create a Centre of Excellence for Artificial Intelligence ",
-    "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
-    "source": "AI News",
-    "published_at": "2026-03-09T10:00:00+00:00",
+    "title": "OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform",
+    "summary": "OpenAI is acquiring AI security platform Promptfoo to build automated vulnerability testing, covering jailbreaks, prompt injections, and data leaks, directly into its Frontier enterprise platform. The article OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-plans-to-acquire-promptfoo-and-bake-ai-security-testing-directly-into-its-frontier-enterprise-platform/",
+    "source": "The Decoder",
+    "published_at": "2026-03-09T19:10:08+00:00",
+    "score": 6
+  },
+  {
+    "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+    "summary": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
+    "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+    "source": "Wired AI",
+    "published_at": "2026-03-09T23:11:34+00:00",
     "score": 5
   }
 ]
