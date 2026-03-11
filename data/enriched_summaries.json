@@ -1,10 +1,10 @@
 [
   {
-    "title": "AI Steerability 360: A Toolkit for Steering Large Language Models",
-    "url": "https://arxiv.org/abs/2603.07837",
+    "title": "Quantifying the Necessity of Chain of Thought through Opaque Serial Depth",
+    "url": "https://arxiv.org/abs/2603.09786",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2603.07837v1 Announce Type: cross Abstract: The AI Steerability 360 toolkit is an extensible, open-source Python library for steering LLMs. Steering abstractions are designed around four model control surfaces: input (modification of the prompt), structural (modification of the model's weights or architecture), state (modification of the mode",
+    "what_happened": "arXiv:2603.09786v1 Announce Type: new Abstract: Large language models (LLMs) tend to externalize their reasoning in their chain of thought, making the chain of thought a good target for monitoring. This is partially an inherent feature of the Transformer architecture: sufficiently long serial cognition must pass through the chain of thought (Korbak",
     "technical_takeaway": null,
     "primary_risk": "Marginal performance gains may not justify integration effort.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
@@ -12,7 +12,7 @@
       "Research Scientists",
       "ML Engineers"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
     "title": "How NVIDIA Builds Open Data for AI",
@@ -22,26 +22,12 @@
     "what_happened": "Hugging Face Blog announced 'How NVIDIA Builds Open Data for AI', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "ML Engineers",
       "Open-Source Contributors"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "Investors bet $1 billion on Yann LeCun's vision for AI beyond LLMs",
-    "url": "https://the-decoder.com/investors-bet-1-billion-on-yann-lecuns-vision-for-ai-beyond-llms/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Yann LeCun, former chief AI scientist at Meta and Turing Award winner, has raised over $1 billion for his new startup Advanced Machine Intelligence Labs (AMI Labs) - making it Europe's largest seed funding round ever. The article Investors bet $1 billion on Yann LeCun&#039;s vision for AI beyond LLMs appeared first on The Decoder.",
-    "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
     "title": "Amazon gets court order blocking Perplexity's AI shopping agent",
@@ -59,11 +45,11 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "ABB: Physical AI simulation boosts ROI for factory automation",
-    "url": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
-    "source": "AI News",
+    "title": "ChatGPT now explains math and physics with interactive visualizations",
+    "url": "https://the-decoder.com/chatgpt-now-explains-math-and-physics-with-interactive-visualizations/",
+    "source": "The Decoder",
     "score": 6,
-    "what_happened": "A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles. Manufacturers have often found it difficult to make intelligent robotics work reliably outside testing environments. The core issue is the gap between digital training models and actual factory floors, where lighti",
+    "what_happened": "ChatGPT now displays interactive visualizations for math and physics topics where users can tweak variables and watch graphs update in real time. More than 70 concepts are available at launch. The article ChatGPT now explains math and physics with interactive visualizations appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
@@ -71,5 +57,19 @@
       "AI Professionals"
     ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "How physical AI integration accelerates vehicle innovation",
+    "url": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
+    "source": "AI News",
+    "score": 6,
+    "what_happened": "The integration of physical AI into vehicles remains a primary objective for automakers looking to accelerate innovation. A technical collaboration between Qualcomm and Wayve offers a framework for how hardware and software providers can consolidate their efforts to supply production-ready advanced driver assistance systems to manufacturers worldwi",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   }
 ]

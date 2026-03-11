@@ -4,22 +4,22 @@
         {
             "Name": "Hermes Agent",
             "Category": "AI Agent Framework",
-            "Description": "A self-improving, multi-platform AI agent capable of autonomous skill creation, long-term memory, and cross-session learning.",
-            "Use_Case": "Developing flexible AI assistants that persist across different messaging platforms and environments (VPS, serverless, local).",
+            "Description": "A self-improving, platform-agnostic AI agent that supports a built-in learning loop, allowing it to create skills from experience and manage conversation history across platforms like Telegram and Discord.",
+            "Use_Case": "Automating multi-step tasks, cross-platform AI interactions, and building persistent, self-evolving AI assistants on low-resource infrastructure.",
             "URL": "https://github.com/NousResearch/hermes-agent"
         },
         {
-            "Name": "Crawlee for Python",
-            "Category": "Web Scraping / Automation",
-            "Description": "A robust web scraping and browser automation library designed to build reliable, high-performance crawlers for AI and RAG applications.",
-            "Use_Case": "Automated data extraction from websites for RAG pipelines, LLM training, or AI data ingestion.",
+            "Name": "Crawlee (Python)",
+            "Category": "Web Scraping / Data Collection",
+            "Description": "A high-performance web scraping and browser automation library designed to build reliable, human-like crawlers with features like proxy rotation and session management.",
+            "Use_Case": "Extracting large-scale data from websites to build datasets for LLM pre-training, RAG applications, and AI agents.",
             "URL": "https://github.com/apify/crawlee-python"
         },
         {
             "Name": "Sirchmunk",
-            "Category": "AI-Powered Search / Indexing",
-            "Description": "An indexless, real-time search engine that works directly on raw data to generate self-evolving knowledge clusters.",
-            "Use_Case": "Enabling intelligent, real-time knowledge retrieval across vast local document repositories without the overhead of traditional vector databases.",
+            "Category": "Search & Knowledge Management",
+            "Description": "An indexless, embedding-free retrieval system that searches directly over raw data using Monte Carlo Evidence Sampling to find relevant information efficiently.",
+            "Use_Case": "Real-time, context-aware information retrieval from massive local file repositories without the overhead of maintaining traditional vector databases.",
             "URL": "https://github.com/modelscope/sirchmunk"
         }
     ]
