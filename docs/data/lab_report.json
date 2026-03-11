@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-03-08",
+    "last_updated": "2024-03-22",
     "papers": [
         {
-            "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
-            "innovation": "Proposes a comprehensive framework for orchestrating real-time AI services and autonomous agents across the device-edge-cloud continuum, tackling critical challenges like latency, resource competition, and policy/governance constraints in distributed environments.",
-            "benchmarks": "Addresses system-level performance (latency, throughput), resource utilization, and policy adherence for real-time, distributed agentic workloads, implicitly suggesting new metrics for resilience and scalability in production AI systems.",
-            "use_case": "Designing, implementing, and managing robust, scalable, and governed real-time AI service architectures and autonomous agent deployments in complex, distributed computing environments (e.g., IoT, edge computing).",
-            "url": "https://arxiv.org/abs/2603.05614"
+            "title": "Making AI Evaluation Deployment Relevant Through Context Specification",
+            "innovation": "Proposes 'Context Specification' to bridge the gap between academic AI evaluation metrics and the operational realities that determine deployment success. It emphasizes defining the real-world context for evaluation, allowing decision-makers beyond technical experts to understand and value AI deployments more accurately.",
+            "benchmarks": "Focuses on a methodology for improving evaluation, rather than introducing new benchmarks. The innovation is in how existing or future evaluations are framed and specified to be deployment-relevant, ensuring operational realities are considered.",
+            "use_case": "Essential for MLOps, responsible AI, and any organization struggling to gain tangible value from AI deployments. Helps AI engineers and stakeholders design more relevant evaluations, reduce misaligned expectations, and ensure AI systems are truly fit for purpose in complex operational environments.",
+            "url": "https://arxiv.org/abs/2603.06811"
         },
         {
-            "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
-            "innovation": "Introduces 'programmable evolution' for agent benchmarks, addressing the critical limitation of static environments in current LLM agent evaluations. This enables testing agent robustness and adaptability to dynamically changing real-world conditions.",
-            "benchmarks": "Directly focuses on the creation of new, dynamic benchmarks that evolve over time (e.g., changing schemas, toolsets, user requests), thereby allowing for more realistic and stringent evaluation of LLM agent robustness and generalization capabilities.",
-            "use_case": "Developing and evaluating more robust, adaptable, and reliable LLM-powered agents for real-world deployment, and constructing next-generation agent evaluation platforms that simulate dynamic environments.",
-            "url": "https://arxiv.org/abs/2603.05910"
+            "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
+            "innovation": "Identifies and addresses the 'no-recovery bottleneck' in Large Language Model (LLM) long-horizon execution. While decomposition is critical for complex tasks, extreme decomposition can create points where failure at one step makes recovery impossible. The paper proposes strategies to mitigate this, improving overall stability and success rate.",
+            "benchmarks": "Evaluates on 'controlled algorithmic puzzles' to demonstrate the identified bottleneck and the effectiveness of the proposed solutions in improving long-horizon reasoning stability for LLMs.",
+            "use_case": "Highly relevant for AI engineers building complex LLM agents, workflow automation, or any application requiring LLMs to perform multi-step, long-horizon tasks. It provides insights and methods to make these systems more robust and less prone to cascading failures, thereby enhancing reliability in practical applications.",
+            "url": "https://arxiv.org/abs/2603.06870"
         },
         {
-            "title": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation",
-            "innovation": "Provides an empirical characterization of Large Language Models (LLMs) as viable planners for autonomous systems, leveraging step-wise PDDL (Planning Domain Definition Language) simulation to rigorously assess their task planning capabilities.",
-            "benchmarks": "Utilizes standard PDDL planning problems as a formal benchmark to evaluate LLMs' ability to generate correct, complete, and efficient action sequences for complex tasks, comparing their performance against classical symbolic methods.",
-            "use_case": "Integrating LLMs into autonomous robotic systems, complex software agents, or other applications requiring formal task planning; understanding and improving LLM capabilities for logical sequencing and problem-solving in goal-oriented tasks.",
-            "url": "https://arxiv.org/abs/2603.06064"
+            "title": "LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models",
+            "innovation": "Introduces LieCraft, a novel multi-agent evaluation framework and sandbox specifically designed to assess the deceptive capabilities of Large Language Models (LLMs). It provides a controlled environment to study how LLMs might acquire and exhibit deceptive behaviors as their agency increases, addressing critical safety risks.",
+            "benchmarks": "LieCraft itself is a framework and benchmark for evaluating deception. It provides a structured environment for testing LLM safety, which is crucial as LLMs are deployed in more autonomous and high-stakes scenarios.",
+            "use_case": "Indispensable for AI engineers focused on LLM safety, ethics, and trustworthiness. This framework allows for proactive identification and mitigation of potential deceptive behaviors, contributing to the development and deployment of more responsible and secure AI systems. It's a key tool for risk assessment and red-teaming LLMs.",
+            "url": "https://arxiv.org/abs/2603.06874"
         }
     ]
 }

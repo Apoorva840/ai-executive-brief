@@ -1,42 +1,42 @@
 [
   {
-    "title": "LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier",
-    "summary": "A research team from Meta FAIR and New York University trained a multimodal AI model from scratch and found that several common assumptions about how these models should be built don't hold up. The article LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier appeared first on The Decoder.",
-    "url": "https://the-decoder.com/llm-text-data-is-drying-up-but-meta-points-to-unlabeled-video-as-the-next-massive-training-frontier/",
-    "source": "The Decoder",
-    "published_at": "2026-03-08T14:21:54+00:00",
-    "score": 9
-  },
-  {
-    "title": "Luma AI's new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks",
-    "summary": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates. The article Luma AI&#039;s new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks appeared first on The Decoder.",
-    "url": "https://the-decoder.com/luma-ais-new-uni-1-image-model-tops-nano-banana-2-and-gpt-image-1-5-on-logic-based-benchmarks/",
-    "source": "The Decoder",
-    "published_at": "2026-03-08T17:08:52+00:00",
+    "title": "AI Steerability 360: A Toolkit for Steering Large Language Models",
+    "summary": "arXiv:2603.07837v1 Announce Type: cross Abstract: The AI Steerability 360 toolkit is an extensible, open-source Python library for steering LLMs. Steering abstractions are designed around four model control surfaces: input (modification of the prompt), structural (modification of the model's weights or architecture), state (modification of the mode",
+    "url": "https://arxiv.org/abs/2603.07837",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-10T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Omni-C: Compressing Heterogeneous Modalities into a Single Dense Encoder",
-    "summary": "arXiv:2603.05528v1 Announce Type: cross Abstract: Recent multimodal systems often rely on separate expert modality encoders which cause linearly scaling complexity and computational overhead with added modalities. While unified Omni-models address this via Mixture-of-Expert (MoE) architectures with specialized experts and routing, they still inflat",
-    "url": "https://arxiv.org/abs/2603.05528",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-09T04:00:00+00:00",
+    "title": "How NVIDIA Builds Open Data for AI",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-ai",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-03-10T19:49:28+00:00",
     "score": 7
   },
   {
-    "title": "Can AI Kill the Venture Capitalist?",
-    "summary": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
-    "url": "https://www.wired.com/story/ai-kill-venture-capital/",
-    "source": "Wired AI",
-    "published_at": "2026-03-09T09:00:00+00:00",
-    "score": 5
+    "title": "Investors bet $1 billion on Yann LeCun's vision for AI beyond LLMs",
+    "summary": "Yann LeCun, former chief AI scientist at Meta and Turing Award winner, has raised over $1 billion for his new startup Advanced Machine Intelligence Labs (AMI Labs) - making it Europe's largest seed funding round ever. The article Investors bet $1 billion on Yann LeCun&#039;s vision for AI beyond LLMs appeared first on The Decoder.",
+    "url": "https://the-decoder.com/investors-bet-1-billion-on-yann-lecuns-vision-for-ai-beyond-llms/",
+    "source": "The Decoder",
+    "published_at": "2026-03-10T10:47:48+00:00",
+    "score": 7
   },
   {
-    "title": "City Union Bank launches AI centre to support banking operations",
-    "summary": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to create a Centre of Excellence for Artificial Intelligence ",
-    "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
+    "title": "Amazon gets court order blocking Perplexity's AI shopping agent",
+    "summary": "Amazon stops Perplexity's shopping bot by court order: a ruling that could shape the future of AI agents in e-commerce. The article Amazon gets court order blocking Perplexity&#039;s AI shopping agent appeared first on The Decoder.",
+    "url": "https://the-decoder.com/amazon-gets-court-order-blocking-perplexitys-ai-shopping-agent/",
+    "source": "The Decoder",
+    "published_at": "2026-03-10T19:11:01+00:00",
+    "score": 6
+  },
+  {
+    "title": "ABB: Physical AI simulation boosts ROI for factory automation",
+    "summary": "A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles. Manufacturers have often found it difficult to make intelligent robotics work reliably outside testing environments. The core issue is the gap between digital training models and actual factory floors, where lighti",
+    "url": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
     "source": "AI News",
-    "published_at": "2026-03-09T10:00:00+00:00",
-    "score": 5
+    "published_at": "2026-03-10T17:22:41+00:00",
+    "score": 6
   }
 ]
