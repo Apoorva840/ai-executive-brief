@@ -1,137 +1,137 @@
 [
   {
-    "title": "LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models",
-    "summary": "arXiv:2603.06874v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit impressive general-purpose capabilities but also introduce serious safety risks, particularly the potential for deception as models acquire increased agency and human oversight diminishes. In this work, we present LieCraft: a novel evaluation framework and sandbox ",
-    "url": "https://arxiv.org/abs/2603.06874",
+    "title": "Are Expressive Encoders Necessary for Discrete Graph Generation?",
+    "summary": "arXiv:2603.08825v1 Announce Type: cross Abstract: Discrete graph generation has emerged as a powerful paradigm for modeling graph data, often relying on highly expressive neural backbones such as transformers or higher-order architectures. We revisit this design choice by introducing GenGNN, a modular message-passing framework for graph generation.",
+    "url": "https://arxiv.org/abs/2603.08825",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "published_at": "2026-03-11T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "AutoControl Arena: Synthesizing Executable Test Environments for Frontier AI Risk Evaluation",
-    "summary": "arXiv:2603.07427v1 Announce Type: new Abstract: As Large Language Models (LLMs) evolve into autonomous agents, existing safety evaluations face a fundamental trade-off: manual benchmarks are costly, while LLM-based simulators are scalable but suffer from logic hallucination. We present AutoControl Arena, an automated framework for frontier AI risk ",
-    "url": "https://arxiv.org/abs/2603.07427",
+    "title": "OPENXRD: A Comprehensive Benchmark Framework for LLM/MLLM XRD Question Answering",
+    "summary": "arXiv:2507.09155v2 Announce Type: replace-cross Abstract: We introduce OPENXRD, a comprehensive benchmarking framework for evaluating large language models (LLMs) and multimodal LLMs (MLLMs) in crystallography question answering. The framework measures context assimilation, or how models use fixed, domain-specific supporting information during infe",
+    "url": "https://arxiv.org/abs/2507.09155",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "published_at": "2026-03-11T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval",
-    "summary": "arXiv:2603.07997v1 Announce Type: new Abstract: Although large language models (LLMs) are introduced into vision-and-language navigation (VLN) to improve instruction comprehension and generalization, existing LLM- based VLN lacks the ability to selectively recall and use relevant priori experiences to help navigation tasks, limiting their performan",
-    "url": "https://arxiv.org/abs/2603.07997",
+    "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
+    "summary": "arXiv:2603.08835v1 Announce Type: new Abstract: The rapid adoption of LLM-based agentic systems has produced a rich ecosystem of frameworks (smolagents, LangGraph, AutoGen, CAMEL, LlamaIndex, i.a.). Yet existing benchmarks are model-centric: they fix the agentic setup and do not compare other system components. We argue that implementation decision",
+    "url": "https://arxiv.org/abs/2603.08835",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines",
-    "summary": "arXiv:2603.08704v1 Announce Type: new Abstract: Large language models are increasingly used for financial analysis and investment research, yet systematic evaluation of their financial reasoning capabilities remains limited. In this work, we introduce the AI Financial Intelligence Benchmark (AFIB), a multi-dimensional evaluation framework designed ",
-    "url": "https://arxiv.org/abs/2603.08704",
+    "title": "DataFactory: Collaborative Multi-Agent Framework for Advanced Table Question Answering",
+    "summary": "arXiv:2603.09152v1 Announce Type: new Abstract: Table Question Answering (TableQA) enables natural language interaction with structured tabular data. However, existing large language model (LLM) approaches face critical limitations: context length constraints that restrict data handling capabilities, hallucination issues that compromise answer reli",
+    "url": "https://arxiv.org/abs/2603.09152",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "Isotonic Layer: A Universal Framework for Generic Recommendation Debiasing",
-    "summary": "arXiv:2603.06589v1 Announce Type: cross Abstract: Model calibration and debiasing are fundamental to the reliability and fairness of large scale recommendation systems. We introduce the Isotonic Layer, a novel, differentiable framework that integrates piecewise linear fitting directly into neural architectures. By partitioning the feature space int",
-    "url": "https://arxiv.org/abs/2603.06589",
+    "title": "Real-Time Trust Verification for Safe Agentic Actions using TrustBench",
+    "summary": "arXiv:2603.09157v1 Announce Type: new Abstract: As large language models evolve from conversational assistants to autonomous agents, ensuring trustworthiness requires a fundamental shift from post-hoc evaluation to real-time action verification. Current frameworks like AgentBench evaluate task completion, while TrustLLM and HELM assess output quali",
+    "url": "https://arxiv.org/abs/2603.09157",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "Building the ethical AI framework of the future: from philosophy to practice",
-    "summary": "arXiv:2603.06599v1 Announce Type: cross Abstract: Artificial intelligence pipelines -- spanning data collection, model training, deployment, and post-deployment monitoring -- concentrate ethical risks that intensify with multimodal and agentic systems. Existing governance instruments, including the EU AI Act, the IEEE 7000 series, and the NIST AI R",
-    "url": "https://arxiv.org/abs/2603.06599",
+    "title": "GenePlan: Evolving Better Generalized PDDL Plans using Large Language Models",
+    "summary": "arXiv:2603.09481v1 Announce Type: new Abstract: We present GenePlan (GENeralized Evolutionary Planner), a novel framework that leverages large language model (LLM) assisted evolutionary algorithms to generate domain-dependent generalized planners for classical planning tasks described in PDDL. By casting generalized planning as an optimization prob",
+    "url": "https://arxiv.org/abs/2603.09481",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "SR-TTT: Surprisal-Aware Residual Test-Time Training",
-    "summary": "arXiv:2603.06642v1 Announce Type: cross Abstract: Test-Time Training (TTT) language models achieve theoretically infinite context windows with an O(1) memory footprint by replacing the standard exact-attention KV-cache with hidden state ``fast weights'' W_fast updated via self-supervised learning during inference. However, pure TTT architectures su",
-    "url": "https://arxiv.org/abs/2603.06642",
+    "title": "OOD-MMSafe: Advancing MLLM Safety from Harmful Intent to Hidden Consequences",
+    "summary": "arXiv:2603.09706v1 Announce Type: new Abstract: While safety alignment for Multimodal Large Language Models (MLLMs) has gained significant attention, current paradigms primarily target malicious intent or situational violations. We propose shifting the safety frontier toward consequence-driven safety, a paradigm essential for the robust deployment ",
+    "url": "https://arxiv.org/abs/2603.09706",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "ObjChangeVR: Object State Change Reasoning from Continuous Egocentric Views in VR Environments",
-    "summary": "arXiv:2603.06648v1 Announce Type: cross Abstract: Recent advances in multimodal large language models (MLLMs) offer a promising approach for natural language-based scene change queries in virtual reality (VR). Prior work on applying MLLMs for object state understanding has focused on egocentric videos that capture the camera wearer's interactions w",
-    "url": "https://arxiv.org/abs/2603.06648",
+    "title": "Does the Question Really Matter? Training-Free Data Selection for Vision-Language SFT",
+    "summary": "arXiv:2603.09715v1 Announce Type: new Abstract: Visual instruction tuning is crucial for improving vision-language large models (VLLMs). However, many samples can be solved via linguistic patterns or common-sense shortcuts, without genuine cross-modal reasoning, limiting the effectiveness of multimodal learning. Prior data selection methods often r",
+    "url": "https://arxiv.org/abs/2603.09715",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "PaLMR: Towards Faithful Visual Reasoning via Multimodal Process Alignment",
-    "summary": "arXiv:2603.06652v1 Announce Type: cross Abstract: Reinforcement learning has recently improved the reasoning ability of Large Language Models and Multimodal LLMs, yet prevailing reward designs emphasise final-answer correctness and consequently tolerate process hallucinations--cases where models reach the right answer while misperceiving visual evi",
-    "url": "https://arxiv.org/abs/2603.06652",
+    "title": "Arbiter: Detecting Interference in LLM Agent System Prompts",
+    "summary": "arXiv:2603.08993v1 Announce Type: cross Abstract: System prompts for LLM-based coding agents are software artifacts that govern agent behavior, yet lack the testing infrastructure applied to conventional software. We present Arbiter, a framework combining formal evaluation rules with multi-model LLM scouring to detect interference patterns in syste",
+    "url": "https://arxiv.org/abs/2603.08993",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice",
-    "summary": "arXiv:2603.07191v1 Announce Type: cross Abstract: Autonomous agents powered by large language models introduce a class of execution-layer vulnerabilities -- prompt injection, retrieval poisoning, and uncontrolled tool invocation -- that existing guardrails fail to address systematically. In this work, we propose the Layered Governance Architecture ",
-    "url": "https://arxiv.org/abs/2603.07191",
+    "title": "Reviving ConvNeXt for Efficient Convolutional Diffusion Models",
+    "summary": "arXiv:2603.09408v1 Announce Type: cross Abstract: Recent diffusion models increasingly favor Transformer backbones, motivated by the remarkable scalability of fully attentional architectures. Yet the locality bias, parameter efficiency, and hardware friendliness--the attributes that established ConvNets as the efficient vision backbone--have seen l",
+    "url": "https://arxiv.org/abs/2603.09408",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "OrthoFormer: Instrumental Variable Estimation in Transformer Hidden States via Neural Control Functions",
-    "summary": "arXiv:2603.07431v1 Announce Type: cross Abstract: Transformer architectures excel at sequential modeling yet remain fundamentally limited by correlational learning - they capture spurious associations induced by latent confounders rather than invariant causal mechanisms. We identify this as an epistemological challenge: standard Transformers confla",
-    "url": "https://arxiv.org/abs/2603.07431",
+    "title": "Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers",
+    "summary": "arXiv:2603.09453v1 Announce Type: cross Abstract: Foundation models are increasingly being deployed in contexts where understanding the uncertainty of their outputs is critical to ensuring responsible deployment. While Bayesian methods offer a principled approach to uncertainty quantification, their computational overhead renders their use impracti",
+    "url": "https://arxiv.org/abs/2603.09453",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "Where Do LLM-based Systems Break? A System-Level Security Framework for Risk Assessment and Treatment",
-    "summary": "arXiv:2603.07460v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly integrated into safety-critical workflows, yet existing security analyses remain fragmented and often isolate model behavior from the broader system context. This work introduces a goal-driven risk assessment framework for LLM-powered systems that combin",
-    "url": "https://arxiv.org/abs/2603.07460",
+    "title": "EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning",
+    "summary": "arXiv:2603.09731v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) are increasingly considered as a foundation for embodied agents, yet it remains unclear whether they can reliably reason about the long-term physical consequences of actions from an egocentric viewpoint. We study this gap through a new task, Egocentric Scene ",
+    "url": "https://arxiv.org/abs/2603.09731",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "The Dual-Stream Transformer: Channelized Architecture for Interpretable Language Modeling",
-    "summary": "arXiv:2603.07461v1 Announce Type: cross Abstract: Standard transformers entangle all computation in a single residual stream, obscuring which components perform which functions. We introduce the Dual-Stream Transformer, which decomposes the residual stream into two functionally distinct components: a token stream updated by attention and a context ",
-    "url": "https://arxiv.org/abs/2603.07461",
+    "title": "Correction of Transformer-Based Models with Smoothing Pseudo-Projector",
+    "summary": "arXiv:2603.09815v1 Announce Type: cross Abstract: The pseudo-projector is a lightweight modification that can be integrated into existing language models and other neural networks without altering their core architecture. It can be viewed as a hidden-representation corrector that reduces sensitivity to noise by suppressing directions induced by lab",
+    "url": "https://arxiv.org/abs/2603.09815",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "SketchGraphNet: A Memory-Efficient Hybrid Graph Transformer for Large-Scale Sketch Corpora Recognition",
-    "summary": "arXiv:2603.07521v1 Announce Type: cross Abstract: This work investigates large-scale sketch recognition from a graph-native perspective, where free-hand sketches are directly modeled as structured graphs rather than raster images or stroke sequences. We propose SketchGraphNet, a hybrid graph neural architecture that integrates local message passing",
-    "url": "https://arxiv.org/abs/2603.07521",
+    "title": "Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities",
+    "summary": "arXiv:2505.17862v2 Announce Type: replace Abstract: Recent Multimodal Large Language Models (MLLMs) achieve promising performance on visual and audio benchmarks independently. However, the ability of these models to process cross-modal information synchronously remains largely unexplored. We introduce Daily-Omni, a multiple-choice Audio-Visual QA b",
+    "url": "https://arxiv.org/abs/2505.17862",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   },
   {
-    "title": "DistillGuard: Evaluating Defenses Against LLM Knowledge Distillation",
-    "summary": "arXiv:2603.07835v1 Announce Type: cross Abstract: Knowledge distillation from proprietary LLM APIs poses a growing threat to model providers, yet defenses against this attack remain fragmented and unevaluated. We present DistillGuard, a framework for systematically evaluating output-level defenses against LLM knowledge distillation. We introduce a ",
-    "url": "https://arxiv.org/abs/2603.07835",
+    "title": "MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs",
+    "summary": "arXiv:2507.20804v2 Announce Type: replace Abstract: Large Language Models (LLMs) often suffer from hallucinations, which Retrieval-Augmented Generation (RAG) and GraphRAG mitigate by incorporating external knowledge and knowledge graphs (KGs). However, GraphRAG remains text-centric due to the difficulty of constructing fine-grained Multimodal KGs (",
+    "url": "https://arxiv.org/abs/2507.20804",
     "source": "Arxiv AI",
-    "published_at": "2026-03-10T04:00:00+00:00",
+    "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-11T03:15:43.989475+00:00"
+    "archived_at": "2026-03-11T11:50:35.586098+00:00"
   }
 ]

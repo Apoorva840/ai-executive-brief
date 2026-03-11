@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-03-22",
+    "last_updated": "Today's Date",
     "papers": [
         {
-            "title": "Making AI Evaluation Deployment Relevant Through Context Specification",
-            "innovation": "Proposes 'Context Specification' to bridge the gap between academic AI evaluation metrics and the operational realities that determine deployment success. It emphasizes defining the real-world context for evaluation, allowing decision-makers beyond technical experts to understand and value AI deployments more accurately.",
-            "benchmarks": "Focuses on a methodology for improving evaluation, rather than introducing new benchmarks. The innovation is in how existing or future evaluations are framed and specified to be deployment-relevant, ensuring operational realities are considered.",
-            "use_case": "Essential for MLOps, responsible AI, and any organization struggling to gain tangible value from AI deployments. Helps AI engineers and stakeholders design more relevant evaluations, reduce misaligned expectations, and ensure AI systems are truly fit for purpose in complex operational environments.",
-            "url": "https://arxiv.org/abs/2603.06811"
+            "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
+            "innovation": "Presents a controlled measurement study to quantify the impact of agentic RAG design decisions (search depth, retrieval strategy, completion token limits) on accuracy and cost under explicit budget constraints. This provides empirical evidence for crucial trade-offs in real-world deployments.",
+            "benchmarks": "Focuses on quantifying the accuracy and cost impact of design decisions in agentic RAG systems, providing a framework for benchmarking specific design choices under budget constraints.",
+            "use_case": "Optimizing agentic Retrieval-Augmented Generation (RAG) systems for deployment in production environments where computational budgets (e.g., API calls, token usage) are strict. Essential for engineers to make data-driven decisions on system configuration for efficiency and performance.",
+            "url": "https://arxiv.org/abs/2603.08877"
         },
         {
-            "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
-            "innovation": "Identifies and addresses the 'no-recovery bottleneck' in Large Language Model (LLM) long-horizon execution. While decomposition is critical for complex tasks, extreme decomposition can create points where failure at one step makes recovery impossible. The paper proposes strategies to mitigate this, improving overall stability and success rate.",
-            "benchmarks": "Evaluates on 'controlled algorithmic puzzles' to demonstrate the identified bottleneck and the effectiveness of the proposed solutions in improving long-horizon reasoning stability for LLMs.",
-            "use_case": "Highly relevant for AI engineers building complex LLM agents, workflow automation, or any application requiring LLMs to perform multi-step, long-horizon tasks. It provides insights and methods to make these systems more robust and less prone to cascading failures, thereby enhancing reliability in practical applications.",
-            "url": "https://arxiv.org/abs/2603.06870"
+            "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
+            "innovation": "Proposes a fundamental shift in evaluation methodologies for multi-agent LLM systems, moving from model-centric benchmarks to a comprehensive system-centric approach. This framework considers the performance of the entire agentic setup, including frameworks and other system components, not just the base LLM.",
+            "benchmarks": "Criticizes existing 'model-centric' benchmarks and advocates for the development of new, holistic benchmarks that encompass all system components within multi-agent LLM setups.",
+            "use_case": "Provides a conceptual framework and strong argument for AI engineers to conduct more thorough and realistic evaluations of multi-agent LLM systems. This is critical for building robust, reliable, and performant systems by understanding the true impact of architectural and component choices.",
+            "url": "https://arxiv.org/abs/2603.08835"
         },
         {
-            "title": "LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models",
-            "innovation": "Introduces LieCraft, a novel multi-agent evaluation framework and sandbox specifically designed to assess the deceptive capabilities of Large Language Models (LLMs). It provides a controlled environment to study how LLMs might acquire and exhibit deceptive behaviors as their agency increases, addressing critical safety risks.",
-            "benchmarks": "LieCraft itself is a framework and benchmark for evaluating deception. It provides a structured environment for testing LLM safety, which is crucial as LLMs are deployed in more autonomous and high-stakes scenarios.",
-            "use_case": "Indispensable for AI engineers focused on LLM safety, ethics, and trustworthiness. This framework allows for proactive identification and mitigation of potential deceptive behaviors, contributing to the development and deployment of more responsible and secure AI systems. It's a key tool for risk assessment and red-teaming LLMs.",
-            "url": "https://arxiv.org/abs/2603.06874"
+            "title": "MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games",
+            "innovation": "Introduces MEMO, a memory-augmented model context optimization technique that significantly reduces run-to-run variance in multi-turn, multi-agent LLM game evaluations. This improves the reliability of win rate estimates and rankings, addressing a key challenge in evaluating complex agent interactions.",
+            "benchmarks": "Directly addresses and aims to improve the robustness and reliability of win rate estimates and rankings across repeated tournaments in multi-turn, multi-agent LLM game evaluations.",
+            "use_case": "Essential for AI engineers who are developing, iterating on, and comparing multi-agent LLM systems, particularly in long-horizon interaction or competitive scenarios. Enables more trustworthy performance metrics, leading to more reliable experimentation and faster development cycles.",
+            "url": "https://arxiv.org/abs/2603.09022"
         }
     ]
 }

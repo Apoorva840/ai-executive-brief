@@ -3,22 +3,22 @@
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Diffusion Game Engines",
-            "definition": "Unlike traditional software that renders 3D geometry via code, Diffusion Game Engines generate video frames in real-time using generative models to 'predict' the next state of a world. These engines utilize world models to allow for infinite, editable environments where the physics and visuals are learned from data rather than pre-programmed by developers.",
-            "analogy": "A traditional engine is like a restaurant with a fixed menu of pre-cooked meals. A diffusion engine is like a master chef who observes your cravings and instantly creates a brand-new dish from scratch as you speak, morphing the flavors in real-time.",
-            "business_value": "This technology eliminates the 'Content Bottleneck' by allowing companies to generate hyper-realistic, interactive training simulations or consumer experiences without the massive overhead of 3D asset creation and manual coding."
+            "term": "Multi-Agent Systems (MAS) Architecture",
+            "definition": "MAS represents a shift from monolithic AI models to a decentralized network of specialized LLM 'agents' that collaborate through structured communication protocols. These systems use frameworks like LangGraph or AutoGen to orchestrate complex workflows, where individual agents are assigned distinct roles, reasoning profiles, and identities to solve multifaceted problems.",
+            "analogy": "Think of a professional kitchen: instead of one 'Super Chef' trying to cook a 50-item banquet alone, MAS is a coordinated brigade where a Sous Chef, a Pastry Chef, and a Saucier use a shared ticket system to deliver a synchronized meal.",
+            "business_value": "MAS allows enterprises to move beyond simple chatbots toward 'Autonomous Departments.' By delegating tasks between specialized agents, CEOs can scale complex operations like software engineering or financial auditing with higher reliability and lower error rates than single-model solutions."
         },
         {
-            "term": "The Martingale Curse (in Multi-Agent Debate)",
-            "definition": "This refers to a limitation in AI reasoning where multiple agents debating a topic cannot exceed the accuracy of a simple majority vote because their errors are statistically correlated. To 'break' the curse, researchers use Asymmetric Cognitive Potential Energy to force diverse reasoning paths, preventing the models from converging on the same incorrect conclusion.",
-            "analogy": "If you have four GPS units using the same outdated map, having them 'debate' the route won't help you find the new highway. Breaking the curse is like giving one GPS a satellite view and another a local traffic report to ensure the final route is based on distinct, high-value data points.",
-            "business_value": "For the C-Suite, this means AI decision-support systems can move beyond 'average' consensus and provide high-conviction, non-obvious strategic insights that avoid the trap of algorithmic groupthink."
+            "term": "Agentic Retrieval-Augmented Generation (Agentic RAG)",
+            "definition": "Agentic RAG evolves standard data retrieval by adding a reasoning loop that iteratively searches, evaluates the relevance of found data, and refines queries until a specific objective is met. It manages the trade-off between 'search depth' and 'token budget,' ensuring the AI doesn't just find information, but critically assesses its quality before generating a response.",
+            "analogy": "A standard RAG is like a driver using a paper map to find a destination; Agentic RAG is a high-end self-driving system that constantly scans road conditions, checks multiple GPS sources, and reroutes itself in real-time if it detects the data is leading to a dead end.",
+            "business_value": "This significantly reduces 'hallucination risk' in high-stakes environments like legal or medical research. For the bottom line, it optimizes cloud compute costs by stopping the search once the 'good enough' confidence threshold is reached, preventing expensive over-processing."
         },
         {
-            "term": "Inference-Time Alignment",
-            "definition": "This is a steering technique that optimizes AI outputs during the generation process rather than during the initial training phase. By generating multiple candidate responses and using a reward model to select the 'Best-of-N' (or 'Best-of-Tails'), the system can ensure high-quality, safe, and brand-compliant results without the cost of retraining the entire model.",
-            "analogy": "Instead of trying to train a chef to never make a single mistake (Training), you have the chef cook five slightly different versions of the same steak and have a head taster pick the one that is perfectly medium-rare before it is ever served to the customer.",
-            "business_value": "This offers 'Agile Compliance,' allowing organizations to instantly adjust the safety, tone, and accuracy of their AI deployments at the point of delivery, significantly reducing the risk of brand damage from hallucinations or 'corporate-speak' errors."
+            "term": "Visual Positioning System (VPS)",
+            "definition": "VPS is a spatial intelligence technology that provides centimeter-level localization by comparing visual 'keypoints' from a camera feed against a pre-mapped 3D environment. Unlike GPS, which can be off by meters, VPS uses computer vision to understand a device's exact orientation and location relative to physical objects in its immediate surroundings.",
+            "analogy": "Standard GPS tells your car it is 'somewhere on 5th Avenue'; VPS is the equivalent of the car recognizing the specific texture of the brickwork and the exact position of the curb to park with inch-perfect precision.",
+            "business_value": "VPS is the 'Last Yard' solution for the physical economy. It unlocks the viability of autonomous last-mile delivery robots and precision AR-assisted manufacturing, where traditional navigation is too blunt a tool to operate safely in crowded or complex human environments."
         }
     ]
 }
