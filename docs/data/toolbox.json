@@ -1,0 +1,26 @@
+{
+    "last_updated": "March 11, 2026",
+    "tools": [
+        {
+            "Name": "Hermes Agent",
+            "Category": "AI Agent Framework",
+            "Description": "A self-improving, multi-platform AI agent capable of autonomous skill creation, long-term memory, and cross-session learning.",
+            "Use_Case": "Developing flexible AI assistants that persist across different messaging platforms and environments (VPS, serverless, local).",
+            "URL": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+            "Name": "Crawlee for Python",
+            "Category": "Web Scraping / Automation",
+            "Description": "A robust web scraping and browser automation library designed to build reliable, high-performance crawlers for AI and RAG applications.",
+            "Use_Case": "Automated data extraction from websites for RAG pipelines, LLM training, or AI data ingestion.",
+            "URL": "https://github.com/apify/crawlee-python"
+        },
+        {
+            "Name": "Sirchmunk",
+            "Category": "AI-Powered Search / Indexing",
+            "Description": "An indexless, real-time search engine that works directly on raw data to generate self-evolving knowledge clusters.",
+            "Use_Case": "Enabling intelligent, real-time knowledge retrieval across vast local document repositories without the overhead of traditional vector databases.",
+            "URL": "https://github.com/modelscope/sirchmunk"
+        }
+    ]
+}

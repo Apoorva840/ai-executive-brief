@@ -5,8 +5,8 @@ from pathlib import Path
 
 def fetch_github_trending():
     print("🌐 Fetching Trending GitHub Repositories (Python/AI)...")
-    # Using a reliable RSS feed for trending Python projects
-    URL = "https://github-rss.alexi.sh/trending/daily/python"
+    # Updated to a more stable 2026 RSS provider
+    URL = "https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml"
     
     try:
         feed = feedparser.parse(URL)
@@ -20,11 +20,13 @@ def fetch_github_trending():
                 "summary": entry.description
             })
         
-        # Ensure the 'data' directory exists
+        if not repos:
+            print("⚠️ RSS feed was empty. Check if the URL is still active.")
+            return False
+
         data_dir = Path("data")
         data_dir.mkdir(exist_ok=True)
         
-        # Save to the exact path expected by process_toolbox.py
         output_path = data_dir / "raw_github_trending.json"
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(repos, f, indent=4)

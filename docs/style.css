@@ -338,3 +338,67 @@ footer {
     border-radius: 12px;
     margin-left: 10px;
 }
+
+/* Add to your existing style.css */
+
+.section-divider {
+    border: 0;
+    height: 1px;
+    background: #e5e7eb;
+    margin: 40px 0;
+}
+
+/* Jargon Card Enhancements */
+.jargon-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+.jargon-card h4 {
+    margin-top: 0;
+    color: #7c3aed; /* Purple Theme for Jargon */
+    font-size: 1.2rem;
+    border-bottom: 2px solid #f5f3ff;
+    padding-bottom: 10px;
+}
+
+.jargon-def {
+    font-size: 0.95rem;
+    color: #374151;
+    margin-bottom: 15px;
+}
+
+.jargon-meta-box {
+    background: #f9fafb;
+    padding: 15px;
+    border-radius: 8px;
+    border-left: 3px solid #8b5cf6;
+}
+
+.jargon-analogy {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: #6b7280;
+    margin: 0 0 8px 0;
+}
+
+.jargon-biz {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #1e1b4b;
+    margin: 0;
+}
+
+/* Update Toolbox for consistency */
+#ai-toolbox {
+    border-top: 6px solid #10b981;
+}
+
+.tool-usage {
+    background: #f0fdf4;
+    border: 1px solid #d1fae5;
+    color: #065f46;
+}
