@@ -146,7 +146,7 @@ def send_email():
     toolbox_data = safe_load(TOOLBOX_INPUT)
 
     recipients = [e.strip() for e in EMAIL_TO.split(",")]
-    subject = f"AI Daily & Jargon Decoder: {brief_data.get('date', datetime.now().strftime('%B %d, %Y'))}"
+    subject = f"TINKIT : AI Daily & Jargon Decoder: {brief_data.get('date', datetime.now().strftime('%B %d, %Y'))}"
     html_content = build_html_body(brief_data, jargon_data, lab_data, toolbox_data)
 
     msg = MIMEMultipart("alternative")
