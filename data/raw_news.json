@@ -1,10 +1,45 @@
 [
   {
-    "title": "How Pok\u00e9mon Go is giving delivery robots an inch-perfect view of the world",
-    "summary": "Pok\u00e9mon Go was the world\u2019s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pok\u00e9mon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squirtle or (with a huge amount&#8230;",
-    "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+    "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
+    "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a&#8230;",
+    "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
     "source": "MIT Technology Review AI",
-    "published_at": "2026-03-10T13:47:26+00:00"
+    "published_at": "2026-03-11T12:46:21+00:00"
+  },
+  {
+    "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI \u2018Expert Review\u2019 Feature",
+    "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics\u2014without their consent.",
+    "url": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+    "source": "Wired AI",
+    "published_at": "2026-03-11T20:45:03+00:00"
+  },
+  {
+    "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+    "summary": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+    "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+    "source": "Wired AI",
+    "published_at": "2026-03-11T18:00:00+00:00"
+  },
+  {
+    "title": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
+    "summary": "The MTIA processors are the tech giant\u2019s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+    "url": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
+    "source": "Wired AI",
+    "published_at": "2026-03-11T14:23:05+00:00"
+  },
+  {
+    "title": "This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
+    "summary": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
+    "url": "https://www.wired.com/story/looking-glass-musubi/",
+    "source": "Wired AI",
+    "published_at": "2026-03-11T13:00:00+00:00"
+  },
+  {
+    "title": "Nick Clegg Doesn\u2019t Want to Talk About Superintelligence",
+    "summary": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
+    "url": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/",
+    "source": "Wired AI",
+    "published_at": "2026-03-11T12:00:00+00:00"
   },
   {
     "title": "Teens Are Using AI-Fueled \u2018Slander Pages\u2019 to Mock Their Teachers",
@@ -14,39 +49,11 @@
     "published_at": "2026-03-11T11:00:00+00:00"
   },
   {
-    "title": "Nick Clegg Doesn\u2019t Want to Talk About Superintelligence",
-    "summary": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
-    "url": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/",
-    "source": "Wired AI",
-    "published_at": "2026-03-11T10:21:42+00:00"
-  },
-  {
     "title": "Inside OpenAI\u2019s Race to Catch Up to Claude Code",
     "summary": "Why is the biggest name in AI late to the AI coding revolution?",
     "url": "https://www.wired.com/story/openai-codex-race-claude-code/",
     "source": "Wired AI",
     "published_at": "2026-03-11T10:00:00+00:00"
-  },
-  {
-    "title": "Trump Administration Won\u2019t Rule Out Further Action Against Anthropic",
-    "summary": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
-    "url": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
-    "source": "Wired AI",
-    "published_at": "2026-03-11T01:41:42+00:00"
-  },
-  {
-    "title": "Fake AI Content About the Iran War Is All Over X",
-    "summary": "X\u2019s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.",
-    "url": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/",
-    "source": "Wired AI",
-    "published_at": "2026-03-10T16:45:47+00:00"
-  },
-  {
-    "title": "I Used Google\u2019s New Gemini-Powered \u2018Help Me Create\u2019 Tool in Docs. It\u2019s Great at Corporate-Speak",
-    "summary": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
-    "url": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
-    "source": "Wired AI",
-    "published_at": "2026-03-10T13:00:00+00:00"
   },
   {
     "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
@@ -2086,18 +2093,60 @@
     "published_at": "2026-03-11T04:00:00+00:00"
   },
   {
-    "title": "From raw interaction to reusable knowledge: Rethinking memory for AI agents",
-    "summary": "It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficult to use. More memory means that agents must search through larger volumes of past interactions to find information relevant to the current task. Without",
-    "url": "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
-    "source": "Microsoft Research",
-    "published_at": "2026-03-10T16:00:41+00:00"
+    "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-03-11T15:50:15+00:00"
   },
   {
-    "title": "How NVIDIA Builds Open Data for AI",
-    "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/open-data-for-ai",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-03-10T19:49:28+00:00"
+    "title": "Google unifies text, image, video, and audio in a single vector space with Gemini Embedding 2",
+    "summary": "Google's first native multimodal embedding model brings text, images, video, audio, and documents into one vector space, cutting out the need for separate models in AI pipelines. The article Google unifies text, image, video, and audio in a single vector space with Gemini Embedding 2 appeared first on The Decoder.",
+    "url": "https://the-decoder.com/google-unifies-text-image-video-and-audio-in-a-single-vector-space-with-gemini-embedding-2/",
+    "source": "The Decoder",
+    "published_at": "2026-03-11T18:41:30+00:00"
+  },
+  {
+    "title": "Half of AI-written code that passes industry test would get rejected by real developers, new study finds",
+    "summary": "About half of the AI code solutions that pass the popular SWE-bench benchmark would get rejected by actual project maintainers, according to a new study by the research organization METR. The article Half of AI-written code that passes industry test would get rejected by real developers, new study finds appeared first on The Decoder.",
+    "url": "https://the-decoder.com/half-of-ai-written-code-that-passes-industry-test-would-get-rejected-by-real-developers-new-study-finds/",
+    "source": "The Decoder",
+    "published_at": "2026-03-11T17:49:58+00:00"
+  },
+  {
+    "title": "Claude's Excel and PowerPoint add-ins now share context across apps",
+    "summary": "Anthropic is updating its Claude add-ins for Excel and PowerPoint with shared context, reusable workflows, and broader cloud support. The article Claude&#039;s Excel and PowerPoint add-ins now share context across apps appeared first on The Decoder.",
+    "url": "https://the-decoder.com/claudes-excel-and-powerpoint-add-ins-now-share-context-across-apps/",
+    "source": "The Decoder",
+    "published_at": "2026-03-11T17:00:59+00:00"
+  },
+  {
+    "title": "Grammarly's AI writing tips claim inspiration from experts who never agreed to participate",
+    "summary": "Grammarly is apparently using the names of journalists and authors without permission for an AI feature called \"Expert Review.\" The article Grammarly&#039;s AI writing tips claim inspiration from experts who never agreed to participate appeared first on The Decoder.",
+    "url": "https://the-decoder.com/grammarlys-ai-writing-tips-claim-inspiration-from-experts-who-never-agreed-to-participate/",
+    "source": "The Decoder",
+    "published_at": "2026-03-11T16:40:01+00:00"
+  },
+  {
+    "title": "OpenAI's new training dataset teaches AI models which instructions to trust",
+    "summary": "OpenAI has released IH-Challenge, a training dataset designed to teach AI models to reliably prioritize trusted instructions over untrusted ones. Early results show significant improvements in both security and prompt injection defense. The article OpenAI&#039;s new training dataset teaches AI models which instructions to trust appeared first on Th",
+    "url": "https://the-decoder.com/openais-new-training-dataset-teaches-ai-models-which-instructions-to-trust/",
+    "source": "The Decoder",
+    "published_at": "2026-03-11T15:31:28+00:00"
+  },
+  {
+    "title": "Anthropic launches internal think tank to study AI's impact on society and security",
+    "summary": "Anthropic has launched the \"Anthropic Institute,\" an internal think tank dedicated to studying how powerful AI affects society, the economy, and security. The article Anthropic launches internal think tank to study AI&#039;s impact on society and security appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-launches-internal-think-tank-to-study-ais-impact-on-society-and-security/",
+    "source": "The Decoder",
+    "published_at": "2026-03-11T15:26:15+00:00"
+  },
+  {
+    "title": "An AI agent hacked McKinsey's internal AI platform in two hours using a decades-old technique",
+    "summary": "Security firm Codewall turned an offensive AI agent loose on McKinsey's internal AI platform Lilli, a system used by over 43,000 employees for strategy work, client research, and document analysis. No credentials, no insider knowledge, no human assistance. Within two hours, the agent had full read and write access to the production database. The ar",
+    "url": "https://the-decoder.com/an-ai-agent-hacked-mckinseys-internal-ai-platform-in-two-hours-using-a-decades-old-technique/",
+    "source": "The Decoder",
+    "published_at": "2026-03-11T15:21:29+00:00"
   },
   {
     "title": "Microsoft and rival AI researchers unite to back Anthropic in its escalating legal battle against the Pentagon",
@@ -2107,60 +2156,18 @@
     "published_at": "2026-03-11T11:43:15+00:00"
   },
   {
-    "title": "Amazon gets court order blocking Perplexity's AI shopping agent",
-    "summary": "Amazon stops Perplexity's shopping bot by court order: a ruling that could shape the future of AI agents in e-commerce. The article Amazon gets court order blocking Perplexity&#039;s AI shopping agent appeared first on The Decoder.",
-    "url": "https://the-decoder.com/amazon-gets-court-order-blocking-perplexitys-ai-shopping-agent/",
-    "source": "The Decoder",
-    "published_at": "2026-03-10T19:11:01+00:00"
+    "title": "Ai2: Building physical AI with virtual simulation data",
+    "summary": "Virtual simulation data is driving the development of physical AI across corporate environments, led by initiatives like Ai2\u2019s MolmoBot. Instructing hardware to interact with the real world has historically relied on highly expensive and manually-collected demonstrations. Technology providers building generalist manipulation agents typically frame ",
+    "url": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+    "source": "AI News",
+    "published_at": "2026-03-11T16:50:56+00:00"
   },
   {
-    "title": "ChatGPT now explains math and physics with interactive visualizations",
-    "summary": "ChatGPT now displays interactive visualizations for math and physics topics where users can tweak variables and watch graphs update in real time. More than 70 concepts are available at launch. The article ChatGPT now explains math and physics with interactive visualizations appeared first on The Decoder.",
-    "url": "https://the-decoder.com/chatgpt-now-explains-math-and-physics-with-interactive-visualizations/",
-    "source": "The Decoder",
-    "published_at": "2026-03-10T18:05:07+00:00"
-  },
-  {
-    "title": "German court says \"It's AI\" isn't enough to void copyright",
-    "summary": "A German regional court has ruled that song lyrics written by a human are still protected by copyright, even if the music was made with AI tools like SunoAI. Simply claiming a work is AI-generated isn't enough to strip that protection, you need proof. The article German court says &quot;It&#039;s AI&quot; isn&#039;t enough to void copyright appeare",
-    "url": "https://the-decoder.com/german-court-says-its-ai-isnt-enough-to-void-copyright/",
-    "source": "The Decoder",
-    "published_at": "2026-03-10T17:12:57+00:00"
-  },
-  {
-    "title": "Amazon makes senior engineers the human filter for AI-generated code after a series of outages",
-    "summary": "Following a series of allegedly AI-caused outages, Amazon is turning its senior engineers into human filters for AI-generated code. The article Amazon makes senior engineers the human filter for AI-generated code after a series of outages appeared first on The Decoder.",
-    "url": "https://the-decoder.com/amazon-makes-senior-engineers-the-human-filter-for-ai-generated-code-after-a-series-of-outages/",
-    "source": "The Decoder",
-    "published_at": "2026-03-10T16:10:12+00:00"
-  },
-  {
-    "title": "Nvidia and Mira Murati's Thinking Machines Lab announce long-term AI partnership",
-    "summary": "Nvidia and Thinking Machines Lab, the AI startup founded by former OpenAI executive Mira Murati, are entering a long-term partnership. The article Nvidia and Mira Murati&#039;s Thinking Machines Lab announce long-term AI partnership appeared first on The Decoder.",
-    "url": "https://the-decoder.com/nvidia-and-mira-muratis-thinking-machines-lab-announce-long-term-ai-partnership/",
-    "source": "The Decoder",
-    "published_at": "2026-03-10T15:14:17+00:00"
-  },
-  {
-    "title": "Meta acquires Moltbook, the Reddit-style platform built for AI agents",
-    "summary": "Meta has acquired Moltbook, a platform designed as a kind of Reddit specifically for AI agents. The article Meta acquires Moltbook, the Reddit-style platform built for AI agents appeared first on The Decoder.",
-    "url": "https://the-decoder.com/meta-acquires-moltbook-the-reddit-style-platform-built-for-ai-agents/",
-    "source": "The Decoder",
-    "published_at": "2026-03-10T14:25:41+00:00"
-  },
-  {
-    "title": "Startup claims first full brain emulation of a fruit fly in a simulated body",
-    "summary": "Eon Systems says it has connected a complete fruit fly brain emulation to a virtual body, producing multiple behaviors for the first time. The emulation covers over 125,000 neurons and 50 million synapses. The article Startup claims first full brain emulation of a fruit fly in a simulated body appeared first on The Decoder.",
-    "url": "https://the-decoder.com/startup-claims-first-full-brain-emulation-of-a-fruit-fly-in-a-simulated-body/",
-    "source": "The Decoder",
-    "published_at": "2026-03-10T13:56:10+00:00"
-  },
-  {
-    "title": "Philosopher David Chalmers: Current AI interpretability methods miss what matters most",
-    "summary": "Philosopher David J. Chalmers proposes interpreting AI systems through their attitudes toward propositions - much like we interpret humans. His concept of \"propositional interpretability\" aims to put mechanistic AI explanation on new footing, drawing on philosophical theories of human understanding. The article Philosopher David Chalmers: Current A",
-    "url": "https://the-decoder.com/philosopher-david-chalmers-current-ai-interpretability-methods-miss-what-matters-most/",
-    "source": "The Decoder",
-    "published_at": "2026-03-10T12:03:41+00:00"
+    "title": "New partnership to offer smart robots for dangerous environments",
+    "summary": "ADLINK Technology has signed a strategic alliance and joint development agreement with Under Control Robotics, the company behind the robotics startup Noble Machines. The two firms will combine ADLINK\u2019s edge AI platforms with Noble Machines\u2019 autonomy software to create a new generation of general-purpose robots for modern manufactories and engineer",
+    "url": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
+    "source": "AI News",
+    "published_at": "2026-03-11T11:42:00+00:00"
   },
   {
     "title": "Manulife moves AI agents into core financial workflows",
@@ -2175,19 +2182,5 @@
     "url": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
     "source": "AI News",
     "published_at": "2026-03-11T09:52:15+00:00"
-  },
-  {
-    "title": "ABB: Physical AI simulation boosts ROI for factory automation",
-    "summary": "A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles. Manufacturers have often found it difficult to make intelligent robotics work reliably outside testing environments. The core issue is the gap between digital training models and actual factory floors, where lighti",
-    "url": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
-    "source": "AI News",
-    "published_at": "2026-03-10T17:22:41+00:00"
-  },
-  {
-    "title": "Agentic AI in finance speeds up operational automation",
-    "summary": "In finance, achieving operational automation by integrating agentic AI requires a data-centric foundation to drive real value. Financial infrastructure provider SEI has engaged IBM to modernise its internal operations via AI and automation. The joint initiative focuses on process redesign and targeted system updates to deliver consistent client exp",
-    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
-    "source": "AI News",
-    "published_at": "2026-03-10T12:55:37+00:00"
   }
 ]

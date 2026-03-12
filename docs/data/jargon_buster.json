@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 11, 2026",
+    "last_updated": "March 12, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Multi-Agent Systems (MAS) Architecture",
-            "definition": "MAS represents a shift from monolithic AI models to a decentralized network of specialized LLM 'agents' that collaborate through structured communication protocols. These systems use frameworks like LangGraph or AutoGen to orchestrate complex workflows, where individual agents are assigned distinct roles, reasoning profiles, and identities to solve multifaceted problems.",
-            "analogy": "Think of a professional kitchen: instead of one 'Super Chef' trying to cook a 50-item banquet alone, MAS is a coordinated brigade where a Sous Chef, a Pastry Chef, and a Saucier use a shared ticket system to deliver a synchronized meal.",
-            "business_value": "MAS allows enterprises to move beyond simple chatbots toward 'Autonomous Departments.' By delegating tasks between specialized agents, CEOs can scale complex operations like software engineering or financial auditing with higher reliability and lower error rates than single-model solutions."
+            "term": "Open-Weight AI Models",
+            "definition": "Unlike 'closed' models accessed via API or 'fully open source' models where everything is public, open-weight models provide the pre-trained neural network parameters to the user while keeping the training data or specific architecture proprietary. This allows organizations to host the model on their own private servers and fine-tune it for specific tasks without the massive cost of initial training.",
+            "analogy": "It is like a world-class restaurant giving you their secret pre-mixed spice blend and the exact oven settings. You don't know the original farm sources for the ingredients, but you can cook the professional-grade dish in your own kitchen and add your own salt to taste.",
+            "business_value": "Shifting from 'renting' intelligence (SaaS) to 'owning' weights allows for total data sovereignty and significantly lower long-term inference costs. It empowers the CEO to treat AI as a proprietary asset rather than a recurring subscription liability."
         },
         {
-            "term": "Agentic Retrieval-Augmented Generation (Agentic RAG)",
-            "definition": "Agentic RAG evolves standard data retrieval by adding a reasoning loop that iteratively searches, evaluates the relevance of found data, and refines queries until a specific objective is met. It manages the trade-off between 'search depth' and 'token budget,' ensuring the AI doesn't just find information, but critically assesses its quality before generating a response.",
-            "analogy": "A standard RAG is like a driver using a paper map to find a destination; Agentic RAG is a high-end self-driving system that constantly scans road conditions, checks multiple GPS sources, and reroutes itself in real-time if it detects the data is leading to a dead end.",
-            "business_value": "This significantly reduces 'hallucination risk' in high-stakes environments like legal or medical research. For the bottom line, it optimizes cloud compute costs by stopping the search once the 'good enough' confidence threshold is reached, preventing expensive over-processing."
+            "term": "Agentic AI Systems",
+            "definition": "Agentic AI refers to systems that do not just 'chat' but can autonomously use tools, navigate software interfaces, and execute multi-step plans to achieve a specific goal. These systems utilize iterative reasoning loops\u2014planning, acting, and self-correcting\u2014to complete complex workflows like coding an app or managing a supply chain without constant human prompting.",
+            "analogy": "Traditional AI is like a high-end GPS that tells you where to turn; Agentic AI is a self-driving car that actually steers, brakes, and navigates through traffic to get you to the destination while you sit in the back.",
+            "business_value": "This represents the transition from AI as a 'research assistant' to AI as a 'digital employee.' It scales operational capacity by automating cognitive-heavy tasks that previously required expensive human-in-the-loop oversight, directly accelerating time-to-market."
         },
         {
-            "term": "Visual Positioning System (VPS)",
-            "definition": "VPS is a spatial intelligence technology that provides centimeter-level localization by comparing visual 'keypoints' from a camera feed against a pre-mapped 3D environment. Unlike GPS, which can be off by meters, VPS uses computer vision to understand a device's exact orientation and location relative to physical objects in its immediate surroundings.",
-            "analogy": "Standard GPS tells your car it is 'somewhere on 5th Avenue'; VPS is the equivalent of the car recognizing the specific texture of the brickwork and the exact position of the curb to park with inch-perfect precision.",
-            "business_value": "VPS is the 'Last Yard' solution for the physical economy. It unlocks the viability of autonomous last-mile delivery robots and precision AR-assisted manufacturing, where traditional navigation is too blunt a tool to operate safely in crowded or complex human environments."
+            "term": "Multi-Agent Orchestration Protocols",
+            "definition": "As enterprises deploy multiple specialized AI agents, these protocols (like LDP or A2A) act as the standardized communication layer that allows different models to hand off tasks and share context. They establish 'identities' for agents, ensuring that a specialized 'Legal Agent' can securely delegate a task to a 'Finance Agent' with a clear understanding of each other's capabilities and limits.",
+            "analogy": "Imagine a professional kitchen where the Sous Chef, Pastry Chef, and Grill Master all speak different languages. An orchestration protocol is the universal digital ticket rail that ensures everyone knows exactly when the steak is ready so the side dishes can be plated simultaneously, preventing a chaotic dinner service.",
+            "business_value": "Orchestration prevents 'vendor lock-in' and systemic fragility. By implementing standardized protocols, a company ensures its various AI tools can work together as a unified department, allowing the CEO to swap out individual models (e.g., swapping OpenAI for Nvidia) without breaking the entire corporate workflow."
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 11, 2026",
+    "last_updated": "March 12, 2026",
     "tools": [
         {
-            "Name": "Hermes Agent",
-            "Category": "AI Agent Framework",
-            "Description": "A self-improving, platform-agnostic AI agent that supports a built-in learning loop, allowing it to create skills from experience and manage conversation history across platforms like Telegram and Discord.",
-            "Use_Case": "Automating multi-step tasks, cross-platform AI interactions, and building persistent, self-evolving AI assistants on low-resource infrastructure.",
-            "URL": "https://github.com/NousResearch/hermes-agent"
+            "Name": "Fish Speech",
+            "Category": "Text-to-Speech (TTS)",
+            "Description": "A high-quality, open-source Text-to-Speech system supporting over 50 languages with expressive voice cloning capabilities.",
+            "Use_Case": "Creating realistic, emotionally rich speech and voice cloning for applications or content creation.",
+            "URL": "https://github.com/fishaudio/fish-speech"
         },
         {
-            "Name": "Crawlee (Python)",
-            "Category": "Web Scraping / Data Collection",
-            "Description": "A high-performance web scraping and browser automation library designed to build reliable, human-like crawlers with features like proxy rotation and session management.",
-            "Use_Case": "Extracting large-scale data from websites to build datasets for LLM pre-training, RAG applications, and AI agents.",
-            "URL": "https://github.com/apify/crawlee-python"
+            "Name": "Hindsight",
+            "Category": "Agent Memory",
+            "Description": "An agent memory system that moves beyond simple recall, enabling agents to learn, reflect, and store mental models of their environment.",
+            "Use_Case": "Powering AI agents that require long-term retention, reflection, and personalization for complex task automation.",
+            "URL": "https://github.com/vectorize-io/hindsight"
         },
         {
-            "Name": "Sirchmunk",
-            "Category": "Search & Knowledge Management",
-            "Description": "An indexless, embedding-free retrieval system that searches directly over raw data using Monte Carlo Evidence Sampling to find relevant information efficiently.",
-            "Use_Case": "Real-time, context-aware information retrieval from massive local file repositories without the overhead of maintaining traditional vector databases.",
-            "URL": "https://github.com/modelscope/sirchmunk"
+            "Name": "AstrBot",
+            "Category": "Chatbot Infrastructure",
+            "Description": "An open-source, all-in-one agent platform that integrates AI agents with major instant messaging platforms like Telegram, Slack, and Discord.",
+            "Use_Case": "Building and deploying production-ready AI agents into existing social or corporate messaging workflows.",
+            "URL": "https://github.com/AstrBotDevs/AstrBot"
         }
     ]
 }

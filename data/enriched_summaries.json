@@ -12,64 +12,64 @@
       "Research Scientists",
       "ML Engineers"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "How NVIDIA Builds Open Data for AI",
-    "url": "https://huggingface.co/blog/nvidia/open-data-for-ai",
-    "source": "Hugging Face Blog",
-    "score": 7,
-    "what_happened": "Hugging Face Blog announced 'How NVIDIA Builds Open Data for AI', highlighting new developments relevant to AI researchers and practitioners.",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "ML Engineers",
-      "Open-Source Contributors"
-    ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "Amazon gets court order blocking Perplexity's AI shopping agent",
-    "url": "https://the-decoder.com/amazon-gets-court-order-blocking-perplexitys-ai-shopping-agent/",
+    "title": "Google unifies text, image, video, and audio in a single vector space with Gemini Embedding 2",
+    "url": "https://the-decoder.com/google-unifies-text-image-video-and-audio-in-a-single-vector-space-with-gemini-embedding-2/",
     "source": "The Decoder",
-    "score": 6,
-    "what_happened": "Amazon stops Perplexity's shopping bot by court order: a ruling that could shape the future of AI agents in e-commerce. The article Amazon gets court order blocking Perplexity&#039;s AI shopping agent appeared first on The Decoder.",
+    "score": 8,
+    "what_happened": "Google's first native multimodal embedding model brings text, images, video, audio, and documents into one vector space, cutting out the need for separate models in AI pipelines. The article Google unifies text, image, video, and audio in a single vector space with Gemini Embedding 2 appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "ChatGPT now explains math and physics with interactive visualizations",
-    "url": "https://the-decoder.com/chatgpt-now-explains-math-and-physics-with-interactive-visualizations/",
-    "source": "The Decoder",
-    "score": 6,
-    "what_happened": "ChatGPT now displays interactive visualizations for math and physics topics where users can tweak variables and watch graphs update in real time. More than 70 concepts are available at launch. The article ChatGPT now explains math and physics with interactive visualizations appeared first on The Decoder.",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
       "AI Professionals"
     ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "How physical AI integration accelerates vehicle innovation",
-    "url": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
-    "source": "AI News",
-    "score": 6,
-    "what_happened": "The integration of physical AI into vehicles remains a primary objective for automakers looking to accelerate innovation. A technical collaboration between Qualcomm and Wayve offers a framework for how hardware and software providers can consolidate their efforts to supply production-ready advanced driver assistance systems to manufacturers worldwi",
+    "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
+    "url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
+    "source": "Hugging Face Blog",
+    "score": 7,
+    "what_happened": "Hugging Face Blog announced 'Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
+      "ML Engineers",
+      "Open-Source Contributors"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "OpenAI's new training dataset teaches AI models which instructions to trust",
+    "url": "https://the-decoder.com/openais-new-training-dataset-teaches-ai-models-which-instructions-to-trust/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "OpenAI has released IH-Challenge, a training dataset designed to teach AI models to reliably prioritize trusted instructions over untrusted ones. Early results show significant improvements in both security and prompt injection defense. The article OpenAI&#039;s new training dataset teaches AI models which instructions to trust appeared first on Th",
+    "technical_takeaway": null,
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "who_should_care": [
       "AI Professionals"
     ],
     "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+    "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+    "source": "Wired AI",
+    "score": 6,
+    "what_happened": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+    "technical_takeaway": null,
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+    "who_should_care": [
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
+    ],
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
   }
 ]

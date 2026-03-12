@@ -1,26 +1,26 @@
 {
-    "last_updated": "Today's Date",
+    "last_updated": "2024-03-07",
     "papers": [
         {
-            "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
-            "innovation": "Presents a controlled measurement study to quantify the impact of agentic RAG design decisions (search depth, retrieval strategy, completion token limits) on accuracy and cost under explicit budget constraints. This provides empirical evidence for crucial trade-offs in real-world deployments.",
-            "benchmarks": "Focuses on quantifying the accuracy and cost impact of design decisions in agentic RAG systems, providing a framework for benchmarking specific design choices under budget constraints.",
-            "use_case": "Optimizing agentic Retrieval-Augmented Generation (RAG) systems for deployment in production environments where computational budgets (e.g., API calls, token usage) are strict. Essential for engineers to make data-driven decisions on system configuration for efficiency and performance.",
-            "url": "https://arxiv.org/abs/2603.08877"
-        },
-        {
             "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
-            "innovation": "Proposes a fundamental shift in evaluation methodologies for multi-agent LLM systems, moving from model-centric benchmarks to a comprehensive system-centric approach. This framework considers the performance of the entire agentic setup, including frameworks and other system components, not just the base LLM.",
-            "benchmarks": "Criticizes existing 'model-centric' benchmarks and advocates for the development of new, holistic benchmarks that encompass all system components within multi-agent LLM setups.",
-            "use_case": "Provides a conceptual framework and strong argument for AI engineers to conduct more thorough and realistic evaluations of multi-agent LLM systems. This is critical for building robust, reliable, and performant systems by understanding the true impact of architectural and component choices.",
+            "innovation": "Proposes a crucial shift from model-centric to system-centric evaluation for LLM-based agentic systems. It identifies and emphasizes the need to benchmark system components beyond just the underlying LLM, including frameworks, protocols, tool usage, memory, and planning, which is vital for real-world deployments.",
+            "benchmarks": "Argues that existing benchmarks are insufficient for evaluating full agentic systems and implicitly calls for new methodologies to assess the performance and robustness of system-level components and their interactions.",
+            "use_case": "Guiding AI engineers in the informed selection, design, and optimization of various components (e.g., agentic frameworks, memory modules, planning algorithms, tool usage strategies) within complex multi-agent LLM systems, leading to more robust and performant deployments.",
             "url": "https://arxiv.org/abs/2603.08835"
         },
         {
-            "title": "MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games",
-            "innovation": "Introduces MEMO, a memory-augmented model context optimization technique that significantly reduces run-to-run variance in multi-turn, multi-agent LLM game evaluations. This improves the reliability of win rate estimates and rankings, addressing a key challenge in evaluating complex agent interactions.",
-            "benchmarks": "Directly addresses and aims to improve the robustness and reliability of win rate estimates and rankings across repeated tournaments in multi-turn, multi-agent LLM game evaluations.",
-            "use_case": "Essential for AI engineers who are developing, iterating on, and comparing multi-agent LLM systems, particularly in long-horizon interaction or competitive scenarios. Enables more trustworthy performance metrics, leading to more reliable experimentation and faster development cycles.",
-            "url": "https://arxiv.org/abs/2603.09022"
+            "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
+            "innovation": "Provides an empirical study that quantifies the critical trade-offs between accuracy and cost based on key design decisions (e.g., search depth, retrieval strategy, completion token budget) within agentic Retrieval-Augmented Generation (RAG) systems. This offers practical, data-driven insights for resource-constrained environments.",
+            "benchmarks": "Involves controlled measurement studies and empirical evaluation of how specific design parameters affect both accuracy and operational cost in agentic RAG systems, providing concrete data for decision-making.",
+            "use_case": "Optimizing agentic RAG systems for real-world deployment where explicit budgets on tool calls and completion tokens are common. It enables engineers to make informed, data-driven decisions on system configuration to balance performance, quality, and cost-efficiency.",
+            "url": "https://arxiv.org/abs/2603.08877"
+        },
+        {
+            "title": "AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem",
+            "innovation": "Introduces the concept of an 'AgentOS' to manage and operate locally hosted intelligent agents, enabling them to autonomously control computing environments, orchestrate complex workflows, and integrate diverse data sources, thereby moving beyond fragmented application silos. It emphasizes control, safety, and a unified data ecosystem.",
+            "benchmarks": "Demonstrates the practical integration and orchestration capabilities with existing systems like OpenClaw, showcasing its potential to manage local computing resources and orchestrate complex, multi-step tasks across a system.",
+            "use_case": "Building the foundational infrastructure and operating environment for deploying and managing autonomous LLM-based agents within an enterprise. It empowers engineers to create systems where agents can interact seamlessly with local computing resources, diverse data, and orchestrate complex workflows, addressing current challenges of application isolation.",
+            "url": "https://arxiv.org/abs/2603.08938"
         }
     ]
 }
