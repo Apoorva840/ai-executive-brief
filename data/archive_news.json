@@ -1,5 +1,140 @@
 [
   {
+    "title": "Verbalizing LLM's Higher-order Uncertainty via Imprecise Probabilities",
+    "summary": "arXiv:2603.10396v1 Announce Type: new Abstract: Despite the growing demand for eliciting uncertainty from large language models (LLMs), empirical evidence suggests that LLM behavior is not always adequately captured by the elicitation techniques developed under the classical probabilistic uncertainty framework. This mismatch leads to systematic fai",
+    "url": "https://arxiv.org/abs/2603.10396",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification",
+    "summary": "arXiv:2603.10891v1 Announce Type: new Abstract: Medication errors pose a significant threat to patient safety, making pharmacist verification (PV) a critical, yet heavily burdened, final safeguard. The direct application of Large Language Models (LLMs) to this zero-tolerance domain is untenable due to their inherent factual unreliability, lack of t",
+    "url": "https://arxiv.org/abs/2603.10891",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "AraModernBERT: Transtokenized Initialization and Long-Context Encoder Modeling for Arabic",
+    "summary": "arXiv:2603.09982v1 Announce Type: cross Abstract: Encoder-only transformer models remain widely used for discriminative NLP tasks, yet recent architectural advances have largely focused on English. In this work, we present AraModernBERT, an adaptation of the ModernBERT encoder architecture to Arabic, and study the impact of transtokenized embedding",
+    "url": "https://arxiv.org/abs/2603.09982",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "A Two-Stage Architecture for NDA Analysis: LLM-based Segmentation and Transformer-based Clause Classification",
+    "summary": "arXiv:2603.09990v1 Announce Type: cross Abstract: In business-to-business relations, it is common to establish NonDisclosure Agreements (NDAs). However, these documents exhibit significant variation in format, structure, and writing style, making manual analysis slow and error-prone. We propose an architecture based on LLMs to automate the segmenta",
+    "url": "https://arxiv.org/abs/2603.09990",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "Automated evaluation of LLMs for effective machine translation of Mandarin Chinese to English",
+    "summary": "arXiv:2603.09998v1 Announce Type: cross Abstract: Although Large Language Models (LLMs) have exceptional performance in machine translation, only a limited systematic assessment of translation quality has been done. The challenge lies in automated frameworks, as human-expert-based evaluations can be time-consuming, given the fast-evolving LLMs and ",
+    "url": "https://arxiv.org/abs/2603.09998",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "ADVERSA: Measuring Multi-Turn Guardrail Degradation and Judge Reliability in Large Language Models",
+    "summary": "arXiv:2603.10068v1 Announce Type: cross Abstract: Most adversarial evaluations of large language model (LLM) safety assess single prompts and report binary pass/fail outcomes, which fails to capture how safety properties evolve under sustained adversarial interaction. We present ADVERSA, an automated red-teaming framework that measures guardrail de",
+    "url": "https://arxiv.org/abs/2603.10068",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "KernelSkill: A Multi-Agent Framework for GPU Kernel Optimization",
+    "summary": "arXiv:2603.10085v1 Announce Type: cross Abstract: Improving GPU kernel efficiency is crucial for advancing AI systems. Recent work has explored leveraging large language models (LLMs) for GPU kernel generation and optimization. However, existing LLM-based kernel optimization pipelines typically rely on opaque, implicitly learned heuristics within t",
+    "url": "https://arxiv.org/abs/2603.10085",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "Mashup Learning: Faster Finetuning by Remixing Past Checkpoints",
+    "summary": "arXiv:2603.10156v1 Announce Type: cross Abstract: Finetuning on domain-specific data is a well-established method for enhancing LLM performance on downstream tasks. Training on each dataset produces a new set of model weights, resulting in a multitude of checkpoints saved in-house or on open-source platforms. However, these training artifacts are r",
+    "url": "https://arxiv.org/abs/2603.10156",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "MCP-in-SoS: Risk assessment framework for open-source MCP servers",
+    "summary": "arXiv:2603.10194v1 Announce Type: cross Abstract: Model Context Protocol (MCP) servers have rapidly emerged over the past year as a widely adopted way to enable Large Language Model (LLM) agents to access dynamic, real-world tools. As MCP servers proliferate and become easy to adopt via open-source releases, understanding their security risks becom",
+    "url": "https://arxiv.org/abs/2603.10194",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "Adaptive Activation Cancellation for Hallucination Mitigation in Large Language Models",
+    "summary": "arXiv:2603.10195v1 Announce Type: cross Abstract: Large Language Models frequently generate fluent but factually incorrect text. We propose Adaptive Activation Cancellation (AAC), a real-time inference-time framework that treats hallucination-associated neural activations as structured interference within the transformer residual stream, drawing an",
+    "url": "https://arxiv.org/abs/2603.10195",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation",
+    "summary": "arXiv:2603.10899v1 Announce Type: cross Abstract: Transformer-based large language models (LLMs) rely on key-value (KV) caching to avoid redundant computation during autoregressive inference. While this mechanism greatly improves efficiency, the cache size grows linearly with the input sequence length, quickly becoming a bottleneck for long-context",
+    "url": "https://arxiv.org/abs/2603.10899",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "Mindstorms in Natural Language-Based Societies of Mind",
+    "summary": "arXiv:2305.17066v2 Announce Type: replace Abstract: Both Minsky's \"society of mind\" and Schmidhuber's \"learning to think\" inspire diverse societies of large multimodal neural networks (NNs) that solve problems by interviewing each other in a \"mindstorm.\" Recent implementations of NN-based societies of minds consist of large language models (LLMs) a",
+    "url": "https://arxiv.org/abs/2305.17066",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "Differential Privacy in Machine Learning: A Survey from Symbolic AI to LLMs",
+    "summary": "arXiv:2506.11687v2 Announce Type: replace-cross Abstract: Machine learning models should not reveal particular information that is not otherwise accessible. Differential privacy provides a formal framework to mitigate privacy risks by ensuring that the inclusion or exclusion of any single data point does not significantly alter the output of an alg",
+    "url": "https://arxiv.org/abs/2506.11687",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "REMSA: Foundation Model Selection for Remote Sensing via a Constraint-Aware Agent",
+    "summary": "arXiv:2511.17442v2 Announce Type: replace-cross Abstract: Foundation Models (FMs) are increasingly integrated into remote sensing (RS) pipelines. These models include unimodal vision encoders and multimodal architectures. FMs are adapted to diverse perception tasks, such as image classification, change detection, and visual question answering. Howe",
+    "url": "https://arxiv.org/abs/2511.17442",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
+    "title": "TikArt: Stabilizing Aperture-Guided Fine-Grained Visual Reasoning with Reinforcement Learning",
+    "summary": "arXiv:2602.14482v2 Announce Type: replace-cross Abstract: Fine-grained visual reasoning in multimodal large language models (MLLMs) is bottlenecked by single-pass global image encoding: key evidence often lies in tiny objects, cluttered regions, subtle markings, or dense charts. We present \\textbf{TikArt} (\\textbf{T}h\\textbf{i}n\\textbf{k}ing \\textb",
+    "url": "https://arxiv.org/abs/2602.14482",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-12T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+  },
+  {
     "title": "Are Expressive Encoders Necessary for Discrete Graph Generation?",
     "summary": "arXiv:2603.08825v1 Announce Type: cross Abstract: Discrete graph generation has emerged as a powerful paradigm for modeling graph data, often relying on highly expressive neural backbones such as transformers or higher-order architectures. We revisit this design choice by introducing GenGNN, a modular message-passing framework for graph generation.",
     "url": "https://arxiv.org/abs/2603.08825",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-02-19T05:00:00+00:00",
     "score": 7,
     "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "Surrogate Modeling for Neutron Transport: A Neural Operator Approach",
-    "summary": "arXiv:2602.15890v1 Announce Type: cross Abstract: This work introduces a neural operator based surrogate modeling framework for neutron transport computation. Two architectures, the Deep Operator Network (DeepONet) and the Fourier Neural Operator (FNO), were trained for fixed source problems to learn the mapping from anisotropic neutron sources, Q(",
-    "url": "https://arxiv.org/abs/2602.15890",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "Doc-to-LoRA: Learning to Instantly Internalize Contexts",
-    "summary": "arXiv:2602.15902v1 Announce Type: cross Abstract: Long input sequences are central to in-context learning, document understanding, and multi-step reasoning of Large Language Models (LLMs). However, the quadratic attention cost of Transformers makes inference memory-intensive and slow. While context distillation (CD) can transfer information into mo",
-    "url": "https://arxiv.org/abs/2602.15902",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "EarthSpatialBench: Benchmarking Spatial Reasoning Capabilities of Multimodal LLMs on Earth Imagery",
-    "summary": "arXiv:2602.15918v1 Announce Type: cross Abstract: Benchmarking spatial reasoning in multimodal large language models (MLLMs) has attracted growing interest in computer vision due to its importance for embodied AI and other agentic systems that require precise interaction with the physical world. However, spatial reasoning on Earth imagery has lagge",
-    "url": "https://arxiv.org/abs/2602.15918",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "IndicEval: A Bilingual Indian Educational Evaluation Framework for Large Language Models",
-    "summary": "arXiv:2602.16467v1 Announce Type: cross Abstract: The rapid advancement of large language models (LLMs) necessitates evaluation frameworks that reflect real-world academic rigor and multilingual complexity. This paper introduces IndicEval, a scalable benchmarking platform designed to assess LLM performance using authentic high-stakes examination qu",
-    "url": "https://arxiv.org/abs/2602.16467",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "From Pixels to Policies: Reinforcing Spatial Reasoning in Language Models for Content-Aware Layout Design",
-    "summary": "arXiv:2602.13912v2 Announce Type: replace Abstract: We introduce LaySPA, a reinforcement learning framework that equips large language models (LLMs) with explicit and interpretable spatial reasoning for content-aware graphic layout design. LaySPA addresses two key challenges: LLMs' limited spatial reasoning and the lack of opacity in design decisio",
-    "url": "https://arxiv.org/abs/2602.13912",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "Prompt When the Animal is: Temporal Animal Behavior Grounding with Positional Recovery Training",
-    "summary": "arXiv:2405.05523v2 Announce Type: replace-cross Abstract: Temporal grounding is crucial in multimodal learning, but it poses challenges when applied to animal behavior data due to the sparsity and uniform distribution of moments. To address these challenges, we propose a novel Positional Recovery Training framework (Port), which prompts the model w",
-    "url": "https://arxiv.org/abs/2405.05523",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision",
-    "summary": "arXiv:2508.08177v3 Announce Type: replace-cross Abstract: Accurately grounding regions of interest (ROIs) is critical for diagnosis and treatment planning in medical imaging. While multimodal large language models (MLLMs) combine visual perception with natural language, current medical-grounding pipelines still rely on supervised fine-tuning with e",
-    "url": "https://arxiv.org/abs/2508.08177",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "Predicting Training Re-evaluation Curves Enables Effective Data Curriculums for LLMs",
-    "summary": "arXiv:2509.25380v2 Announce Type: replace-cross Abstract: Data curriculums have become central to successful LLM training, yet principles governing optimal data placement remain unclear. We introduce the *training re-evaluation curve (TREC)*, a diagnostic that retrospectively evaluates training batches *using the final model weights*. The TREC char",
-    "url": "https://arxiv.org/abs/2509.25380",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "CreativityPrism: A Holistic Evaluation Framework for Large Language Model Creativity",
-    "summary": "arXiv:2510.20091v2 Announce Type: replace-cross Abstract: Creativity is often seen as a hallmark of human intelligence. While large language models (LLMs) are increasingly perceived as generating creative text, there is still no holistic and scalable framework to evaluate their creativity across diverse scenarios. Existing methods of LLM creativity",
-    "url": "https://arxiv.org/abs/2510.20091",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "A Content-Based Framework for Cybersecurity Refusal Decisions in Large Language Models",
-    "summary": "arXiv:2602.15689v2 Announce Type: replace-cross Abstract: Large language models and LLM-based agents are increasingly used for cybersecurity tasks that are inherently dual-use. Existing approaches to refusal, spanning academic policy frameworks and commercially deployed systems, often rely on broad topic-based bans or offensive-focused taxonomies. ",
-    "url": "https://arxiv.org/abs/2602.15689",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment",
-    "summary": "arXiv:2602.16039v1 Announce Type: new Abstract: The rapid rise of large language models (LLMs) is reshaping the landscape of automatic assessment in education. While these systems demonstrate substantial advantages in adaptability to diverse question types and flexibility in output formats, they also introduce new challenges related to output uncer",
-    "url": "https://arxiv.org/abs/2602.16039",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "GPSBench: Do Large Language Models Understand GPS Coordinates?",
-    "summary": "arXiv:2602.16105v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in applications that interact with the physical world, such as navigation, robotics, or mapping, making robust geospatial reasoning a critical capability. Despite that, LLMs' ability to reason about GPS coordinates and real-world geography remains",
-    "url": "https://arxiv.org/abs/2602.16105",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents",
-    "summary": "arXiv:2602.16246v1 Announce Type: new Abstract: Interactive large language model (LLM) agents operating via multi-turn dialogue and multi-step tool calling are increasingly used in production. Benchmarks for these agents must both reliably compare models and yield on-policy training data. Prior agentic benchmarks (e.g., tau-bench, tau2-bench, AppWo",
-    "url": "https://arxiv.org/abs/2602.16246",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "Agent Skill Framework: Perspectives on the Potential of Small Language Models in Industrial Environments",
-    "summary": "arXiv:2602.16653v1 Announce Type: new Abstract: Agent Skill framework, now widely and officially supported by major players such as GitHub Copilot, LangChain, and OpenAI, performs especially well with proprietary models by improving context engineering, reducing hallucinations, and boosting task accuracy. Based on these observations, an investigati",
-    "url": "https://arxiv.org/abs/2602.16653",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-19T05:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-02-20T03:18:27.367288+00:00"
-  },
-  {
-    "title": "How Vision Becomes Language: A Layer-wise Information-Theoretic Analysis of Multimodal Reasoning",
-    "summary": "arXiv:2602.15580v1 Announce Type: new Abstract: When a multimodal Transformer answers a visual question, is the prediction driven by visual evidence, linguistic reasoning, or genuinely fused cross-modal computation -- and how does this structure evolve across layers? We address this question with a layer-wise framework based on Partial Information ",
-    "url": "https://arxiv.org/abs/2602.15580",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-18T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-19T03:23:14.974735+00:00"
   }
 ]

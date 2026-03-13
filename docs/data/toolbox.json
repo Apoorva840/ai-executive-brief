@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 12, 2026",
+    "last_updated": "March 13, 2026",
     "tools": [
         {
-            "Name": "Fish Speech",
-            "Category": "Text-to-Speech (TTS)",
-            "Description": "A high-quality, open-source Text-to-Speech system supporting over 50 languages with expressive voice cloning capabilities.",
-            "Use_Case": "Creating realistic, emotionally rich speech and voice cloning for applications or content creation.",
-            "URL": "https://github.com/fishaudio/fish-speech"
+            "Name": "DeerFlow",
+            "Category": "Agent Framework",
+            "Description": "An open-source super agent harness that orchestrates sub-agents, memory, and sandboxes to handle complex tasks.",
+            "Use_Case": "Building, orchestrating, and deploying autonomous agent systems that handle multi-step tasks from minutes to hours.",
+            "URL": "https://github.com/bytedance/deer-flow"
         },
         {
             "Name": "Hindsight",
             "Category": "Agent Memory",
-            "Description": "An agent memory system that moves beyond simple recall, enabling agents to learn, reflect, and store mental models of their environment.",
-            "Use_Case": "Powering AI agents that require long-term retention, reflection, and personalization for complex task automation.",
+            "Description": "An agent memory system that uses biomimetic data structures to enable agents to learn and build mental models over time.",
+            "Use_Case": "Creating agents that require long-term memory, user personalization, and the ability to learn from past experiences.",
             "URL": "https://github.com/vectorize-io/hindsight"
         },
         {
-            "Name": "AstrBot",
-            "Category": "Chatbot Infrastructure",
-            "Description": "An open-source, all-in-one agent platform that integrates AI agents with major instant messaging platforms like Telegram, Slack, and Discord.",
-            "Use_Case": "Building and deploying production-ready AI agents into existing social or corporate messaging workflows.",
-            "URL": "https://github.com/AstrBotDevs/AstrBot"
+            "Name": "BitNet",
+            "Category": "AI Infrastructure",
+            "Description": "Official inference framework for 1-bit LLMs (e.g., BitNet b1.58), offering high-performance, lossless inference on standard hardware.",
+            "Use_Case": "Deploying LLMs efficiently on resource-constrained devices (CPU/Edge) with significantly reduced energy consumption.",
+            "URL": "https://github.com/microsoft/BitNet"
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-03-07",
+    "last_updated": "2024-07-29",
     "papers": [
         {
-            "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
-            "innovation": "Proposes a crucial shift from model-centric to system-centric evaluation for LLM-based agentic systems. It identifies and emphasizes the need to benchmark system components beyond just the underlying LLM, including frameworks, protocols, tool usage, memory, and planning, which is vital for real-world deployments.",
-            "benchmarks": "Argues that existing benchmarks are insufficient for evaluating full agentic systems and implicitly calls for new methodologies to assess the performance and robustness of system-level components and their interactions.",
-            "use_case": "Guiding AI engineers in the informed selection, design, and optimization of various components (e.g., agentic frameworks, memory modules, planning algorithms, tool usage strategies) within complex multi-agent LLM systems, leading to more robust and performant deployments.",
-            "url": "https://arxiv.org/abs/2603.08835"
+            "title": "Hybrid Self-evolving Structured Memory for GUI Agents",
+            "innovation": "Proposes a 'self-evolving structured memory' to enhance the robustness and capability of GUI agents. This memory system allows agents to better handle long-horizon workflows, diverse interfaces, and frequent intermediate errors, moving beyond static external memory limitations.",
+            "benchmarks": "Not explicitly detailed in the abstract, but the innovation aims to improve performance and reliability in real-world computer-use tasks compared to prior VLM-equipped GUI agents.",
+            "use_case": "Developing more resilient, autonomous, and human-like agents for interacting with graphical user interfaces, automating complex multi-step computer tasks, and enhancing user assistance.",
+            "url": "https://arxiv.org/abs/2603.10291"
         },
         {
-            "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
-            "innovation": "Provides an empirical study that quantifies the critical trade-offs between accuracy and cost based on key design decisions (e.g., search depth, retrieval strategy, completion token budget) within agentic Retrieval-Augmented Generation (RAG) systems. This offers practical, data-driven insights for resource-constrained environments.",
-            "benchmarks": "Involves controlled measurement studies and empirical evaluation of how specific design parameters affect both accuracy and operational cost in agentic RAG systems, providing concrete data for decision-making.",
-            "use_case": "Optimizing agentic RAG systems for real-world deployment where explicit budgets on tool calls and completion tokens are common. It enables engineers to make informed, data-driven decisions on system configuration to balance performance, quality, and cost-efficiency.",
-            "url": "https://arxiv.org/abs/2603.08877"
+            "title": "Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability",
+            "innovation": "Introduces TRACED, a novel framework for evaluating LLM reliability and reasoning quality that moves beyond scalar probabilities. It decomposes reasoning traces into geometric kinematics (Progress and Stability), offering a more granular and theoretically grounded understanding of an LLM's structural reasoning dynamics.",
+            "benchmarks": "TRACED itself is a new evaluation framework. It provides a means to assess and benchmark LLM reasoning quality with greater fidelity than traditional scalar metrics, enabling more insightful diagnostics and comparisons.",
+            "use_case": "More precise evaluation and debugging of Large Language Models, particularly for applications requiring complex reasoning. This framework allows engineers to better understand failure modes, improve model robustness, and iteratively enhance reasoning capabilities.",
+            "url": "https://arxiv.org/abs/2603.10384"
         },
         {
-            "title": "AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem",
-            "innovation": "Introduces the concept of an 'AgentOS' to manage and operate locally hosted intelligent agents, enabling them to autonomously control computing environments, orchestrate complex workflows, and integrate diverse data sources, thereby moving beyond fragmented application silos. It emphasizes control, safety, and a unified data ecosystem.",
-            "benchmarks": "Demonstrates the practical integration and orchestration capabilities with existing systems like OpenClaw, showcasing its potential to manage local computing resources and orchestrate complex, multi-step tasks across a system.",
-            "use_case": "Building the foundational infrastructure and operating environment for deploying and managing autonomous LLM-based agents within an enterprise. It empowers engineers to create systems where agents can interact seamlessly with local computing resources, diverse data, and orchestrate complex workflows, addressing current challenges of application isolation.",
-            "url": "https://arxiv.org/abs/2603.08938"
+            "title": "IH-Challenge: A Training Dataset to Improve Instruction Hierarchy on Frontier LLMs",
+            "innovation": "Formalizes the concept of 'instruction hierarchy' (IH) \u2013 how LLMs prioritize conflicting instructions from system, developer, user, and tools \u2013 and introduces a novel training dataset designed to improve LLMs' adherence to this hierarchy. This directly addresses critical security vulnerabilities like jailbreaks and prompt injections.",
+            "benchmarks": "Focuses on improving LLM defenses against various types of instruction conflicts, jailbreaks, and prompt injections. Performance would be measured by the model's ability to resist such attacks after training on the IH-Challenge dataset.",
+            "use_case": "Enhancing the security, reliability, and control of LLM deployments. AI engineers can leverage this research and dataset to build more robust LLM-powered applications that are less susceptible to malicious prompts and adhere more predictably to intended policies.",
+            "url": "https://arxiv.org/abs/2603.10521"
         }
     ]
 }

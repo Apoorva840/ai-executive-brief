@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 12, 2026",
+    "last_updated": "March 13, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Open-Weight AI Models",
-            "definition": "Unlike 'closed' models accessed via API or 'fully open source' models where everything is public, open-weight models provide the pre-trained neural network parameters to the user while keeping the training data or specific architecture proprietary. This allows organizations to host the model on their own private servers and fine-tune it for specific tasks without the massive cost of initial training.",
-            "analogy": "It is like a world-class restaurant giving you their secret pre-mixed spice blend and the exact oven settings. You don't know the original farm sources for the ingredients, but you can cook the professional-grade dish in your own kitchen and add your own salt to taste.",
-            "business_value": "Shifting from 'renting' intelligence (SaaS) to 'owning' weights allows for total data sovereignty and significantly lower long-term inference costs. It empowers the CEO to treat AI as a proprietary asset rather than a recurring subscription liability."
+            "term": "Agentic Control Center",
+            "definition": "A framework for managing AI 'agents'\u2014models capable of autonomous action\u2014that optimizes how they interact with data products and GUIs. It uses vision-language models and self-evolving memory to allow AI to perform long-horizon workflows, correcting its own intermediate errors while navigating complex digital interfaces.",
+            "analogy": "In a high-end kitchen, traditional AI is the recipe book, but an Agentic system is the Executive Chef who not only reads the recipe but actually chops the vegetables, adjusts the heat when the pan gets too hot, and coordinates the sous-chefs to plate the meal.",
+            "business_value": "Shifts AI from a passive 'chatbot' to an active 'digital employee,' allowing organizations to automate multi-step administrative and technical tasks that previously required expensive human oversight."
         },
         {
-            "term": "Agentic AI Systems",
-            "definition": "Agentic AI refers to systems that do not just 'chat' but can autonomously use tools, navigate software interfaces, and execute multi-step plans to achieve a specific goal. These systems utilize iterative reasoning loops\u2014planning, acting, and self-correcting\u2014to complete complex workflows like coding an app or managing a supply chain without constant human prompting.",
-            "analogy": "Traditional AI is like a high-end GPS that tells you where to turn; Agentic AI is a self-driving car that actually steers, brakes, and navigates through traffic to get you to the destination while you sit in the back.",
-            "business_value": "This represents the transition from AI as a 'research assistant' to AI as a 'digital employee.' It scales operational capacity by automating cognitive-heavy tasks that previously required expensive human-in-the-loop oversight, directly accelerating time-to-market."
+            "term": "Reasoning Distillation",
+            "definition": "The process of transferring complex logical 'thinking' patterns from a massive Large Reasoning Model (LRM) into a smaller, more efficient model. Techniques like HEAL use hindsight learning to ensure the smaller model learns the 'how' behind a solution, even when the teacher model initially fails on complex corner-cases.",
+            "analogy": "Think of this as a Michelin-starred chef writing a foolproof, step-by-step training manual for a fast-casual kitchen; it allows the less experienced staff to produce gourmet results without needing the expensive head chef present for every plate.",
+            "business_value": "Enables the deployment of high-intelligence logic on edge devices and private servers at a fraction of the hardware cost and latency, democratizing 'expert-level' AI across the enterprise."
         },
         {
-            "term": "Multi-Agent Orchestration Protocols",
-            "definition": "As enterprises deploy multiple specialized AI agents, these protocols (like LDP or A2A) act as the standardized communication layer that allows different models to hand off tasks and share context. They establish 'identities' for agents, ensuring that a specialized 'Legal Agent' can securely delegate a task to a 'Finance Agent' with a clear understanding of each other's capabilities and limits.",
-            "analogy": "Imagine a professional kitchen where the Sous Chef, Pastry Chef, and Grill Master all speak different languages. An orchestration protocol is the universal digital ticket rail that ensures everyone knows exactly when the steak is ready so the side dishes can be plated simultaneously, preventing a chaotic dinner service.",
-            "business_value": "Orchestration prevents 'vendor lock-in' and systemic fragility. By implementing standardized protocols, a company ensures its various AI tools can work together as a unified department, allowing the CEO to swap out individual models (e.g., swapping OpenAI for Nvidia) without breaking the entire corporate workflow."
+            "term": "Instruction Hierarchy (IH)",
+            "definition": "A security and governance framework that establishes a 'chain of command' for AI models to resolve conflicting prompts. It ensures that system-level safety guidelines and developer constraints take precedence over user inputs, preventing 'jailbreaks' or unauthorized prompt injections.",
+            "analogy": "In a car, the passenger (the User) might tell the vehicle to 'speed up,' but the car\u2019s internal Governor and Collision Avoidance system (the Instruction Hierarchy) refuses because the safety protocol overrides the passenger's request.",
+            "business_value": "Directly mitigates corporate liability and brand risk by ensuring AI agents remain within strictly defined policy guardrails, even when faced with sophisticated malicious attempts to bypass security."
         }
     ]
 }
