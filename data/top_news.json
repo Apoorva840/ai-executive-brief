@@ -1,42 +1,42 @@
 [
   {
-    "title": "Reveal-to-Revise: Explainable Bias-Aware Generative Modeling with Multimodal Attention",
-    "summary": "arXiv:2510.12957v2 Announce Type: replace-cross Abstract: We present an explainable, bias-aware generative framework that unifies cross-modal attention fusion, Grad-CAM++ attribution, and a Reveal-to-Revise feedback loop within a single training paradigm. The architecture couples a conditional attention WGAN GP with bias regularization and iterativ",
-    "url": "https://arxiv.org/abs/2510.12957",
+    "title": "COMPASS: The explainable agentic framework for Sovereignty, Sustainability, Compliance, and Ethics",
+    "summary": "arXiv:2603.11277v1 Announce Type: new Abstract: The rapid proliferation of large language model (LLM)-based agentic systems raises critical concerns regarding digital sovereignty, environmental sustainability, regulatory compliance, and ethical alignment. Whilst existing frameworks address individual dimensions in isolation, no unified architecture",
+    "url": "https://arxiv.org/abs/2603.11277",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Meta's JEPA architecture outperforms standard AI methods in noisy medical imaging",
-    "summary": "Researchers have presented an AI model for cardiac ultrasound based on Meta's JEPA architecture that outperforms common methods such as masked autoencoder or contrastive learning, according to their benchmarks. The article Meta&#039;s JEPA architecture outperforms standard AI methods in noisy medical imaging appeared first on The Decoder.",
-    "url": "https://the-decoder.com/metas-jepa-architecture-outperforms-standard-ai-methods-in-cardiac-ultrasound-analysis/",
-    "source": "The Decoder",
-    "published_at": "2026-03-12T15:01:07+00:00",
-    "score": 8
-  },
-  {
-    "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
+    "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
     "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+    "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
     "source": "Hugging Face Blog",
-    "published_at": "2026-03-13T01:02:47+00:00",
+    "published_at": "2026-03-13T20:00:00+00:00",
     "score": 7
   },
   {
-    "title": "Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating",
-    "summary": "xAI's Grok 4.20 is cheap, fast, and hallucinates less than any other tested model, but it can't keep up with the top tier in benchmarks. The article Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating appeared first on The Decoder.",
-    "url": "https://the-decoder.com/grok-4-20-trails-gemini-and-gpt-5-4-by-a-wide-margin-but-sets-a-new-record-for-not-hallucinating/",
+    "title": "Google explains the differences between its three Nano Banana image generation models",
+    "summary": "A new guide from Google breaks down the three Nano Banana image models and when to use each one. The cheaper Nano Banana 2 reportedly delivers 95 percent of Pro's capabilities and can search the web for reference images on its own before generating output. The article Google explains the differences between its three Nano Banana image generation mo",
+    "url": "https://the-decoder.com/google-explains-the-differences-between-its-three-nano-banana-image-generation-models/",
     "source": "The Decoder",
-    "published_at": "2026-03-12T19:25:12+00:00",
+    "published_at": "2026-03-13T17:42:00+00:00",
     "score": 7
   },
   {
-    "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
-    "summary": "As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output",
-    "url": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
-    "source": "Microsoft Research",
-    "published_at": "2026-03-12T16:38:45+00:00",
+    "title": "Ukraine opens its battlefield data to allies to train AI models for autonomous drones",
+    "summary": "Ukraine opens its battlefield data to allies to train AI models for autonomous drones. The article Ukraine opens its battlefield data to allies to train AI models for autonomous drones appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ukraine-provides-allies-with-a-platform-with-combat-data-for-ai-training/",
+    "source": "The Decoder",
+    "published_at": "2026-03-13T13:24:50+00:00",
+    "score": 7
+  },
+  {
+    "title": "E.SUN Bank and IBM build AI governance framework for banking",
+    "summary": "E.SUN Bank is working with IBM to build clearer AI governance rules for how artificial intelligence can be used inside a bank. The effort reflects a wider shift in finance. Many firms already use AI for fraud checks and credit scoring, and some also use it to handle customer service queries. The new challenge is [&#8230;] The post E.SUN Bank and IB",
+    "url": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
+    "source": "AI News",
+    "published_at": "2026-03-13T10:00:00+00:00",
     "score": 6
   }
 ]

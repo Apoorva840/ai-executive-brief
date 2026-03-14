@@ -1,137 +1,137 @@
 [
   {
-    "title": "Verbalizing LLM's Higher-order Uncertainty via Imprecise Probabilities",
-    "summary": "arXiv:2603.10396v1 Announce Type: new Abstract: Despite the growing demand for eliciting uncertainty from large language models (LLMs), empirical evidence suggests that LLM behavior is not always adequately captured by the elicitation techniques developed under the classical probabilistic uncertainty framework. This mismatch leads to systematic fai",
-    "url": "https://arxiv.org/abs/2603.10396",
+    "title": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
+    "summary": "arXiv:2603.11266v1 Announce Type: new Abstract: Unlearning in Large Language Models (LLMs) aims to enhance safety, mitigate biases, and comply with legal mandates, such as the right to be forgotten. However, existing unlearning methods are brittle: minor query modifications, such as multi-hop reasoning and entity aliasing, can recover supposedly fo",
+    "url": "https://arxiv.org/abs/2603.11266",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification",
-    "summary": "arXiv:2603.10891v1 Announce Type: new Abstract: Medication errors pose a significant threat to patient safety, making pharmacist verification (PV) a critical, yet heavily burdened, final safeguard. The direct application of Large Language Models (LLMs) to this zero-tolerance domain is untenable due to their inherent factual unreliability, lack of t",
-    "url": "https://arxiv.org/abs/2603.10891",
+    "title": "Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future",
+    "summary": "arXiv:2603.11299v1 Announce Type: new Abstract: This editorial addresses the critical intersection of artificial intelligence (AI) and blockchain technologies, highlighting their contrasting tendencies toward centralization and decentralization, respectively. While AI, particularly with the rise of large language models (LLMs), exhibits a strong ce",
+    "url": "https://arxiv.org/abs/2603.11299",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "AraModernBERT: Transtokenized Initialization and Long-Context Encoder Modeling for Arabic",
-    "summary": "arXiv:2603.09982v1 Announce Type: cross Abstract: Encoder-only transformer models remain widely used for discriminative NLP tasks, yet recent architectural advances have largely focused on English. In this work, we present AraModernBERT, an adaptation of the ModernBERT encoder architecture to Arabic, and study the impact of transtokenized embedding",
-    "url": "https://arxiv.org/abs/2603.09982",
+    "title": "LLMs can construct powerful representations and streamline sample-efficient supervised learning",
+    "summary": "arXiv:2603.11679v1 Announce Type: new Abstract: As real-world datasets become increasingly complex and heterogeneous, supervised learning is often bottlenecked by input representation design. Modeling multimodal data for downstream tasks, such as time-series, free text, and structured records, often requires non-trivial domain-specific engineering.",
+    "url": "https://arxiv.org/abs/2603.11679",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "A Two-Stage Architecture for NDA Analysis: LLM-based Segmentation and Transformer-based Clause Classification",
-    "summary": "arXiv:2603.09990v1 Announce Type: cross Abstract: In business-to-business relations, it is common to establish NonDisclosure Agreements (NDAs). However, these documents exhibit significant variation in format, structure, and writing style, making manual analysis slow and error-prone. We propose an architecture based on LLMs to automate the segmenta",
-    "url": "https://arxiv.org/abs/2603.09990",
+    "title": "Explicit Logic Channel for Validation and Enhancement of MLLMs on Zero-Shot Tasks",
+    "summary": "arXiv:2603.11689v1 Announce Type: new Abstract: Frontier Multimodal Large Language Models (MLLMs) exhibit remarkable capabilities in Visual-Language Comprehension (VLC) tasks. However, they are often deployed as zero-shot solution to new tasks in a black-box manner. Validating and understanding the behavior of these models become important for appl",
+    "url": "https://arxiv.org/abs/2603.11689",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "Automated evaluation of LLMs for effective machine translation of Mandarin Chinese to English",
-    "summary": "arXiv:2603.09998v1 Announce Type: cross Abstract: Although Large Language Models (LLMs) have exceptional performance in machine translation, only a limited systematic assessment of translation quality has been done. The challenge lies in automated frameworks, as human-expert-based evaluations can be time-consuming, given the fast-evolving LLMs and ",
-    "url": "https://arxiv.org/abs/2603.09998",
+    "title": "Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework",
+    "summary": "arXiv:2603.11768v1 Announce Type: new Abstract: Long-term memory has emerged as a foundational component of autonomous Large Language Model (LLM) agents, enabling continuous adaptation, lifelong multimodal learning, and sophisticated reasoning. However, as memory systems transition from static retrieval databases to dynamic, agentic mechanisms, cri",
+    "url": "https://arxiv.org/abs/2603.11768",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "ADVERSA: Measuring Multi-Turn Guardrail Degradation and Judge Reliability in Large Language Models",
-    "summary": "arXiv:2603.10068v1 Announce Type: cross Abstract: Most adversarial evaluations of large language model (LLM) safety assess single prompts and report binary pass/fail outcomes, which fails to capture how safety properties evolve under sustained adversarial interaction. We present ADVERSA, an automated red-teaming framework that measures guardrail de",
-    "url": "https://arxiv.org/abs/2603.10068",
+    "title": "DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering",
+    "summary": "arXiv:2603.11798v1 Announce Type: new Abstract: Multi-document Multi-entity Question Answering inherently demands models to track implicit logic between multiple entities across scattered documents. However, existing Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) frameworks suffer from critical limitations: standard RAG's vec",
+    "url": "https://arxiv.org/abs/2603.11798",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "KernelSkill: A Multi-Agent Framework for GPU Kernel Optimization",
-    "summary": "arXiv:2603.10085v1 Announce Type: cross Abstract: Improving GPU kernel efficiency is crucial for advancing AI systems. Recent work has explored leveraging large language models (LLMs) for GPU kernel generation and optimization. However, existing LLM-based kernel optimization pipelines typically rely on opaque, implicitly learned heuristics within t",
-    "url": "https://arxiv.org/abs/2603.10085",
+    "title": "LABSHIELD: A Multimodal Benchmark for Safety-Critical Reasoning and Planning in Scientific Laboratories",
+    "summary": "arXiv:2603.11987v1 Announce Type: new Abstract: Artificial intelligence is increasingly catalyzing scientific automation, with multimodal large language model (MLLM) agents evolving from lab assistants into self-driving lab operators. This transition imposes stringent safety requirements on laboratory environments, where fragile glassware, hazardou",
+    "url": "https://arxiv.org/abs/2603.11987",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "Mashup Learning: Faster Finetuning by Remixing Past Checkpoints",
-    "summary": "arXiv:2603.10156v1 Announce Type: cross Abstract: Finetuning on domain-specific data is a well-established method for enhancing LLM performance on downstream tasks. Training on each dataset produces a new set of model weights, resulting in a multitude of checkpoints saved in-house or on open-source platforms. However, these training artifacts are r",
-    "url": "https://arxiv.org/abs/2603.10156",
+    "title": "Graph Tokenization for Bridging Graphs and Transformers",
+    "summary": "arXiv:2603.11099v1 Announce Type: cross Abstract: The success of large pretrained Transformers is closely tied to tokenizers, which convert raw input into discrete symbols. Extending these models to graph-structured data remains a significant challenge. In this work, we introduce a graph tokenization framework that generates sequential representati",
+    "url": "https://arxiv.org/abs/2603.11099",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "MCP-in-SoS: Risk assessment framework for open-source MCP servers",
-    "summary": "arXiv:2603.10194v1 Announce Type: cross Abstract: Model Context Protocol (MCP) servers have rapidly emerged over the past year as a widely adopted way to enable Large Language Model (LLM) agents to access dynamic, real-world tools. As MCP servers proliferate and become easy to adopt via open-source releases, understanding their security risks becom",
-    "url": "https://arxiv.org/abs/2603.10194",
+    "title": "Task-Conditioned Routing Signatures in Sparse Mixture-of-Experts Transformers",
+    "summary": "arXiv:2603.11114v1 Announce Type: cross Abstract: Sparse Mixture-of-Experts (MoE) architectures enable efficient scaling of large language models through conditional computation, yet the routing mechanisms responsible for expert selection remain poorly understood. In this work, we introduce routing signatures, a vector representation summarizing ex",
+    "url": "https://arxiv.org/abs/2603.11114",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "Adaptive Activation Cancellation for Hallucination Mitigation in Large Language Models",
-    "summary": "arXiv:2603.10195v1 Announce Type: cross Abstract: Large Language Models frequently generate fluent but factually incorrect text. We propose Adaptive Activation Cancellation (AAC), a real-time inference-time framework that treats hallucination-associated neural activations as structured interference within the transformer residual stream, drawing an",
-    "url": "https://arxiv.org/abs/2603.10195",
+    "title": "How Intelligence Emerges: A Minimal Theory of Dynamic Adaptive Coordination",
+    "summary": "arXiv:2603.11560v1 Announce Type: cross Abstract: This paper develops a dynamical theory of adaptive coordination in multi-agent systems. Rather than analyzing coordination through equilibrium optimization or agent-centric learning alone, the framework models agents, incentives, and environment as a recursively closed feedback architecture. A persi",
+    "url": "https://arxiv.org/abs/2603.11560",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation",
-    "summary": "arXiv:2603.10899v1 Announce Type: cross Abstract: Transformer-based large language models (LLMs) rely on key-value (KV) caching to avoid redundant computation during autoregressive inference. While this mechanism greatly improves efficiency, the cache size grows linearly with the input sequence length, quickly becoming a bottleneck for long-context",
-    "url": "https://arxiv.org/abs/2603.10899",
+    "title": "UtilityMax Prompting: A Formal Framework for Multi-Objective Large Language Model Optimization",
+    "summary": "arXiv:2603.11583v1 Announce Type: cross Abstract: The success of a Large Language Model (LLM) task depends heavily on its prompt. Most use-cases specify prompts using natural language, which is inherently ambiguous when multiple objectives must be simultaneously satisfied. In this paper we introduce UtilityMax Prompting, a framework that specifies ",
+    "url": "https://arxiv.org/abs/2603.11583",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "Mindstorms in Natural Language-Based Societies of Mind",
-    "summary": "arXiv:2305.17066v2 Announce Type: replace Abstract: Both Minsky's \"society of mind\" and Schmidhuber's \"learning to think\" inspire diverse societies of large multimodal neural networks (NNs) that solve problems by interviewing each other in a \"mindstorm.\" Recent implementations of NN-based societies of minds consist of large language models (LLMs) a",
-    "url": "https://arxiv.org/abs/2305.17066",
+    "title": "SemBench: A Universal Semantic Framework for LLM Evaluation",
+    "summary": "arXiv:2603.11687v1 Announce Type: cross Abstract: Recent progress in Natural Language Processing (NLP) has been driven by the emergence of Large Language Models (LLMs), which exhibit remarkable generative and reasoning capabilities. However, despite their success, evaluating the true semantic understanding of these models remains a persistent chall",
+    "url": "https://arxiv.org/abs/2603.11687",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "Differential Privacy in Machine Learning: A Survey from Symbolic AI to LLMs",
-    "summary": "arXiv:2506.11687v2 Announce Type: replace-cross Abstract: Machine learning models should not reveal particular information that is not otherwise accessible. Differential privacy provides a formal framework to mitigate privacy risks by ensuring that the inclusion or exclusion of any single data point does not significantly alter the output of an alg",
-    "url": "https://arxiv.org/abs/2506.11687",
+    "title": "EnTransformer: A Deep Generative Transformer for Multivariate Probabilistic Forecasting",
+    "summary": "arXiv:2603.11909v1 Announce Type: cross Abstract: Reliable uncertainty quantification is critical in multivariate time series forecasting problems arising in domains such as energy systems and transportation networks, among many others. Although Transformer-based architectures have recently achieved strong performance for sequence modeling, most pr",
+    "url": "https://arxiv.org/abs/2603.11909",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "REMSA: Foundation Model Selection for Remote Sensing via a Constraint-Aware Agent",
-    "summary": "arXiv:2511.17442v2 Announce Type: replace-cross Abstract: Foundation Models (FMs) are increasingly integrated into remote sensing (RS) pipelines. These models include unimodal vision encoders and multimodal architectures. FMs are adapted to diverse perception tasks, such as image classification, change detection, and visual question answering. Howe",
-    "url": "https://arxiv.org/abs/2511.17442",
+    "title": "Resource-Efficient Iterative LLM-Based NAS with Feedback Memory",
+    "summary": "arXiv:2603.12091v1 Announce Type: cross Abstract: Neural Architecture Search (NAS) automates network design, but conventional methods demand substantial computational resources. We propose a closed-loop pipeline leveraging large language models (LLMs) to iteratively generate, evaluate, and refine convolutional neural network architectures for image",
+    "url": "https://arxiv.org/abs/2603.12091",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "TikArt: Stabilizing Aperture-Guided Fine-Grained Visual Reasoning with Reinforcement Learning",
-    "summary": "arXiv:2602.14482v2 Announce Type: replace-cross Abstract: Fine-grained visual reasoning in multimodal large language models (MLLMs) is bottlenecked by single-pass global image encoding: key evidence often lies in tiny objects, cluttered regions, subtle markings, or dense charts. We present \\textbf{TikArt} (\\textbf{T}h\\textbf{i}n\\textbf{k}ing \\textb",
-    "url": "https://arxiv.org/abs/2602.14482",
+    "title": "SciMDR: Benchmarking and Advancing Scientific Multimodal Document Reasoning",
+    "summary": "arXiv:2603.12249v1 Announce Type: cross Abstract: Constructing scientific multimodal document reasoning datasets for foundation model training involves an inherent trade-off among scale, faithfulness, and realism. To address this challenge, we introduce the synthesize-and-reground framework, a two-stage pipeline comprising: (1) Claim-Centric QA Syn",
+    "url": "https://arxiv.org/abs/2603.12249",
     "source": "Arxiv AI",
-    "published_at": "2026-03-12T04:00:00+00:00",
+    "published_at": "2026-03-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-13T03:18:59.852046+00:00"
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   }
 ]

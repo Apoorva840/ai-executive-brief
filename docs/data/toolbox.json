@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 13, 2026",
+    "last_updated": "March 14, 2026",
     "tools": [
         {
-            "Name": "DeerFlow",
-            "Category": "Agent Framework",
-            "Description": "An open-source super agent harness that orchestrates sub-agents, memory, and sandboxes to handle complex tasks.",
-            "Use_Case": "Building, orchestrating, and deploying autonomous agent systems that handle multi-step tasks from minutes to hours.",
-            "URL": "https://github.com/bytedance/deer-flow"
+            "Name": "Heretic",
+            "Category": "Language Model Optimization",
+            "Description": "A tool that performs fully automatic censorship removal (abliteration) from transformer-based language models without expensive post-training.",
+            "Use_Case": "Decensoring language models while preserving intelligence, suitable for users with minimal technical expertise.",
+            "URL": "https://github.com/p-e-w/heretic"
+        },
+        {
+            "Name": "NeMo Gym",
+            "Category": "Reinforcement Learning",
+            "Description": "A library for building and scaling reinforcement learning training environments specifically for Large Language Models (LLMs).",
+            "Use_Case": "Creating training environments to improve agentic capabilities, reasoning, and instruction-following for LLMs.",
+            "URL": "https://github.com/NVIDIA-NeMo/Gym"
         },
         {
             "Name": "Hindsight",
-            "Category": "Agent Memory",
-            "Description": "An agent memory system that uses biomimetic data structures to enable agents to learn and build mental models over time.",
-            "Use_Case": "Creating agents that require long-term memory, user personalization, and the ability to learn from past experiences.",
+            "Category": "AI Agent Memory",
+            "Description": "An agent memory system that enables AI agents to learn from experience rather than just recalling conversation history.",
+            "Use_Case": "Enhancing agent accuracy in long-term memory tasks by organizing information into world facts, experiences, and learned mental models.",
             "URL": "https://github.com/vectorize-io/hindsight"
-        },
-        {
-            "Name": "BitNet",
-            "Category": "AI Infrastructure",
-            "Description": "Official inference framework for 1-bit LLMs (e.g., BitNet b1.58), offering high-performance, lossless inference on standard hardware.",
-            "Use_Case": "Deploying LLMs efficiently on resource-constrained devices (CPU/Edge) with significantly reduced energy consumption.",
-            "URL": "https://github.com/microsoft/BitNet"
         }
     ]
 }
