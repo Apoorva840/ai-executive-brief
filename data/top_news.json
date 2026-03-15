@@ -1,42 +1,45 @@
 [
   {
-    "title": "COMPASS: The explainable agentic framework for Sovereignty, Sustainability, Compliance, and Ethics",
-    "summary": "arXiv:2603.11277v1 Announce Type: new Abstract: The rapid proliferation of large language model (LLM)-based agentic systems raises critical concerns regarding digital sovereignty, environmental sustainability, regulatory compliance, and ethical alignment. Whilst existing frameworks address individual dimensions in isolation, no unified architecture",
-    "url": "https://arxiv.org/abs/2603.11277",
+    "title": "Hume AI open-sources TADA, a speech model five times faster than rivals with zero hallucinated words",
+    "summary": "Hume AI has open-sourced TADA under the MIT license, a fast speech generation model that processes text and audio in sync and produced zero hallucinations in testing. The article Hume AI open-sources TADA, a speech model five times faster than rivals with zero hallucinated words appeared first on The Decoder.",
+    "url": "https://the-decoder.com/hume-ai-open-sources-tada-a-speech-model-five-times-faster-than-rivals-with-zero-hallucinated-words/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T11:12:35+00:00",
+    "score": 7
+  },
+  {
+    "title": "Ai2 releases new robotics models trained entirely in simulation to skip real-world data collection",
+    "summary": "Robots trained entirely in virtual worlds working in the real world without any real training data. Ai2 says it can be done. The article Ai2 releases new robotics models trained entirely in simulation to skip real-world data collection appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ai2-releases-new-robotics-models-trained-entirely-in-simulation-to-skip-real-world-data-collection/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T10:25:09+00:00",
+    "score": 7
+  },
+  {
+    "title": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
+    "summary": "arXiv:2603.11266v1 Announce Type: new Abstract: Unlearning in Large Language Models (LLMs) aims to enhance safety, mitigate biases, and comply with legal mandates, such as the right to be forgotten. However, existing unlearning methods are brittle: minor query modifications, such as multi-hop reasoning and entity aliasing, can recover supposedly fo",
+    "url": "https://arxiv.org/abs/2603.11266",
     "source": "Arxiv AI",
     "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 8
+    "score": 7,
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
-    "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-03-13T20:00:00+00:00",
-    "score": 7
+    "title": "Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future",
+    "summary": "arXiv:2603.11299v1 Announce Type: new Abstract: This editorial addresses the critical intersection of artificial intelligence (AI) and blockchain technologies, highlighting their contrasting tendencies toward centralization and decentralization, respectively. While AI, particularly with the rise of large language models (LLMs), exhibits a strong ce",
+    "url": "https://arxiv.org/abs/2603.11299",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-13T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   },
   {
-    "title": "Google explains the differences between its three Nano Banana image generation models",
-    "summary": "A new guide from Google breaks down the three Nano Banana image models and when to use each one. The cheaper Nano Banana 2 reportedly delivers 95 percent of Pro's capabilities and can search the web for reference images on its own before generating output. The article Google explains the differences between its three Nano Banana image generation mo",
-    "url": "https://the-decoder.com/google-explains-the-differences-between-its-three-nano-banana-image-generation-models/",
-    "source": "The Decoder",
-    "published_at": "2026-03-13T17:42:00+00:00",
-    "score": 7
-  },
-  {
-    "title": "Ukraine opens its battlefield data to allies to train AI models for autonomous drones",
-    "summary": "Ukraine opens its battlefield data to allies to train AI models for autonomous drones. The article Ukraine opens its battlefield data to allies to train AI models for autonomous drones appeared first on The Decoder.",
-    "url": "https://the-decoder.com/ukraine-provides-allies-with-a-platform-with-combat-data-for-ai-training/",
-    "source": "The Decoder",
-    "published_at": "2026-03-13T13:24:50+00:00",
-    "score": 7
-  },
-  {
-    "title": "E.SUN Bank and IBM build AI governance framework for banking",
-    "summary": "E.SUN Bank is working with IBM to build clearer AI governance rules for how artificial intelligence can be used inside a bank. The effort reflects a wider shift in finance. Many firms already use AI for fraud checks and credit scoring, and some also use it to handle customer service queries. The new challenge is [&#8230;] The post E.SUN Bank and IB",
-    "url": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
-    "source": "AI News",
-    "published_at": "2026-03-13T10:00:00+00:00",
-    "score": 6
+    "title": "LLMs can construct powerful representations and streamline sample-efficient supervised learning",
+    "summary": "arXiv:2603.11679v1 Announce Type: new Abstract: As real-world datasets become increasingly complex and heterogeneous, supervised learning is often bottlenecked by input representation design. Modeling multimodal data for downstream tasks, such as time-series, free text, and structured records, often requires non-trivial domain-specific engineering.",
+    "url": "https://arxiv.org/abs/2603.11679",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-13T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-14T03:16:41.840829+00:00"
   }
 ]

@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 14, 2026",
+    "last_updated": "March 15, 2026",
     "tools": [
         {
+            "Name": "nanochat",
+            "Category": "LLM Training & Fine-Tuning",
+            "Description": "A minimal, hackable experimental harness for training and fine-tuning small LLMs on a single GPU node.",
+            "Use_Case": "Training and testing custom LLMs (e.g., GPT-2 capability models) on limited hardware budgets.",
+            "URL": "https://github.com/karpathy/nanochat"
+        },
+        {
             "Name": "Heretic",
-            "Category": "Language Model Optimization",
-            "Description": "A tool that performs fully automatic censorship removal (abliteration) from transformer-based language models without expensive post-training.",
-            "Use_Case": "Decensoring language models while preserving intelligence, suitable for users with minimal technical expertise.",
+            "Category": "AI Alignment & Safety",
+            "Description": "A tool for fully automatic censorship removal (abliteration) from transformer-based language models.",
+            "Use_Case": "Removing safety alignment or 'censorship' from LLMs without requiring expensive retraining.",
             "URL": "https://github.com/p-e-w/heretic"
         },
         {
-            "Name": "NeMo Gym",
-            "Category": "Reinforcement Learning",
-            "Description": "A library for building and scaling reinforcement learning training environments specifically for Large Language Models (LLMs).",
-            "Use_Case": "Creating training environments to improve agentic capabilities, reasoning, and instruction-following for LLMs.",
-            "URL": "https://github.com/NVIDIA-NeMo/Gym"
-        },
-        {
-            "Name": "Hindsight",
-            "Category": "AI Agent Memory",
-            "Description": "An agent memory system that enables AI agents to learn from experience rather than just recalling conversation history.",
-            "Use_Case": "Enhancing agent accuracy in long-term memory tasks by organizing information into world facts, experiences, and learned mental models.",
-            "URL": "https://github.com/vectorize-io/hindsight"
+            "Name": "browser-use",
+            "Category": "Agentic Automation",
+            "Description": "An open-source library that enables AI agents to interact with and automate tasks on web browsers.",
+            "Use_Case": "Automating web-based tasks like form-filling, data retrieval, or navigating complex UI interfaces.",
+            "URL": "https://github.com/browser-use/browser-use"
         }
     ]
 }

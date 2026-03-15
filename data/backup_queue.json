@@ -1,137 +1,47 @@
 [
   {
-    "title": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
-    "summary": "arXiv:2603.11266v1 Announce Type: new Abstract: Unlearning in Large Language Models (LLMs) aims to enhance safety, mitigate biases, and comply with legal mandates, such as the right to be forgotten. However, existing unlearning methods are brittle: minor query modifications, such as multi-hop reasoning and entity aliasing, can recover supposedly fo",
-    "url": "https://arxiv.org/abs/2603.11266",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
+    "title": "AI spam websites flood the web with false information, and the number is growing fast",
+    "summary": "Newsguard and AI detector Pangram Labs have launched a real-time system to spot so-called \"AI content farms.\" More than 3,000 of these sites have already been flagged, with hundreds more popping up every month, and the number keeps growing. The article AI spam websites flood the web with false information, and the number is growing fast appeared fi",
+    "url": "https://the-decoder.com/ai-spam-websites-flood-the-web-with-false-information-and-the-number-is-growing-fast/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T14:20:06+00:00",
+    "score": 6,
+    "archived_at": "2026-03-15T03:44:05.662822+00:00"
   },
   {
-    "title": "Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future",
-    "summary": "arXiv:2603.11299v1 Announce Type: new Abstract: This editorial addresses the critical intersection of artificial intelligence (AI) and blockchain technologies, highlighting their contrasting tendencies toward centralization and decentralization, respectively. While AI, particularly with the rise of large language models (LLMs), exhibits a strong ce",
-    "url": "https://arxiv.org/abs/2603.11299",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
+    "title": "China pushes OpenClaw \"one-person companies\" with millions in AI agent subsidies",
+    "summary": "At least seven Chinese local governments have launched million-dollar funding programs for OpenClaw projects within days. The goal: \"one-person companies\" where a single founder runs a business with AI agents as employees. The article China pushes OpenClaw &quot;one-person companies&quot; with millions in AI agent subsidies appeared first on The De",
+    "url": "https://the-decoder.com/china-pushes-openclaw-one-person-companies-with-millions-in-ai-agent-subsidies/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T12:19:26+00:00",
+    "score": 6,
+    "archived_at": "2026-03-15T03:44:05.662822+00:00"
   },
   {
-    "title": "LLMs can construct powerful representations and streamline sample-efficient supervised learning",
-    "summary": "arXiv:2603.11679v1 Announce Type: new Abstract: As real-world datasets become increasingly complex and heterogeneous, supervised learning is often bottlenecked by input representation design. Modeling multimodal data for downstream tasks, such as time-series, free text, and structured records, often requires non-trivial domain-specific engineering.",
-    "url": "https://arxiv.org/abs/2603.11679",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
+    "title": "New Top 100 AI list shows a maturing market where ChatGPT leads but users are shopping around",
+    "summary": "Andreessen Horowitz's latest Top 100 ranking of AI consumer products shows a market in flux: ChatGPT still dominates, competitors are growing fast, and global usage is fracturing along geopolitical lines. The article New Top 100 AI list shows a maturing market where ChatGPT leads but users are shopping around appeared first on The Decoder.",
+    "url": "https://the-decoder.com/new-top-100-ai-list-shows-a-market-where-chatgpt-leads-but-no-one-is-loyal/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T09:22:40+00:00",
+    "score": 6,
+    "archived_at": "2026-03-15T03:44:05.662822+00:00"
   },
   {
-    "title": "Explicit Logic Channel for Validation and Enhancement of MLLMs on Zero-Shot Tasks",
-    "summary": "arXiv:2603.11689v1 Announce Type: new Abstract: Frontier Multimodal Large Language Models (MLLMs) exhibit remarkable capabilities in Visual-Language Comprehension (VLC) tasks. However, they are often deployed as zero-shot solution to new tasks in a black-box manner. Validating and understanding the behavior of these models become important for appl",
-    "url": "https://arxiv.org/abs/2603.11689",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
+    "title": "Ex-Anthropic researchers launch AI startup Mirendil to tackle scientific research",
+    "summary": "Former Anthropic researchers launched Mirendil, an AI startup focused on scientific research in biology and materials science. The company is reportedly seeking a $1 billion valuation. The article Ex-Anthropic researchers launch AI startup Mirendil to tackle scientific research appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ex-anthropic-researchers-launch-ai-startup-mirendil-to-tackle-scientific-research/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T08:47:45+00:00",
+    "score": 6,
+    "archived_at": "2026-03-15T03:44:05.662822+00:00"
   },
   {
-    "title": "Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework",
-    "summary": "arXiv:2603.11768v1 Announce Type: new Abstract: Long-term memory has emerged as a foundational component of autonomous Large Language Model (LLM) agents, enabling continuous adaptation, lifelong multimodal learning, and sophisticated reasoning. However, as memory systems transition from static retrieval databases to dynamic, agentic mechanisms, cri",
-    "url": "https://arxiv.org/abs/2603.11768",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
-  },
-  {
-    "title": "DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering",
-    "summary": "arXiv:2603.11798v1 Announce Type: new Abstract: Multi-document Multi-entity Question Answering inherently demands models to track implicit logic between multiple entities across scattered documents. However, existing Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) frameworks suffer from critical limitations: standard RAG's vec",
-    "url": "https://arxiv.org/abs/2603.11798",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
-  },
-  {
-    "title": "LABSHIELD: A Multimodal Benchmark for Safety-Critical Reasoning and Planning in Scientific Laboratories",
-    "summary": "arXiv:2603.11987v1 Announce Type: new Abstract: Artificial intelligence is increasingly catalyzing scientific automation, with multimodal large language model (MLLM) agents evolving from lab assistants into self-driving lab operators. This transition imposes stringent safety requirements on laboratory environments, where fragile glassware, hazardou",
-    "url": "https://arxiv.org/abs/2603.11987",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
-  },
-  {
-    "title": "Graph Tokenization for Bridging Graphs and Transformers",
-    "summary": "arXiv:2603.11099v1 Announce Type: cross Abstract: The success of large pretrained Transformers is closely tied to tokenizers, which convert raw input into discrete symbols. Extending these models to graph-structured data remains a significant challenge. In this work, we introduce a graph tokenization framework that generates sequential representati",
-    "url": "https://arxiv.org/abs/2603.11099",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
-  },
-  {
-    "title": "Task-Conditioned Routing Signatures in Sparse Mixture-of-Experts Transformers",
-    "summary": "arXiv:2603.11114v1 Announce Type: cross Abstract: Sparse Mixture-of-Experts (MoE) architectures enable efficient scaling of large language models through conditional computation, yet the routing mechanisms responsible for expert selection remain poorly understood. In this work, we introduce routing signatures, a vector representation summarizing ex",
-    "url": "https://arxiv.org/abs/2603.11114",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
-  },
-  {
-    "title": "How Intelligence Emerges: A Minimal Theory of Dynamic Adaptive Coordination",
-    "summary": "arXiv:2603.11560v1 Announce Type: cross Abstract: This paper develops a dynamical theory of adaptive coordination in multi-agent systems. Rather than analyzing coordination through equilibrium optimization or agent-centric learning alone, the framework models agents, incentives, and environment as a recursively closed feedback architecture. A persi",
-    "url": "https://arxiv.org/abs/2603.11560",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
-  },
-  {
-    "title": "UtilityMax Prompting: A Formal Framework for Multi-Objective Large Language Model Optimization",
-    "summary": "arXiv:2603.11583v1 Announce Type: cross Abstract: The success of a Large Language Model (LLM) task depends heavily on its prompt. Most use-cases specify prompts using natural language, which is inherently ambiguous when multiple objectives must be simultaneously satisfied. In this paper we introduce UtilityMax Prompting, a framework that specifies ",
-    "url": "https://arxiv.org/abs/2603.11583",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
-  },
-  {
-    "title": "SemBench: A Universal Semantic Framework for LLM Evaluation",
-    "summary": "arXiv:2603.11687v1 Announce Type: cross Abstract: Recent progress in Natural Language Processing (NLP) has been driven by the emergence of Large Language Models (LLMs), which exhibit remarkable generative and reasoning capabilities. However, despite their success, evaluating the true semantic understanding of these models remains a persistent chall",
-    "url": "https://arxiv.org/abs/2603.11687",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
-  },
-  {
-    "title": "EnTransformer: A Deep Generative Transformer for Multivariate Probabilistic Forecasting",
-    "summary": "arXiv:2603.11909v1 Announce Type: cross Abstract: Reliable uncertainty quantification is critical in multivariate time series forecasting problems arising in domains such as energy systems and transportation networks, among many others. Although Transformer-based architectures have recently achieved strong performance for sequence modeling, most pr",
-    "url": "https://arxiv.org/abs/2603.11909",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
-  },
-  {
-    "title": "Resource-Efficient Iterative LLM-Based NAS with Feedback Memory",
-    "summary": "arXiv:2603.12091v1 Announce Type: cross Abstract: Neural Architecture Search (NAS) automates network design, but conventional methods demand substantial computational resources. We propose a closed-loop pipeline leveraging large language models (LLMs) to iteratively generate, evaluate, and refine convolutional neural network architectures for image",
-    "url": "https://arxiv.org/abs/2603.12091",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
-  },
-  {
-    "title": "SciMDR: Benchmarking and Advancing Scientific Multimodal Document Reasoning",
-    "summary": "arXiv:2603.12249v1 Announce Type: cross Abstract: Constructing scientific multimodal document reasoning datasets for foundation model training involves an inherent trade-off among scale, faithfulness, and realism. To address this challenge, we introduce the synthesize-and-reground framework, a two-stage pipeline comprising: (1) Claim-Centric QA Syn",
-    "url": "https://arxiv.org/abs/2603.12249",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-14T03:16:41.840829+00:00"
+    "title": "Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs",
+    "summary": "Meta is reportedly planning massive layoffs to finance its expensive AI investments. The article Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs appeared first on The Decoder.",
+    "url": "https://the-decoder.com/meta-reportedly-plans-to-cut-up-to-20-percent-of-its-workforce-as-600-billion-ai-bet-drives-need-to-offset-costs/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T09:55:59+00:00",
+    "score": 5,
+    "archived_at": "2026-03-15T03:44:05.662822+00:00"
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "title": "AI spam websites flood the web with false information, and the number is growing fast",
+    "summary": "Newsguard and AI detector Pangram Labs have launched a real-time system to spot so-called \"AI content farms.\" More than 3,000 of these sites have already been flagged, with hundreds more popping up every month, and the number keeps growing. The article AI spam websites flood the web with false information, and the number is growing fast appeared fi",
+    "url": "https://the-decoder.com/ai-spam-websites-flood-the-web-with-false-information-and-the-number-is-growing-fast/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T14:20:06+00:00",
+    "score": 6,
+    "archived_at": "2026-03-15T03:44:05.662822+00:00"
+  },
+  {
+    "title": "China pushes OpenClaw \"one-person companies\" with millions in AI agent subsidies",
+    "summary": "At least seven Chinese local governments have launched million-dollar funding programs for OpenClaw projects within days. The goal: \"one-person companies\" where a single founder runs a business with AI agents as employees. The article China pushes OpenClaw &quot;one-person companies&quot; with millions in AI agent subsidies appeared first on The De",
+    "url": "https://the-decoder.com/china-pushes-openclaw-one-person-companies-with-millions-in-ai-agent-subsidies/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T12:19:26+00:00",
+    "score": 6,
+    "archived_at": "2026-03-15T03:44:05.662822+00:00"
+  },
+  {
+    "title": "New Top 100 AI list shows a maturing market where ChatGPT leads but users are shopping around",
+    "summary": "Andreessen Horowitz's latest Top 100 ranking of AI consumer products shows a market in flux: ChatGPT still dominates, competitors are growing fast, and global usage is fracturing along geopolitical lines. The article New Top 100 AI list shows a maturing market where ChatGPT leads but users are shopping around appeared first on The Decoder.",
+    "url": "https://the-decoder.com/new-top-100-ai-list-shows-a-market-where-chatgpt-leads-but-no-one-is-loyal/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T09:22:40+00:00",
+    "score": 6,
+    "archived_at": "2026-03-15T03:44:05.662822+00:00"
+  },
+  {
+    "title": "Ex-Anthropic researchers launch AI startup Mirendil to tackle scientific research",
+    "summary": "Former Anthropic researchers launched Mirendil, an AI startup focused on scientific research in biology and materials science. The company is reportedly seeking a $1 billion valuation. The article Ex-Anthropic researchers launch AI startup Mirendil to tackle scientific research appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ex-anthropic-researchers-launch-ai-startup-mirendil-to-tackle-scientific-research/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T08:47:45+00:00",
+    "score": 6,
+    "archived_at": "2026-03-15T03:44:05.662822+00:00"
+  },
+  {
+    "title": "Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs",
+    "summary": "Meta is reportedly planning massive layoffs to finance its expensive AI investments. The article Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs appeared first on The Decoder.",
+    "url": "https://the-decoder.com/meta-reportedly-plans-to-cut-up-to-20-percent-of-its-workforce-as-600-billion-ai-bet-drives-need-to-offset-costs/",
+    "source": "The Decoder",
+    "published_at": "2026-03-14T09:55:59+00:00",
+    "score": 5,
+    "archived_at": "2026-03-15T03:44:05.662822+00:00"
+  },
+  {
     "title": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
     "summary": "arXiv:2603.11266v1 Announce Type: new Abstract: Unlearning in Large Language Models (LLMs) aims to enhance safety, mitigate biases, and comply with legal mandates, such as the right to be forgotten. However, existing unlearning methods are brittle: minor query modifications, such as multi-hop reasoning and entity aliasing, can recover supposedly fo",
     "url": "https://arxiv.org/abs/2603.11266",
@@ -2653,50 +2698,5 @@
     "published_at": "2026-02-25T05:00:00+00:00",
     "score": 7,
     "archived_at": "2026-02-25T08:34:37.673672+00:00"
-  },
-  {
-    "title": "Characterizing State Space Model and Hybrid Language Model Performance with Long Context",
-    "summary": "arXiv:2507.12442v3 Announce Type: replace-cross Abstract: Emerging applications such as AR are driving demands for machine intelligence capable of processing continuous and/or long-context inputs on local devices. However, currently dominant models based on Transformer architecture suffers from the quadratic computational and memory overhead, which",
-    "url": "https://arxiv.org/abs/2507.12442",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-25T08:34:37.673672+00:00"
-  },
-  {
-    "title": "Silent Inconsistency in Data-Parallel Full Fine-Tuning: Diagnosing Worker-Level Optimization Misalignment",
-    "summary": "arXiv:2602.14462v2 Announce Type: replace-cross Abstract: Data-parallel (DP) training with synchronous all-reduce is a dominant paradigm for full-parameter fine-tuning of large language models (LLMs). While parameter synchronization guarantees numerical equivalence of model weights after each iteration, it does not necessarily imply alignment of wo",
-    "url": "https://arxiv.org/abs/2602.14462",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-25T08:34:37.673672+00:00"
-  },
-  {
-    "title": "From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production",
-    "summary": "arXiv:2602.20558v1 Announce Type: new Abstract: Large language models (LLMs) are promising backbones for generative recommender systems, yet a key challenge remains underexplored: verbalization, i.e., converting structured user interaction logs into effective natural language inputs. Existing methods rely on rigid templates that simply concatenate ",
-    "url": "https://arxiv.org/abs/2602.20558",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-02-25T08:34:37.673672+00:00"
-  },
-  {
-    "title": "Could AI Data Centers Be Moved to Outer Space?",
-    "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
-    "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
-    "source": "Wired AI",
-    "published_at": "2026-02-20T12:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-02-21T05:04:55.318982+00:00"
-  },
-  {
-    "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
-    "summary": "arXiv:2602.16727v1 Announce Type: new Abstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat large language models (LLMs) as human agents to simulate realistic mobility behaviors using structured reasoning, but their high computational cost l",
-    "url": "https://arxiv.org/abs/2602.16727",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-20T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-21T03:09:31.599259+00:00"
   }
 ]
