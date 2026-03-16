@@ -1,5 +1,32 @@
 [
   {
+    "title": "AI consultant uses ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog's cancer",
+    "summary": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer. The story went viral after high-profile AI executives like OpenAI's Greg Brockman and Deepmind's Demis Hassabis shared it as proof of what AI can already do. The article AI consultant uses ChatGPT, AlphaFold, and Grok to ",
+    "url": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/",
+    "source": "The Decoder",
+    "published_at": "2026-03-15T16:29:53+00:00",
+    "score": 6,
+    "archived_at": "2026-03-16T03:48:03.484220+00:00"
+  },
+  {
+    "title": "RL agents go from face-planting to parkour when researchers keep adding network layers",
+    "summary": "While most reinforcement learning algorithms use two to five network layers, a research team achieved 2x to 50x performance gains by scaling network depth up to 1,024 layers in a self-supervised agent and saw entirely new behaviors emerge in the process. The article RL agents go from face-planting to parkour when researchers keep adding network lay",
+    "url": "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/",
+    "source": "The Decoder",
+    "published_at": "2026-03-15T11:17:26+00:00",
+    "score": 6,
+    "archived_at": "2026-03-16T03:48:03.484220+00:00"
+  },
+  {
+    "title": "Codewall's AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot's guardrails",
+    "summary": "AI agents can hack systems, defend them, and be hacked themselves. Codewall's one-hour takeover of an AI recruiting platform shows just how tangled this new security landscape has become. The article Codewall&#039;s AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot&#039;s guardrails appeared first on The Decoder.",
+    "url": "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/",
+    "source": "The Decoder",
+    "published_at": "2026-03-15T09:02:06+00:00",
+    "score": 6,
+    "archived_at": "2026-03-16T03:48:03.484220+00:00"
+  },
+  {
     "title": "AI spam websites flood the web with false information, and the number is growing fast",
     "summary": "Newsguard and AI detector Pangram Labs have launched a real-time system to spot so-called \"AI content farms.\" More than 3,000 of these sites have already been flagged, with hundreds more popping up every month, and the number keeps growing. The article AI spam websites flood the web with false information, and the number is growing fast appeared fi",
     "url": "https://the-decoder.com/ai-spam-websites-flood-the-web-with-false-information-and-the-number-is-growing-fast/",
@@ -2667,33 +2694,6 @@
     "title": "CrystaL: Spontaneous Emergence of Visual Latents in MLLMs",
     "summary": "arXiv:2602.20980v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have achieved remarkable performance by integrating powerful language backbones with large-scale visual encoders. Among these, latent Chain-of-Thought (CoT) methods enable implicit reasoning in continuous hidden states, facilitating seamless vision-language i",
     "url": "https://arxiv.org/abs/2602.20980",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-25T08:34:37.673672+00:00"
-  },
-  {
-    "title": "BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents",
-    "summary": "arXiv:2602.12876v2 Announce Type: replace Abstract: Multimodal large language models (MLLMs), equipped with increasingly advanced planning and tool-use capabilities, are evolving into autonomous agents capable of performing multimodal web browsing and deep search in open-world environments. However, existing benchmarks for multimodal browsing remai",
-    "url": "https://arxiv.org/abs/2602.12876",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-25T08:34:37.673672+00:00"
-  },
-  {
-    "title": "HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models",
-    "summary": "arXiv:2506.03922v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated significant potential to advance a broad range of domains. However, current benchmarks for evaluating MLLMs primarily emphasize general knowledge and vertical step-by-step reasoning typical of STEM disciplines, while overlooking the ",
-    "url": "https://arxiv.org/abs/2506.03922",
-    "source": "Arxiv AI",
-    "published_at": "2026-02-25T05:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-02-25T08:34:37.673672+00:00"
-  },
-  {
-    "title": "K-Function: Joint Pronunciation Transcription and Feedback for Evaluating Kids Language Function",
-    "summary": "arXiv:2507.03043v3 Announce Type: replace-cross Abstract: Evaluating young children's language is challenging for automatic speech recognizers due to high-pitched voices, prolonged sounds, and limited data. We introduce K-Function, a framework that combines accurate sub-word transcription with objective, Large Language Model (LLM)-driven scoring. I",
-    "url": "https://arxiv.org/abs/2507.03043",
     "source": "Arxiv AI",
     "published_at": "2026-02-25T05:00:00+00:00",
     "score": 7,

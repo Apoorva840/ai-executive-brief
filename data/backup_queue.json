@@ -1,47 +1,29 @@
 [
   {
-    "title": "AI spam websites flood the web with false information, and the number is growing fast",
-    "summary": "Newsguard and AI detector Pangram Labs have launched a real-time system to spot so-called \"AI content farms.\" More than 3,000 of these sites have already been flagged, with hundreds more popping up every month, and the number keeps growing. The article AI spam websites flood the web with false information, and the number is growing fast appeared fi",
-    "url": "https://the-decoder.com/ai-spam-websites-flood-the-web-with-false-information-and-the-number-is-growing-fast/",
+    "title": "AI consultant uses ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog's cancer",
+    "summary": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer. The story went viral after high-profile AI executives like OpenAI's Greg Brockman and Deepmind's Demis Hassabis shared it as proof of what AI can already do. The article AI consultant uses ChatGPT, AlphaFold, and Grok to ",
+    "url": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/",
     "source": "The Decoder",
-    "published_at": "2026-03-14T14:20:06+00:00",
+    "published_at": "2026-03-15T16:29:53+00:00",
     "score": 6,
-    "archived_at": "2026-03-15T03:44:05.662822+00:00"
+    "archived_at": "2026-03-16T03:48:03.484220+00:00"
   },
   {
-    "title": "China pushes OpenClaw \"one-person companies\" with millions in AI agent subsidies",
-    "summary": "At least seven Chinese local governments have launched million-dollar funding programs for OpenClaw projects within days. The goal: \"one-person companies\" where a single founder runs a business with AI agents as employees. The article China pushes OpenClaw &quot;one-person companies&quot; with millions in AI agent subsidies appeared first on The De",
-    "url": "https://the-decoder.com/china-pushes-openclaw-one-person-companies-with-millions-in-ai-agent-subsidies/",
+    "title": "RL agents go from face-planting to parkour when researchers keep adding network layers",
+    "summary": "While most reinforcement learning algorithms use two to five network layers, a research team achieved 2x to 50x performance gains by scaling network depth up to 1,024 layers in a self-supervised agent and saw entirely new behaviors emerge in the process. The article RL agents go from face-planting to parkour when researchers keep adding network lay",
+    "url": "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/",
     "source": "The Decoder",
-    "published_at": "2026-03-14T12:19:26+00:00",
+    "published_at": "2026-03-15T11:17:26+00:00",
     "score": 6,
-    "archived_at": "2026-03-15T03:44:05.662822+00:00"
+    "archived_at": "2026-03-16T03:48:03.484220+00:00"
   },
   {
-    "title": "New Top 100 AI list shows a maturing market where ChatGPT leads but users are shopping around",
-    "summary": "Andreessen Horowitz's latest Top 100 ranking of AI consumer products shows a market in flux: ChatGPT still dominates, competitors are growing fast, and global usage is fracturing along geopolitical lines. The article New Top 100 AI list shows a maturing market where ChatGPT leads but users are shopping around appeared first on The Decoder.",
-    "url": "https://the-decoder.com/new-top-100-ai-list-shows-a-market-where-chatgpt-leads-but-no-one-is-loyal/",
+    "title": "Codewall's AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot's guardrails",
+    "summary": "AI agents can hack systems, defend them, and be hacked themselves. Codewall's one-hour takeover of an AI recruiting platform shows just how tangled this new security landscape has become. The article Codewall&#039;s AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot&#039;s guardrails appeared first on The Decoder.",
+    "url": "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/",
     "source": "The Decoder",
-    "published_at": "2026-03-14T09:22:40+00:00",
+    "published_at": "2026-03-15T09:02:06+00:00",
     "score": 6,
-    "archived_at": "2026-03-15T03:44:05.662822+00:00"
-  },
-  {
-    "title": "Ex-Anthropic researchers launch AI startup Mirendil to tackle scientific research",
-    "summary": "Former Anthropic researchers launched Mirendil, an AI startup focused on scientific research in biology and materials science. The company is reportedly seeking a $1 billion valuation. The article Ex-Anthropic researchers launch AI startup Mirendil to tackle scientific research appeared first on The Decoder.",
-    "url": "https://the-decoder.com/ex-anthropic-researchers-launch-ai-startup-mirendil-to-tackle-scientific-research/",
-    "source": "The Decoder",
-    "published_at": "2026-03-14T08:47:45+00:00",
-    "score": 6,
-    "archived_at": "2026-03-15T03:44:05.662822+00:00"
-  },
-  {
-    "title": "Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs",
-    "summary": "Meta is reportedly planning massive layoffs to finance its expensive AI investments. The article Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs appeared first on The Decoder.",
-    "url": "https://the-decoder.com/meta-reportedly-plans-to-cut-up-to-20-percent-of-its-workforce-as-600-billion-ai-bet-drives-need-to-offset-costs/",
-    "source": "The Decoder",
-    "published_at": "2026-03-14T09:55:59+00:00",
-    "score": 5,
-    "archived_at": "2026-03-15T03:44:05.662822+00:00"
+    "archived_at": "2026-03-16T03:48:03.484220+00:00"
   }
 ]

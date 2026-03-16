@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 15, 2026",
+    "last_updated": "March 16, 2026",
     "tools": [
         {
-            "Name": "nanochat",
-            "Category": "LLM Training & Fine-Tuning",
-            "Description": "A minimal, hackable experimental harness for training and fine-tuning small LLMs on a single GPU node.",
-            "Use_Case": "Training and testing custom LLMs (e.g., GPT-2 capability models) on limited hardware budgets.",
-            "URL": "https://github.com/karpathy/nanochat"
+            "Name": "MetaGPT",
+            "Category": "Multi-Agent Framework",
+            "Description": "A multi-agent framework that simulates a software company by assigning specific roles (product managers, architects, engineers) to LLMs.",
+            "Use_Case": "Automating the software development process from requirement analysis to code generation.",
+            "URL": "https://github.com/FoundationAgents/MetaGPT"
         },
         {
-            "Name": "Heretic",
-            "Category": "AI Alignment & Safety",
-            "Description": "A tool for fully automatic censorship removal (abliteration) from transformer-based language models.",
-            "Use_Case": "Removing safety alignment or 'censorship' from LLMs without requiring expensive retraining.",
-            "URL": "https://github.com/p-e-w/heretic"
+            "Name": "MLX-Audio",
+            "Category": "Audio Processing",
+            "Description": "An audio processing library built for Apple Silicon, offering efficient text-to-speech, speech-to-text, and speech-to-speech capabilities.",
+            "Use_Case": "Performing fast, local audio analysis and synthesis on M-series Mac hardware.",
+            "URL": "https://github.com/Blaizzy/mlx-audio"
         },
         {
-            "Name": "browser-use",
-            "Category": "Agentic Automation",
-            "Description": "An open-source library that enables AI agents to interact with and automate tasks on web browsers.",
-            "Use_Case": "Automating web-based tasks like form-filling, data retrieval, or navigating complex UI interfaces.",
-            "URL": "https://github.com/browser-use/browser-use"
+            "Name": "Hindsight",
+            "Category": "Agent Memory",
+            "Description": "An agent memory system designed for learning over time rather than just recalling conversation history, utilizing biomimetic data structures.",
+            "Use_Case": "Enabling AI agents to develop long-term understanding, retain knowledge, and build mental models in production environments.",
+            "URL": "https://github.com/vectorize-io/hindsight"
         }
     ]
 }
