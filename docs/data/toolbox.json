@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 17, 2026",
+    "last_updated": "March 18, 2026",
     "tools": [
         {
             "Name": "OpenViking",
-            "Category": "Context Database / AI Memory",
-            "Description": "An open-source context database for AI Agents that manages memory, resources, and skills using a file system paradigm.",
-            "Use_Case": "Unified context management for complex AI agents to reduce token usage and improve retrieval.",
+            "Category": "AI Infrastructure / Context Database",
+            "Description": "An open-source context database for AI agents that unifies management of memories, resources, and skills using a file system paradigm.",
+            "Use_Case": "Unified context management for complex agents, enabling hierarchical context loading, recursive retrieval, and automated session memory iteration.",
             "URL": "https://github.com/volcengine/OpenViking"
         },
         {
-            "Name": "DimOS",
-            "Category": "Robotics Operating System",
-            "Description": "An agent-native operating system for physical robotics (humanoids, quadrupeds, drones) that allows building multi-agent systems via natural language.",
-            "Use_Case": "Developing agentic control for physical hardware without traditional complex robotics middleware.",
-            "URL": "https://github.com/dimensionalOS/dimos"
+            "Name": "Deep Agents",
+            "Category": "Agent Framework / Harness",
+            "Description": "An opinionated, batteries-included agent harness built with LangChain and LangGraph for rapid agent development and deployment.",
+            "Use_Case": "Building and deploying complex agents with built-in capabilities for planning, file system access, shell execution, and sub-agent delegation.",
+            "URL": "https://github.com/langchain-ai/deepagents"
         },
         {
-            "Name": "Heretic",
-            "Category": "Model Alignment / Censorship Removal",
-            "Description": "A fully automatic tool for removing safety alignment/censorship from transformer-based language models using parameter-optimized directional ablation.",
-            "Use_Case": "Removing censorship from LLMs while preserving model intelligence and capabilities.",
-            "URL": "https://github.com/p-e-w/heretic"
+            "Name": "MiroThinker",
+            "Category": "Research Agents / AI Models",
+            "Description": "A series of deep research agents optimized for complex research, prediction tasks, and long-horizon reasoning.",
+            "Use_Case": "Advanced research tasks requiring long-context reasoning, web navigation, and deep multi-step analysis using interactive scaling.",
+            "URL": "https://github.com/MiroMindAI/MiroThinker"
         }
     ]
 }

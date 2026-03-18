@@ -1,26 +1,26 @@
 {
-    "last_updated": "Today's Date",
+    "last_updated": "2024-03-08",
     "papers": [
         {
-            "title": "Efficient Reasoning with Balanced Thinking",
-            "innovation": "Addresses overthinking and underthinking in Large Reasoning Models (LRMs) to significantly improve reasoning efficiency. It proposes methods to prevent redundant computational steps on simple problems while ensuring sufficient exploration for complex ones.",
-            "benchmarks": "Implies improved computational efficiency (e.g., reduced reasoning steps, lower token usage) and potentially higher accuracy or faster task completion by optimizing the balance of exploration and exploitation in LRM reasoning.",
-            "use_case": "Optimizing the performance and cost-effectiveness of LLM-based reasoning systems, reducing inference latency, and making AI systems more resource-efficient for deployment in production environments.",
-            "url": "https://arxiv.org/abs/2603.12372"
+            "title": "ILION: Deterministic Pre-Execution Safety Gates for Agentic AI Systems",
+            "innovation": "Introduces \"deterministic pre-execution safety gates\" to mitigate safety risks for autonomous AI agents performing real-world actions. This moves beyond traditional content moderation to address the actual execution phase, crucial for preventing unintended or harmful consequences in physical and digital environments.",
+            "benchmarks": "Not explicitly stated, but the effectiveness would be measured by the reduction in harmful real-world actions, successful containment of agentic failures, and improved reliability of deployed autonomous AI systems.",
+            "use_case": "Ensuring the safety and preventing dangerous or unintended real-world actions (e.g., filesystem operations, API calls, database modifications, financial transactions) by autonomous AI agents. Essential for the responsible and secure deployment of any agentic AI system.",
+            "url": "https://arxiv.org/abs/2603.13247"
         },
         {
-            "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
-            "innovation": "Proposes ToolTree, a novel framework that employs Dual-Feedback Monte Carlo Tree Search (MCTS) and Bidirectional Pruning for efficient and robust LLM agent tool planning. This overcomes the limitations of greedy, reactive tool selection in complex, multi-step tasks.",
-            "benchmarks": "Likely demonstrates improved success rates on complex multi-tool tasks, enhanced planning efficiency (e.g., faster plan generation, fewer planning tokens), and increased robustness compared to existing reactive planning strategies.",
-            "use_case": "Building highly capable, reliable, and efficient LLM agents that can intelligently interact with diverse external tools to solve complex, real-world problems requiring multi-step reasoning and action.",
-            "url": "https://arxiv.org/abs/2603.12740"
+            "title": "A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems",
+            "innovation": "Proposes a dual-path generative framework specifically designed for low-latency, GDPR-explainable zero-day fraud detection in high-frequency banking environments. It effectively tackles challenges like extreme class imbalance and the complete lack of historical data for novel attack patterns.",
+            "benchmarks": "Not explicitly named, but the framework aims to significantly improve detection rates for 'zero-day attacks' while rigorously adhering to 'low-latency' requirements and providing regulatory-compliant explainability.",
+            "use_case": "Real-time identification and explanation of novel fraud attempts in financial transactions within banking systems, balancing rapid detection speed with regulatory transparency and compliance mandates (e.g., GDPR).",
+            "url": "https://arxiv.org/abs/2603.13237"
         },
         {
-            "title": "AI Model Modulation with Logits Redistribution",
-            "innovation": "Introduces AIM, a novel model modulation paradigm using logits redistribution, which enables a single large-scale model to exhibit diverse behaviors dynamically. This eliminates the need to maintain and deploy multiple specialized versions of the same model.",
-            "benchmarks": "While not explicitly detailed in the abstract, the approach implies significant efficiency gains in model management and deployment (e.g., reduced memory footprint, simplified update cycles, lower operational costs) compared to managing separate fine-tuned models for different requirements.",
-            "use_case": "Streamlining the deployment and customization of large AI models, enabling personalized AI experiences, dynamically adapting model behavior to diverse user requirements, and reducing the operational overhead associated with managing multiple specialized models in production.",
-            "url": "https://arxiv.org/abs/2603.12755"
+            "title": "Multi-Axis Trust Modeling for Interpretable Account Hijacking Detection",
+            "innovation": "Presents a \"Hadith-inspired multi-axis trust modeling framework\" that uses interpretable, multidimensional criteria to assess the trustworthiness of information sources for account hijacking detection. This approach provides a nuanced evaluation instead of relying on a single, opaque anomaly score.",
+            "benchmarks": "Not explicitly named; however, performance would be evaluated by improved accuracy in detecting account hijacking and, crucially, the human interpretability and actionability of the generated multi-axis trust scores for security analysts.",
+            "use_case": "Enhancing cybersecurity by detecting account hijacking with transparent, multi-faceted trust assessments. This framework aids security analysts in investigating incidents, debugging models, and meeting compliance requirements for sensitive user-facing systems.",
+            "url": "https://arxiv.org/abs/2603.13246"
         }
     ]
 }
