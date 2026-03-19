@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 18, 2026",
+    "last_updated": "March 19, 2026",
     "tools": [
         {
-            "Name": "OpenViking",
-            "Category": "AI Infrastructure / Context Database",
-            "Description": "An open-source context database for AI agents that unifies management of memories, resources, and skills using a file system paradigm.",
-            "Use_Case": "Unified context management for complex agents, enabling hierarchical context loading, recursive retrieval, and automated session memory iteration.",
-            "URL": "https://github.com/volcengine/OpenViking"
+            "Name": "Unsloth",
+            "Category": "AI Training & Inference",
+            "Description": "A platform for training and running open models (e.g., Qwen, DeepSeek, Llama) with improved speed and lower memory usage.",
+            "Use_Case": "Fine-tuning LLMs on consumer hardware and deploying local models.",
+            "URL": "https://github.com/unslothai/unsloth"
         },
         {
-            "Name": "Deep Agents",
-            "Category": "Agent Framework / Harness",
-            "Description": "An opinionated, batteries-included agent harness built with LangChain and LangGraph for rapid agent development and deployment.",
-            "Use_Case": "Building and deploying complex agents with built-in capabilities for planning, file system access, shell execution, and sub-agent delegation.",
-            "URL": "https://github.com/langchain-ai/deepagents"
+            "Name": "Open SWE",
+            "Category": "AI Coding Agent",
+            "Description": "An open-source framework for building internal coding agents that can interact with repositories, Slack, and Linear.",
+            "Use_Case": "Building autonomous, repository-aware engineering agents for code maintenance and PR generation.",
+            "URL": "https://github.com/langchain-ai/open-swe"
         },
         {
-            "Name": "MiroThinker",
-            "Category": "Research Agents / AI Models",
-            "Description": "A series of deep research agents optimized for complex research, prediction tasks, and long-horizon reasoning.",
-            "Use_Case": "Advanced research tasks requiring long-context reasoning, web navigation, and deep multi-step analysis using interactive scaling.",
-            "URL": "https://github.com/MiroMindAI/MiroThinker"
+            "Name": "MaxKB",
+            "Category": "Enterprise RAG Platform",
+            "Description": "An open-source platform for building enterprise-grade agents with Retrieval-Augmented Generation (RAG) pipelines.",
+            "Use_Case": "Creating smart customer service bots and corporate internal knowledge base assistants.",
+            "URL": "https://github.com/1Panel-dev/MaxKB"
         }
     ]
 }

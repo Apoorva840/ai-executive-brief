@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 18, 2026",
+    "last_updated": "March 19, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Deterministic Pre-Execution Safety Gates",
-            "definition": "These are rule-based, non-probabilistic validation layers that intercept AI agent commands before they are committed to a system. Unlike standard AI filters that predict if a prompt is 'safe,' these gates apply rigid logic to verify that an agent's proposed action\u2014such as a wire transfer or a database deletion\u2014strictly adheres to hard-coded corporate policy and security protocols.",
-            "analogy": "Think of it like an Automatic Emergency Braking (AEB) system in a car: even if the AI driver (the model) decides to accelerate toward an obstacle, the deterministic hardware sensor overrides the software and stops the vehicle to prevent a collision.",
-            "business_value": "This moves AI from a 'hallucination risk' to an 'enterprise-grade tool.' It allows CEOs to authorize autonomous agents for high-stakes financial and operational tasks by ensuring the AI cannot physically violate core business rules, regardless of its internal reasoning."
+            "term": "Neural-Symbolic Logic",
+            "definition": "This architecture merges the pattern-recognition capabilities of neural networks with the rule-based, mathematical rigor of symbolic AI. It allows models to fill in gaps in incomplete data using intuition while following a transparent, 'human-readable' logic chain for the final output.",
+            "analogy": "Think of a professional chef (neural) who cooks by instinct and taste, but is paired with a strict health inspector (symbolic) who ensures every movement follows a precise, written safety protocol.",
+            "business_value": "It solves the 'Black Box' problem. By providing an audit trail for AI reasoning, it allows CEOs to deploy AI in high-stakes regulated environments like insurance or clinical trials where 'the AI said so' is not a legal defense."
         },
         {
-            "term": "Diffusion Language Models (dLLMs) with Plan Conditioning",
-            "definition": "Traditional LLMs generate text token-by-token in a linear sequence, but dLLMs work by starting with a 'blur' of noise and iteratively refining it into a clear message. By adding 'Plan Conditioning,' the model generates a logical blueprint first, ensuring that all parts of a complex multi-step reasoning task are coordinated simultaneously rather than being made up on the fly.",
-            "analogy": "A standard LLM is like a chef who starts cooking without a recipe, deciding the next ingredient only after the previous one is in the pan. A dLLM with plan conditioning is like a chef who sketches a complete plating diagram first, then gradually brings the entire dish into focus all at once.",
-            "business_value": "This architecture solves the 'coherence gap' in long-form AI reasoning. For the bottom line, this means fewer errors in complex document generation, legal analysis, and strategic planning where the end of the document must logically align with the beginning."
+            "term": "Comprehension-Gated Agent Economy",
+            "definition": "A framework that prevents AI agents from executing financial or operational actions\u2014such as making purchases or signing contracts\u2014unless they pass a 'comprehension gate.' This gate verifies that the agent understands the context and risks of the transaction, rather than just following a prompt blindly.",
+            "analogy": "Imagine a corporate credit card that only unlocks if the car's dashboard can prove the driver isn't just awake, but is fully aware of the speed limit, weather conditions, and the specific route's hazards.",
+            "business_value": "This is the ultimate 'kill switch' for financial liability. It prevents 'rogue agent' scenarios where an AI might accidentally drain a budget or execute a disastrous contract because of a minor prompt hallucination."
         },
         {
-            "term": "Zero-Day Fraud Detection via Dual-Path Generative Frameworks",
-            "definition": "This approach uses generative models to simulate thousands of hypothetical, never-before-seen fraud scenarios ('zero-day' attacks) to train detection systems. One path monitors real-time transactions for known patterns, while the second 'generative path' identifies anomalies that resemble the simulated threats, allowing the system to catch novel scams without needing historical data.",
-            "analogy": "It is like a high-end kitchen security system that doesn't just look for known burglars, but uses a simulator to imagine every possible new way a thief might try to sneak through the vents or the plumbing, then sets traps for those specific imaginary paths.",
-            "business_value": "In high-frequency environments like banking, this reduces 'first-mover' losses from new cyber-attacks. It allows institutions to maintain low-latency operations while meeting strict regulatory requirements for explainability and proactive risk management."
+            "term": "Latent Factual Memory (Compiled Memory)",
+            "definition": "Instead of storing every past interaction as bulky text that needs to be re-read constantly (which is slow and expensive), this technique compresses experiences into dense 'latent' representations. It focuses on 'compiling' the essence of what worked into precise instructions for future tasks.",
+            "analogy": "Instead of having a kitchen counter cluttered with 500 full-length cookbooks and every grocery receipt you've ever had, you have a small, handwritten 'cheat sheet' of perfected techniques and flavor pairings you've learned over time.",
+            "business_value": "It solves the 'Token Tax.' By moving away from massive data retrieval to efficient internal memory, companies can run smarter agents at a fraction of the current computing cost, directly improving the ROI of long-running AI workflows."
         }
     ]
 }

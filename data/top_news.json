@@ -1,42 +1,42 @@
 [
   {
-    "title": "DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation",
-    "summary": "arXiv:2506.06251v3 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabilities in automated front-end engineering, e.g., generating UI code from visual designs. However, existing front-end UI code generation benchmarks have the following limitations: (1) While framework-based development",
-    "url": "https://arxiv.org/abs/2506.06251",
+    "title": "DiG: Differential Grounding for Enhancing Fine-Grained Perception in Multimodal Large Language Model",
+    "summary": "arXiv:2512.12633v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models have achieved impressive performance on a variety of vision-language tasks, yet their fine-grained visual perception and precise spatial reasoning remain limited. In this work, we introduce DiG (Differential Grounding), a novel proxy task framework where MLLM",
+    "url": "https://arxiv.org/abs/2512.12633",
     "source": "Arxiv AI",
-    "published_at": "2026-03-17T04:00:00+00:00",
+    "published_at": "2026-03-18T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
-    "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-03-17T23:17:07+00:00",
-    "score": 8
-  },
-  {
-    "title": "GTC 2026: With Groq 3 LPX, Nvidia adds dedicated inference hardware to its platform for the first time",
-    "summary": "At GTC 2026, Nvidia expanded the Vera Rubin platform it introduced at CES with custom CPU racks, dedicated inference chips, a new storage architecture, an inference operating system, open model alliances, and agent security software. The article GTC 2026: With Groq 3 LPX, Nvidia adds dedicated inference hardware to its platform for the first time a",
-    "url": "https://the-decoder.com/gtc-2026-with-groq-3-lpx-nvidia-adds-dedicated-inference-hardware-to-its-platform-for-the-first-time/",
+    "title": "OpenAI turns model compression into a talent hunt with its 16 MB \"Parameter Golf\" challenge",
+    "summary": "OpenAI challenges researchers to build the best language model in just 16 MB - and uses the competition to scout talent. The article OpenAI turns model compression into a talent hunt with its 16 MB &quot;Parameter Golf&quot; challenge appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-turns-model-compression-into-a-talent-hunt-with-its-16-mb-parameter-golf-challenge/",
     "source": "The Decoder",
-    "published_at": "2026-03-17T14:22:24+00:00",
-    "score": 8
-  },
-  {
-    "title": "State of Open Source on Hugging Face: Spring 2026",
-    "summary": "",
-    "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-03-17T16:37:55+00:00",
+    "published_at": "2026-03-18T18:09:36+00:00",
     "score": 7
   },
   {
-    "title": "OpenAI ships GPT-5.4 mini and nano, faster and more capable but up to 4x pricier",
-    "summary": "OpenAI has released two new compact models—GPT-5.4 mini and nano—built for coding assistants, subagents, and computer control. GPT-5.4 mini nearly matches the full model's performance, but both new models come with a steep price hike over their predecessors. The article OpenAI ships GPT-5.4 mini and nano, faster and more capable but up to 4x pricie",
-    "url": "https://the-decoder.com/openai-ships-gpt-5-4-mini-and-nano-faster-and-more-capable-but-up-to-4x-pricier/",
+    "title": "Pentagon plans to let AI companies train models on classified data",
+    "summary": "The US Department of War is working to set up secure environments where AI companies can train their models on classified data. Until now, models were only allowed to read classified data, not learn from it. The article Pentagon plans to let AI companies train models on classified data appeared first on The Decoder.",
+    "url": "https://the-decoder.com/pentagon-plans-to-let-ai-companies-train-models-on-classified-data/",
     "source": "The Decoder",
-    "published_at": "2026-03-17T19:17:37+00:00",
+    "published_at": "2026-03-18T16:32:21+00:00",
     "score": 7
+  },
+  {
+    "title": "Mastercard keeps tabs on fraud with new foundation model",
+    "summary": "Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that&#8217;s trained on transaction data rather than text or images to help it address security and authenticity issues in digital payments. The company has trained a foundation model on billions of card transactions, with the intention of expanding to hundreds of [&#8230;",
+    "url": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+    "source": "AI News",
+    "published_at": "2026-03-18T15:31:00+00:00",
+    "score": 7
+  },
+  {
+    "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+    "summary": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
+    "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+    "source": "Wired AI",
+    "published_at": "2026-03-18T18:01:18+00:00",
+    "score": 5
   }
 ]

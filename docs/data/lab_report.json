@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-03-08",
+    "last_updated": "2024-03-20",
     "papers": [
         {
-            "title": "ILION: Deterministic Pre-Execution Safety Gates for Agentic AI Systems",
-            "innovation": "Introduces \"deterministic pre-execution safety gates\" to mitigate safety risks for autonomous AI agents performing real-world actions. This moves beyond traditional content moderation to address the actual execution phase, crucial for preventing unintended or harmful consequences in physical and digital environments.",
-            "benchmarks": "Not explicitly stated, but the effectiveness would be measured by the reduction in harmful real-world actions, successful containment of agentic failures, and improved reliability of deployed autonomous AI systems.",
-            "use_case": "Ensuring the safety and preventing dangerous or unintended real-world actions (e.g., filesystem operations, API calls, database modifications, financial transactions) by autonomous AI agents. Essential for the responsible and secure deployment of any agentic AI system.",
-            "url": "https://arxiv.org/abs/2603.13247"
+            "title": "AIDABench: AI Data Analytics Benchmark",
+            "innovation": "A new, comprehensive benchmark designed to rigorously evaluate AI-driven document understanding and processing tools against real-world scenarios, addressing the limitations of existing isolated or simplified evaluations.",
+            "benchmarks": "The paper itself proposes a new benchmark for evaluating AI systems in document understanding and processing, providing a standard for rigorous assessment.",
+            "use_case": "Evaluating, validating, and comparing the performance and robustness of AI models and systems deployed in real-world document understanding and processing applications.",
+            "url": "https://arxiv.org/abs/2603.15636"
         },
         {
-            "title": "A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems",
-            "innovation": "Proposes a dual-path generative framework specifically designed for low-latency, GDPR-explainable zero-day fraud detection in high-frequency banking environments. It effectively tackles challenges like extreme class imbalance and the complete lack of historical data for novel attack patterns.",
-            "benchmarks": "Not explicitly named, but the framework aims to significantly improve detection rates for 'zero-day attacks' while rigorously adhering to 'low-latency' requirements and providing regulatory-compliant explainability.",
-            "use_case": "Real-time identification and explanation of novel fraud attempts in financial transactions within banking systems, balancing rapid detection speed with regulatory transparency and compliance mandates (e.g., GDPR).",
-            "url": "https://arxiv.org/abs/2603.13237"
+            "title": "Did You Check the Right Pocket? Cost-Sensitive Store Routing for Memory-Augmented Agents",
+            "innovation": "Introduces a novel approach to optimize memory retrieval for agents with multiple specialized memory stores by framing it as a cost-sensitive store-routing problem. This significantly reduces computational cost and irrelevant context.",
+            "benchmarks": "Proposes and uses metrics like coverage, exact match, and token efficiency to evaluate the effectiveness and efficiency of different store-routing strategies.",
+            "use_case": "Designing and implementing more efficient and performant memory-augmented LLM agents by optimizing retrieval strategies from diverse memory sources, thereby reducing operational costs and improving context relevance.",
+            "url": "https://arxiv.org/abs/2603.15658"
         },
         {
-            "title": "Multi-Axis Trust Modeling for Interpretable Account Hijacking Detection",
-            "innovation": "Presents a \"Hadith-inspired multi-axis trust modeling framework\" that uses interpretable, multidimensional criteria to assess the trustworthiness of information sources for account hijacking detection. This approach provides a nuanced evaluation instead of relying on a single, opaque anomaly score.",
-            "benchmarks": "Not explicitly named; however, performance would be evaluated by improved accuracy in detecting account hijacking and, crucially, the human interpretability and actionability of the generated multi-axis trust scores for security analysts.",
-            "use_case": "Enhancing cybersecurity by detecting account hijacking with transparent, multi-faceted trust assessments. This framework aids security analysts in investigating incidents, debugging models, and meeting compliance requirements for sensitive user-facing systems.",
-            "url": "https://arxiv.org/abs/2603.13246"
+            "title": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
+            "innovation": "Proposes a novel 'robustness-first' architectural paradigm for AI agents with economic agency, shifting evaluation from traditional capability benchmarks to a 'comprehension-gated' approach that prioritizes operational reliability.",
+            "benchcase": "Critiques existing capability benchmarks and advocates for evaluation centered on operational robustness, implying new methods for assessing an agent's real-world reliability in economic tasks.",
+            "use_case": "Developing and deploying AI agents for critical economic functions (e.g., trading, financial management, contract negotiation) where operational robustness and reliability are paramount, ensuring safe and predictable behavior.",
+            "url": "https://arxiv.org/abs/2603.15639"
         }
     ]
 }
