@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 19, 2026",
+    "last_updated": "March 20, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Neural-Symbolic Logic",
-            "definition": "This architecture merges the pattern-recognition capabilities of neural networks with the rule-based, mathematical rigor of symbolic AI. It allows models to fill in gaps in incomplete data using intuition while following a transparent, 'human-readable' logic chain for the final output.",
-            "analogy": "Think of a professional chef (neural) who cooks by instinct and taste, but is paired with a strict health inspector (symbolic) who ensures every movement follows a precise, written safety protocol.",
-            "business_value": "It solves the 'Black Box' problem. By providing an audit trail for AI reasoning, it allows CEOs to deploy AI in high-stakes regulated environments like insurance or clinical trials where 'the AI said so' is not a legal defense."
+            "term": "Auto-formalization (Draft-and-Prune)",
+            "definition": "Auto-formalization is the process of translating ambiguous natural language reasoning into precise, symbolic code that a computer solver can execute with mathematical certainty. The 'Draft-and-Prune' method improves this by generating multiple potential logical drafts and systematically discarding those that are non-executable or logically inconsistent.",
+            "analogy": "In a high-end kitchen, a sous-chef might prep five different versions of a complex sauce (Drafting), but the Head Chef tastes them all and throws away the four that don't meet the exact flavor profile (Pruning) before the plate ever reaches the customer.",
+            "business_value": "This technology bridges the gap between 'hallucinating' chatbots and reliable business logic. For CEOs, this means AI can finally be trusted with high-stakes financial or legal workflows where 'almost correct' isn't good enough."
         },
         {
-            "term": "Comprehension-Gated Agent Economy",
-            "definition": "A framework that prevents AI agents from executing financial or operational actions\u2014such as making purchases or signing contracts\u2014unless they pass a 'comprehension gate.' This gate verifies that the agent understands the context and risks of the transaction, rather than just following a prompt blindly.",
-            "analogy": "Imagine a corporate credit card that only unlocks if the car's dashboard can prove the driver isn't just awake, but is fully aware of the speed limit, weather conditions, and the specific route's hazards.",
-            "business_value": "This is the ultimate 'kill switch' for financial liability. It prevents 'rogue agent' scenarios where an AI might accidentally drain a budget or execute a disastrous contract because of a minor prompt hallucination."
+            "term": "Spatio-Temporal Sidecars",
+            "definition": "This architectural pattern involves attaching specialized monitoring modules (sidecars) to AI agents to track the timing and 'geometry' of how tasks move through a network. These sidecars detect when a delegation of tasks is likely to fail or 'cascade' into an error, allowing the system to switch routing logic before a total system shutdown occurs.",
+            "analogy": "Think of it as a car\u2019s Electronic Stability Control (ESC) sensors that sit alongside the wheels; they don't drive the car, but they monitor the 'geometry' of the turn and intervene instantly if they detect the vehicle is about to spin out of control.",
+            "business_value": "As companies move from single chatbots to complex multi-agent 'swarms,' system stability is the new bottleneck. Sidecar routing ensures that one failing agent doesn't paralyze your entire automated operations infrastructure."
         },
         {
-            "term": "Latent Factual Memory (Compiled Memory)",
-            "definition": "Instead of storing every past interaction as bulky text that needs to be re-read constantly (which is slow and expensive), this technique compresses experiences into dense 'latent' representations. It focuses on 'compiling' the essence of what worked into precise instructions for future tasks.",
-            "analogy": "Instead of having a kitchen counter cluttered with 500 full-length cookbooks and every grocery receipt you've ever had, you have a small, handwritten 'cheat sheet' of perfected techniques and flavor pairings you've learned over time.",
-            "business_value": "It solves the 'Token Tax.' By moving away from massive data retrieval to efficient internal memory, companies can run smarter agents at a fraction of the current computing cost, directly improving the ROI of long-running AI workflows."
+            "term": "Graph-Native Cognitive Memory (Belief Revision)",
+            "definition": "Unlike traditional AI memory that simply retrieves text snippets, this architecture stores information as a web of interconnected facts (a graph). 'Belief Revision' is the formal logic used to update this web when new, conflicting information is learned, ensuring the AI maintains a consistent and non-contradictory understanding of a situation over time.",
+            "analogy": "Imagine a kitchen pantry that doesn't just store ingredients, but understands their relationships; if you tell the system the milk has spoiled, it doesn't just 'remember' that fact\u2014it 'revises its belief' and automatically removes all recipes requiring milk from your suggested dinner list.",
+            "business_value": "This allows for 'True Personalization.' It enables AI agents to maintain a coherent, long-term memory of a client's evolving preferences or a project's shifting requirements, preventing the repetitive or contradictory interactions that frustrate high-value customers."
         }
     ]
 }
