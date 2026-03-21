@@ -1,137 +1,137 @@
 [
   {
-    "title": "Transformers are Bayesian Networks",
-    "summary": "arXiv:2603.17063v1 Announce Type: new Abstract: Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answer: a transformer is a Bayesian network. We establish this in five ways. First, we prove that every sigmoid transformer with any weights implements weighted loopy belief propa",
-    "url": "https://arxiv.org/abs/2603.17063",
+    "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
+    "summary": "arXiv:2603.18048v1 Announce Type: new Abstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether these models genuinely process acoustic signals or rely on text-based semantic inference. To systematically study this question, we introduce DEAF (Diagno",
+    "url": "https://arxiv.org/abs/2603.18048",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "Sensi: Learn One Thing at a Time -- Curriculum-Based Test-Time Learning for LLM Game Agents",
-    "summary": "arXiv:2603.17683v1 Announce Type: new Abstract: Large language model (LLM) agents deployed in unknown environments must learn task structure at test time, but current approaches require thousands of interactions to form useful hypotheses. We present Sensi, an LLM agent architecture for the ARC-AGI-3 game-playing challenge that introduces structured",
-    "url": "https://arxiv.org/abs/2603.17683",
+    "title": "MemArchitect: A Policy Driven Memory Governance Layer",
+    "summary": "arXiv:2603.18330v1 Announce Type: new Abstract: Persistent Large Language Model (LLM) agents expose a critical governance gap in memory management. Standard Retrieval-Augmented Generation (RAG) frameworks treat memory as passive storage, lacking mechanisms to resolve contradictions, enforce privacy, or prevent outdated information (\"zombie memories",
+    "url": "https://arxiv.org/abs/2603.18330",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "MALLES: A Multi-agent LLMs-based Economic Sandbox with Consumer Preference Alignment",
-    "summary": "arXiv:2603.17694v1 Announce Type: new Abstract: In the real economy, modern decision-making is fundamentally challenged by high-dimensional, multimodal environments, which are further complicated by agent heterogeneity and combinatorial data sparsity. This paper introduces a Multi-Agent Large Language Model-based Economic Sandbox (MALLES), leveragi",
-    "url": "https://arxiv.org/abs/2603.17694",
+    "title": "AlignMamba-2: Enhancing Multimodal Fusion and Sentiment Analysis with Modality-Aware Mamba",
+    "summary": "arXiv:2603.18462v1 Announce Type: new Abstract: In the era of large-scale pre-trained models, effectively adapting general knowledge to specific affective computing tasks remains a challenge, particularly regarding computational efficiency and multimodal heterogeneity. While Transformer-based methods have excelled at modeling inter-modal dependenci",
+    "url": "https://arxiv.org/abs/2603.18462",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "Rubric-Guided Fine-tuning of SpeechLLMs for Multi-Aspect, Multi-Rater L2 Reading-Speech Assessment",
-    "summary": "arXiv:2603.16889v1 Announce Type: cross Abstract: Reliable and interpretable automated assessment of second-language (L2) speech remains a central challenge, as large speech-language models (SpeechLLMs) often struggle to align with the nuanced variability of human raters. To address this, we introduce a rubric-guided reasoning framework that explic",
-    "url": "https://arxiv.org/abs/2603.16889",
+    "title": "Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding",
+    "summary": "arXiv:2603.18472v1 Announce Type: new Abstract: While Multimodal Large Language Models (MLLMs) have achieved remarkable success in interpreting natural scenes, their ability to process discrete symbols -- the fundamental building blocks of human cognition -- remains a critical open question. Unlike continuous visual data, symbols such as mathematic",
+    "url": "https://arxiv.org/abs/2603.18472",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "AgriChat: A Multimodal Large Language Model for Agriculture Image Understanding",
-    "summary": "arXiv:2603.16934v1 Announce Type: cross Abstract: The deployment of Multimodal Large Language Models (MLLMs) in agriculture is currently stalled by a critical trade-off: the existing literature lacks the large-scale agricultural datasets required for robust model development and evaluation, while current state-of-the-art models lack the verified do",
-    "url": "https://arxiv.org/abs/2603.16934",
+    "title": "LuMamba: Latent Unified Mamba for Electrode Topology-Invariant and Efficient EEG Modeling",
+    "summary": "arXiv:2603.19100v1 Announce Type: new Abstract: Electroencephalography (EEG) enables non-invasive monitoring of brain activity across clinical and neurotechnology applications, yet building foundation models for EEG remains challenging due to \\emph{differing electrode topologies} and \\emph{computational scalability}, as Transformer architectures in",
+    "url": "https://arxiv.org/abs/2603.19100",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "Security Assessment and Mitigation Strategies for Large Language Models: A Comprehensive Defensive Framework",
-    "summary": "arXiv:2603.17123v1 Announce Type: cross Abstract: Large Language Models increasingly power critical infrastructure from healthcare to finance, yet their vulnerability to adversarial manipulation threatens system integrity and user safety. Despite growing deployment, no comprehensive comparative security assessment exists across major LLM architectu",
-    "url": "https://arxiv.org/abs/2603.17123",
+    "title": "Box Maze: A Process-Control Architecture for Reliable LLM Reasoning",
+    "summary": "arXiv:2603.19182v1 Announce Type: new Abstract: Large language models (LLMs) demonstrate strong generative capabilities but remain vulnerable to hallucination and unreliable reasoning under adversarial prompting. Existing safety approaches -- such as reinforcement learning from human feedback (RLHF) and output filtering -- primarily operate at the ",
+    "url": "https://arxiv.org/abs/2603.19182",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "Generalist Multimodal LLMs Gain Biometric Expertise via Human Salience",
-    "summary": "arXiv:2603.17173v1 Announce Type: cross Abstract: Iris presentation attack detection (PAD) is critical for secure biometric deployments, yet developing specialized models faces significant practical barriers: collecting data representing future unknown attacks is impossible, and collecting diverse-enough data, yet still limited in terms of its pred",
-    "url": "https://arxiv.org/abs/2603.17173",
+    "title": "TherapyGym: Evaluating and Aligning Clinical Fidelity and Safety in Therapy Chatbots",
+    "summary": "arXiv:2603.18008v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used for mental-health support; yet prevailing evaluation methods--fluency metrics, preference tests, and generic dialogue benchmarks--fail to capture the clinically critical dimensions of psychotherapy. We introduce THERAPYGYM, a framework that evaluate",
+    "url": "https://arxiv.org/abs/2603.18008",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "Anonymous-by-Construction: An LLM-Driven Framework for Privacy-Preserving Text",
-    "summary": "arXiv:2603.17217v1 Announce Type: cross Abstract: Responsible use of AI demands that we protect sensitive information without undermining the usefulness of data, an imperative that has become acute in the age of large language models. We address this challenge with an on-premise, LLM-driven substitution pipeline that anonymizes text by replacing pe",
-    "url": "https://arxiv.org/abs/2603.17217",
+    "title": "MCP-38: A Comprehensive Threat Taxonomy for Model Context Protocol Systems (v1.0)",
+    "summary": "arXiv:2603.18063v1 Announce Type: cross Abstract: The Model Context Protocol (MCP) introduces a structurally distinct attack surface that existing threat frameworks, designed for traditional software systems or generic LLM deployments, do not adequately cover. This paper presents MCP-38, a protocol-specific threat taxonomy consisting of 38 threat c",
+    "url": "https://arxiv.org/abs/2603.18063",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "From Drop-off to Recovery: A Mechanistic Analysis of Segmentation in MLLMs",
-    "summary": "arXiv:2603.17228v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) are increasingly applied to pixel-level vision tasks, yet their intrinsic capacity for spatial understanding remains poorly understood. We investigate segmentation capacity through a layerwise linear probing evaluation across the entire MLLM pipeline: vision ",
-    "url": "https://arxiv.org/abs/2603.17228",
+    "title": "A Trace-Based Assurance Framework for Agentic AI Orchestration: Contracts, Testing, and Governance",
+    "summary": "arXiv:2603.18096v1 Announce Type: cross Abstract: In Agentic AI, Large Language Models (LLMs) are increasingly used in the orchestration layer to coordinate multiple agents and to interact with external services, retrieval components, and shared memory. In this setting, failures are not limited to incorrect final outputs. They also arise from long-",
+    "url": "https://arxiv.org/abs/2603.18096",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates",
-    "summary": "arXiv:2603.17439v1 Announce Type: cross Abstract: Transformers enable in-context learning (ICL) for rapid, gradient-free adaptation in time series forecasting, yet most ICL-style approaches rely on tabularized, hand-crafted features, while end-to-end sequence models lack inference-time adaptation. We bridge this gap with a unified framework, Baguan",
-    "url": "https://arxiv.org/abs/2603.17439",
+    "title": "Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models",
+    "summary": "arXiv:2603.18118v1 Announce Type: cross Abstract: Large Language Models (LLMs) have achieved remarkable reliability and advanced capabilities through extended test-time reasoning. However, extending these capabilities to Multi-modal Large Language Models (MLLMs) remains a significant challenge due to a critical scarcity of high-quality, long-chain ",
+    "url": "https://arxiv.org/abs/2603.18118",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "FINER: MLLMs Hallucinate under Fine-grained Negative Queries",
-    "summary": "arXiv:2603.17662v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) struggle with hallucinations, particularly with fine-grained queries, a challenge underrepresented by existing benchmarks that focus on coarse image-related questions. We introduce FIne-grained NEgative queRies (FINER), alongside two benchmarks: FINER-CompreC",
-    "url": "https://arxiv.org/abs/2603.17662",
+    "title": "VLM-AutoDrive: Post-Training Vision-Language Models for Safety-Critical Autonomous Driving Events",
+    "summary": "arXiv:2603.18178v1 Announce Type: cross Abstract: The rapid growth of ego-centric dashcam footage presents a major challenge for detecting safety-critical events such as collisions and near-collisions, scenarios that are brief, rare, and difficult for generic vision models to capture. While multimodal large language models (MLLMs) demonstrate stron",
+    "url": "https://arxiv.org/abs/2603.18178",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "Dropout Robustness and Cognitive Profiling of Transformer Models via Stochastic Inference",
-    "summary": "arXiv:2603.17811v1 Announce Type: cross Abstract: Transformer-based language models are widely deployed for reasoning, yet their behavior under inference-time stochasticity remains underexplored. While dropout is common during training, its inference-time effects via Monte Carlo sampling lack systematic evaluation across architectures, limiting und",
-    "url": "https://arxiv.org/abs/2603.17811",
+    "title": "When Names Change Verdicts: Intervention Consistency Reveals Systematic Bias in LLM Decision-Making",
+    "summary": "arXiv:2603.18530v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used for high-stakes decisions, yet their susceptibility to spurious features remains poorly characterized. We introduce ICE-Guard, a framework applying intervention consistency testing to detect three types of spurious feature reliance: demographic (nam",
+    "url": "https://arxiv.org/abs/2603.18530",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
-    "summary": "arXiv:2603.18002v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have made impressive progress in connecting vision and language, but they still struggle with spatial understanding and viewpoint-aware reasoning. Recent efforts aim to augment the input representations with geometric cues rather than explicitly teaching mode",
-    "url": "https://arxiv.org/abs/2603.18002",
+    "title": "Elastic Weight Consolidation Done Right for Continual Learning",
+    "summary": "arXiv:2603.18596v1 Announce Type: cross Abstract: Weight regularization methods in continual learning (CL) alleviate catastrophic forgetting by assessing and penalizing changes to important model weights. Elastic Weight Consolidation (EWC) is a foundational and widely used approach within this framework that estimates weight importance based on gra",
+    "url": "https://arxiv.org/abs/2603.18596",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "MLlm-DR: Towards Explainable Depression Recognition with MultiModal Large Language Models",
-    "summary": "arXiv:2507.05591v2 Announce Type: replace Abstract: Automated depression diagnosis aims to analyze multimodal information from interview videos to predict participants' depression scores. Previous studies often lack clear explanations of how these scores were determined, limiting their adoption in clinical practice. While the advent of LLMs provide",
-    "url": "https://arxiv.org/abs/2507.05591",
+    "title": "Learning to Self-Evolve",
+    "summary": "arXiv:2603.18620v1 Announce Type: cross Abstract: We introduce Learning to Self-Evolve (LSE), a reinforcement learning framework that trains large language models (LLMs) to improve their own contexts at test time. We situate LSE in the setting of test-time self-evolution, where a model iteratively refines its context from feedback on seen problems ",
+    "url": "https://arxiv.org/abs/2603.18620",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   },
   {
-    "title": "Stepwise Think-Critique: A Unified Framework for Robust and Interpretable LLM Reasoning",
-    "summary": "arXiv:2512.15662v3 Announce Type: replace Abstract: Human beings solve complex problems through critical thinking, where reasoning and evaluation are intertwined to converge toward correct solutions. However, most existing large language models (LLMs) treat the reasoning and verification as separate processes: they either generate reasoning without",
-    "url": "https://arxiv.org/abs/2512.15662",
+    "title": "Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding",
+    "summary": "arXiv:2603.19054v1 Announce Type: cross Abstract: Recent advances in Streaming Video Understanding has enabled a new interaction paradigm where models respond proactively to user queries. Current proactive VideoLLMs rely on per-frame triggering decision making, which suffers from an efficiency-accuracy dilemma. We propose Em-Garde, a novel framewor",
+    "url": "https://arxiv.org/abs/2603.19054",
     "source": "Arxiv AI",
-    "published_at": "2026-03-19T04:00:00+00:00",
+    "published_at": "2026-03-20T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-20T03:20:32.833043+00:00"
+    "archived_at": "2026-03-21T03:11:55.241783+00:00"
   }
 ]

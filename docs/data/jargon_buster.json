@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 20, 2026",
+    "last_updated": "March 21, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Auto-formalization (Draft-and-Prune)",
-            "definition": "Auto-formalization is the process of translating ambiguous natural language reasoning into precise, symbolic code that a computer solver can execute with mathematical certainty. The 'Draft-and-Prune' method improves this by generating multiple potential logical drafts and systematically discarding those that are non-executable or logically inconsistent.",
-            "analogy": "In a high-end kitchen, a sous-chef might prep five different versions of a complex sauce (Drafting), but the Head Chef tastes them all and throws away the four that don't meet the exact flavor profile (Pruning) before the plate ever reaches the customer.",
-            "business_value": "This technology bridges the gap between 'hallucinating' chatbots and reliable business logic. For CEOs, this means AI can finally be trusted with high-stakes financial or legal workflows where 'almost correct' isn't good enough."
+            "term": "Autonomous AI Agents",
+            "definition": "These systems represent a shift from passive chatbots to active 'reasoning engines' that can plan, use external tools, and execute multi-step workflows independently. By operating in a continuous loop of perception, reasoning, and action, these agents can navigate complex environments and solve open-ended problems, such as conducting scientific research, without human hand-holding.",
+            "analogy": "Imagine a car that doesn't just stay in its lane, but can also decide to pull over for gas, calculate a more efficient route mid-trip, and find its own parking spot at the destination while you sleep in the back seat.",
+            "business_value": "Shifts the corporate cost structure from 'human-driven execution' to 'human-led supervision.' This allows for the scaling of complex R&D and operational tasks without a linear increase in headcount, dramatically accelerating time-to-market."
         },
         {
-            "term": "Spatio-Temporal Sidecars",
-            "definition": "This architectural pattern involves attaching specialized monitoring modules (sidecars) to AI agents to track the timing and 'geometry' of how tasks move through a network. These sidecars detect when a delegation of tasks is likely to fail or 'cascade' into an error, allowing the system to switch routing logic before a total system shutdown occurs.",
-            "analogy": "Think of it as a car\u2019s Electronic Stability Control (ESC) sensors that sit alongside the wheels; they don't drive the car, but they monitor the 'geometry' of the turn and intervene instantly if they detect the vehicle is about to spin out of control.",
-            "business_value": "As companies move from single chatbots to complex multi-agent 'swarms,' system stability is the new bottleneck. Sidecar routing ensures that one failing agent doesn't paralyze your entire automated operations infrastructure."
+            "term": "Multi-Trait Subspace Steering",
+            "definition": "A technical method used to manipulate the internal mathematical vectors (subspaces) of a Large Language Model to control specific behavioral outcomes. By identifying the exact coordinates where traits like 'tone' or 'bias' reside in the model's neural network, developers can 'steer' the model's output in real-time to ensure alignment with specific safety or brand guidelines.",
+            "analogy": "Think of it as a master spice rack in a kitchen where you have a magic wand that can instantly pull the 'saltiness' out of a soup or dial up the 'heat' without having to re-cook the entire meal from scratch.",
+            "business_value": "Directly addresses the 'hallucination' and 'brand risk' bottlenecks of AI. It provides a granular control knob for CEOs to ensure AI interactions remain safe and professional, reducing the need for expensive, compute-heavy model retraining."
         },
         {
-            "term": "Graph-Native Cognitive Memory (Belief Revision)",
-            "definition": "Unlike traditional AI memory that simply retrieves text snippets, this architecture stores information as a web of interconnected facts (a graph). 'Belief Revision' is the formal logic used to update this web when new, conflicting information is learned, ensuring the AI maintains a consistent and non-contradictory understanding of a situation over time.",
-            "analogy": "Imagine a kitchen pantry that doesn't just store ingredients, but understands their relationships; if you tell the system the milk has spoiled, it doesn't just 'remember' that fact\u2014it 'revises its belief' and automatically removes all recipes requiring milk from your suggested dinner list.",
-            "business_value": "This allows for 'True Personalization.' It enables AI agents to maintain a coherent, long-term memory of a client's evolving preferences or a project's shifting requirements, preventing the repetitive or contradictory interactions that frustrate high-value customers."
+            "term": "Neuromorphic AI Infrastructure",
+            "definition": "An emerging architectural paradigm that moves away from standard digital arithmetic toward hardware and software that mimics the brain's physical neural structure. This approach uses 'event-driven' processing to drastically reduce the massive energy and memory overhead currently required by traditional AI training and inference processes.",
+            "analogy": "Traditional AI is like a car engine that must stay revved at 5,000 RPM even when sitting at a red light; Neuromorphic AI is like a modern electric hybrid that only draws power the exact millisecond the wheels need to turn.",
+            "business_value": "Solves the 'AI Power Crisis' by lowering the total cost of ownership (TCO) for compute. This enables high-performance AI to run on edge devices\u2014like mobile phones or factory sensors\u2014without draining batteries or requiring massive, expensive data center cooling."
         }
     ]
 }

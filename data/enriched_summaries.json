@@ -1,75 +1,75 @@
 [
   {
-    "title": "FailureMem: A Failure-Aware Multimodal Framework for Autonomous Software Repair",
-    "url": "https://arxiv.org/abs/2603.17826",
+    "title": "Transformers Remember First, Forget Last: Dual-Process Interference in LLMs",
+    "url": "https://arxiv.org/abs/2603.00270",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2603.17826v1 Announce Type: cross Abstract: Multimodal Automated Program Repair (MAPR) extends traditional program repair by requiring models to jointly reason over source code, textual issue descriptions, and visual artifacts such as GUI screenshots. While recent LLM-based repair systems have shown promising results, existing approaches face",
+    "what_happened": "arXiv:2603.00270v2 Announce Type: replace-cross Abstract: When large language models encounter conflicting information in context, which memories survive -- early or recent? We adapt classical interference paradigms from cognitive psychology to answer this question, testing 39 LLMs across diverse architectures and scales. Every model shows the same",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "Research Scientists",
+      "ML Engineers"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
-    "url": "https://huggingface.co/blog/nvidia/speed-bench",
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "source": "Hugging Face Blog",
+    "score": 8,
+    "what_happened": "Hugging Face Blog announced 'Build a Domain-Specific Embedding Model in Under a Day', highlighting new developments relevant to AI researchers and practitioners.",
+    "technical_takeaway": null,
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "ML Engineers",
+      "Open-Source Contributors"
+    ],
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
     "source": "Hugging Face Blog",
     "score": 7,
-    "what_happened": "Hugging Face Blog announced '**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**', highlighting new developments relevant to AI researchers and practitioners.",
+    "what_happened": "Hugging Face Blog announced 'What's New in Mellea 0.4.0 + Granite Libraries Release', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "ML Engineers",
+      "Open-Source Contributors"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "OpenAI overhauls ChatGPT's model selection",
-    "url": "https://the-decoder.com/openai-overhauls-chatgpts-model-selection/",
+    "title": "Adobe Firefly now bundles 30+ AI models and lets users train custom styles on their own images",
+    "url": "https://the-decoder.com/adobe-firefly-now-bundles-30-ai-models-and-lets-users-train-custom-styles-on-their-own-images/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "OpenAI has redesigned how model selection works in ChatGPT. The article OpenAI overhauls ChatGPT&#039;s model selection appeared first on The Decoder.",
+    "what_happened": "Adobe is expanding its AI creative platform, Firefly, to include user-defined models that can be trained on your own images. The company is also bundling over 30 AI models from different providers in a single environment. The article Adobe Firefly now bundles 30+ AI models and lets users train custom styles on their own images appeared first on The",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "AI Professionals"
     ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "Elevenlabs now lets you sell AI music you don't own",
-    "url": "https://the-decoder.com/elevenlabs-now-lets-you-sell-ai-music-you-dont-own/",
+    "title": "Qualcomm shrinks AI reasoning chains by 2.4x to fit thinking models on smartphones",
+    "url": "https://the-decoder.com/qualcomm-shrinks-ai-reasoning-chains-by-2-4x-to-fit-thinking-models-on-smartphones/",
     "source": "The Decoder",
-    "score": 6,
-    "what_happened": "Elevenlabs has launched a marketplace for AI-generated music that pays creators when their tracks get downloaded or licensed. But who actually owns the music? A look at the terms of use tells the story: no one, really. The article Elevenlabs now lets you sell AI music you don&#039;t own appeared first on The Decoder.",
+    "score": 7,
+    "what_happened": "Qualcomm AI Research has developed a modular system that brings reasoning-capable language models to smartphones by compressing the models' verbose thought processes by a factor of 2.4. The article Qualcomm shrinks AI reasoning chains by 2.4x to fit thinking models on smartphones appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Visa prepares payment systems for AI agent-initiated transactions",
-    "url": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
-    "source": "AI News",
-    "score": 6,
-    "what_happened": "Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate payments. New work in the banking sector suggests that, in some cases, software agents may soon take on that role. [&#8230;] The post Visa prepares paymen",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   }
 ]
