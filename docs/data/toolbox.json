@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 21, 2026",
+    "last_updated": "March 22, 2026",
     "tools": [
         {
-            "Name": "Chandra OCR 2",
-            "Category": "Document Intelligence",
-            "Description": "A state-of-the-art OCR model that converts images and PDFs into structured HTML, Markdown, or JSON while preserving complex layout information.",
-            "Use_Case": "Extracting structured data from complex tables, forms, and handwritten documents, including math and multilingual support.",
-            "URL": "https://github.com/datalab-to/chandra"
+            "Name": "Agent S",
+            "Category": "Computer Use Agents",
+            "Description": "An open agentic framework that enables autonomous interaction with computers by learning to use GUI interfaces like a human.",
+            "Use_Case": "Automating complex tasks across desktop applications on Windows, Linux, and macOS.",
+            "URL": "https://github.com/simular-ai/Agent-S"
         },
         {
-            "Name": "Unsloth",
-            "Category": "AI Model Training/Inference",
-            "Description": "A framework for training and running open models (e.g., Qwen, DeepSeek, Gemma) with high efficiency, up to 2x faster training and 70% less VRAM usage.",
-            "Use_Case": "Local fine-tuning and inference of LLMs, vision models, and embedding models on consumer or enterprise GPUs.",
-            "URL": "https://github.com/unslothai/unsloth"
+            "Name": "SkyPilot",
+            "Category": "AI Infrastructure",
+            "Description": "A unified platform to run, manage, and scale AI workloads across any infrastructure including Kubernetes, Slurm, and 20+ cloud providers.",
+            "Use_Case": "Managing AI training, serving, and orchestration across heterogeneous computing resources.",
+            "URL": "https://github.com/skypilot-org/skypilot"
         },
         {
-            "Name": "Open SWE",
-            "Category": "AI Software Engineering Agent",
-            "Description": "An open-source, asynchronous coding agent framework built on LangGraph and Deep Agents, designed for building custom, secure, and isolated engineering agents.",
-            "Use_Case": "Automating software engineering workflows such as PR creation, issue resolution, and code maintenance within a secure, sandboxed environment.",
-            "URL": "https://github.com/langchain-ai/open-swe"
+            "Name": "MarkItDown",
+            "Category": "Data Preprocessing",
+            "Description": "A lightweight Python utility for converting various file formats (PDF, Word, Excel, images, etc.) into Markdown specifically for use with LLMs.",
+            "Use_Case": "Preparing diverse documents and multimedia data to be processed by LLMs for analysis.",
+            "URL": "https://github.com/microsoft/markitdown"
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-03-20",
+    "last_updated": "2026-03-26",
     "papers": [
         {
+            "title": "Continually self-improving AI",
+            "innovation": "Addresses fundamental limitations of modern LLMs by exploring mechanisms for models to acquire new knowledge from specialized corpora post-pretraining, improve capabilities autonomously, and reduce reliance on human-curated data/feedback for alignment, moving towards truly self-improving AI.",
+            "benchmarks": "Implicitly, continuous learning, adaptation, and generalization metrics across diverse tasks, aiming to surpass current capability ceilings without human intervention.",
+            "use_case": "Developing highly autonomous, adaptable, and general-purpose AI systems that can evolve and enhance their knowledge and capabilities over time, significantly reducing the human effort in fine-tuning and maintenance.",
+            "url": "https://arxiv.org/abs/2603.18073"
+        },
+        {
+            "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
+            "innovation": "Proposes a departure from traditional reverse-mode automatic differentiation and IEEE-754 arithmetic, introducing new training paradigms like Bayesian Evolution, Warm Rotation, and Principled Training. This aims to overcome issues like high memory overhead, optimizer complexity, and structural degradation, especially for geometric and neuromorphic AI.",
+            "benchmarks": "Implicitly, training efficiency (memory footprint, computation time), optimizer robustness, preservation of geometric properties, and performance on specialized geometric and neuromorphic AI tasks.",
+            "use_case": "Redesigning core AI training infrastructure for greater efficiency, robustness, and physical fidelity, enabling the development of more scalable and accurate AI systems for domains requiring precise geometric or neuro-inspired computations.",
+            "url": "https://arxiv.org/abs/2603.18104"
+        },
+        {
             "title": "A Computationally Efficient Learning of Artificial Intelligence System Reliability Considering Error Propagation",
-            "innovation": "Proposes a computationally efficient method to learn and analyze the reliability of interconnected AI systems, specifically considering how errors propagate through multiple functional stages. This offers a principled approach to reliability engineering for complex AI architectures.",
-            "benchmarks": "Focuses on metrics related to system reliability, error propagation quantification, and computational efficiency of reliability analysis, particularly in scenarios like smart city infrastructure.",
-            "use_case": "Designing, evaluating, and deploying robust and reliable AI systems, especially those with sequential or networked components, where understanding and mitigating error propagation is critical for operational integrity.",
+            "innovation": "Focuses on developing a computationally efficient method for learning and assessing the reliability of interconnected AI systems, particularly by modeling and accounting for how errors propagate from upstream to downstream stages. This is crucial for robust AI deployment in complex environments.",
+            "benchmarks": "AI system reliability metrics (e.g., uptime, error rates), fault tolerance, computational efficiency of the reliability assessment process, and performance in mitigating error propagation in multi-stage AI workflows.",
+            "use_case": "Designing, deploying, and validating highly reliable and fault-tolerant AI systems for critical applications such as smart cities, industrial automation, or any scenario where AI systems operate in sequence and errors can have significant cascading effects.",
             "url": "https://arxiv.org/abs/2603.18201"
-        },
-        {
-            "title": "Access Controlled Website Interaction for Agentic AI with Delegated Critical Tasks",
-            "innovation": "Proposes a novel design for website-based interaction that incorporates fine-grained access control mechanisms specifically tailored for AI agents. This addresses critical security and safety gaps when delegating tasks to autonomous agents that interact with external web environments.",
-            "benchmarks": "Aims to improve reliability, security, and the prevention of unintended actions for agentic AI interacting with websites. Metrics would involve compliance with access policies, error rates in task execution, and mitigation of security vulnerabilities.",
-            "use_case": "Enabling the safe, secure, and controlled deployment of agentic AI systems that need to perform critical tasks by accessing and interacting with websites on behalf of users or organizations, minimizing risks of misuse or unintended operations.",
-            "url": "https://arxiv.org/abs/2603.18197"
-        },
-        {
-            "title": "Retrieval-Augmented LLM Agents: Learning to Learn from Experience",
-            "innovation": "Introduces a 'learn to learn from experience' framework for Retrieval-Augmented LLM Agents, combining the strengths of fine-tuning with training-free memory-augmented generation. This enhances the robust generalization of LLM agents to unseen tasks by leveraging past experiences more effectively.",
-            "benchmarks": "Aims to improve generalization performance on novel and unseen tasks for LLM agents. Evaluated on various agentic benchmarks that require adaptability, continuous learning, and intelligent application of retrieved knowledge to new scenarios.",
-            "use_case": "Building more adaptable, resilient, and generalizable LLM-based agents that can continuously learn from their interactions and past data, enabling them to perform effectively on a wider range of complex and evolving tasks without constant retraining.",
-            "url": "https://arxiv.org/abs/2603.18272"
         }
     ]
 }

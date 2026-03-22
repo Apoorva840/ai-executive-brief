@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 21, 2026",
+    "last_updated": "March 22, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Autonomous AI Agents",
-            "definition": "These systems represent a shift from passive chatbots to active 'reasoning engines' that can plan, use external tools, and execute multi-step workflows independently. By operating in a continuous loop of perception, reasoning, and action, these agents can navigate complex environments and solve open-ended problems, such as conducting scientific research, without human hand-holding.",
-            "analogy": "Imagine a car that doesn't just stay in its lane, but can also decide to pull over for gas, calculate a more efficient route mid-trip, and find its own parking spot at the destination while you sleep in the back seat.",
-            "business_value": "Shifts the corporate cost structure from 'human-driven execution' to 'human-led supervision.' This allows for the scaling of complex R&D and operational tasks without a linear increase in headcount, dramatically accelerating time-to-market."
+            "term": "Subspace Steering",
+            "definition": "Subspace steering is a technique used to control the behavior of Large Language Models by identifying specific mathematical directions (subspaces) within the model's internal activations that represent certain traits or concepts. By applying 'steering vectors' to these dimensions, developers can surgically amplify or suppress behaviors, such as toxicity or specific personas, without the need for expensive retraining or fine-tuning.",
+            "analogy": "Imagine a car's alignment; instead of rebuilding the entire engine to change how the car handles, you are simply adjusting the tie rods to ensure the vehicle stays precisely in the safety lane regardless of how hard the driver pushes the gas.",
+            "business_value": "This allows for 'surgical safety.' For CEOs, it means lower R&D costs for model alignment and the ability to hard-wire corporate brand values and safety guardrails directly into the AI's 'brain' with much higher reliability than traditional prompting."
         },
         {
-            "term": "Multi-Trait Subspace Steering",
-            "definition": "A technical method used to manipulate the internal mathematical vectors (subspaces) of a Large Language Model to control specific behavioral outcomes. By identifying the exact coordinates where traits like 'tone' or 'bias' reside in the model's neural network, developers can 'steer' the model's output in real-time to ensure alignment with specific safety or brand guidelines.",
-            "analogy": "Think of it as a master spice rack in a kitchen where you have a magic wand that can instantly pull the 'saltiness' out of a soup or dial up the 'heat' without having to re-cook the entire meal from scratch.",
-            "business_value": "Directly addresses the 'hallucination' and 'brand risk' bottlenecks of AI. It provides a granular control knob for CEOs to ensure AI interactions remain safe and professional, reducing the need for expensive, compute-heavy model retraining."
+            "term": "Agentic Workflows",
+            "definition": "Agentic workflows move away from simple 'zero-shot' prompting toward a design where AI agents operate in iterative loops\u2014planning, executing, and self-correcting. Rather than generating a single response, the system uses a 'skele-code' or logical graph to delegate sub-tasks to specialized AI modules that can use external tools and verify their own output for accuracy.",
+            "analogy": "It is the difference between asking a kitchen hand to 'make a meal' and hoping for the best, versus having a Head Chef who manages a sous-chef, a saucier, and a line cook, checking the quality of each ingredient and plate before it ever reaches the customer's table.",
+            "business_value": "This shifts AI from a 'creative toy' to a 'reliable worker.' By implementing agentic workflows, businesses can automate complex, multi-step professional services (like legal discovery or financial auditing) with a significantly lower 'hallucination tax' and higher ROI."
         },
         {
-            "term": "Neuromorphic AI Infrastructure",
-            "definition": "An emerging architectural paradigm that moves away from standard digital arithmetic toward hardware and software that mimics the brain's physical neural structure. This approach uses 'event-driven' processing to drastically reduce the massive energy and memory overhead currently required by traditional AI training and inference processes.",
-            "analogy": "Traditional AI is like a car engine that must stay revved at 5,000 RPM even when sitting at a red light; Neuromorphic AI is like a modern electric hybrid that only draws power the exact millisecond the wheels need to turn.",
-            "business_value": "Solves the 'AI Power Crisis' by lowering the total cost of ownership (TCO) for compute. This enables high-performance AI to run on edge devices\u2014like mobile phones or factory sensors\u2014without draining batteries or requiring massive, expensive data center cooling."
+            "term": "Acoustic Faithfulness",
+            "definition": "Acoustic faithfulness refers to the ability of Audio Multimodal Large Language Models (Audio MLLMs) to process and interpret raw audio signals directly, rather than relying on a hidden text transcript. It measures whether a model actually 'hears' nuances like emotional prosody, background noise, or physical identifiers in speech that are lost when sound is converted to simple text.",
+            "analogy": "In a kitchen, a chef with high acoustic faithfulness doesn't need to see the stove; they know exactly when the onions are perfectly caramelized just by the specific pitch and rhythm of the sizzle in the pan.",
+            "business_value": "This is critical for the next generation of customer experience. It allows AI to detect a customer's frustration, urgency, or sincerity in real-time calls, enabling automated systems to escalate high-risk or high-value emotional situations that a text-based bot would completely miss."
         }
     ]
 }
