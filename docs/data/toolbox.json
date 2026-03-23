@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 22, 2026",
+    "last_updated": "March 23, 2026",
     "tools": [
         {
-            "Name": "Agent S",
-            "Category": "Computer Use Agents",
-            "Description": "An open agentic framework that enables autonomous interaction with computers by learning to use GUI interfaces like a human.",
-            "Use_Case": "Automating complex tasks across desktop applications on Windows, Linux, and macOS.",
-            "URL": "https://github.com/simular-ai/Agent-S"
+            "Name": "browser-use",
+            "Category": "Automation / Web Browsing",
+            "Description": "A package that makes websites accessible for AI agents, allowing them to automate browser tasks like form-filling, navigating, and data extraction.",
+            "Use_Case": "Automating web-based tasks such as job applications, grocery shopping, or personal assistant workflows.",
+            "URL": "https://github.com/browser-use/browser-use"
         },
         {
-            "Name": "SkyPilot",
-            "Category": "AI Infrastructure",
-            "Description": "A unified platform to run, manage, and scale AI workloads across any infrastructure including Kubernetes, Slurm, and 20+ cloud providers.",
-            "Use_Case": "Managing AI training, serving, and orchestration across heterogeneous computing resources.",
-            "URL": "https://github.com/skypilot-org/skypilot"
+            "Name": "LightRAG",
+            "Category": "Retrieval-Augmented Generation (RAG)",
+            "Description": "A simple and fast RAG system that uses knowledge graphs and retrieval-augmented generation to improve query performance and knowledge extraction.",
+            "Use_Case": "Building production-grade research assistants, knowledge management systems, and advanced document querying applications.",
+            "URL": "https://github.com/HKUDS/LightRAG"
         },
         {
-            "Name": "MarkItDown",
-            "Category": "Data Preprocessing",
-            "Description": "A lightweight Python utility for converting various file formats (PDF, Word, Excel, images, etc.) into Markdown specifically for use with LLMs.",
-            "Use_Case": "Preparing diverse documents and multimedia data to be processed by LLMs for analysis.",
-            "URL": "https://github.com/microsoft/markitdown"
+            "Name": "DeerFlow",
+            "Category": "Agentic AI / Super Agent Harness",
+            "Description": "An open-source super agent harness that orchestrates sub-agents, memory, and sandboxed execution environments for complex tasks.",
+            "Use_Case": "Automating long-running multi-step research or coding tasks that require planning, research, and sandboxed execution.",
+            "URL": "https://github.com/bytedance/deer-flow"
         }
     ]
 }
