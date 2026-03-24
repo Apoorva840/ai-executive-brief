@@ -1,26 +1,26 @@
 {
-    "last_updated": "2026-03-26",
+    "last_updated": "Today's Date",
     "papers": [
         {
-            "title": "Continually self-improving AI",
-            "innovation": "Addresses fundamental limitations of modern LLMs by exploring mechanisms for models to acquire new knowledge from specialized corpora post-pretraining, improve capabilities autonomously, and reduce reliance on human-curated data/feedback for alignment, moving towards truly self-improving AI.",
-            "benchmarks": "Implicitly, continuous learning, adaptation, and generalization metrics across diverse tasks, aiming to surpass current capability ceilings without human intervention.",
-            "use_case": "Developing highly autonomous, adaptable, and general-purpose AI systems that can evolve and enhance their knowledge and capabilities over time, significantly reducing the human effort in fine-tuning and maintenance.",
-            "url": "https://arxiv.org/abs/2603.18073"
+            "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
+            "innovation": "PowerLens introduces LLM agents for personalized, context-aware mobile power management, moving beyond static rules and heuristics to adapt to user activities and preferences.",
+            "benchmarks": "Improved battery life, enhanced adaptability to user activities and preferences, and better safety guarantees in mobile power management scenarios.",
+            "use_case": "Enhancing mobile operating systems for intelligent battery optimization, personalized user experience management on smart devices, and adaptive resource allocation in mobile environments.",
+            "url": "https://arxiv.org/abs/2603.19584"
         },
         {
-            "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
-            "innovation": "Proposes a departure from traditional reverse-mode automatic differentiation and IEEE-754 arithmetic, introducing new training paradigms like Bayesian Evolution, Warm Rotation, and Principled Training. This aims to overcome issues like high memory overhead, optimizer complexity, and structural degradation, especially for geometric and neuromorphic AI.",
-            "benchmarks": "Implicitly, training efficiency (memory footprint, computation time), optimizer robustness, preservation of geometric properties, and performance on specialized geometric and neuromorphic AI tasks.",
-            "use_case": "Redesigning core AI training infrastructure for greater efficiency, robustness, and physical fidelity, enabling the development of more scalable and accurate AI systems for domains requiring precise geometric or neuro-inspired computations.",
-            "url": "https://arxiv.org/abs/2603.18104"
+            "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
+            "innovation": "HyEvo introduces self-evolving hybrid agentic workflows that integrate LLMs with other specialized operators. This approach aims to significantly improve efficiency and performance over traditional LLM-only workflows for complex tasks.",
+            "benchmarks": "Improved efficiency and reasoning performance on complex tasks, likely demonstrated through comparisons against state-of-the-art LLM-only agentic workflows.",
+            "use_case": "Developing more robust, efficient, and scalable LLM agents for complex tasks in various domains, reducing computational costs, and improving task success rates for AI agent deployments.",
+            "url": "https://arxiv.org/abs/2603.19639"
         },
         {
-            "title": "A Computationally Efficient Learning of Artificial Intelligence System Reliability Considering Error Propagation",
-            "innovation": "Focuses on developing a computationally efficient method for learning and assessing the reliability of interconnected AI systems, particularly by modeling and accounting for how errors propagate from upstream to downstream stages. This is crucial for robust AI deployment in complex environments.",
-            "benchmarks": "AI system reliability metrics (e.g., uptime, error rates), fault tolerance, computational efficiency of the reliability assessment process, and performance in mitigating error propagation in multi-stage AI workflows.",
-            "use_case": "Designing, deploying, and validating highly reliable and fault-tolerant AI systems for critical applications such as smart cities, industrial automation, or any scenario where AI systems operate in sequence and errors can have significant cascading effects.",
-            "url": "https://arxiv.org/abs/2603.18201"
+            "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+            "innovation": "This paper presents a novel subgoal-driven framework designed to significantly enhance the capabilities of LLM-based agents, particularly in handling challenging long-horizon tasks within dynamic digital environments.",
+            "benchmarks": "Demonstrates improved performance and reliability of LLM agents in complex long-horizon tasks such as web navigation, mobile interface control, and other intricate interactions in digital environments.",
+            "use_case": "Building more capable and reliable autonomous LLM agents for web automation, digital assistant applications, and complex interactive tasks across various digital platforms requiring extended planning and execution.",
+            "url": "https://arxiv.org/abs/2603.19685"
         }
     ]
 }

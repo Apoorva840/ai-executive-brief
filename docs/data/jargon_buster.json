@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 23, 2026",
+    "last_updated": "March 24, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Autonomous AI Agents",
-            "definition": "These are AI systems capable of independently perceiving their environment, reasoning through complex objectives, and executing multi-step actions across software and hardware interfaces. Unlike standard chatbots, they operate in a continuous loop of planning and execution to complete high-level goals\u2014such as web-based shopping or robotic control\u2014without human intervention.",
-            "analogy": "Think of a 'Sous Chef' who doesn't just wait for you to tell them to chop an onion, but notices the pantry is low on stock, orders the groceries, preps the kitchen, and begins cooking the meal based on a guest's dietary preferences while you are still at work.",
-            "business_value": "Shifts AI from a 'tool' to a 'workforce.' For the CEO, this means a transition from automating simple tasks to automating entire business processes (e.g., procurement or R&D optimization), significantly reducing operational overhead and accelerating time-to-market."
+            "term": "Hyperagents (Recursive Self-Improvement)",
+            "definition": "Hyperagents are AI systems designed to autonomously optimize their own internal learning architectures and meta-level mechanisms without human intervention. By iteratively refining their own problem-solving processes, these systems aim to bypass the 'handcrafting' bottleneck that currently limits the speed of AI evolution.",
+            "analogy": "Imagine a kitchen where the oven doesn't just cook food, but analyzes the chemical results of every meal to rewrite its own software and physically rearrange its heating elements to become a more efficient appliance every single day.",
+            "business_value": "This shifts AI from a depreciating asset that requires constant human maintenance to an autonomous R&D engine. For the bottom line, it promises to drastically reduce the 'technical debt' and engineering costs associated with keeping AI models competitive in a rapidly shifting market."
         },
         {
-            "term": "Dynamic Inference-Time Scaling (Thinking Time)",
-            "definition": "This architectural approach allows a Transformer model to decide how much computational power and internal 'rehearsal' is required for a specific prompt before delivering an answer. By integrating external memory and iterative reasoning loops, the model can 'think' longer on complex logical or mathematical problems rather than providing an immediate, high-probability guess.",
-            "analogy": "It is like a 'Smart Transmission' in a car that automatically downshifts and increases RPMs when it senses a steep mountain incline (a complex problem), ensuring it has enough torque to reach the top rather than trying to cruise at a fixed speed and stalling.",
-            "business_value": "Enables the deployment of AI in high-stakes environments like finance or engineering where accuracy is non-negotiable. It allows businesses to optimize compute costs by paying for 'deep thinking' only when the complexity of the task justifies the expense."
+            "term": "Formal Counterexample Generation",
+            "definition": "This is the mathematical process of using LLMs to systematically identify cases where a statement or logical proof is false. It moves beyond simple text generation into 'adversarial reasoning,' where the AI actively hunts for edge cases and logical failures to verify the robustness of a system.",
+            "analogy": "In car manufacturing, most AI acts like the GPS telling you where to go; Formal Counterexample Generation is the crash-test lab that proactively finds every single way the brakes might fail before the car ever reaches the customer.",
+            "business_value": "This is a direct solution to the 'hallucination' problem. By teaching AI to disprove its own errors, companies can deploy LLMs in high-stakes environments like legal auditing, financial forecasting, and safety-critical infrastructure with significantly lower liability risk."
         },
         {
-            "term": "The Verification Bottleneck",
-            "definition": "As AI drives the marginal cost of 'idea generation' toward zero, the primary constraint shifts from the ability to create content to the ability to verify its accuracy and safety. This involves creating new infrastructure and automated testing protocols to filter the massive volume of AI-generated outputs for hallucinations or errors.",
-            "analogy": "Imagine a kitchen that installs a high-speed machine capable of plating 1,000 gourmet meals a minute; the bottleneck is no longer the cooking, but the Head Chef's ability to taste and approve every single plate before it leaves the kitchen to ensure the quality is perfect.",
-            "business_value": "Identifies where the next competitive moat lies. As generation becomes a commodity, companies that own proprietary verification data and automated 'truth-checking' workflows will maintain a significant advantage in brand trust and reliability over competitors who simply generate at volume."
+            "term": "Multi-Objective Reinforcement Learning (MORL)",
+            "definition": "MORL is a framework for training AI agents to make decisions when faced with multiple, often conflicting, goals\u2014such as maximizing data center performance while minimizing power grid strain. It uses techniques like Pareto Ascent to find an optimal 'trade-off' set rather than just maximizing a single numerical value.",
+            "analogy": "It is like a hybrid car\u2019s onboard computer that must simultaneously decide how to maximize acceleration, minimize fuel consumption, and preserve battery longevity, balancing all three priorities in real-time based on the driver's current needs.",
+            "business_value": "MORL allows executives to bake complex corporate values directly into the AI's DNA. Instead of an AI that only pursues 'growth' at any cost, MORL ensures the system optimizes for 'profitable growth' balanced against 'operational risk' and 'sustainability targets,' aligning technology with nuanced CEO-level KPIs."
         }
     ]
 }

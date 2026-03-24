@@ -1,25 +1,39 @@
 [
   {
-    "title": "Math needs thinking time, everyday knowledge needs memory, and a new Transformer architecture aims to deliver both",
-    "url": "https://the-decoder.com/math-needs-thinking-time-everyday-knowledge-needs-memory-and-a-new-transformer-architecture-aims-to-deliver-both/",
-    "source": "The Decoder",
+    "title": "A New Framework for Evaluation of Voice Agents (EVA)",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+    "source": "Hugging Face Blog",
     "score": 8,
-    "what_happened": "A German research team lets Transformer models decide for themselves how many times they think about a problem. Combined with additional memory, the approach outperforms larger models on math problems. The article Math needs thinking time, everyday knowledge needs memory, and a new Transformer architecture aims to deliver both appeared first on The",
+    "what_happened": "Hugging Face Blog announced 'A New Framework for Evaluation of Voice Agents (EVA)', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
-    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
-    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "Mobile Engineers",
-      "Product Managers"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "Xiaomi launches three MiMo AI models to power agents, robots, and voice",
-    "url": "https://the-decoder.com/xiaomi-launches-three-mimo-ai-models-to-power-agents-robots-and-voice/",
+    "title": "Luma AI's Uni-1 could be the first real challenger to Google's Nano Banana image dominance",
+    "url": "https://the-decoder.com/luma-ais-uni-1-could-be-the-first-real-challenger-to-googles-nano-banana-image-dominance/",
     "source": "The Decoder",
+    "score": 8,
+    "what_happened": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates. The article Luma AI&#039;s Uni-1 could be the first real challenger to Google&#039;s Nano Banana image dominance appeared first on The Decoder.",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+    "url": "https://arxiv.org/abs/2603.19685",
+    "source": "Arxiv AI",
     "score": 7,
-    "what_happened": "The Chinese technology company Xiaomi wants to build AI agents that can independently control software, shop in the browser and, in the future, also control robots. The in-house MiMo team has presented three models at the same time. The article Xiaomi launches three MiMo AI models to power agents, robots, and voice appeared first on The Decoder.",
+    "what_happened": "arXiv:2603.19685v1 Announce Type: new Abstract: Large language model (LLM)-based agents have emerged as powerful autonomous controllers for digital environments, including mobile interfaces, operating systems, and web browsers. Web navigation, for example, requires handling dynamic content and long sequences of actions, making it particularly chall",
     "technical_takeaway": null,
     "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
     "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
@@ -30,48 +44,33 @@
     "technical_angle": "Hardware and energy constraints now shape model design decisions."
   },
   {
-    "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
-    "url": "https://arxiv.org/abs/2603.18048",
-    "source": "Arxiv AI",
+    "title": "Will machines ever be intelligent?",
+    "url": "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+    "source": "Microsoft Research",
     "score": 7,
-    "what_happened": "arXiv:2603.18048v1 Announce Type: new Abstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether these models genuinely process acoustic signals or rely on text-based semantic inference. To systematically study this question, we introduce DEAF (Diagno",
+    "what_happened": "Are machines truly intelligent? AI researchers Subutai Ahmad and Nicolò Fusi join Doug Burger to compare transformer-based AI with the human brain, exploring continual learning, efficiency, and whether today’s models are on a path toward human intelligence. The post Will machines ever be intelligent? appeared first on Microsoft Research.",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
+      "Applied Researchers",
+      "Enterprise ML Teams"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "MemArchitect: A Policy Driven Memory Governance Layer",
-    "url": "https://arxiv.org/abs/2603.18330",
-    "source": "Arxiv AI",
+    "title": "OpenSeeker's open-source approach aims to break up the data monopoly for AI search agents",
+    "url": "https://the-decoder.com/openseekers-open-source-approach-aims-to-break-up-the-data-monopoly-for-ai-search-agents/",
+    "source": "The Decoder",
     "score": 7,
-    "what_happened": "arXiv:2603.18330v1 Announce Type: new Abstract: Persistent Large Language Model (LLM) agents expose a critical governance gap in memory management. Standard Retrieval-Augmented Generation (RAG) frameworks treat memory as passive storage, lacking mechanisms to resolve contradictions, enforce privacy, or prevent outdated information (\"zombie memories",
+    "what_happened": "With just 11,700 training data points and a single training run, the AI search agent OpenSeeker achieves results that rival solutions from Alibaba and others. Data, code, and model are all openly accessible. The article OpenSeeker&#039;s open-source approach aims to break up the data monopoly for AI search agents appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
-    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "AI Ethics Engineers",
-      "Legal & Compliance"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
-  },
-  {
-    "title": "AlignMamba-2: Enhancing Multimodal Fusion and Sentiment Analysis with Modality-Aware Mamba",
-    "url": "https://arxiv.org/abs/2603.18462",
-    "source": "Arxiv AI",
-    "score": 7,
-    "what_happened": "arXiv:2603.18462v1 Announce Type: new Abstract: In the era of large-scale pre-trained models, effectively adapting general knowledge to specific affective computing tasks remains a challenge, particularly regarding computational efficiency and multimodal heterogeneity. While Transformer-based methods have excelled at modeling inter-modal dependenci",
-    "technical_takeaway": null,
-    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
-    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
-    "who_should_care": [
-      "Mobile Engineers",
-      "Product Managers"
-    ],
-    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   }
 ]
