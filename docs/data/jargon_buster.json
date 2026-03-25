@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 24, 2026",
+    "last_updated": "March 25, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Hyperagents (Recursive Self-Improvement)",
-            "definition": "Hyperagents are AI systems designed to autonomously optimize their own internal learning architectures and meta-level mechanisms without human intervention. By iteratively refining their own problem-solving processes, these systems aim to bypass the 'handcrafting' bottleneck that currently limits the speed of AI evolution.",
-            "analogy": "Imagine a kitchen where the oven doesn't just cook food, but analyzes the chemical results of every meal to rewrite its own software and physically rearrange its heating elements to become a more efficient appliance every single day.",
-            "business_value": "This shifts AI from a depreciating asset that requires constant human maintenance to an autonomous R&D engine. For the bottom line, it promises to drastically reduce the 'technical debt' and engineering costs associated with keeping AI models competitive in a rapidly shifting market."
+            "term": "Generative Engine Optimization (GEO)",
+            "definition": "GEO is a strategic framework designed to ensure digital content is prioritized and synthesized by Large Language Model-based search engines. Unlike traditional SEO, which focuses on link ranking, GEO optimizes for 'content inclusion' so that an AI agent cites and incorporates your data into its final generated answer.",
+            "analogy": "In a kitchen, traditional SEO is making sure your spice jar is at the front of the pantry shelf; GEO is making sure the chef actually picks up your spice and stirs it into the signature sauce everyone is eating.",
+            "business_value": "As users migrate from clicking links to reading AI summaries, visibility is no longer about being 'top of page' but about being 'part of the answer.' Companies that fail to adapt to GEO risk becoming invisible to the next generation of consumers using AI-first search tools."
         },
         {
-            "term": "Formal Counterexample Generation",
-            "definition": "This is the mathematical process of using LLMs to systematically identify cases where a statement or logical proof is false. It moves beyond simple text generation into 'adversarial reasoning,' where the AI actively hunts for edge cases and logical failures to verify the robustness of a system.",
-            "analogy": "In car manufacturing, most AI acts like the GPS telling you where to go; Formal Counterexample Generation is the crash-test lab that proactively finds every single way the brakes might fail before the car ever reaches the customer.",
-            "business_value": "This is a direct solution to the 'hallucination' problem. By teaching AI to disprove its own errors, companies can deploy LLMs in high-stakes environments like legal auditing, financial forecasting, and safety-critical infrastructure with significantly lower liability risk."
+            "term": "Multi-Agent Error Propagation",
+            "definition": "This refers to a systemic fragility in AI workflows where multiple specialized agents collaborate on a task. If one agent commits a logical fallacy or 'hallucination,' that error is treated as a ground truth by subsequent agents, causing a cascade that leads to total system failure despite each individual agent appearing to work correctly.",
+            "analogy": "Think of an automated car assembly line where the first robot misaligns a chassis by one inch. Every subsequent high-tech robot installs its parts perfectly according to their programming, but because the foundation was off, you end up with a high-performance vehicle that cannot drive straight.",
+            "business_value": "For executives, this highlights a critical 'reliability gap' in AI automation. To protect the bottom line, firms must move beyond single-agent pilots and invest in 'proactive error forecasting' to prevent expensive, automated chain reactions that can damage reputation or operational integrity."
         },
         {
-            "term": "Multi-Objective Reinforcement Learning (MORL)",
-            "definition": "MORL is a framework for training AI agents to make decisions when faced with multiple, often conflicting, goals\u2014such as maximizing data center performance while minimizing power grid strain. It uses techniques like Pareto Ascent to find an optimal 'trade-off' set rather than just maximizing a single numerical value.",
-            "analogy": "It is like a hybrid car\u2019s onboard computer that must simultaneously decide how to maximize acceleration, minimize fuel consumption, and preserve battery longevity, balancing all three priorities in real-time based on the driver's current needs.",
-            "business_value": "MORL allows executives to bake complex corporate values directly into the AI's DNA. Instead of an AI that only pursues 'growth' at any cost, MORL ensures the system optimizes for 'profitable growth' balanced against 'operational risk' and 'sustainability targets,' aligning technology with nuanced CEO-level KPIs."
+            "term": "Tree of Thoughts (ToT) Framework",
+            "definition": "ToT is an advanced reasoning architecture that allows AI to explore multiple different problem-solving branches simultaneously rather than following a single linear path. It enables the model to self-evaluate the 'promise' of different thoughts, look ahead to potential outcomes, and backtrack if it hits a logical dead end.",
+            "analogy": "A standard AI is like a driver following GPS instructions blindly, even if they lead into a lake. ToT is like a driver who looks at a map, considers three different routes to avoid a traffic jam, and chooses the one that is statistically most likely to get them to their meeting on time.",
+            "business_value": "ToT provides the 'deliberate thinking' necessary for high-stakes business logic, such as legal discovery or strategic financial modeling. By implementing 'plug-and-play predictors' within this framework, businesses can achieve human-level reasoning accuracy without the massive computational costs typically associated with deep AI thinking."
         }
     ]
 }

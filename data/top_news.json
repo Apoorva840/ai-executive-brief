@@ -1,42 +1,42 @@
 [
   {
-    "title": "A New Framework for Evaluation of Voice Agents (EVA)",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-03-24T02:01:52+00:00",
-    "score": 8
-  },
-  {
-    "title": "Luma AI's Uni-1 could be the first real challenger to Google's Nano Banana image dominance",
-    "summary": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates. The article Luma AI&#039;s Uni-1 could be the first real challenger to Google&#039;s Nano Banana image dominance appeared first on The Decoder.",
-    "url": "https://the-decoder.com/luma-ais-uni-1-could-be-the-first-real-challenger-to-googles-nano-banana-image-dominance/",
-    "source": "The Decoder",
-    "published_at": "2026-03-23T18:53:52+00:00",
-    "score": 8
-  },
-  {
-    "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
-    "summary": "arXiv:2603.19685v1 Announce Type: new Abstract: Large language model (LLM)-based agents have emerged as powerful autonomous controllers for digital environments, including mobile interfaces, operating systems, and web browsers. Web navigation, for example, requires handling dynamic content and long sequences of actions, making it particularly chall",
-    "url": "https://arxiv.org/abs/2603.19685",
+    "title": "A Framework for Low-Latency, LLM-driven Multimodal Interaction on the Pepper Robot",
+    "summary": "arXiv:2603.21013v1 Announce Type: new Abstract: Despite recent advances in integrating Large Language Models (LLMs) into social robotics, two weaknesses persist. First, existing implementations on platforms like Pepper often rely on cascaded Speech-to-Text (STT)->LLM->Text-to-Speech (TTS) pipelines, resulting in high latency and the loss of paralin",
+    "url": "https://arxiv.org/abs/2603.21013",
     "source": "Arxiv AI",
-    "published_at": "2026-03-23T04:00:00+00:00",
-    "score": 7
+    "published_at": "2026-03-24T04:00:00+00:00",
+    "score": 8
   },
   {
-    "title": "Will machines ever be intelligent?",
-    "summary": "Are machines truly intelligent? AI researchers Subutai Ahmad and Nicolò Fusi join Doug Burger to compare transformer-based AI with the human brain, exploring continual learning, efficiency, and whether today’s models are on a path toward human intelligence. The post Will machines ever be intelligent? appeared first on Microsoft Research.",
-    "url": "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
-    "source": "Microsoft Research",
-    "published_at": "2026-03-23T15:00:21+00:00",
-    "score": 7
-  },
-  {
-    "title": "OpenSeeker's open-source approach aims to break up the data monopoly for AI search agents",
-    "summary": "With just 11,700 training data points and a single training run, the AI search agent OpenSeeker achieves results that rival solutions from Alibaba and others. Data, code, and model are all openly accessible. The article OpenSeeker&#039;s open-source approach aims to break up the data monopoly for AI search agents appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openseekers-open-source-approach-aims-to-break-up-the-data-monopoly-for-ai-search-agents/",
+    "title": "Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters",
+    "summary": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents. The article Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters appeared firs",
+    "url": "https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters/",
     "source": "The Decoder",
-    "published_at": "2026-03-23T16:12:07+00:00",
+    "published_at": "2026-03-24T19:40:06+00:00",
     "score": 7
+  },
+  {
+    "title": "Agile Robots and Google Deepmind team up to bring AI-powered robots to factories",
+    "summary": "Agile Robots and Google Deepmind are partnering to build AI-powered robots for industrial use. The Munich-based company will integrate Deepmind's Gemini Robotics models into its hardware. The article Agile Robots and Google Deepmind team up to bring AI-powered robots to factories appeared first on The Decoder.",
+    "url": "https://the-decoder.com/agile-robots-and-google-deepmind-team-up-to-bring-ai-powered-robots-to-factories/",
+    "source": "The Decoder",
+    "published_at": "2026-03-24T16:20:39+00:00",
+    "score": 7
+  },
+  {
+    "title": "Automating complex finance workflows with multimodal AI",
+    "summary": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers. Historically, standard optical character recognition systems failed to accurately digitise complex layouts, frequently converting multi-column fil",
+    "url": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
+    "source": "AI News",
+    "published_at": "2026-03-24T17:03:48+00:00",
+    "score": 7
+  },
+  {
+    "title": "Securing AI systems under today’s and tomorrow’s conditions",
+    "summary": "Evidence cited in an eBook titled &#8220;AI Quantum Resilience&#8221;, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI&#8217;s value depends on data amassed by an organisation. However, there are security risks to building models and training the",
+    "url": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
+    "source": "AI News",
+    "published_at": "2026-03-24T15:22:00+00:00",
+    "score": 6
   }
 ]

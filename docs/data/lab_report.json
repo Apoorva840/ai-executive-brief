@@ -1,26 +1,26 @@
 {
-    "last_updated": "Today's Date",
+    "last_updated": "2024-05-18",
     "papers": [
         {
-            "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
-            "innovation": "PowerLens introduces LLM agents for personalized, context-aware mobile power management, moving beyond static rules and heuristics to adapt to user activities and preferences.",
-            "benchmarks": "Improved battery life, enhanced adaptability to user activities and preferences, and better safety guarantees in mobile power management scenarios.",
-            "use_case": "Enhancing mobile operating systems for intelligent battery optimization, personalized user experience management on smart devices, and adaptive resource allocation in mobile environments.",
-            "url": "https://arxiv.org/abs/2603.19584"
+            "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
+            "innovation": "Introduces a proactive error forecasting mechanism for Multi-Agent Systems (MAS) leveraging Markov Transition Dynamics to predict and mitigate error propagation. This enhances the robustness and reliability of LLM-based MAS by addressing their inherent fragility.",
+            "benchmarks": "Evaluation would focus on metrics related to system robustness, error detection and mitigation rates, and overall task completion success under scenarios prone to logical fallacies and error propagation within multi-agent systems.",
+            "use_case": "Designing, deploying, and maintaining robust and fault-tolerant multi-agent AI systems for complex, long-horizon tasks, particularly in applications where the collective intelligence of LLMs is critical but susceptible to cascading failures.",
+            "url": "https://arxiv.org/abs/2603.20260"
         },
         {
-            "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
-            "innovation": "HyEvo introduces self-evolving hybrid agentic workflows that integrate LLMs with other specialized operators. This approach aims to significantly improve efficiency and performance over traditional LLM-only workflows for complex tasks.",
-            "benchmarks": "Improved efficiency and reasoning performance on complex tasks, likely demonstrated through comparisons against state-of-the-art LLM-only agentic workflows.",
-            "use_case": "Developing more robust, efficient, and scalable LLM agents for complex tasks in various domains, reducing computational costs, and improving task success rates for AI agent deployments.",
-            "url": "https://arxiv.org/abs/2603.19639"
+            "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
+            "innovation": "Proposes a novel approach to the Tree of Thoughts (ToT) framework using 'plug-and-play predictors' for domain-specialized evaluation. This addresses the critical trade-off between exploration depth and computational efficiency, moving beyond heavyweight LLM-based self-evaluation.",
+            "benchmarks": "Benchmarking would involve complex reasoning tasks, evaluating improvements in computational efficiency (e.g., reduced token usage, faster inference) against the accuracy and depth of reasoning compared to traditional ToT implementations.",
+            "use_case": "Implementing efficient and specialized LLM reasoning pipelines for domain-specific applications that require complex, multi-step problem-solving, such as scientific reasoning, strategic planning, or expert systems, where resource constraints are a concern.",
+            "url": "https://arxiv.org/abs/2603.20267"
         },
         {
-            "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
-            "innovation": "This paper presents a novel subgoal-driven framework designed to significantly enhance the capabilities of LLM-based agents, particularly in handling challenging long-horizon tasks within dynamic digital environments.",
-            "benchmarks": "Demonstrates improved performance and reliability of LLM agents in complex long-horizon tasks such as web navigation, mobile interface control, and other intricate interactions in digital environments.",
-            "use_case": "Building more capable and reliable autonomous LLM agents for web automation, digital assistant applications, and complex interactive tasks across various digital platforms requiring extended planning and execution.",
-            "url": "https://arxiv.org/abs/2603.19685"
+            "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+            "innovation": "Presents AgenticGEO, a self-evolving agentic system specifically designed for Generative Engine Optimization (GEO). It shifts the optimization goal from traditional ranking prominence to maximizing content inclusion within LLM-based generative search outputs.",
+            "benchmarks": "Evaluation would involve metrics tailored for generative search, such as content visibility rates, diversity of included information, and relevance scores within the synthesized outputs, contrasting against traditional search optimization methods.",
+            "use_case": "Developing and optimizing next-generation generative search engines, content recommendation systems, and information synthesis platforms that leverage Large Language Models, with a focus on influencing and improving content presence in generative summaries.",
+            "url": "https://arxiv.org/abs/2603.20213"
         }
     ]
 }
