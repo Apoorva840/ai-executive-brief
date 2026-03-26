@@ -1,25 +1,25 @@
 {
-    "last_updated": "March 23, 2026",
+    "last_updated": "March 26, 2026",
     "tools": [
         {
-            "Name": "browser-use",
-            "Category": "Automation / Web Browsing",
-            "Description": "A package that makes websites accessible for AI agents, allowing them to automate browser tasks like form-filling, navigating, and data extraction.",
-            "Use_Case": "Automating web-based tasks such as job applications, grocery shopping, or personal assistant workflows.",
-            "URL": "https://github.com/browser-use/browser-use"
+            "Name": "LiteLLM",
+            "Category": "AI Infrastructure",
+            "Description": "A Python SDK and Proxy Server that provides a unified interface to call over 100+ LLM APIs using the OpenAI format.",
+            "Use_Case": "Unified API management, cost tracking, load balancing, and guardrails for multi-LLM applications.",
+            "URL": "https://github.com/BerriAI/litellm"
         },
         {
-            "Name": "LightRAG",
-            "Category": "Retrieval-Augmented Generation (RAG)",
-            "Description": "A simple and fast RAG system that uses knowledge graphs and retrieval-augmented generation to improve query performance and knowledge extraction.",
-            "Use_Case": "Building production-grade research assistants, knowledge management systems, and advanced document querying applications.",
-            "URL": "https://github.com/HKUDS/LightRAG"
+            "Name": "Strix",
+            "Category": "Security / Agentic AI",
+            "Description": "Autonomous AI agents designed for dynamic security testing, vulnerability discovery, and automated proof-of-concept generation.",
+            "Use_Case": "Application security testing, rapid penetration testing, and automated bug bounty research within CI/CD pipelines.",
+            "URL": "https://github.com/usestrix/strix"
         },
         {
             "Name": "DeerFlow",
-            "Category": "Agentic AI / Super Agent Harness",
-            "Description": "An open-source super agent harness that orchestrates sub-agents, memory, and sandboxed execution environments for complex tasks.",
-            "Use_Case": "Automating long-running multi-step research or coding tasks that require planning, research, and sandboxed execution.",
+            "Category": "Agentic AI / Automation",
+            "Description": "An open-source 'super agent' harness that orchestrates sub-agents, memory, and sandboxed execution environments for complex tasks.",
+            "Use_Case": "Automating long-running research, coding projects, and complex data-driven workflows using multi-agent orchestration.",
             "URL": "https://github.com/bytedance/deer-flow"
         }
     ]

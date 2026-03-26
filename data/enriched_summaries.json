@@ -1,13 +1,13 @@
 [
   {
-    "title": "A Framework for Low-Latency, LLM-driven Multimodal Interaction on the Pepper Robot",
-    "url": "https://arxiv.org/abs/2603.21013",
+    "title": "A transformer architecture alteration to incentivise externalised reasoning",
+    "url": "https://arxiv.org/abs/2603.21376",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2603.21013v1 Announce Type: new Abstract: Despite recent advances in integrating Large Language Models (LLMs) into social robotics, two weaknesses persist. First, existing implementations on platforms like Pepper often rely on cascaded Speech-to-Text (STT)->LLM->Text-to-Speech (TTS) pipelines, resulting in high latency and the loss of paralin",
+    "what_happened": "arXiv:2603.21376v2 Announce Type: replace Abstract: We propose a new architectural change, and post-training pipeline, for making LLMs more verbose reasoners by teaching a model to truncate forward passes early. We augment an existing transformer architecture with an early-exit mechanism at intermediate layers and train the model to exit at shallow",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "Research Scientists",
       "ML Engineers"
@@ -15,11 +15,26 @@
     "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters",
-    "url": "https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters/",
+    "title": "Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use",
+    "url": "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents. The article Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters appeared firs",
+    "what_happened": "Google is making AI music longer and more widely available: Lyria 3 Pro generates songs up to three minutes long, complete with verses, choruses, and bridges. Google says the model was trained on content it has the right to use. That sets it apart from rival music generator Suno, which is facing legal battles with record labels over potential copyr",
+    "technical_takeaway": null,
+    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
+    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
+    "who_should_care": [
+      "AI Ethics Engineers",
+      "Legal & Compliance"
+    ],
+    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
+  },
+  {
+    "title": "AI2's fully open web agent MolmoWeb navigates the web using only screenshots",
+    "url": "https://the-decoder.com/ai2s-fully-open-web-agent-molmoweb-navigates-the-web-using-only-screenshots/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "AI2 releases MolmoWeb, a fully open web agent that navigates websites using only screenshots. Despite having just 4 and 8 billion parameters, the models beat several larger proprietary systems on standard benchmarks. The article AI2&#039;s fully open web agent MolmoWeb navigates the web using only screenshots appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -30,47 +45,33 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "Agile Robots and Google Deepmind team up to bring AI-powered robots to factories",
-    "url": "https://the-decoder.com/agile-robots-and-google-deepmind-team-up-to-bring-ai-powered-robots-to-factories/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Agile Robots and Google Deepmind are partnering to build AI-powered robots for industrial use. The Munich-based company will integrate Deepmind's Gemini Robotics models into its hardware. The article Agile Robots and Google Deepmind team up to bring AI-powered robots to factories appeared first on The Decoder.",
-    "technical_takeaway": null,
-    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
-    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
-    "who_should_care": [
-      "AI Infrastructure Engineers",
-      "Sustainability Leaders"
-    ],
-    "technical_angle": "Hardware and energy constraints now shape model design decisions."
-  },
-  {
-    "title": "Automating complex finance workflows with multimodal AI",
-    "url": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
-    "source": "AI News",
-    "score": 7,
-    "what_happened": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers. Historically, standard optical character recognition systems failed to accurately digitise complex layouts, frequently converting multi-column fil",
-    "technical_takeaway": null,
-    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
-    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
-    "who_should_care": [
-      "AI Infrastructure Engineers",
-      "Sustainability Leaders"
-    ],
-    "technical_angle": "Hardware and energy constraints now shape model design decisions."
-  },
-  {
-    "title": "Securing AI systems under today’s and tomorrow’s conditions",
-    "url": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
-    "source": "AI News",
-    "score": 6,
-    "what_happened": "Evidence cited in an eBook titled &#8220;AI Quantum Resilience&#8221;, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI&#8217;s value depends on data amassed by an organisation. However, there are security risks to building models and training the",
+    "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+    "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
-      "AI Professionals"
+      "Policy Leaders",
+      "Tech Strategists"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+  },
+  {
+    "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+    "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   }
 ]

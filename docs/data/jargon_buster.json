@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 25, 2026",
+    "last_updated": "March 26, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Generative Engine Optimization (GEO)",
-            "definition": "GEO is a strategic framework designed to ensure digital content is prioritized and synthesized by Large Language Model-based search engines. Unlike traditional SEO, which focuses on link ranking, GEO optimizes for 'content inclusion' so that an AI agent cites and incorporates your data into its final generated answer.",
-            "analogy": "In a kitchen, traditional SEO is making sure your spice jar is at the front of the pantry shelf; GEO is making sure the chef actually picks up your spice and stirs it into the signature sauce everyone is eating.",
-            "business_value": "As users migrate from clicking links to reading AI summaries, visibility is no longer about being 'top of page' but about being 'part of the answer.' Companies that fail to adapt to GEO risk becoming invisible to the next generation of consumers using AI-first search tools."
+            "term": "Agentic AI",
+            "definition": "A shift in AI architecture from passive assistance to autonomous execution, where systems use 'truth and context' to navigate multi-step workflows. These agents don't just provide information; they utilize external tools and APIs to complete complex transactions, such as booking travel or managing budgets, with minimal human intervention.",
+            "analogy": "Traditional AI is a high-end GPS that tells you where to go; Agentic AI is a Level 5 self-driving car that not only knows the destination but actually drives you there, stops for fuel, and pays the toll without you touching the wheel.",
+            "business_value": "This moves the needle from 'productivity enhancement' to 'labor replacement.' By automating the execution layer of commerce and operations, enterprises can drastically reduce the cost of high-touch service tasks and accelerate transaction cycles."
         },
         {
-            "term": "Multi-Agent Error Propagation",
-            "definition": "This refers to a systemic fragility in AI workflows where multiple specialized agents collaborate on a task. If one agent commits a logical fallacy or 'hallucination,' that error is treated as a ground truth by subsequent agents, causing a cascade that leads to total system failure despite each individual agent appearing to work correctly.",
-            "analogy": "Think of an automated car assembly line where the first robot misaligns a chassis by one inch. Every subsequent high-tech robot installs its parts perfectly according to their programming, but because the foundation was off, you end up with a high-performance vehicle that cannot drive straight.",
-            "business_value": "For executives, this highlights a critical 'reliability gap' in AI automation. To protect the bottom line, firms must move beyond single-agent pilots and invest in 'proactive error forecasting' to prevent expensive, automated chain reactions that can damage reputation or operational integrity."
+            "term": "Multimodal Affective Intelligence",
+            "definition": "An emerging field of AI that integrates various data streams\u2014including vocal tone, facial expressions, and textual context\u2014to evaluate a user's emotional state over time. Unlike standard sentiment analysis, it uses 'memory science engines' to track emotional trajectories, allowing the AI to understand the nuance and intent behind human interactions in real-time.",
+            "analogy": "It is like a Master Chef in a kitchen who doesn't just look at a thermometer, but smells the aroma, hears the sizzle, and feels the humidity in the room to know exactly when a delicate souffl\u00e9 is perfectly cooked.",
+            "business_value": "For the bottom line, this enables 'Hyper-Personalized CX.' It allows companies to detect customer frustration or hidden intent before it leads to churn, turning emotional data into a measurable asset for retention and sales conversion."
         },
         {
-            "term": "Tree of Thoughts (ToT) Framework",
-            "definition": "ToT is an advanced reasoning architecture that allows AI to explore multiple different problem-solving branches simultaneously rather than following a single linear path. It enables the model to self-evaluate the 'promise' of different thoughts, look ahead to potential outcomes, and backtrack if it hits a logical dead end.",
-            "analogy": "A standard AI is like a driver following GPS instructions blindly, even if they lead into a lake. ToT is like a driver who looks at a map, considers three different routes to avoid a traffic jam, and chooses the one that is statistically most likely to get them to their meeting on time.",
-            "business_value": "ToT provides the 'deliberate thinking' necessary for high-stakes business logic, such as legal discovery or strategic financial modeling. By implementing 'plug-and-play predictors' within this framework, businesses can achieve human-level reasoning accuracy without the massive computational costs typically associated with deep AI thinking."
+            "term": "Intelligence Inertia",
+            "definition": "A theoretical principle suggesting that as AI models become more complex and rule-constrained, they develop a physical and computational 'resistance' to change or information erasure. Grounded in thermodynamics and Fisher Information, it describes the energy and structural cost required to pivot an AI's logic once it has reached a state of dense parameter stabilization.",
+            "analogy": "Think of it as the turning radius of a massive cargo ship versus a jet ski. As your AI 'ship' gets larger and carries more data, you cannot turn it on a dime; the sheer momentum of its existing training makes sudden strategic or ethical pivots incredibly expensive and slow.",
+            "business_value": "This is a critical risk-management metric for CEOs. It highlights that the 'cost of pivot' for large-scale AI investments increases exponentially over time, making early-stage alignment and robust architectural safety more important than raw scaling."
         }
     ]
 }

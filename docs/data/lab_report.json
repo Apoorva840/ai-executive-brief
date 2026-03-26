@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-05-18",
+    "last_updated": "March 26, 2024",
     "papers": [
         {
-            "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
-            "innovation": "Introduces a proactive error forecasting mechanism for Multi-Agent Systems (MAS) leveraging Markov Transition Dynamics to predict and mitigate error propagation. This enhances the robustness and reliability of LLM-based MAS by addressing their inherent fragility.",
-            "benchmarks": "Evaluation would focus on metrics related to system robustness, error detection and mitigation rates, and overall task completion success under scenarios prone to logical fallacies and error propagation within multi-agent systems.",
-            "use_case": "Designing, deploying, and maintaining robust and fault-tolerant multi-agent AI systems for complex, long-horizon tasks, particularly in applications where the collective intelligence of LLMs is critical but susceptible to cascading failures.",
-            "url": "https://arxiv.org/abs/2603.20260"
+            "title": "STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems",
+            "innovation": "Introduces STEM Agent, an architecture designed to overcome limitations of current AI agent frameworks by offering a self-adapting, tool-enabled, extensible, and multi-protocol approach. This allows for dynamic adaptation to interaction paradigms, tool integration strategies, and user models, unlike rigid existing systems.",
+            "benchmarks": "Improved adaptability, extensibility, and deployment versatility across diverse interaction paradigms compared to existing rigid agent frameworks that commit early to single protocols, fixed tools, and static user models.",
+            "use_case": "Developing highly flexible, robust, and widely deployable AI agent systems that can operate across various interaction protocols, seamlessly integrate diverse tools, and adapt dynamically to user needs in complex, multi-agent environments.",
+            "url": "https://arxiv.org/abs/2603.22359"
         },
         {
-            "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
-            "innovation": "Proposes a novel approach to the Tree of Thoughts (ToT) framework using 'plug-and-play predictors' for domain-specialized evaluation. This addresses the critical trade-off between exploration depth and computational efficiency, moving beyond heavyweight LLM-based self-evaluation.",
-            "benchmarks": "Benchmarking would involve complex reasoning tasks, evaluating improvements in computational efficiency (e.g., reduced token usage, faster inference) against the accuracy and depth of reasoning compared to traditional ToT implementations.",
-            "use_case": "Implementing efficient and specialized LLM reasoning pipelines for domain-specific applications that require complex, multi-step problem-solving, such as scientific reasoning, strategic planning, or expert systems, where resource constraints are a concern.",
-            "url": "https://arxiv.org/abs/2603.20267"
+            "title": "From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents",
+            "innovation": "A comprehensive survey that synthesizes and categorizes methods for designing and optimizing executable workflows for LLM-based systems. It highlights the evolution from static templates to dynamic runtime graphs, covering crucial components like LLM calls, information retrieval, tool use, code execution, memory updates, and verification.",
+            "benchmarks": "Reviews methods that improve performance in various LLM agent tasks such as complex reasoning, planning, and task execution by optimizing workflow design, reliability, and efficiency.",
+            "use_case": "Guiding AI engineers in designing, developing, and optimizing robust and efficient workflows for complex LLM-based agents, enabling better performance, reliability, and maintainability in applications requiring sophisticated multi-step reasoning and interaction.",
+            "url": "https://arxiv.org/abs/2603.22386"
         },
         {
-            "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
-            "innovation": "Presents AgenticGEO, a self-evolving agentic system specifically designed for Generative Engine Optimization (GEO). It shifts the optimization goal from traditional ranking prominence to maximizing content inclusion within LLM-based generative search outputs.",
-            "benchmarks": "Evaluation would involve metrics tailored for generative search, such as content visibility rates, diversity of included information, and relevance scores within the synthesized outputs, contrasting against traditional search optimization methods.",
-            "use_case": "Developing and optimizing next-generation generative search engines, content recommendation systems, and information synthesis platforms that leverage Large Language Models, with a focus on influencing and improving content presence in generative summaries.",
-            "url": "https://arxiv.org/abs/2603.20213"
+            "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
+            "innovation": "Introduces Session Risk Memory (SRM), a temporal authorization system designed to enhance AI agent safety. Unlike per-action authorization, SRM considers the accumulated context and historical actions of an agent over time, enabling detection of distributed attacks that decompose harmful intent across multiple individually compliant steps.",
+            "benchmarks": "Enhanced detection of distributed attacks and improved robustness against multi-step harmful agent behaviors, providing a more comprehensive safety net than traditional per-action authorization systems.",
+            "use_case": "Implementing advanced safety and security mechanisms for AI agents, particularly in sensitive or critical applications where agents perform sequences of actions. It helps in building more secure and trustworthy autonomous systems by preventing complex, multi-step harmful actions.",
+            "url": "https://arxiv.org/abs/2603.22350"
         }
     ]
 }

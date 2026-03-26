@@ -1,42 +1,42 @@
 [
   {
-    "title": "A Framework for Low-Latency, LLM-driven Multimodal Interaction on the Pepper Robot",
-    "summary": "arXiv:2603.21013v1 Announce Type: new Abstract: Despite recent advances in integrating Large Language Models (LLMs) into social robotics, two weaknesses persist. First, existing implementations on platforms like Pepper often rely on cascaded Speech-to-Text (STT)->LLM->Text-to-Speech (TTS) pipelines, resulting in high latency and the loss of paralin",
-    "url": "https://arxiv.org/abs/2603.21013",
+    "title": "A transformer architecture alteration to incentivise externalised reasoning",
+    "summary": "arXiv:2603.21376v2 Announce Type: replace Abstract: We propose a new architectural change, and post-training pipeline, for making LLMs more verbose reasoners by teaching a model to truncate forward passes early. We augment an existing transformer architecture with an early-exit mechanism at intermediate layers and train the model to exit at shallow",
+    "url": "https://arxiv.org/abs/2603.21376",
     "source": "Arxiv AI",
-    "published_at": "2026-03-24T04:00:00+00:00",
+    "published_at": "2026-03-25T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters",
-    "summary": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents. The article Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters appeared firs",
-    "url": "https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters/",
+    "title": "Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use",
+    "summary": "Google is making AI music longer and more widely available: Lyria 3 Pro generates songs up to three minutes long, complete with verses, choruses, and bridges. Google says the model was trained on content it has the right to use. That sets it apart from rival music generator Suno, which is facing legal battles with record labels over potential copyr",
+    "url": "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/",
     "source": "The Decoder",
-    "published_at": "2026-03-24T19:40:06+00:00",
+    "published_at": "2026-03-25T19:12:07+00:00",
     "score": 7
   },
   {
-    "title": "Agile Robots and Google Deepmind team up to bring AI-powered robots to factories",
-    "summary": "Agile Robots and Google Deepmind are partnering to build AI-powered robots for industrial use. The Munich-based company will integrate Deepmind's Gemini Robotics models into its hardware. The article Agile Robots and Google Deepmind team up to bring AI-powered robots to factories appeared first on The Decoder.",
-    "url": "https://the-decoder.com/agile-robots-and-google-deepmind-team-up-to-bring-ai-powered-robots-to-factories/",
+    "title": "AI2's fully open web agent MolmoWeb navigates the web using only screenshots",
+    "summary": "AI2 releases MolmoWeb, a fully open web agent that navigates websites using only screenshots. Despite having just 4 and 8 billion parameters, the models beat several larger proprietary systems on standard benchmarks. The article AI2&#039;s fully open web agent MolmoWeb navigates the web using only screenshots appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ai2s-fully-open-web-agent-molmoweb-navigates-the-web-using-only-screenshots/",
     "source": "The Decoder",
-    "published_at": "2026-03-24T16:20:39+00:00",
+    "published_at": "2026-03-25T17:41:13+00:00",
     "score": 7
   },
   {
-    "title": "Automating complex finance workflows with multimodal AI",
-    "summary": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers. Historically, standard optical character recognition systems failed to accurately digitise complex layouts, frequently converting multi-column fil",
-    "url": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
-    "source": "AI News",
-    "published_at": "2026-03-24T17:03:48+00:00",
-    "score": 7
+    "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+    "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+    "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+    "source": "Wired AI",
+    "published_at": "2026-03-25T18:49:40+00:00",
+    "score": 5
   },
   {
-    "title": "Securing AI systems under today’s and tomorrow’s conditions",
-    "summary": "Evidence cited in an eBook titled &#8220;AI Quantum Resilience&#8221;, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI&#8217;s value depends on data amassed by an organisation. However, there are security risks to building models and training the",
-    "url": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
-    "source": "AI News",
-    "published_at": "2026-03-24T15:22:00+00:00",
-    "score": 6
+    "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+    "summary": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
+    "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+    "source": "Wired AI",
+    "published_at": "2026-03-25T18:00:00+00:00",
+    "score": 5
   }
 ]
