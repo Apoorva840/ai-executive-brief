@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 26, 2026",
+    "last_updated": "March 27, 2026",
     "tools": [
         {
-            "Name": "LiteLLM",
-            "Category": "AI Infrastructure",
-            "Description": "A Python SDK and Proxy Server that provides a unified interface to call over 100+ LLM APIs using the OpenAI format.",
-            "Use_Case": "Unified API management, cost tracking, load balancing, and guardrails for multi-LLM applications.",
-            "URL": "https://github.com/BerriAI/litellm"
+            "Name": "AgentScope",
+            "Category": "Agent Framework",
+            "Description": "A production-ready, extensible multi-agent framework designed for building agentic LLM applications with support for memory, planning, and multi-agent workflows.",
+            "Use_Case": "Building complex multi-agent systems, realtime voice agents, and agentic workflows.",
+            "URL": "https://github.com/agentscope-ai/agentscope"
         },
         {
-            "Name": "Strix",
-            "Category": "Security / Agentic AI",
-            "Description": "Autonomous AI agents designed for dynamic security testing, vulnerability discovery, and automated proof-of-concept generation.",
-            "Use_Case": "Application security testing, rapid penetration testing, and automated bug bounty research within CI/CD pipelines.",
-            "URL": "https://github.com/usestrix/strix"
+            "Name": "Heretic",
+            "Category": "LLM Optimization",
+            "Description": "A fully automatic tool for removing censorship/safety alignment from transformer-based language models using directional ablation.",
+            "Use_Case": "Decensoring language models while preserving model intelligence without expensive retraining.",
+            "URL": "https://github.com/p-e-w/heretic"
         },
         {
-            "Name": "DeerFlow",
-            "Category": "Agentic AI / Automation",
-            "Description": "An open-source 'super agent' harness that orchestrates sub-agents, memory, and sandboxed execution environments for complex tasks.",
-            "Use_Case": "Automating long-running research, coding projects, and complex data-driven workflows using multi-agent orchestration.",
-            "URL": "https://github.com/bytedance/deer-flow"
+            "Name": "MoneyPrinterTurbo",
+            "Category": "Content Creation",
+            "Description": "An AI-powered automation tool that generates high-definition short videos from keywords or topics, including scripts, assets, subtitles, and background music.",
+            "Use_Case": "Automated production of short-form video content for social media.",
+            "URL": "https://github.com/harry0703/MoneyPrinterTurbo"
         }
     ]
 }

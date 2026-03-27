@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 26, 2024",
+    "last_updated": "2024-03-08",
     "papers": [
         {
-            "title": "STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems",
-            "innovation": "Introduces STEM Agent, an architecture designed to overcome limitations of current AI agent frameworks by offering a self-adapting, tool-enabled, extensible, and multi-protocol approach. This allows for dynamic adaptation to interaction paradigms, tool integration strategies, and user models, unlike rigid existing systems.",
-            "benchmarks": "Improved adaptability, extensibility, and deployment versatility across diverse interaction paradigms compared to existing rigid agent frameworks that commit early to single protocols, fixed tools, and static user models.",
-            "use_case": "Developing highly flexible, robust, and widely deployable AI agent systems that can operate across various interaction protocols, seamlessly integrate diverse tools, and adapt dynamically to user needs in complex, multi-agent environments.",
-            "url": "https://arxiv.org/abs/2603.22359"
+            "title": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
+            "innovation": "Proposes 'Environment Maps' as a structured representation for environments, designed to address cascading errors and environmental stochasticity in long-horizon agent tasks. This aims to improve the robustness and reliability of agents in complex workflows.",
+            "benchmarks": "Addresses challenges in 'long-horizon settings' where agents frequently fail. The innovation is targeted at improving performance on existing and future complex, multi-step tasks.",
+            "use_case": "Developing robust and reliable AI agents for complex, long-horizon tasks, such as automated software workflows, robotics, or other dynamic environments where persistent state and error recovery are critical.",
+            "url": "https://arxiv.org/abs/2603.23610"
         },
         {
-            "title": "From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents",
-            "innovation": "A comprehensive survey that synthesizes and categorizes methods for designing and optimizing executable workflows for LLM-based systems. It highlights the evolution from static templates to dynamic runtime graphs, covering crucial components like LLM calls, information retrieval, tool use, code execution, memory updates, and verification.",
-            "benchmarks": "Reviews methods that improve performance in various LLM agent tasks such as complex reasoning, planning, and task execution by optimizing workflow design, reliability, and efficiency.",
-            "use_case": "Guiding AI engineers in designing, developing, and optimizing robust and efficient workflows for complex LLM-based agents, enabling better performance, reliability, and maintainability in applications requiring sophisticated multi-step reasoning and interaction.",
-            "url": "https://arxiv.org/abs/2603.22386"
+            "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
+            "innovation": "Introduces a novel and challenging benchmark specifically for evaluating large language model (LLM) agents' ability to perform complex resource allocation under uncertainty in dynamic enterprise environments. This moves beyond short-horizon reactive decisions to long-term strategic planning.",
+            "benchmarks": "This paper *is* a new benchmark designed to assess LLM agents' capabilities in high-level strategic decision-making and resource management within a simulated business context.",
+            "use_case": "Evaluating and developing advanced LLM-based agents for strategic decision-making, planning, and resource management in complex enterprise scenarios, financial applications, or other dynamic organizational settings.",
+            "url": "https://arxiv.org/abs/2603.23638"
         },
         {
-            "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
-            "innovation": "Introduces Session Risk Memory (SRM), a temporal authorization system designed to enhance AI agent safety. Unlike per-action authorization, SRM considers the accumulated context and historical actions of an agent over time, enabling detection of distributed attacks that decompose harmful intent across multiple individually compliant steps.",
-            "benchmarks": "Enhanced detection of distributed attacks and improved robustness against multi-step harmful agent behaviors, providing a more comprehensive safety net than traditional per-action authorization systems.",
-            "use_case": "Implementing advanced safety and security mechanisms for AI agents, particularly in sensitive or critical applications where agents perform sequences of actions. It helps in building more secure and trustworthy autonomous systems by preventing complex, multi-step harmful actions.",
-            "url": "https://arxiv.org/abs/2603.22350"
+            "title": "Efficient Benchmarking of AI Agents",
+            "innovation": "Studies whether small subsets of tasks can effectively preserve agent rankings on comprehensive benchmarks, thereby substantially reducing the cost and time associated with evaluating AI agents. This focuses on optimizing the benchmarking process itself.",
+            "benchmarks": "Investigates methods for efficient evaluation across various AI agent benchmarks, aiming to make the benchmarking process more practical and less resource-intensive.",
+            "use_case": "Essential for AI engineers to accelerate development and iteration cycles by enabling faster and cheaper evaluation of new agent architectures, models, and algorithms across different tasks and environments.",
+            "url": "https://arxiv.org/abs/2603.23749"
         }
     ]
 }

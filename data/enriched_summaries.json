@@ -1,77 +1,76 @@
 [
   {
-    "title": "A transformer architecture alteration to incentivise externalised reasoning",
-    "url": "https://arxiv.org/abs/2603.21376",
+    "title": "DepthCharge: A Domain-Agnostic Framework for Measuring Depth-Dependent Knowledge in Large Language Models",
+    "url": "https://arxiv.org/abs/2603.23514",
     "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2603.21376v2 Announce Type: replace Abstract: We propose a new architectural change, and post-training pipeline, for making LLMs more verbose reasoners by teaching a model to truncate forward passes early. We augment an existing transformer architecture with an early-exit mechanism at intermediate layers and train the model to exit at shallow",
+    "score": 7,
+    "what_happened": "arXiv:2603.23514v1 Announce Type: cross Abstract: Large Language Models appear competent when answering general questions but often fail when pushed into domain-specific details. No existing methodology provides an out-of-the-box solution for measuring how deeply LLMs can sustain accurate responses under adaptive follow-up questioning across arbitr",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
+    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
     "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
+      "Mobile Engineers",
+      "Product Managers"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
   },
   {
-    "title": "Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use",
-    "url": "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/",
+    "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
+    "url": "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Google is making AI music longer and more widely available: Lyria 3 Pro generates songs up to three minutes long, complete with verses, choruses, and bridges. Google says the model was trained on content it has the right to use. That sets it apart from rival music generator Suno, which is facing legal battles with record labels over potential copyr",
+    "what_happened": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret. The article Apple gets full Gemini access and uses distillation to build lightweight on-device AI appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
-    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
+    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
+    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
     "who_should_care": [
-      "AI Ethics Engineers",
-      "Legal & Compliance"
+      "Mobile Engineers",
+      "Product Managers"
     ],
-    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
+    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
   },
   {
-    "title": "AI2's fully open web agent MolmoWeb navigates the web using only screenshots",
-    "url": "https://the-decoder.com/ai2s-fully-open-web-agent-molmoweb-navigates-the-web-using-only-screenshots/",
+    "title": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages",
+    "url": "https://the-decoder.com/mistrals-first-open-weight-tts-model-voxtral-clones-voices-from-three-seconds-of-audio-across-nine-languages/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "AI2 releases MolmoWeb, a fully open web agent that navigates websites using only screenshots. Despite having just 4 and 8 billion parameters, the models beat several larger proprietary systems on standard benchmarks. The article AI2&#039;s fully open web agent MolmoWeb navigates the web using only screenshots appeared first on The Decoder.",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
-    "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+    "what_happened": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio. The article Mistral&#039;s first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "AI Professionals"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
-    "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+    "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
+    "url": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+    "source": "Microsoft Research",
+    "score": 6,
+    "what_happened": "Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two steps: a VLM generates a plan in natural language, and a separate model translates it into executable actions. This approach often breaks [&#8230;] The po",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "who_should_care": [
+      "Applied Researchers",
+      "Enterprise ML Teams"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+    "url": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
+    "what_happened": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "Policy Leaders",
+      "Tech Strategists"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   }
 ]

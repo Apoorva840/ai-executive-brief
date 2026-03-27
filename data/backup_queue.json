@@ -1,137 +1,137 @@
 [
   {
-    "title": "STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems",
-    "summary": "arXiv:2603.22359v1 Announce Type: new Abstract: Current AI agent frameworks commit early to a single interaction protocol, a fixed tool integration strategy, and static user models, limiting their deployment across diverse interaction paradigms. To address these constraints, we introduce STEM Agent (Self-adapting, Tool-enabled, Extensible, Multi-ag",
-    "url": "https://arxiv.org/abs/2603.22359",
+    "title": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens",
+    "summary": "arXiv:2603.23516v1 Announce Type: cross Abstract: Long-term memory is a cornerstone of human intelligence. Enabling AI to process lifetime-scale information remains a long-standing pursuit in the field. Due to the constraints of full-attention architectures, the effective context length of large language models (LLMs) is typically limited to 1M tok",
+    "url": "https://arxiv.org/abs/2603.23516",
     "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
+    "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
   },
   {
-    "title": "Dynamical Systems Theory Behind a Hierarchical Reasoning Model",
-    "summary": "arXiv:2603.22871v1 Announce Type: new Abstract: Current large language models (LLMs) primarily rely on linear sequence generation and massive parameter counts, yet they severely struggle with complex algorithmic reasoning. While recent reasoning architectures, such as the Hierarchical Reasoning Model (HRM) and Tiny Recursive Model (TRM), demonstrat",
-    "url": "https://arxiv.org/abs/2603.22871",
+    "title": "The Diminishing Returns of Early-Exit Decoding in Modern LLMs",
+    "summary": "arXiv:2603.23701v1 Announce Type: cross Abstract: In Large Language Model (LLM) inference, early-exit refers to stopping computation at an intermediate layer once the prediction is sufficiently confident, thereby reducing latency and cost. However, recent LLMs adopt improved pretraining recipes and architectures that reduce layer redundancy, potent",
+    "url": "https://arxiv.org/abs/2603.23701",
     "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
+    "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
   },
   {
-    "title": "Ran Score: a LLM-based Evaluation Score for Radiology Report Generation",
-    "summary": "arXiv:2603.22935v1 Announce Type: new Abstract: Chest X-ray report generation and automated evaluation are limited by poor recognition of low-prevalence abnormalities and inadequate handling of clinically important language, including negation and ambiguity. We develop a clinician-guided framework combining human expertise and large language models",
-    "url": "https://arxiv.org/abs/2603.22935",
+    "title": "Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection",
+    "summary": "arXiv:2603.23800v1 Announce Type: cross Abstract: We present a novel LLM-informed model-based planning framework, and a novel prompt selection method, for object search in partially-known environments. Our approach uses an LLM to estimate statistics about the likelihood of finding the target object when searching various locations throughout the sc",
+    "url": "https://arxiv.org/abs/2603.23800",
     "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
+    "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
   },
   {
-    "title": "Founder effects shape the evolutionary dynamics of multimodality in open LLM families",
-    "summary": "arXiv:2603.22287v1 Announce Type: cross Abstract: Large language model (LLM) families are improving rapidly, yet it remains unclear how quickly multimodal capabilities emerge and propagate within open families. Using the ModelBiome AI Ecosystem dataset of Hugging Face model metadata and recorded lineage fields (>1.8x10^6 model entries), we quantify",
-    "url": "https://arxiv.org/abs/2603.22287",
+    "title": "When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm",
+    "summary": "arXiv:2603.24079v1 Announce Type: cross Abstract: Recently, multimodal large language models (MLLMs) have emerged as a unified paradigm for language and image generation. Compared with diffusion models, MLLMs possess a much stronger capability for semantic understanding, enabling them to process more complex textual inputs and comprehend richer con",
+    "url": "https://arxiv.org/abs/2603.24079",
     "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
+    "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
   },
   {
-    "title": "Latent Semantic Manifolds in Large Language Models",
-    "summary": "arXiv:2603.22301v1 Announce Type: cross Abstract: Large Language Models (LLMs) perform internal computations in continuous vector spaces yet produce discrete tokens -- a fundamental mismatch whose geometric consequences remain poorly understood. We develop a mathematical framework that interprets LLM hidden states as points on a latent semantic man",
-    "url": "https://arxiv.org/abs/2603.22301",
+    "title": "UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience",
+    "summary": "arXiv:2603.24533v1 Announce Type: cross Abstract: Autonomous mobile GUI agents have attracted increasing attention along with the advancement of Multimodal Large Language Models (MLLMs). However, existing methods still suffer from inefficient learning from failed trajectories and ambiguous credit assignment under sparse rewards for long-horizon GUI",
+    "url": "https://arxiv.org/abs/2603.24533",
     "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
+    "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
   },
   {
-    "title": "DAQ: Delta-Aware Quantization for Post-Training LLM Weight Compression",
-    "summary": "arXiv:2603.22324v1 Announce Type: cross Abstract: We introduce Delta-Aware Quantization (DAQ), a data-free post-training quantization framework that preserves the knowledge acquired during post-training. Standard quantization objectives minimize reconstruction error but are agnostic to the base model, allowing quantization noise to disproportionate",
-    "url": "https://arxiv.org/abs/2603.22324",
+    "title": "Evaluating Chunking Strategies For Retrieval-Augmented Generation in Oil and Gas Enterprise Documents",
+    "summary": "arXiv:2603.24556v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) has emerged as a framework to address the constraints of Large Language Models (LLMs). Yet, its effectiveness fundamentally hinges on document chunking - an often-overlooked determinant of its quality. This paper presents an empirical study quantifying performanc",
+    "url": "https://arxiv.org/abs/2603.24556",
     "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
+    "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
   },
   {
-    "title": "Reasoner-Executor-Synthesizer: Scalable Agentic Architecture with Static O(1) Context Window",
-    "summary": "arXiv:2603.22367v1 Announce Type: cross Abstract: Large Language Models (LLMs) deployed as autonomous agents commonly use Retrieval-Augmented Generation (RAG), feeding retrieved documents into the context window, which creates two problems: the risk of hallucination grows with context length, and token cost scales linearly with dataset size. We pro",
-    "url": "https://arxiv.org/abs/2603.22367",
+    "title": "Pharos-ESG: A Framework for Multimodal Parsing, Contextual Narration, and Hierarchical Labeling of ESG Report",
+    "summary": "arXiv:2511.16417v2 Announce Type: replace Abstract: Environmental, Social, and Governance (ESG) principles are reshaping the foundations of global financial gover- nance, transforming capital allocation architectures, regu- latory frameworks, and systemic risk coordination mecha- nisms. However, as the core medium for assessing corpo- rate ESG perf",
+    "url": "https://arxiv.org/abs/2511.16417",
     "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
+    "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
   },
   {
-    "title": "Functional Component Ablation Reveals Specialization Patterns in Hybrid Language Model Architectures",
-    "summary": "arXiv:2603.22473v1 Announce Type: cross Abstract: Hybrid language models combining attention with state space models (SSMs) or linear attention offer improved efficiency, but whether both components are genuinely utilized remains unclear. We present a functional component ablation framework applied to two sub-1B hybrid models -- Qwen3.5-0.8B (seque",
-    "url": "https://arxiv.org/abs/2603.22473",
+    "title": "Relationship-Aware Safety Unlearning for Multimodal LLMs",
+    "summary": "arXiv:2603.14185v3 Announce Type: replace Abstract: Generative multimodal models can exhibit safety failures that are inherently relational: two benign concepts can become unsafe when linked by a specific action or relation (e.g., child-drinking-wine). Existing unlearning and concept-erasure approaches often target isolated concepts or image-text p",
+    "url": "https://arxiv.org/abs/2603.14185",
     "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
+    "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
+  },
+  {
+    "title": "Bottlenecked Transformers: Periodic KV Cache Consolidation for Generalised Reasoning",
+    "summary": "arXiv:2505.16950v4 Announce Type: replace-cross Abstract: Transformer LLMs have been shown to exhibit strong reasoning ability that scales with inference-time compute, most prominently through token-space \"thinking\" chains of thought. A growing line of work pushes extra computation into the model's latent space, which we term Auxiliary Latent-Space",
+    "url": "https://arxiv.org/abs/2505.16950",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-26T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
+  },
+  {
+    "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+    "summary": "arXiv:2506.06303v5 Announce Type: replace-cross Abstract: Reinforcement learning (RL) is a framework for solving sequential decision-making problems. In this work, we demonstrate that, surprisingly, RL emerges during the inference time of large language models (LLMs), a phenomenon we term in-context RL (ICRL). To reveal this capability, we introduc",
+    "url": "https://arxiv.org/abs/2506.06303",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-26T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
+  },
+  {
+    "title": "Team of Thoughts: Efficient Test-time Scaling of Agentic Systems through Orchestrated Tool Calling",
+    "summary": "arXiv:2602.16485v2 Announce Type: replace-cross Abstract: Existing Multi-Agent Systems (MAS) typically rely on homogeneous model configurations, failing to exploit the diverse expertise inherent in different post-trained architectures. We propose Team-of-Thoughts, a heterogeneous MAS framework that treats diverse models as specialized tools within ",
+    "url": "https://arxiv.org/abs/2602.16485",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-26T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
+  },
+  {
+    "title": "Geometry-Guided Camera Motion Understanding in VideoLLMs",
+    "summary": "arXiv:2603.13119v2 Announce Type: replace-cross Abstract: Camera motion is a fundamental geometric signal that shapes visual perception and cinematic style, yet current video-capable vision-language models (VideoLLMs) rarely represent it explicitly and often fail on fine-grained motion primitives. We address this gap with a framework of $\\textbf{be",
+    "url": "https://arxiv.org/abs/2603.13119",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-26T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
+  },
+  {
+    "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
+    "summary": "arXiv:2603.19312v2 Announce Type: replace-cross Abstract: Joint Embedding Predictive Architectures (JEPAs) offer a compelling framework for learning world models in compact latent spaces, yet existing methods remain fragile, relying on complex multi-term losses, exponential moving averages, pre-trained encoders, or auxiliary supervision to avoid re",
+    "url": "https://arxiv.org/abs/2603.19312",
+    "source": "Arxiv AI",
+    "published_at": "2026-03-26T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
   },
   {
     "title": "Tiny Inference-Time Scaling with Latent Verifiers",
-    "summary": "arXiv:2603.22492v1 Announce Type: cross Abstract: Inference-time scaling has emerged as an effective way to improve generative models at test time by using a verifier to score and select candidate outputs. A common choice is to employ Multimodal Large Language Models (MLLMs) as verifiers, which can improve performance but introduce substantial infe",
+    "summary": "arXiv:2603.22492v2 Announce Type: replace-cross Abstract: Inference-time scaling has emerged as an effective way to improve generative models at test time by using a verifier to score and select candidate outputs. A common choice is to employ Multimodal Large Language Models (MLLMs) as verifiers, which can improve performance but introduce substant",
     "url": "https://arxiv.org/abs/2603.22492",
     "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
+    "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
   },
   {
-    "title": "STRIATUM-CTF: A Protocol-Driven Agentic Framework for General-Purpose CTF Solving",
-    "summary": "arXiv:2603.22577v1 Announce Type: cross Abstract: Large Language Models (LLMs) have demonstrated potential in code generation, yet they struggle with the multi-step, stateful reasoning required for offensive cybersecurity operations. Existing research often relies on static benchmarks that fail to capture the dynamic nature of real-world vulnerabil",
-    "url": "https://arxiv.org/abs/2603.22577",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
+    "title": "Gemini 3.1 Flash Live is Google's most natural-sounding AI voice model yet",
+    "summary": "Google's Gemini 3.1 Flash Live promises faster, more natural voice conversations. Developers can trade off quality for speed, and pricing stays at Gemini 2.5 levels. The article Gemini 3.1 Flash Live is Google&#039;s most natural-sounding AI voice model yet appeared first on The Decoder.",
+    "url": "https://the-decoder.com/gemini-3-1-flash-live-is-googles-most-natural-sounding-ai-voice-model-yet/",
+    "source": "The Decoder",
+    "published_at": "2026-03-26T17:35:00+00:00",
     "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
-  },
-  {
-    "title": "KARMA: Knowledge-Action Regularized Multimodal Alignment for Personalized Search at Taobao",
-    "summary": "arXiv:2603.22779v1 Announce Type: cross Abstract: Large Language Models (LLMs) are equipped with profound semantic knowledge, making them a natural choice for injecting semantic generalization into personalized search systems. However, in practice we find that directly fine-tuning LLMs on industrial personalized tasks (e.g. next item prediction) of",
-    "url": "https://arxiv.org/abs/2603.22779",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
-  },
-  {
-    "title": "Focus, Don't Prune: Identifying Instruction-Relevant Regions for Information-Rich Image Understanding",
-    "summary": "arXiv:2603.22815v1 Announce Type: cross Abstract: Large Vision-Language Models (LVLMs) have shown strong performance across various multimodal tasks by leveraging the reasoning capabilities of Large Language Models (LLMs). However, processing visually complex and information-rich images, such as infographics or document layouts, requires these mode",
-    "url": "https://arxiv.org/abs/2603.22815",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
-  },
-  {
-    "title": "Agent Audit: A Security Analysis System for LLM Agent Applications",
-    "summary": "arXiv:2603.22853v1 Announce Type: cross Abstract: What should a developer inspect before deploying an LLM agent: the model, the tool code, the deployment configuration, or all three? In practice, many security failures in agent systems arise not from model weights alone, but from the surrounding software stack: tool functions that pass untrusted in",
-    "url": "https://arxiv.org/abs/2603.22853",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
-  },
-  {
-    "title": "EVA: Efficient Reinforcement Learning for End-to-End Video Agent",
-    "summary": "arXiv:2603.22918v1 Announce Type: cross Abstract: Video understanding with multimodal large language models (MLLMs) remains challenging due to the long token sequences of videos, which contain extensive temporal dependencies and redundant frames. Existing approaches typically treat MLLMs as passive recognizers, processing entire videos or uniformly",
-    "url": "https://arxiv.org/abs/2603.22918",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
-  },
-  {
-    "title": "Designing Agentic AI-Based Screening for Portfolio Investment",
-    "summary": "arXiv:2603.23300v1 Announce Type: cross Abstract: We introduce a new agentic artificial intelligence (AI) platform for portfolio management. Our architecture consists of three layers. First, two large language model (LLM) agents are assigned specialized tasks: one agent screens for firms with desirable fundamentals, while a sentiment analysis agent",
-    "url": "https://arxiv.org/abs/2603.23300",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
+    "archived_at": "2026-03-27T03:43:11.348775+00:00"
   }
 ]

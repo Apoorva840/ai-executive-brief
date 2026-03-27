@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 26, 2026",
+    "last_updated": "March 27, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Agentic AI",
-            "definition": "A shift in AI architecture from passive assistance to autonomous execution, where systems use 'truth and context' to navigate multi-step workflows. These agents don't just provide information; they utilize external tools and APIs to complete complex transactions, such as booking travel or managing budgets, with minimal human intervention.",
-            "analogy": "Traditional AI is a high-end GPS that tells you where to go; Agentic AI is a Level 5 self-driving car that not only knows the destination but actually drives you there, stops for fuel, and pays the toll without you touching the wheel.",
-            "business_value": "This moves the needle from 'productivity enhancement' to 'labor replacement.' By automating the execution layer of commerce and operations, enterprises can drastically reduce the cost of high-touch service tasks and accelerate transaction cycles."
+            "term": "Self-Organized Criticality (SOC) in LLMs",
+            "definition": "A state where a system naturally evolves toward a tipping point where small inputs can trigger large-scale logical cascades. In Large Language Models, pre-training at this threshold allows the model to exhibit emergent reasoning, where information propagates through the neural network with near-infinite correlation, mimicking a 'phase transition' from simple pattern matching to complex deductive logic.",
+            "analogy": "Imagine a chef making a delicate souffl\u00e9; the batter must reach a specific 'critical' state of aeration where the structure is perfectly balanced. If the batter is too dense, it stays flat, but at that 'critical' point, the heat triggers a unified transformation that allows the entire dish to rise into something far more complex than a mere bowl of eggs.",
+            "business_value": "Understanding 'criticality' allows executives to distinguish between models that simply parrot data and those capable of non-linear problem solving. This is the technical 'secret sauce' that transforms AI from a basic search tool into a strategic partner capable of navigating black-swan events."
         },
         {
-            "term": "Multimodal Affective Intelligence",
-            "definition": "An emerging field of AI that integrates various data streams\u2014including vocal tone, facial expressions, and textual context\u2014to evaluate a user's emotional state over time. Unlike standard sentiment analysis, it uses 'memory science engines' to track emotional trajectories, allowing the AI to understand the nuance and intent behind human interactions in real-time.",
-            "analogy": "It is like a Master Chef in a kitchen who doesn't just look at a thermometer, but smells the aroma, hears the sizzle, and feels the humidity in the room to know exactly when a delicate souffl\u00e9 is perfectly cooked.",
-            "business_value": "For the bottom line, this enables 'Hyper-Personalized CX.' It allows companies to detect customer frustration or hidden intent before it leads to churn, turning emotional data into a measurable asset for retention and sales conversion."
+            "term": "Long-Horizon Agentic Planning",
+            "definition": "The architectural ability of an AI system to maintain a coherent strategy and execute inter-dependent actions over extended periods or through high-stochasticity workflows. It utilizes 'Environment Maps' to prevent cascading errors, ensuring that a single misstep in a complex, multi-day process does not cause the entire task to fail.",
+            "analogy": "Traditional AI is like a driver looking only at the five feet of road directly in front of the bumper, reacting to every bump; Long-Horizon Planning is an advanced GPS system that analyzes a cross-country route, predicting traffic three states away and scheduling fuel stops to ensure the vehicle actually reaches its destination days later.",
+            "business_value": "This marks the transition from 'AI as a Chatbot' to 'AI as a Digital Employee.' For the bottom line, this means the automation of end-to-end business functions\u2014such as supply chain reconciliation or multi-quarter financial forecasting\u2014rather than just individual task assistance."
         },
         {
-            "term": "Intelligence Inertia",
-            "definition": "A theoretical principle suggesting that as AI models become more complex and rule-constrained, they develop a physical and computational 'resistance' to change or information erasure. Grounded in thermodynamics and Fisher Information, it describes the energy and structural cost required to pivot an AI's logic once it has reached a state of dense parameter stabilization.",
-            "analogy": "Think of it as the turning radius of a massive cargo ship versus a jet ski. As your AI 'ship' gets larger and carries more data, you cannot turn it on a dime; the sheer momentum of its existing training makes sudden strategic or ethical pivots incredibly expensive and slow.",
-            "business_value": "This is a critical risk-management metric for CEOs. It highlights that the 'cost of pivot' for large-scale AI investments increases exponentially over time, making early-stage alignment and robust architectural safety more important than raw scaling."
+            "term": "Nash Equilibrium Approximation",
+            "definition": "A computational strategy used in multi-agent environments to find an 'unexploitable' position where no player can improve their outcome by changing their strategy alone. In AI, this involves simulating millions of competitive scenarios to determine the mathematically optimal move that accounts for the best possible counter-moves by all opponents.",
+            "analogy": "In a professional kitchen during a rush, a Nash Equilibrium is achieved when every chef\u2014from the saucier to the line cook\u2014is moving in a perfectly choreographed 'dance' where no one can move any faster or more efficiently without colliding with someone else, creating a peak state of unshakeable productivity.",
+            "business_value": "For the 'AI CFO' or strategic lead, this is the ultimate tool for resource allocation. It allows a firm to deploy capital, set prices, or negotiate contracts in a way that is mathematically shielded from competitor disruption, minimizing risk in high-stakes, uncertain markets."
         }
     ]
 }

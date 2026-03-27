@@ -1,42 +1,42 @@
 [
   {
-    "title": "A transformer architecture alteration to incentivise externalised reasoning",
-    "summary": "arXiv:2603.21376v2 Announce Type: replace Abstract: We propose a new architectural change, and post-training pipeline, for making LLMs more verbose reasoners by teaching a model to truncate forward passes early. We augment an existing transformer architecture with an early-exit mechanism at intermediate layers and train the model to exit at shallow",
-    "url": "https://arxiv.org/abs/2603.21376",
+    "title": "DepthCharge: A Domain-Agnostic Framework for Measuring Depth-Dependent Knowledge in Large Language Models",
+    "summary": "arXiv:2603.23514v1 Announce Type: cross Abstract: Large Language Models appear competent when answering general questions but often fail when pushed into domain-specific details. No existing methodology provides an out-of-the-box solution for measuring how deeply LLMs can sustain accurate responses under adaptive follow-up questioning across arbitr",
+    "url": "https://arxiv.org/abs/2603.23514",
     "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use",
-    "summary": "Google is making AI music longer and more widely available: Lyria 3 Pro generates songs up to three minutes long, complete with verses, choruses, and bridges. Google says the model was trained on content it has the right to use. That sets it apart from rival music generator Suno, which is facing legal battles with record labels over potential copyr",
-    "url": "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/",
-    "source": "The Decoder",
-    "published_at": "2026-03-25T19:12:07+00:00",
+    "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7
   },
   {
-    "title": "AI2's fully open web agent MolmoWeb navigates the web using only screenshots",
-    "summary": "AI2 releases MolmoWeb, a fully open web agent that navigates websites using only screenshots. Despite having just 4 and 8 billion parameters, the models beat several larger proprietary systems on standard benchmarks. The article AI2&#039;s fully open web agent MolmoWeb navigates the web using only screenshots appeared first on The Decoder.",
-    "url": "https://the-decoder.com/ai2s-fully-open-web-agent-molmoweb-navigates-the-web-using-only-screenshots/",
+    "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
+    "summary": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret. The article Apple gets full Gemini access and uses distillation to build lightweight on-device AI appeared first on The Decoder.",
+    "url": "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/",
     "source": "The Decoder",
-    "published_at": "2026-03-25T17:41:13+00:00",
+    "published_at": "2026-03-26T19:54:12+00:00",
     "score": 7
   },
   {
-    "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
-    "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
-    "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
-    "source": "Wired AI",
-    "published_at": "2026-03-25T18:49:40+00:00",
-    "score": 5
+    "title": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages",
+    "summary": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio. The article Mistral&#039;s first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages appeared first on The Decoder.",
+    "url": "https://the-decoder.com/mistrals-first-open-weight-tts-model-voxtral-clones-voices-from-three-seconds-of-audio-across-nine-languages/",
+    "source": "The Decoder",
+    "published_at": "2026-03-26T19:16:58+00:00",
+    "score": 7
   },
   {
-    "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
-    "summary": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
-    "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+    "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
+    "summary": "Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two steps: a VLM generates a plan in natural language, and a separate model translates it into executable actions. This approach often breaks [&#8230;] The po",
+    "url": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+    "source": "Microsoft Research",
+    "published_at": "2026-03-26T16:03:56+00:00",
+    "score": 6
+  },
+  {
+    "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+    "summary": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
+    "url": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
     "source": "Wired AI",
-    "published_at": "2026-03-25T18:00:00+00:00",
+    "published_at": "2026-03-26T23:33:05+00:00",
     "score": 5
   }
 ]
