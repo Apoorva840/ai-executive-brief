@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 27, 2026",
+    "last_updated": "March 28, 2026",
     "tools": [
         {
-            "Name": "AgentScope",
-            "Category": "Agent Framework",
-            "Description": "A production-ready, extensible multi-agent framework designed for building agentic LLM applications with support for memory, planning, and multi-agent workflows.",
-            "Use_Case": "Building complex multi-agent systems, realtime voice agents, and agentic workflows.",
-            "URL": "https://github.com/agentscope-ai/agentscope"
+            "Name": "Deep-Live-Cam",
+            "Category": "AI Media/Deepfake",
+            "Description": "A real-time face-swapping tool that enables one-click deepfakes using only a single image.",
+            "Use_Case": "Creating engaging video content, animating custom characters, and real-time live streaming replacements.",
+            "URL": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
-            "Name": "Heretic",
-            "Category": "LLM Optimization",
-            "Description": "A fully automatic tool for removing censorship/safety alignment from transformer-based language models using directional ablation.",
-            "Use_Case": "Decensoring language models while preserving model intelligence without expensive retraining.",
-            "URL": "https://github.com/p-e-w/heretic"
+            "Name": "Claude Skills",
+            "Category": "AI Agent Development",
+            "Description": "A comprehensive library of over 200 production-ready skills and agent plugins designed to extend the capabilities of AI coding agents like Claude Code, Cursor, and Aider.",
+            "Use_Case": "Enhancing AI coding agents with domain-specific expertise in engineering, marketing, compliance, and C-level advisory.",
+            "URL": "https://github.com/alirezarezvani/claude-skills"
         },
         {
-            "Name": "MoneyPrinterTurbo",
-            "Category": "Content Creation",
-            "Description": "An AI-powered automation tool that generates high-definition short videos from keywords or topics, including scripts, assets, subtitles, and background music.",
-            "Use_Case": "Automated production of short-form video content for social media.",
-            "URL": "https://github.com/harry0703/MoneyPrinterTurbo"
+            "Name": "Chandra OCR",
+            "Category": "Document Intelligence",
+            "Description": "A state-of-the-art OCR model that converts images and PDFs into structured formats like Markdown, HTML, or JSON while maintaining layout integrity.",
+            "Use_Case": "Extracting data from complex tables, forms, and handwritten documents across 90+ languages.",
+            "URL": "https://github.com/datalab-to/chandra"
         }
     ]
 }

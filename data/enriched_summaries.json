@@ -15,11 +15,54 @@
     "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
   },
   {
-    "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
-    "url": "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/",
+    "title": "Cohere releases open source model that tops speech recognition benchmarks",
+    "url": "https://the-decoder.com/cohere-releases-open-source-model-that-tops-speech-recognition-benchmarks/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret. The article Apple gets full Gemini access and uses distillation to build lightweight on-device AI appeared first on The Decoder.",
+    "what_happened": "Cohere presents an open-source speech recognition model which, according to the benchmark, beats all competitors, including OpenAI's Whisper. The article Cohere releases open source model that tops speech recognition benchmarks appeared first on The Decoder.",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "Meta's new AI model predicts how your brain reacts to images, sounds, and speech",
+    "url": "https://the-decoder.com/metas-new-ai-model-predicts-how-your-brain-reacts-to-images-sounds-and-speech/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "Meta built an AI model that predicts how the human brain reacts to images, sounds, and speech. In tests, its predictions matched the typical brain response more closely than an actual scan of any single person. The article Meta&#039;s new AI model predicts how your brain reacts to images, sounds, and speech appeared first on The Decoder.",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+    "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+    "technical_takeaway": null,
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "who_should_care": [
+      "Policy Leaders",
+      "Tech Strategists"
+    ],
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+  },
+  {
+    "title": "Apple Still Plans to Sell iPhones When It Turns 100",
+    "url": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
     "technical_takeaway": null,
     "primary_risk": "Fragmentation across hardware-specific inference stacks.",
     "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
@@ -28,49 +71,5 @@
       "Product Managers"
     ],
     "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
-  },
-  {
-    "title": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages",
-    "url": "https://the-decoder.com/mistrals-first-open-weight-tts-model-voxtral-clones-voices-from-three-seconds-of-audio-across-nine-languages/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio. The article Mistral&#039;s first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages appeared first on The Decoder.",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
-    "url": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
-    "source": "Microsoft Research",
-    "score": 6,
-    "what_happened": "Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two steps: a VLM generates a plan in natural language, and a separate model translates it into executable actions. This approach often breaks [&#8230;] The po",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "Applied Researchers",
-      "Enterprise ML Teams"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
-    "url": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
-    "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
-    ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   }
 ]

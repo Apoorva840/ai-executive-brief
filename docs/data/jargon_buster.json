@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 27, 2026",
+    "last_updated": "March 28, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Self-Organized Criticality (SOC) in LLMs",
-            "definition": "A state where a system naturally evolves toward a tipping point where small inputs can trigger large-scale logical cascades. In Large Language Models, pre-training at this threshold allows the model to exhibit emergent reasoning, where information propagates through the neural network with near-infinite correlation, mimicking a 'phase transition' from simple pattern matching to complex deductive logic.",
-            "analogy": "Imagine a chef making a delicate souffl\u00e9; the batter must reach a specific 'critical' state of aeration where the structure is perfectly balanced. If the batter is too dense, it stays flat, but at that 'critical' point, the heat triggers a unified transformation that allows the entire dish to rise into something far more complex than a mere bowl of eggs.",
-            "business_value": "Understanding 'criticality' allows executives to distinguish between models that simply parrot data and those capable of non-linear problem solving. This is the technical 'secret sauce' that transforms AI from a basic search tool into a strategic partner capable of navigating black-swan events."
+            "term": "Self-Organized Criticality (SOC)",
+            "definition": "A property of dynamical systems where they naturally evolve toward a critical state at the 'edge of chaos,' enabling complex information processing. In LLMs, reaching this state allows the model to exhibit emergent reasoning during inference, similar to how physical systems undergo a second-order phase transition to gain new properties.",
+            "analogy": "Think of a professional kitchen during the peak dinner rush: if it's too quiet, nothing gets done; if it's too chaotic, orders fail. SOC is that 'sweet spot' of maximum productivity where every chef is perfectly synced, reacting instantly to every change without a single central command.",
+            "business_value": "Operating at criticality allows models to solve complex logic problems with fewer parameters. For the CEO, this means higher-quality automated reasoning at a significantly lower 'cost-per-thought' than current brute-force scaling methods."
         },
         {
-            "term": "Long-Horizon Agentic Planning",
-            "definition": "The architectural ability of an AI system to maintain a coherent strategy and execute inter-dependent actions over extended periods or through high-stochasticity workflows. It utilizes 'Environment Maps' to prevent cascading errors, ensuring that a single misstep in a complex, multi-day process does not cause the entire task to fail.",
-            "analogy": "Traditional AI is like a driver looking only at the five feet of road directly in front of the bumper, reacting to every bump; Long-Horizon Planning is an advanced GPS system that analyzes a cross-country route, predicting traffic three states away and scheduling fuel stops to ensure the vehicle actually reaches its destination days later.",
-            "business_value": "This marks the transition from 'AI as a Chatbot' to 'AI as a Digital Employee.' For the bottom line, this means the automation of end-to-end business functions\u2014such as supply chain reconciliation or multi-quarter financial forecasting\u2014rather than just individual task assistance."
+            "term": "Long-Horizon Agency",
+            "definition": "The capacity of an AI system to maintain a stable goal and execute a series of interdependent steps over an extended period. Unlike reactive models, long-horizon agents must manage 'environmental stochasticity,' meaning they can self-correct when a mid-process error occurs instead of cascading into a total task failure.",
+            "analogy": "Standard AI is like a cruise control that maintains speed; Long-Horizon Agency is a GPS-integrated self-driving system that can navigate a 500-mile journey, accounting for unexpected road closures, fuel stops, and weather shifts to reach a specific destination.",
+            "business_value": "This moves AI from a 'task-assistant' to a 'role-automator.' It is the technical bridge required to automate high-level corporate functions, such as resource allocation or supply chain management, where decisions have consequences weeks or months down the line."
         },
         {
-            "term": "Nash Equilibrium Approximation",
-            "definition": "A computational strategy used in multi-agent environments to find an 'unexploitable' position where no player can improve their outcome by changing their strategy alone. In AI, this involves simulating millions of competitive scenarios to determine the mathematically optimal move that accounts for the best possible counter-moves by all opponents.",
-            "analogy": "In a professional kitchen during a rush, a Nash Equilibrium is achieved when every chef\u2014from the saucier to the line cook\u2014is moving in a perfectly choreographed 'dance' where no one can move any faster or more efficiently without colliding with someone else, creating a peak state of unshakeable productivity.",
-            "business_value": "For the 'AI CFO' or strategic lead, this is the ultimate tool for resource allocation. It allows a firm to deploy capital, set prices, or negotiate contracts in a way that is mathematically shielded from competitor disruption, minimizing risk in high-stakes, uncertain markets."
+            "term": "Nash Equilibrium (GTO AI)",
+            "definition": "A concept from game theory where an agent's strategy is mathematically optimized such that it cannot be improved upon, regardless of what the opponent does. Game Theory Optimal (GTO) agents use this to make 'un-exploitable' decisions in high-uncertainty environments like Heads-Up No-Limit Texas Hold'em.",
+            "analogy": "Imagine a car's defensive driving system that calculates every possible move of other drivers; it chooses a lane and speed so strategically that even if every other driver tried to cause an accident, the car remains mathematically safe.",
+            "business_value": "In competitive enterprise environments, GTO-based AI can act as a 'Super-CFO' or lead negotiator. It provides a mathematical floor for strategic decisions, ensuring the company cannot be 'out-played' by competitors during aggressive market shifts or complex contract negotiations."
         }
     ]
 }
