@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 28, 2026",
+    "last_updated": "March 29, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Self-Organized Criticality (SOC)",
-            "definition": "A property of dynamical systems where they naturally evolve toward a critical state at the 'edge of chaos,' enabling complex information processing. In LLMs, reaching this state allows the model to exhibit emergent reasoning during inference, similar to how physical systems undergo a second-order phase transition to gain new properties.",
-            "analogy": "Think of a professional kitchen during the peak dinner rush: if it's too quiet, nothing gets done; if it's too chaotic, orders fail. SOC is that 'sweet spot' of maximum productivity where every chef is perfectly synced, reacting instantly to every change without a single central command.",
-            "business_value": "Operating at criticality allows models to solve complex logic problems with fewer parameters. For the CEO, this means higher-quality automated reasoning at a significantly lower 'cost-per-thought' than current brute-force scaling methods."
+            "term": "Hyperagents",
+            "definition": "Hyperagents are meta-level AI systems designed to optimize the underlying learning algorithms and operational frameworks of other AI agents. Rather than just executing a static task, these systems evaluate their own performance metrics and autonomously rewrite their logic to accelerate future problem-solving efficiency.",
+            "analogy": "In a professional kitchen, a standard agent is a chef following a recipe; a hyperagent is an executive chef who watches the entire line and redesigns the kitchen layout and the recipes in real-time to make every cook faster with every dish served.",
+            "business_value": "Hyperagents represent the shift from AI as a fixed tool to AI as a self-improving asset. For the CEO, this means a dramatic reduction in long-term R&D costs as the software begins to handle its own optimization and technical debt reduction."
         },
         {
-            "term": "Long-Horizon Agency",
-            "definition": "The capacity of an AI system to maintain a stable goal and execute a series of interdependent steps over an extended period. Unlike reactive models, long-horizon agents must manage 'environmental stochasticity,' meaning they can self-correct when a mid-process error occurs instead of cascading into a total task failure.",
-            "analogy": "Standard AI is like a cruise control that maintains speed; Long-Horizon Agency is a GPS-integrated self-driving system that can navigate a 500-mile journey, accounting for unexpected road closures, fuel stops, and weather shifts to reach a specific destination.",
-            "business_value": "This moves AI from a 'task-assistant' to a 'role-automator.' It is the technical bridge required to automate high-level corporate functions, such as resource allocation or supply chain management, where decisions have consequences weeks or months down the line."
+            "term": "Agentic Knowledge Gap",
+            "definition": "This refers to the temporal disconnect where an AI model, trained on a fixed historical dataset, remains unaware of the most recent updates to the very software tools (SDKs) it uses to function. Bridging this gap involves 'Agent Skills'\u2014modular patches that provide the model with real-time, context-aware documentation during execution.",
+            "analogy": "Imagine a world-class race car driver attempting to navigate a brand-new track using a map from five years ago. They have the skill to drive, but they will fail unless you 'patch' their knowledge with a real-time GPS update of the new turns and road conditions.",
+            "business_value": "Closing this gap is critical for operational reliability. It prevents 'hallucinations' in automated coding and enterprise workflows, ensuring your AI infrastructure doesn't break when third-party software updates are pushed to production."
         },
         {
-            "term": "Nash Equilibrium (GTO AI)",
-            "definition": "A concept from game theory where an agent's strategy is mathematically optimized such that it cannot be improved upon, regardless of what the opponent does. Game Theory Optimal (GTO) agents use this to make 'un-exploitable' decisions in high-uncertainty environments like Heads-Up No-Limit Texas Hold'em.",
-            "analogy": "Imagine a car's defensive driving system that calculates every possible move of other drivers; it chooses a lane and speed so strategically that even if every other driver tried to cause an accident, the car remains mathematically safe.",
-            "business_value": "In competitive enterprise environments, GTO-based AI can act as a 'Super-CFO' or lead negotiator. It provides a mathematical floor for strategic decisions, ensuring the company cannot be 'out-played' by competitors during aggressive market shifts or complex contract negotiations."
+            "term": "AI Proficiency Compounding",
+            "definition": "This trend identifies the non-linear productivity gains achieved as users move from intermittent AI interaction to deep workflow integration. As users develop 'prompt intuition' and systemic habits, the efficiency gap between experienced users and novices widens, creating a new form of digital labor inequality.",
+            "analogy": "It is like a professional chef\u2019s seasoned cast-iron skillet; the more it is used and cared for, the more effective and non-stick it becomes. A novice with a brand-new pan simply cannot match the output quality of a veteran who has developed a 'relationship' with their tool.",
+            "business_value": "This signals that 'Time-to-Adoption' is a competitive moat. Organizations that delay AI integration aren't just behind on technology; they are accumulating 'skill debt' that makes catching up to early-adopting competitors exponentially more difficult as the rival workforce becomes fundamentally more efficient."
         }
     ]
 }

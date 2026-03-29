@@ -1,25 +1,25 @@
 {
-    "last_updated": "March 28, 2026",
+    "last_updated": "March 29, 2026",
     "tools": [
         {
-            "Name": "Deep-Live-Cam",
-            "Category": "AI Media/Deepfake",
-            "Description": "A real-time face-swapping tool that enables one-click deepfakes using only a single image.",
-            "Use_Case": "Creating engaging video content, animating custom characters, and real-time live streaming replacements.",
-            "URL": "https://github.com/hacksider/Deep-Live-Cam"
+            "Name": "The AI Scientist-v2",
+            "Category": "Scientific Research",
+            "Description": "A fully autonomous agentic system that generates research hypotheses, conducts experiments, analyzes data, and writes scientific papers.",
+            "Use_Case": "Automating end-to-end scientific research and manuscript drafting for Machine Learning domains.",
+            "URL": "https://github.com/SakanaAI/AI-Scientist-v2"
         },
         {
-            "Name": "Claude Skills",
-            "Category": "AI Agent Development",
-            "Description": "A comprehensive library of over 200 production-ready skills and agent plugins designed to extend the capabilities of AI coding agents like Claude Code, Cursor, and Aider.",
-            "Use_Case": "Enhancing AI coding agents with domain-specific expertise in engineering, marketing, compliance, and C-level advisory.",
-            "URL": "https://github.com/alirezarezvani/claude-skills"
+            "Name": "Strix",
+            "Category": "Cybersecurity",
+            "Description": "An autonomous AI agent platform designed to perform penetration testing, vulnerability discovery, and automated exploit validation.",
+            "Use_Case": "Detecting vulnerabilities in applications, performing rapid security assessments, and integrating automated pen-testing into CI/CD pipelines.",
+            "URL": "https://github.com/usestrix/strix"
         },
         {
-            "Name": "Chandra OCR",
+            "Name": "Chandra OCR 2",
             "Category": "Document Intelligence",
-            "Description": "A state-of-the-art OCR model that converts images and PDFs into structured formats like Markdown, HTML, or JSON while maintaining layout integrity.",
-            "Use_Case": "Extracting data from complex tables, forms, and handwritten documents across 90+ languages.",
+            "Description": "A state-of-the-art OCR model optimized for complex document layouts, including tables, handwriting, math equations, and forms.",
+            "Use_Case": "Extracting structured data from complex, multi-lingual scanned documents and images into Markdown, JSON, or HTML.",
             "URL": "https://github.com/datalab-to/chandra"
         }
     ]

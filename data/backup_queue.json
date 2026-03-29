@@ -1,137 +1,29 @@
 [
   {
-    "title": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens",
-    "summary": "arXiv:2603.23516v1 Announce Type: cross Abstract: Long-term memory is a cornerstone of human intelligence. Enabling AI to process lifetime-scale information remains a long-standing pursuit in the field. Due to the constraints of full-attention architectures, the effective context length of large language models (LLMs) is typically limited to 1M tok",
-    "url": "https://arxiv.org/abs/2603.23516",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "The Diminishing Returns of Early-Exit Decoding in Modern LLMs",
-    "summary": "arXiv:2603.23701v1 Announce Type: cross Abstract: In Large Language Model (LLM) inference, early-exit refers to stopping computation at an intermediate layer once the prediction is sufficiently confident, thereby reducing latency and cost. However, recent LLMs adopt improved pretraining recipes and architectures that reduce layer redundancy, potent",
-    "url": "https://arxiv.org/abs/2603.23701",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection",
-    "summary": "arXiv:2603.23800v1 Announce Type: cross Abstract: We present a novel LLM-informed model-based planning framework, and a novel prompt selection method, for object search in partially-known environments. Our approach uses an LLM to estimate statistics about the likelihood of finding the target object when searching various locations throughout the sc",
-    "url": "https://arxiv.org/abs/2603.23800",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm",
-    "summary": "arXiv:2603.24079v1 Announce Type: cross Abstract: Recently, multimodal large language models (MLLMs) have emerged as a unified paradigm for language and image generation. Compared with diffusion models, MLLMs possess a much stronger capability for semantic understanding, enabling them to process more complex textual inputs and comprehend richer con",
-    "url": "https://arxiv.org/abs/2603.24079",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience",
-    "summary": "arXiv:2603.24533v1 Announce Type: cross Abstract: Autonomous mobile GUI agents have attracted increasing attention along with the advancement of Multimodal Large Language Models (MLLMs). However, existing methods still suffer from inefficient learning from failed trajectories and ambiguous credit assignment under sparse rewards for long-horizon GUI",
-    "url": "https://arxiv.org/abs/2603.24533",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "Evaluating Chunking Strategies For Retrieval-Augmented Generation in Oil and Gas Enterprise Documents",
-    "summary": "arXiv:2603.24556v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) has emerged as a framework to address the constraints of Large Language Models (LLMs). Yet, its effectiveness fundamentally hinges on document chunking - an often-overlooked determinant of its quality. This paper presents an empirical study quantifying performanc",
-    "url": "https://arxiv.org/abs/2603.24556",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "Pharos-ESG: A Framework for Multimodal Parsing, Contextual Narration, and Hierarchical Labeling of ESG Report",
-    "summary": "arXiv:2511.16417v2 Announce Type: replace Abstract: Environmental, Social, and Governance (ESG) principles are reshaping the foundations of global financial gover- nance, transforming capital allocation architectures, regu- latory frameworks, and systemic risk coordination mecha- nisms. However, as the core medium for assessing corpo- rate ESG perf",
-    "url": "https://arxiv.org/abs/2511.16417",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "Relationship-Aware Safety Unlearning for Multimodal LLMs",
-    "summary": "arXiv:2603.14185v3 Announce Type: replace Abstract: Generative multimodal models can exhibit safety failures that are inherently relational: two benign concepts can become unsafe when linked by a specific action or relation (e.g., child-drinking-wine). Existing unlearning and concept-erasure approaches often target isolated concepts or image-text p",
-    "url": "https://arxiv.org/abs/2603.14185",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "Bottlenecked Transformers: Periodic KV Cache Consolidation for Generalised Reasoning",
-    "summary": "arXiv:2505.16950v4 Announce Type: replace-cross Abstract: Transformer LLMs have been shown to exhibit strong reasoning ability that scales with inference-time compute, most prominently through token-space \"thinking\" chains of thought. A growing line of work pushes extra computation into the model's latent space, which we term Auxiliary Latent-Space",
-    "url": "https://arxiv.org/abs/2505.16950",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
-    "summary": "arXiv:2506.06303v5 Announce Type: replace-cross Abstract: Reinforcement learning (RL) is a framework for solving sequential decision-making problems. In this work, we demonstrate that, surprisingly, RL emerges during the inference time of large language models (LLMs), a phenomenon we term in-context RL (ICRL). To reveal this capability, we introduc",
-    "url": "https://arxiv.org/abs/2506.06303",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "Team of Thoughts: Efficient Test-time Scaling of Agentic Systems through Orchestrated Tool Calling",
-    "summary": "arXiv:2602.16485v2 Announce Type: replace-cross Abstract: Existing Multi-Agent Systems (MAS) typically rely on homogeneous model configurations, failing to exploit the diverse expertise inherent in different post-trained architectures. We propose Team-of-Thoughts, a heterogeneous MAS framework that treats diverse models as specialized tools within ",
-    "url": "https://arxiv.org/abs/2602.16485",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "Geometry-Guided Camera Motion Understanding in VideoLLMs",
-    "summary": "arXiv:2603.13119v2 Announce Type: replace-cross Abstract: Camera motion is a fundamental geometric signal that shapes visual perception and cinematic style, yet current video-capable vision-language models (VideoLLMs) rarely represent it explicitly and often fail on fine-grained motion primitives. We address this gap with a framework of $\\textbf{be",
-    "url": "https://arxiv.org/abs/2603.13119",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
-    "summary": "arXiv:2603.19312v2 Announce Type: replace-cross Abstract: Joint Embedding Predictive Architectures (JEPAs) offer a compelling framework for learning world models in compact latent spaces, yet existing methods remain fragile, relying on complex multi-term losses, exponential moving averages, pre-trained encoders, or auxiliary supervision to avoid re",
-    "url": "https://arxiv.org/abs/2603.19312",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "Tiny Inference-Time Scaling with Latent Verifiers",
-    "summary": "arXiv:2603.22492v2 Announce Type: replace-cross Abstract: Inference-time scaling has emerged as an effective way to improve generative models at test time by using a verifier to score and select candidate outputs. A common choice is to employ Multimodal Large Language Models (MLLMs) as verifiers, which can improve performance but introduce substant",
-    "url": "https://arxiv.org/abs/2603.22492",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
-  },
-  {
-    "title": "Federal judge blocks Trump's ban on Anthropic AI models, calls security risk label \"Orwellian\"",
-    "summary": "A federal judge in San Francisco has sided with Anthropic in its dispute with the Trump administration, calling the government's actions \"classic illegal First Amendment retaliation\" for public criticism. Judge Rita F. Lin rejected what she called the \"Orwellian notion\" that a U.S. company can be branded \"a potential adversary and saboteur\" simply ",
-    "url": "https://the-decoder.com/federal-judge-blocks-trumps-ban-on-anthropic-ai-models-calls-security-risk-label-orwellian/",
+    "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
+    "summary": "Anthropic grew out of more than just concern for AI safety—it was born from a bitter power struggle and personal conflict at OpenAI. A report by Sam Altman biographer Keach Hagey reveals how personal slights, rivalries, and strategic disagreements led to what may be the most consequential split in the AI industry. The article Anthropic reportedly v",
+    "url": "https://the-decoder.com/anthropic-reportedly-views-itself-as-the-antidote-to-openais-tobacco-industry-approach-to-ai/",
     "source": "The Decoder",
-    "published_at": "2026-03-27T17:44:41+00:00",
-    "score": 7,
-    "archived_at": "2026-03-28T03:25:49.698029+00:00"
+    "published_at": "2026-03-28T14:45:26+00:00",
+    "score": 6,
+    "archived_at": "2026-03-29T03:47:53.399337+00:00"
+  },
+  {
+    "title": "Meta's hyperagents improve at tasks and improve at improving",
+    "summary": "Researchers at Meta and several universities have developed \"hyperagents,\" AI systems that don't just solve tasks, but also optimize the very mechanism they use to get better. The approach works across different task areas and could open the door to self-accelerating AI. The article Meta&#039;s hyperagents improve at tasks and improve at improving ",
+    "url": "https://the-decoder.com/metas-hyperagents-improve-at-tasks-and-improve-at-improving/",
+    "source": "The Decoder",
+    "published_at": "2026-03-28T10:40:09+00:00",
+    "score": 6,
+    "archived_at": "2026-03-29T03:47:53.399337+00:00"
+  },
+  {
+    "title": "OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September",
+    "summary": "OpenAI is pulling the plug on Sora, its AI video generation tool, in a two-stage shutdown starting April 2026. The move signals a major strategic shift away from creative AI tools and toward coding and enterprise products. The article OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September appeared first on Th",
+    "url": "https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/",
+    "source": "The Decoder",
+    "published_at": "2026-03-28T09:47:08+00:00",
+    "score": 6,
+    "archived_at": "2026-03-29T03:47:53.399337+00:00"
   }
 ]

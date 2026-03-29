@@ -1,5 +1,32 @@
 [
   {
+    "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
+    "summary": "Anthropic grew out of more than just concern for AI safety—it was born from a bitter power struggle and personal conflict at OpenAI. A report by Sam Altman biographer Keach Hagey reveals how personal slights, rivalries, and strategic disagreements led to what may be the most consequential split in the AI industry. The article Anthropic reportedly v",
+    "url": "https://the-decoder.com/anthropic-reportedly-views-itself-as-the-antidote-to-openais-tobacco-industry-approach-to-ai/",
+    "source": "The Decoder",
+    "published_at": "2026-03-28T14:45:26+00:00",
+    "score": 6,
+    "archived_at": "2026-03-29T03:47:53.399337+00:00"
+  },
+  {
+    "title": "Meta's hyperagents improve at tasks and improve at improving",
+    "summary": "Researchers at Meta and several universities have developed \"hyperagents,\" AI systems that don't just solve tasks, but also optimize the very mechanism they use to get better. The approach works across different task areas and could open the door to self-accelerating AI. The article Meta&#039;s hyperagents improve at tasks and improve at improving ",
+    "url": "https://the-decoder.com/metas-hyperagents-improve-at-tasks-and-improve-at-improving/",
+    "source": "The Decoder",
+    "published_at": "2026-03-28T10:40:09+00:00",
+    "score": 6,
+    "archived_at": "2026-03-29T03:47:53.399337+00:00"
+  },
+  {
+    "title": "OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September",
+    "summary": "OpenAI is pulling the plug on Sora, its AI video generation tool, in a two-stage shutdown starting April 2026. The move signals a major strategic shift away from creative AI tools and toward coding and enterprise products. The article OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September appeared first on Th",
+    "url": "https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/",
+    "source": "The Decoder",
+    "published_at": "2026-03-28T09:47:08+00:00",
+    "score": 6,
+    "archived_at": "2026-03-29T03:47:53.399337+00:00"
+  },
+  {
     "title": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens",
     "summary": "arXiv:2603.23516v1 Announce Type: cross Abstract: Long-term memory is a cornerstone of human intelligence. Enabling AI to process lifetime-scale information remains a long-standing pursuit in the field. Due to the constraints of full-attention architectures, the effective context length of large language models (LLMs) is typically limited to 1M tok",
     "url": "https://arxiv.org/abs/2603.23516",
@@ -2667,33 +2694,6 @@
     "title": "The Fragility Of Moral Judgment In Large Language Models",
     "summary": "arXiv:2603.05651v1 Announce Type: cross Abstract: People increasingly use large language models (LLMs) for everyday moral and interpersonal guidance, yet these systems cannot interrogate missing context and judge dilemmas as presented. We introduce a perturbation framework for testing the stability and manipulability of LLM moral judgments while ho",
     "url": "https://arxiv.org/abs/2603.05651",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-09T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-09T08:57:18.156830+00:00"
-  },
-  {
-    "title": "Depth Charge: Jailbreak Large Language Models from Deep Safety Attention Heads",
-    "summary": "arXiv:2603.05772v1 Announce Type: cross Abstract: Currently, open-sourced large language models (OSLLMs) have demonstrated remarkable generative performance. However, as their structure and weights are made public, they are exposed to jailbreak attacks even after alignment. Existing attacks operate primarily at shallow levels, such as the prompt or",
-    "url": "https://arxiv.org/abs/2603.05772",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-09T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-09T08:57:18.156830+00:00"
-  },
-  {
-    "title": "Margin and Consistency Supervision for Calibrated and Robust Vision Models",
-    "summary": "arXiv:2603.05812v1 Announce Type: cross Abstract: Deep vision classifiers often achieve high accuracy while remaining poorly calibrated and fragile under small distribution shifts. We present Margin and Consistency Supervision (MaCS), a simple, architecture-agnostic regularization framework that jointly enforces logit-space separation and local pre",
-    "url": "https://arxiv.org/abs/2603.05812",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-09T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-09T08:57:18.156830+00:00"
-  },
-  {
-    "title": "LUMINA: LLM-Guided GPU Architecture Exploration via Bottleneck Analysis",
-    "summary": "arXiv:2603.05904v1 Announce Type: cross Abstract: GPU design space exploration (DSE) for modern AI workloads, such as Large-Language Model (LLM) inference, is challenging because of GPUs' vast, multi-modal design spaces, high simulation costs, and complex design optimization objectives (e.g. performance, power and area trade-offs). Existing automat",
-    "url": "https://arxiv.org/abs/2603.05904",
     "source": "Arxiv AI",
     "published_at": "2026-03-09T04:00:00+00:00",
     "score": 7,

@@ -1,75 +1,76 @@
 [
   {
-    "title": "DepthCharge: A Domain-Agnostic Framework for Measuring Depth-Dependent Knowledge in Large Language Models",
-    "url": "https://arxiv.org/abs/2603.23514",
-    "source": "Arxiv AI",
-    "score": 7,
-    "what_happened": "arXiv:2603.23514v1 Announce Type: cross Abstract: Large Language Models appear competent when answering general questions but often fail when pushed into domain-specific details. No existing methodology provides an out-of-the-box solution for measuring how deeply LLMs can sustain accurate responses under adaptive follow-up questioning across arbitr",
-    "technical_takeaway": null,
-    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
-    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
-    "who_should_care": [
-      "Mobile Engineers",
-      "Product Managers"
-    ],
-    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
-  },
-  {
-    "title": "Cohere releases open source model that tops speech recognition benchmarks",
-    "url": "https://the-decoder.com/cohere-releases-open-source-model-that-tops-speech-recognition-benchmarks/",
+    "title": "Google's new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs",
+    "url": "https://the-decoder.com/googles-new-gemini-api-agent-skill-patches-the-knowledge-gap-ai-models-have-with-their-own-sdks/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Cohere presents an open-source speech recognition model which, according to the benchmark, beats all competitors, including OpenAI's Whisper. The article Cohere releases open source model that tops speech recognition benchmarks appeared first on The Decoder.",
+    "what_happened": "AI models don't know about their own updates after training. Google's new \"Agent Skill\" shows how a simple fix can dramatically improve coding results. The article Google&#039;s new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "Anthropic's new data shows AI skill builds over time, and that could widen the inequality gap",
+    "url": "https://the-decoder.com/anthropics-new-data-shows-ai-skill-builds-over-time-and-that-could-widen-the-inequality-gap/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "Anthropic's second Economic Index tracks how Claude usage is evolving across the economy. One key finding: the longer people use the AI model, the better their results get. That could widen existing inequalities. The article Anthropic&#039;s new data shows AI skill builds over time, and that could widen the inequality gap appeared first on The Deco",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
     "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "Meta's new AI model predicts how your brain reacts to images, sounds, and speech",
-    "url": "https://the-decoder.com/metas-new-ai-model-predicts-how-your-brain-reacts-to-images-sounds-and-speech/",
-    "source": "The Decoder",
+    "title": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens",
+    "url": "https://arxiv.org/abs/2603.23516",
+    "source": "Arxiv AI",
     "score": 7,
-    "what_happened": "Meta built an AI model that predicts how the human brain reacts to images, sounds, and speech. In tests, its predictions matched the typical brain response more closely than an actual scan of any single person. The article Meta&#039;s new AI model predicts how your brain reacts to images, sounds, and speech appeared first on The Decoder.",
+    "what_happened": "arXiv:2603.23516v1 Announce Type: cross Abstract: Long-term memory is a cornerstone of human intelligence. Enabling AI to process lifetime-scale information remains a long-standing pursuit in the field. Due to the constraints of full-attention architectures, the effective context length of large language models (LLMs) is typically limited to 1M tok",
     "technical_takeaway": null,
     "primary_risk": "Marginal performance gains may not justify integration effort.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
-      "AI Professionals"
+      "Research Scientists",
+      "ML Engineers"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "AI Research Is Getting Harder to Separate From Geopolitics",
-    "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+    "title": "The Diminishing Returns of Early-Exit Decoding in Modern LLMs",
+    "url": "https://arxiv.org/abs/2603.23701",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2603.23701v1 Announce Type: cross Abstract: In Large Language Model (LLM) inference, early-exit refers to stopping computation at an intermediate layer once the prediction is sufficiently confident, thereby reducing latency and cost. However, recent LLMs adopt improved pretraining recipes and architectures that reduce layer redundancy, potent",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection",
+    "url": "https://arxiv.org/abs/2603.23800",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2603.23800v1 Announce Type: cross Abstract: We present a novel LLM-informed model-based planning framework, and a novel prompt selection method, for object search in partially-known environments. Our approach uses an LLM to estimate statistics about the likelihood of finding the target object when searching various locations throughout the sc",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "Research Scientists",
+      "ML Engineers"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "Apple Still Plans to Sell iPhones When It Turns 100",
-    "url": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
-    "technical_takeaway": null,
-    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
-    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
-    "who_should_care": [
-      "Mobile Engineers",
-      "Product Managers"
-    ],
-    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
   }
 ]
