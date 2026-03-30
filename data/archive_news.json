@@ -1,5 +1,32 @@
 [
   {
+    "title": "Naver's \"Seoul World Model\" uses actual Street View data to stop AI from hallucinating entire cities",
+    "summary": "South Korean internet giant Naver built a video world model grounded in actual city geometry from over a million of its own Street View images. The model generalizes to other cities without any fine-tuning. The article Naver&#039;s &quot;Seoul World Model&quot; uses actual Street View data to stop AI from hallucinating entire cities appeared first ",
+    "url": "https://the-decoder.com/navers-seoul-world-model-uses-actual-street-view-data-to-stop-ai-from-hallucinating-entire-cities/",
+    "source": "The Decoder",
+    "published_at": "2026-03-29T06:46:57+00:00",
+    "score": 7,
+    "archived_at": "2026-03-30T03:51:41.808968+00:00"
+  },
+  {
+    "title": "Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine",
+    "summary": "US pharmaceutical giant Eli Lilly is betting big on AI-driven drug development, signing a $2.75 billion deal with Hong Kong-listed Insilico Medicine. The article Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine appeared first on The Decoder.",
+    "url": "https://the-decoder.com/eli-lilly-signs-2-75-billion-deal-with-ai-drug-developer-insilico-medicine/",
+    "source": "The Decoder",
+    "published_at": "2026-03-29T15:10:06+00:00",
+    "score": 6,
+    "archived_at": "2026-03-30T03:51:41.808968+00:00"
+  },
+  {
+    "title": "OpenAI's Sam Altman and Science VP Kevin Weil hype AI-assisted dog cancer story ignoring there's no proof the vaccine worked",
+    "summary": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer. The story went viral after high-profile AI executives like OpenAI's Greg Brockman and Deepmind's Demis Hassabis shared it as proof of what AI can already do. But there's no evidence the AI-designed vaccine actually worked",
+    "url": "https://the-decoder.com/openais-sam-altman-and-science-vp-kevin-weil-hype-ai-assisted-dog-cancer-story-ignoring-theres-no-proof-the-vaccine-worked/",
+    "source": "The Decoder",
+    "published_at": "2026-03-29T15:35:53+00:00",
+    "score": 5,
+    "archived_at": "2026-03-30T03:51:41.808968+00:00"
+  },
+  {
     "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
     "summary": "Anthropic grew out of more than just concern for AI safety—it was born from a bitter power struggle and personal conflict at OpenAI. A report by Sam Altman biographer Keach Hagey reveals how personal slights, rivalries, and strategic disagreements led to what may be the most consequential split in the AI industry. The article Anthropic reportedly v",
     "url": "https://the-decoder.com/anthropic-reportedly-views-itself-as-the-antidote-to-openais-tobacco-industry-approach-to-ai/",
@@ -2671,32 +2698,5 @@
     "published_at": "2026-03-09T04:00:00+00:00",
     "score": 6,
     "archived_at": "2026-03-09T10:15:24.112050+00:00"
-  },
-  {
-    "title": "SecureRAG-RTL: A Retrieval-Augmented, Multi-Agent, Zero-Shot LLM-Driven Framework for Hardware Vulnerability Detection",
-    "summary": "arXiv:2603.05689v1 Announce Type: cross Abstract: Large language models (LLMs) have shown remarkable capabilities in natural language processing tasks, yet their application in hardware security verification remains limited due to scarcity of publicly available hardware description language (HDL) datasets. This knowledge gap constrains LLM performa",
-    "url": "https://arxiv.org/abs/2603.05689",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-09T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-03-09T10:15:24.112050+00:00"
-  },
-  {
-    "title": "Autonomous Algorithm Discovery for Ptychography via Evolutionary LLM Reasoning",
-    "summary": "arXiv:2603.05696v1 Announce Type: cross Abstract: Ptychography is a computational imaging technique widely used for high-resolution materials characterization, but high-quality reconstructions often require the use of regularization functions that largely remain manually designed. We introduce Ptychi-Evolve, an autonomous framework that uses large ",
-    "url": "https://arxiv.org/abs/2603.05696",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-09T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-03-09T10:15:24.112050+00:00"
-  },
-  {
-    "title": "The Fragility Of Moral Judgment In Large Language Models",
-    "summary": "arXiv:2603.05651v1 Announce Type: cross Abstract: People increasingly use large language models (LLMs) for everyday moral and interpersonal guidance, yet these systems cannot interrogate missing context and judge dilemmas as presented. We introduce a perturbation framework for testing the stability and manipulability of LLM moral judgments while ho",
-    "url": "https://arxiv.org/abs/2603.05651",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-09T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-09T08:57:18.156830+00:00"
   }
 ]

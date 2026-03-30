@@ -1,29 +1,29 @@
 [
   {
-    "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
-    "summary": "Anthropic grew out of more than just concern for AI safety—it was born from a bitter power struggle and personal conflict at OpenAI. A report by Sam Altman biographer Keach Hagey reveals how personal slights, rivalries, and strategic disagreements led to what may be the most consequential split in the AI industry. The article Anthropic reportedly v",
-    "url": "https://the-decoder.com/anthropic-reportedly-views-itself-as-the-antidote-to-openais-tobacco-industry-approach-to-ai/",
+    "title": "Naver's \"Seoul World Model\" uses actual Street View data to stop AI from hallucinating entire cities",
+    "summary": "South Korean internet giant Naver built a video world model grounded in actual city geometry from over a million of its own Street View images. The model generalizes to other cities without any fine-tuning. The article Naver&#039;s &quot;Seoul World Model&quot; uses actual Street View data to stop AI from hallucinating entire cities appeared first ",
+    "url": "https://the-decoder.com/navers-seoul-world-model-uses-actual-street-view-data-to-stop-ai-from-hallucinating-entire-cities/",
     "source": "The Decoder",
-    "published_at": "2026-03-28T14:45:26+00:00",
-    "score": 6,
-    "archived_at": "2026-03-29T03:47:53.399337+00:00"
+    "published_at": "2026-03-29T06:46:57+00:00",
+    "score": 7,
+    "archived_at": "2026-03-30T03:51:41.808968+00:00"
   },
   {
-    "title": "Meta's hyperagents improve at tasks and improve at improving",
-    "summary": "Researchers at Meta and several universities have developed \"hyperagents,\" AI systems that don't just solve tasks, but also optimize the very mechanism they use to get better. The approach works across different task areas and could open the door to self-accelerating AI. The article Meta&#039;s hyperagents improve at tasks and improve at improving ",
-    "url": "https://the-decoder.com/metas-hyperagents-improve-at-tasks-and-improve-at-improving/",
+    "title": "Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine",
+    "summary": "US pharmaceutical giant Eli Lilly is betting big on AI-driven drug development, signing a $2.75 billion deal with Hong Kong-listed Insilico Medicine. The article Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine appeared first on The Decoder.",
+    "url": "https://the-decoder.com/eli-lilly-signs-2-75-billion-deal-with-ai-drug-developer-insilico-medicine/",
     "source": "The Decoder",
-    "published_at": "2026-03-28T10:40:09+00:00",
+    "published_at": "2026-03-29T15:10:06+00:00",
     "score": 6,
-    "archived_at": "2026-03-29T03:47:53.399337+00:00"
+    "archived_at": "2026-03-30T03:51:41.808968+00:00"
   },
   {
-    "title": "OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September",
-    "summary": "OpenAI is pulling the plug on Sora, its AI video generation tool, in a two-stage shutdown starting April 2026. The move signals a major strategic shift away from creative AI tools and toward coding and enterprise products. The article OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September appeared first on Th",
-    "url": "https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/",
+    "title": "OpenAI's Sam Altman and Science VP Kevin Weil hype AI-assisted dog cancer story ignoring there's no proof the vaccine worked",
+    "summary": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer. The story went viral after high-profile AI executives like OpenAI's Greg Brockman and Deepmind's Demis Hassabis shared it as proof of what AI can already do. But there's no evidence the AI-designed vaccine actually worked",
+    "url": "https://the-decoder.com/openais-sam-altman-and-science-vp-kevin-weil-hype-ai-assisted-dog-cancer-story-ignoring-theres-no-proof-the-vaccine-worked/",
     "source": "The Decoder",
-    "published_at": "2026-03-28T09:47:08+00:00",
-    "score": 6,
-    "archived_at": "2026-03-29T03:47:53.399337+00:00"
+    "published_at": "2026-03-29T15:35:53+00:00",
+    "score": 5,
+    "archived_at": "2026-03-30T03:51:41.808968+00:00"
   }
 ]

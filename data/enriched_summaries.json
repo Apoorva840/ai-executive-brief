@@ -1,10 +1,10 @@
 [
   {
-    "title": "Google's new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs",
-    "url": "https://the-decoder.com/googles-new-gemini-api-agent-skill-patches-the-knowledge-gap-ai-models-have-with-their-own-sdks/",
+    "title": "MetaClaw framework trains AI agents while you're in meetings by checking your Google Calendar",
+    "url": "https://the-decoder.com/metaclaw-framework-trains-ai-agents-while-youre-in-meetings-by-checking-your-google-calendar/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "AI models don't know about their own updates after training. Google's new \"Agent Skill\" shows how a simple fix can dramatically improve coding results. The article Google&#039;s new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs appeared first on The Decoder.",
+    "what_happened": "Researchers from four US universities have built a framework that improves AI agents during operation. It checks the user's Google calendar to figure out when to train. The article MetaClaw framework trains AI agents while you&#039;re in meetings by checking your Google Calendar appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -15,40 +15,40 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "Anthropic's new data shows AI skill builds over time, and that could widen the inequality gap",
-    "url": "https://the-decoder.com/anthropics-new-data-shows-ai-skill-builds-over-time-and-that-could-widen-the-inequality-gap/",
+    "title": "AI sycophancy makes people less likely to apologize and more likely to double down, study finds",
+    "url": "https://the-decoder.com/ai-sycophancy-makes-people-less-likely-to-apologize-and-more-likely-to-double-down-study-finds/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Anthropic's second Economic Index tracks how Claude usage is evolving across the economy. One key finding: the longer people use the AI model, the better their results get. That could widen existing inequalities. The article Anthropic&#039;s new data shows AI skill builds over time, and that could widen the inequality gap appeared first on The Deco",
+    "what_happened": "AI models tell people what they want to hear nearly 50 percent more often than other humans do. A new Science study shows this isn't just annoying: it makes people less willing to apologize, less likely to see the other side, and more convinced they're right. The worst part: users love it. The article AI sycophancy makes people less likely to apolo",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens",
-    "url": "https://arxiv.org/abs/2603.23516",
-    "source": "Arxiv AI",
-    "score": 7,
-    "what_happened": "arXiv:2603.23516v1 Announce Type: cross Abstract: Long-term memory is a cornerstone of human intelligence. Enabling AI to process lifetime-scale information remains a long-standing pursuit in the field. Due to the constraints of full-attention architectures, the effective context length of large language models (LLMs) is typically limited to 1M tok",
+    "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
+    "url": "https://the-decoder.com/anthropic-reportedly-views-itself-as-the-antidote-to-openais-tobacco-industry-approach-to-ai/",
+    "source": "The Decoder",
+    "score": 6,
+    "what_happened": "Anthropic grew out of more than just concern for AI safety—it was born from a bitter power struggle and personal conflict at OpenAI. A report by Sam Altman biographer Keach Hagey reveals how personal slights, rivalries, and strategic disagreements led to what may be the most consequential split in the AI industry. The article Anthropic reportedly v",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
     "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
   },
   {
-    "title": "The Diminishing Returns of Early-Exit Decoding in Modern LLMs",
-    "url": "https://arxiv.org/abs/2603.23701",
-    "source": "Arxiv AI",
-    "score": 7,
-    "what_happened": "arXiv:2603.23701v1 Announce Type: cross Abstract: In Large Language Model (LLM) inference, early-exit refers to stopping computation at an intermediate layer once the prediction is sufficiently confident, thereby reducing latency and cost. However, recent LLMs adopt improved pretraining recipes and architectures that reduce layer redundancy, potent",
+    "title": "Meta's hyperagents improve at tasks and improve at improving",
+    "url": "https://the-decoder.com/metas-hyperagents-improve-at-tasks-and-improve-at-improving/",
+    "source": "The Decoder",
+    "score": 6,
+    "what_happened": "Researchers at Meta and several universities have developed \"hyperagents,\" AI systems that don't just solve tasks, but also optimize the very mechanism they use to get better. The approach works across different task areas and could open the door to self-accelerating AI. The article Meta&#039;s hyperagents improve at tasks and improve at improving",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -59,18 +59,18 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection",
-    "url": "https://arxiv.org/abs/2603.23800",
-    "source": "Arxiv AI",
-    "score": 7,
-    "what_happened": "arXiv:2603.23800v1 Announce Type: cross Abstract: We present a novel LLM-informed model-based planning framework, and a novel prompt selection method, for object search in partially-known environments. Our approach uses an LLM to estimate statistics about the likelihood of finding the target object when searching various locations throughout the sc",
+    "title": "OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September",
+    "url": "https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/",
+    "source": "The Decoder",
+    "score": 6,
+    "what_happened": "OpenAI is pulling the plug on Sora, its AI video generation tool, in a two-stage shutdown starting April 2026. The move signals a major strategic shift away from creative AI tools and toward coding and enterprise products. The article OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September appeared first on Th",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   }
 ]
