@@ -1,26 +1,26 @@
 {
-    "last_updated": "Today's Date",
+    "last_updated": "2024-03-27",
     "papers": [
         {
-            "title": "Efficient Benchmarking of AI Agents",
-            "innovation": "Proposes a method to evaluate AI agents efficiently by using small task subsets that preserve agent rankings, significantly reducing the cost and time of comprehensive benchmarking.",
-            "benchmarks": "Focuses on optimizing the evaluation process for AI agent benchmarks, especially those involving interactive rollouts, tool use, and multi-step reasoning.",
-            "use_case": "Crucial for AI engineers to accelerate development cycles, reduce computational costs of agent evaluation, and enable faster iteration on AI agent design and deployment.",
-            "url": "https://arxiv.org/abs/2603.23749"
+            "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
+            "innovation": "Identifies and provides solutions for three structural performance bottlenecks in AI research agents: synchronous single-GPU execution (constraining sample throughput), a generalization gap where validation-based selection degrades performance over extended searches, and the lack of generalizable evaluation metrics.",
+            "benchmarks": "Aims to improve sample throughput, enhance generalization performance over prolonged search periods, and provide more robust validation-based selection for agent development.",
+            "use_case": "Designing and implementing more efficient, scalable, and robust AI research agents, particularly beneficial for engineers developing complex autonomous systems or optimizing large-scale agent training infrastructure.",
+            "url": "https://arxiv.org/abs/2603.26499"
         },
         {
-            "title": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
-            "innovation": "Introduces structured environmental representations (Environment Maps) to build more robust agents capable of handling long-horizon tasks, mitigating cascading errors and environmental stochasticity common in complex software workflows.",
-            "benchmarks": "Addresses the challenge of robust automation in complex software workflows and long-horizon settings, aiming for improved performance and reliability compared to existing approaches.",
-            "use_case": "Essential for engineers developing autonomous agents that operate in dynamic and complex digital or physical environments, particularly for applications requiring sustained operation and resilience against errors, such as in software automation or robotics.",
-            "url": "https://arxiv.org/abs/2603.23610"
+            "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+            "innovation": "Introduces a novel approach to mitigate domain bias in GUI agents by leveraging real-time web video retrieval and a plug-and-play annotation mechanism. This allows agents to gain familiarity with domain-specific software operations without extensive pre-training on proprietary data.",
+            "benchmarks": "Addresses significant domain bias in GUI agents, leading to improved performance and reliability when interacting with unfamiliar or specialized software interfaces.",
+            "use_case": "Developing highly adaptable and generalizable GUI automation agents that can operate effectively across a wide range of software applications, overcoming the limitations of training data sparsity for niche domains.",
+            "url": "https://arxiv.org/abs/2603.26266"
         },
         {
-            "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
-            "innovation": "Introduces a novel benchmark specifically designed to evaluate the capability of LLM agents in performing complex resource allocation under uncertainty within dynamic enterprise environments, simulating real-world CFO responsibilities.",
-            "benchmarks": "A new benchmark focused on resource allocation, planning, and decision-making in a multi-period, uncertain business context, enabling rigorous assessment of LLM agents' strategic intelligence.",
-            "use_case": "Highly relevant for AI engineers working on deploying LLM-based agents in business and financial applications, providing a framework to assess their competence in high-stakes decision-making and strategic resource management.",
-            "url": "https://arxiv.org/abs/2603.23638"
+            "title": "Stabilizing Rubric Integration Training via Decoupled Advantage Normalization",
+            "innovation": "Proposes Process-Aware Policy Optimization (PAPO), a method that integrates process-level evaluation into Group Relative Policy Optimization (GRPO) using decoupled advantage normalization. This addresses the limitations of outcome-reward models by incorporating intermediate process feedback for more stable and effective reinforcement learning.",
+            "benchmarks": "Aims to improve the stability and performance of reinforcement learning (RL) training by providing more comprehensive reward signals, leading to better policy optimization compared to methods relying solely on final-answer outcomes.",
+            "use_case": "Engineers working on reinforcement learning systems, especially in scenarios where evaluating the process leading to an outcome is as important as the outcome itself, enabling more robust policy learning and faster convergence in complex tasks.",
+            "url": "https://arxiv.org/abs/2603.26535"
         }
     ]
 }

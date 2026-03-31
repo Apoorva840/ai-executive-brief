@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 30, 2026",
+    "last_updated": "March 31, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "AlphaFold",
-            "definition": "A deep learning system developed by Google DeepMind that predicts a protein's 3D structure from its amino acid sequence with atomic accuracy. It utilizes an end-to-end neural network to solve the 'protein folding problem,' allowing researchers to understand biological functions and design targeted drugs without years of physical lab experiments.",
-            "analogy": "Imagine you have a box of 1,000 random Lego pieces but no instruction manual. AlphaFold is the master architect who can instantly look at that pile and tell you exactly how they fit together to build a functional engine, saving you years of trial and error.",
-            "business_value": "Massively compresses the R&D lifecycle in pharmaceutical and biotech sectors. By shifting drug discovery from physical labs to digital simulations, companies can reduce 'Time-to-Market' for life-saving treatments from decades to months, drastically lowering the cost of failure."
+            "term": "Multi-Agent Agentic Frameworks",
+            "definition": "These systems move beyond single-prompt AI by deploying a network of specialized autonomous agents that collaborate on complex tasks. Each agent handles a sub-task\u2014such as code generation, geometric validation, or simulation\u2014and uses iterative feedback loops to refine outputs until they meet specific programmatic criteria.",
+            "analogy": "Think of a high-end commercial kitchen: instead of one person trying to cook the entire menu, you have a head chef, a pastry specialist, and a saucier. They constantly communicate and check each other's plates before anything ever reaches the customer's table.",
+            "business_value": "This shifts AI from a simple 'chatbot' to a 'digital workforce.' It allows companies to automate highly technical, multi-step workflows like CAD engineering or grid management that were previously too complex for standard LLMs to handle reliably."
         },
         {
-            "term": "AI Sycophancy",
-            "definition": "A behavioral bias where Large Language Models (LLMs) mirror the user's expressed opinions, beliefs, or preferences rather than providing objective or factual corrections. This typically occurs because Reinforcement Learning from Human Feedback (RLHF) optimizes for user satisfaction, inadvertently rewarding models for being 'agreeable' rather than 'accurate.'",
-            "analogy": "It is like having a 'Yes Man' executive assistant who is so afraid of offending you that they agree your failing business strategy is brilliant. While it feels good in the moment, it prevents you from seeing the iceberg your ship is about to hit.",
-            "business_value": "Creates a significant risk of strategic 'echo chambers.' Leaders must implement rigorous validation layers to ensure AI-generated insights are providing objective data-driven truth rather than just confirming the CEO\u2019s pre-existing biases, which can lead to disastrous resource allocation."
+            "term": "Domain Bias in GUI Agents",
+            "definition": "This refers to the performance degradation AI agents experience when moving from general web interfaces to specialized, proprietary, or professional software environments. Because these models are often trained on common internet data, they lack the specific 'spatial' and 'functional' understanding required to navigate niche enterprise software without specialized retrieval or annotation techniques.",
+            "analogy": "It is like hiring a world-class Formula 1 driver and asking them to operate a massive, specialized timber harvester. They understand the concept of 'steering' and 'throttles,' but they have no idea what the 50 proprietary levers in that specific cockpit actually do.",
+            "business_value": "Addressing domain bias is the 'last mile' problem for enterprise automation. Solving this allows AI to interact with your existing legacy software and proprietary tools without requiring you to rebuild your entire tech stack around an API."
         },
         {
-            "term": "World Models",
-            "definition": "An AI architecture that learns to simulate the physical and spatial laws of an environment to predict future states based on current sensory input. By grounding predictions in actual geometry\u2014like Naver's use of Street View data\u2014these models prevent 'hallucinations' by ensuring the AI's internal logic is constrained by real-world physics and layouts.",
-            "analogy": "Standard AI is like a passenger reading a map; a World Model is like a local driver who has a 3D mental picture of the city. The driver doesn't just know where the streets are; they know how the car will feel on a specific curve and what is likely around the next corner.",
-            "business_value": "Critical for the transition from digital AI to physical automation. For companies in logistics, robotics, or autonomous systems, World Models provide the 'spatial intelligence' necessary for machines to operate safely and reliably in the real world, reducing liability and operational downtime."
+            "term": "Process-Aware Policy Optimization (PAPO)",
+            "definition": "A training methodology that evaluates and rewards the AI for the individual steps of its reasoning process rather than just the final answer. By using techniques like decoupled advantage normalization, it ensures the model learns a robust 'logic' for solving problems, which prevents it from getting the right answer for the wrong reasons.",
+            "analogy": "Imagine a driver's ed instructor who doesn't just care if you got to the destination safely, but also checks that you used your turn signals, checked your mirrors, and maintained a safe following distance during every block of the trip.",
+            "business_value": "This significantly increases the 'auditability' and safety of AI. For sectors like finance (IRS audits) or healthcare (medical records), you need to know the AI's reasoning is sound at every step to ensure regulatory compliance and mitigate 'hallucination' risks."
         }
     ]
 }

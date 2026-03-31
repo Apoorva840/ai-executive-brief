@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 30, 2026",
+    "last_updated": "March 31, 2026",
     "tools": [
         {
             "Name": "Deep-Live-Cam",
-            "Category": "AI Media Generation",
-            "Description": "A real-time face-swapping and deepfake tool that works with a single image.",
-            "Use_Case": "Creating engaging video content, meme generation, and real-time face swapping during live streams.",
+            "Category": "Generative AI / Media",
+            "Description": "A tool for real-time face swapping and video deepfakes using only a single image.",
+            "Use_Case": "Creating engaging content, animation of custom characters, and real-time live streaming filters.",
             "URL": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
-            "Name": "/last30days",
-            "Category": "Research & Intelligence",
-            "Description": "An AI agent that researches topics across Reddit, X, YouTube, HN, and prediction markets to synthesize grounded summaries.",
-            "Use_Case": "Prompt research, trend discovery, product research, and competitive intelligence gathering.",
-            "URL": "https://github.com/mvanhorn/last30days-skill"
+            "Name": "VibeVoice",
+            "Category": "Speech AI",
+            "Description": "A family of open-source voice AI models supporting long-form speech recognition (ASR) and real-time/long-form text-to-speech (TTS).",
+            "Use_Case": "Transcribing 60-minute long-form audio into structured data and generating expressive, multi-speaker conversational speech.",
+            "URL": "https://github.com/microsoft/VibeVoice"
         },
         {
-            "Name": "AgentScope",
-            "Category": "AI Agent Framework",
-            "Description": "A production-ready framework for building multi-agent systems with support for memory, planning, and tool use.",
-            "Use_Case": "Developing complex agentic workflows, multi-agent games, and automated research systems.",
-            "URL": "https://github.com/agentscope-ai/agentscope"
+            "Name": "ChatDev",
+            "Category": "Multi-Agent Systems",
+            "Description": "A zero-code platform for orchestrating multi-agent systems to automate complex workflows like software development, data visualization, and research.",
+            "Use_Case": "Building and executing customized multi-agent pipelines for tasks ranging from software engineering to complex scientific research.",
+            "URL": "https://github.com/OpenBMB/ChatDev"
         }
     ]
 }
