@@ -2,25 +2,25 @@
     "last_updated": "2024-03-27",
     "papers": [
         {
-            "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
-            "innovation": "Identifies and provides solutions for three structural performance bottlenecks in AI research agents: synchronous single-GPU execution (constraining sample throughput), a generalization gap where validation-based selection degrades performance over extended searches, and the lack of generalizable evaluation metrics.",
-            "benchmarks": "Aims to improve sample throughput, enhance generalization performance over prolonged search periods, and provide more robust validation-based selection for agent development.",
-            "use_case": "Designing and implementing more efficient, scalable, and robust AI research agents, particularly beneficial for engineers developing complex autonomous systems or optimizing large-scale agent training infrastructure.",
-            "url": "https://arxiv.org/abs/2603.26499"
+            "title": "Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II",
+            "innovation": "Analyzes fundamental architectural and technical constraints that collide with the EU AI Act's Article 50 II mandates for dual transparency in AI-generated content, offering critical insights into regulatory compliance challenges for AI engineers.",
+            "benchmarks": "N/A (legal and architectural analysis paper)",
+            "use_case": "Guiding the architectural design and implementation of AI systems to ensure compliance with emerging regulations like the EU AI Act, particularly for generative AI and content labeling, thereby enabling responsible AI deployment.",
+            "url": "https://arxiv.org/abs/2603.26983"
         },
         {
-            "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
-            "innovation": "Introduces a novel approach to mitigate domain bias in GUI agents by leveraging real-time web video retrieval and a plug-and-play annotation mechanism. This allows agents to gain familiarity with domain-specific software operations without extensive pre-training on proprietary data.",
-            "benchmarks": "Addresses significant domain bias in GUI agents, leading to improved performance and reliability when interacting with unfamiliar or specialized software interfaces.",
-            "use_case": "Developing highly adaptable and generalizable GUI automation agents that can operate effectively across a wide range of software applications, overcoming the limitations of training data sparsity for niche domains.",
-            "url": "https://arxiv.org/abs/2603.26266"
+            "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+            "innovation": "Provides a comprehensive systematic survey and categorization of existing methods for incorporating uncertainty into Explainable AI (XAI) pipelines. It synthesizes approaches like Bayesian and Monte Carlo for UAXAI and their evaluation, offering a structured overview for practitioners.",
+            "benchmarks": "N/A (survey paper)",
+            "use_case": "For AI engineers implementing XAI, this paper serves as a vital guide to selecting and evaluating appropriate uncertainty-aware explanation methods, enhancing the trustworthiness, reliability, and robustness of AI systems, especially in high-stakes applications.",
+            "url": "https://arxiv.org/abs/2603.26838"
         },
         {
-            "title": "Stabilizing Rubric Integration Training via Decoupled Advantage Normalization",
-            "innovation": "Proposes Process-Aware Policy Optimization (PAPO), a method that integrates process-level evaluation into Group Relative Policy Optimization (GRPO) using decoupled advantage normalization. This addresses the limitations of outcome-reward models by incorporating intermediate process feedback for more stable and effective reinforcement learning.",
-            "benchmarks": "Aims to improve the stability and performance of reinforcement learning (RL) training by providing more comprehensive reward signals, leading to better policy optimization compared to methods relying solely on final-answer outcomes.",
-            "use_case": "Engineers working on reinforcement learning systems, especially in scenarios where evaluating the process leading to an outcome is as important as the outcome itself, enabling more robust policy learning and faster convergence in complex tasks.",
-            "url": "https://arxiv.org/abs/2603.26535"
+            "title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
+            "innovation": "Introduces a neuro-symbolic approach for predictive process monitoring that inherently considers and enforces compliance rules. This method combines data-driven learning with symbolic domain knowledge to create models that are not only predictive but also compliant and interpretable.",
+            "benchmarks": "Implied improvements in compliance adherence, robustness, and potentially enhanced predictive accuracy and interpretability, particularly in scenarios where explicit process rules or regulations apply.",
+            "use_case": "Developing predictive AI systems for domains with strict regulatory or operational compliance requirements, such as fraud detection, healthcare monitoring, and business process management, where logical rules must be followed and verified.",
+            "url": "https://arxiv.org/abs/2603.26948"
         }
     ]
 }

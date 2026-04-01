@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 31, 2026",
+    "last_updated": "April 01, 2026",
     "tools": [
         {
-            "Name": "Deep-Live-Cam",
-            "Category": "Generative AI / Media",
-            "Description": "A tool for real-time face swapping and video deepfakes using only a single image.",
-            "Use_Case": "Creating engaging content, animation of custom characters, and real-time live streaming filters.",
-            "URL": "https://github.com/hacksider/Deep-Live-Cam"
+            "Name": "Claude Code",
+            "Category": "AI Development",
+            "Description": "An advanced AI agent for coding, capable of orchestrating subagents, using memory, running hooks, and integrating with MCP servers.",
+            "Use_Case": "Automating complex coding tasks like code review, documentation generation, and CI/CD pipelines.",
+            "URL": "https://github.com/luongnv89/claude-howto"
         },
         {
             "Name": "VibeVoice",
             "Category": "Speech AI",
-            "Description": "A family of open-source voice AI models supporting long-form speech recognition (ASR) and real-time/long-form text-to-speech (TTS).",
-            "Use_Case": "Transcribing 60-minute long-form audio into structured data and generating expressive, multi-speaker conversational speech.",
+            "Description": "An open-source voice AI framework supporting long-form speech recognition (ASR) and real-time streaming text-to-speech (TTS).",
+            "Use_Case": "Generating structured transcriptions for hour-long audio or streaming real-time speech.",
             "URL": "https://github.com/microsoft/VibeVoice"
         },
         {
-            "Name": "ChatDev",
-            "Category": "Multi-Agent Systems",
-            "Description": "A zero-code platform for orchestrating multi-agent systems to automate complex workflows like software development, data visualization, and research.",
-            "Use_Case": "Building and executing customized multi-agent pipelines for tasks ranging from software engineering to complex scientific research.",
-            "URL": "https://github.com/OpenBMB/ChatDev"
+            "Name": "PaddleOCR",
+            "Category": "Document AI",
+            "Description": "A robust, industry-leading OCR toolkit that converts PDFs and images into structured LLM-ready data (JSON/Markdown).",
+            "Use_Case": "Parsing complex documents, tables, and images for RAG and agentic data pipelines.",
+            "URL": "https://github.com/PaddlePaddle/PaddleOCR"
         }
     ]
 }
