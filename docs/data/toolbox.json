@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 01, 2026",
+    "last_updated": "April 02, 2026",
     "tools": [
         {
-            "Name": "Claude Code",
-            "Category": "AI Development",
-            "Description": "An advanced AI agent for coding, capable of orchestrating subagents, using memory, running hooks, and integrating with MCP servers.",
-            "Use_Case": "Automating complex coding tasks like code review, documentation generation, and CI/CD pipelines.",
-            "URL": "https://github.com/luongnv89/claude-howto"
+            "Name": "VideoLingo",
+            "Category": "Video Processing & Translation",
+            "Description": "An all-in-one AI video localization platform that automates subtitle cutting, translation, alignment, and dubbing.",
+            "Use_Case": "Creating Netflix-quality multilingual subtitles and dubbing for videos, enabling global knowledge sharing.",
+            "URL": "https://github.com/Huanshere/VideoLingo"
         },
         {
-            "Name": "VibeVoice",
-            "Category": "Speech AI",
-            "Description": "An open-source voice AI framework supporting long-form speech recognition (ASR) and real-time streaming text-to-speech (TTS).",
-            "Use_Case": "Generating structured transcriptions for hour-long audio or streaming real-time speech.",
-            "URL": "https://github.com/microsoft/VibeVoice"
+            "Name": "Skill Seekers",
+            "Category": "Knowledge Management",
+            "Description": "A universal data preprocessing layer that converts documentation, codebases, PDFs, and videos into structured assets for AI agents and RAG pipelines.",
+            "Use_Case": "Preparing context for AI coding assistants (Cursor, Windsurf) and building RAG pipelines (LangChain, LlamaIndex) in minutes.",
+            "URL": "https://github.com/yusufkaraaslan/Skill_Seekers"
         },
         {
-            "Name": "PaddleOCR",
-            "Category": "Document AI",
-            "Description": "A robust, industry-leading OCR toolkit that converts PDFs and images into structured LLM-ready data (JSON/Markdown).",
-            "Use_Case": "Parsing complex documents, tables, and images for RAG and agentic data pipelines.",
-            "URL": "https://github.com/PaddlePaddle/PaddleOCR"
+            "Name": "LMCache",
+            "Category": "LLM Serving Infrastructure",
+            "Description": "A high-performance KV cache serving extension that offloads and shares KV caches across CPU, Disk, and S3.",
+            "Use_Case": "Reducing time-to-first-token (TTFT) and increasing throughput for long-context LLM applications like RAG and multi-round chat.",
+            "URL": "https://github.com/LMCache/LMCache"
         }
     ]
 }

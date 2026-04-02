@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-03-27",
+    "last_updated": "2024-03-29",
     "papers": [
         {
-            "title": "Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II",
-            "innovation": "Analyzes fundamental architectural and technical constraints that collide with the EU AI Act's Article 50 II mandates for dual transparency in AI-generated content, offering critical insights into regulatory compliance challenges for AI engineers.",
-            "benchmarks": "N/A (legal and architectural analysis paper)",
-            "use_case": "Guiding the architectural design and implementation of AI systems to ensure compliance with emerging regulations like the EU AI Act, particularly for generative AI and content labeling, thereby enabling responsible AI deployment.",
-            "url": "https://arxiv.org/abs/2603.26983"
+            "title": "Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures",
+            "innovation": "Demonstrates that self-organizing LLM agents, without externally imposed hierarchies or roles, can significantly outperform systems with designed structures. This highlights the potential of emergent coordination for enhanced autonomy and performance in multi-agent LLM systems.",
+            "benchmarks": "A large-scale computational experiment involving 25,000 tasks, 8 models, 4-256 agents, and 8 distinct coordination protocols (ranging from imposed hierarchy to self-organization).",
+            "use_case": "Designing more efficient, scalable, and robust multi-agent LLM systems for complex tasks; optimizing agent coordination and interaction strategies to leverage emergent behavior rather than prescriptive roles.",
+            "url": "https://arxiv.org/abs/2603.28990"
         },
         {
-            "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
-            "innovation": "Provides a comprehensive systematic survey and categorization of existing methods for incorporating uncertainty into Explainable AI (XAI) pipelines. It synthesizes approaches like Bayesian and Monte Carlo for UAXAI and their evaluation, offering a structured overview for practitioners.",
-            "benchmarks": "N/A (survey paper)",
-            "use_case": "For AI engineers implementing XAI, this paper serves as a vital guide to selecting and evaluating appropriate uncertainty-aware explanation methods, enhancing the trustworthiness, reliability, and robustness of AI systems, especially in high-stakes applications.",
-            "url": "https://arxiv.org/abs/2603.26838"
+            "title": "Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild",
+            "innovation": "Addresses critical shortcomings in existing AI agent evaluation practices, proposing methodologies for robust, transparent, and contextually aligned evaluation of agents, particularly those operating in complex, real-world (web) environments.",
+            "benchmarks": "Focuses on developing better evaluation practices rather than a single benchmark, aiming for consistent and transparent assessment of agents' reliability and performance in unconstrained settings.",
+            "use_case": "Improving the reliability, safety, and trustworthiness of deployed AI agents; establishing standardized and effective evaluation protocols for autonomous agents in production, especially for web-based or real-world tasks.",
+            "url": "https://arxiv.org/abs/2603.29020"
         },
         {
-            "title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
-            "innovation": "Introduces a neuro-symbolic approach for predictive process monitoring that inherently considers and enforces compliance rules. This method combines data-driven learning with symbolic domain knowledge to create models that are not only predictive but also compliant and interpretable.",
-            "benchmarks": "Implied improvements in compliance adherence, robustness, and potentially enhanced predictive accuracy and interpretability, particularly in scenarios where explicit process rules or regulations apply.",
-            "use_case": "Developing predictive AI systems for domains with strict regulatory or operational compliance requirements, such as fraud detection, healthcare monitoring, and business process management, where logical rules must be followed and verified.",
-            "url": "https://arxiv.org/abs/2603.26948"
+            "title": "PAR$^2$-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering",
+            "innovation": "Introduces PAR$^2$-RAG, a novel approach that uses 'planned active retrieval and reasoning' to significantly improve Large Language Models' (LLMs) performance on multi-hop question answering (MHQA) tasks. It specifically addresses issues of early low-recall trajectories and error amplification common in iterative retrieval systems.",
+            "benchmarks": "Designed to enhance performance on challenging multi-hop question answering datasets, aiming to overcome limitations of existing retrieval-augmented generation (RAG) methods.",
+            "use_case": "Enhancing the accuracy and robustness of Retrieval-Augmented Generation (RAG) systems; developing more reliable LLM-based knowledge retrieval and synthesis applications for complex information extraction and multi-hop reasoning.",
+            "url": "https://arxiv.org/abs/2603.29085"
         }
     ]
 }
