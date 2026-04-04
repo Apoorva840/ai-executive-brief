@@ -1,137 +1,137 @@
 [
   {
-    "title": "Webscraper: Leverage Multimodal Large Language Models for Index-Content Web Scraping",
-    "summary": "arXiv:2603.29161v1 Announce Type: new Abstract: Modern web scraping struggles with dynamic, interactive websites that require more than static HTML parsing. Current methods are often brittle and require manual customization for each site. To address this, we introduce Webscraper, a framework designed to handle the challenges of modern, dynamic web ",
-    "url": "https://arxiv.org/abs/2603.29161",
+    "title": "Unified Architecture Metamodel of Information Systems Developed by Generative AI",
+    "summary": "arXiv:2604.00171v1 Announce Type: cross Abstract: The rapid development of AI and LLMs has driven new methods of SDLC, in which a large portion of code, technical, and business documentation is generated automatically. However, since there is no single architectural framework that can provide consistent, repeatable transformations across different ",
+    "url": "https://arxiv.org/abs/2604.00171",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "published_at": "2026-04-03T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents",
-    "summary": "arXiv:2603.29231v1 Announce Type: new Abstract: Existing benchmarks measure capability -- whether a model succeeds on a single attempt -- but production deployments require reliability -- consistent success across repeated attempts on tasks of varying duration. We show these properties diverge systematically as task duration grows, and that pass@1 ",
-    "url": "https://arxiv.org/abs/2603.29231",
+    "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
+    "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral health communication. We propose a safety-aware, role-orchestrated multi-agent LLM framework designed to simulate supportive behavioral health dialogue ",
+    "url": "https://arxiv.org/abs/2604.00249",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation",
-    "summary": "arXiv:2603.29902v1 Announce Type: new Abstract: Interleaved text-and-image generation represents a significant frontier for Multimodal Large Language Models (MLLMs), offering a more intuitive way to convey complex information. Current paradigms rely on either image generation or retrieval augmentation, yet they typically treat the two as mutually e",
-    "url": "https://arxiv.org/abs/2603.29902",
+    "title": "Decision-Centric Design for LLM Systems",
+    "summary": "arXiv:2604.00414v1 Announce Type: new Abstract: LLM systems must make control decisions in addition to generating outputs: whether to answer, clarify, retrieve, call tools, repair, or escalate. In many current architectures, these decisions remain implicit within generation, entangling assessment and action in a single model call and making failure",
+    "url": "https://arxiv.org/abs/2604.00414",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "C-TRAIL: A Commonsense World Framework for Trajectory Planning in Autonomous Driving",
-    "summary": "arXiv:2603.29908v1 Announce Type: new Abstract: Trajectory planning for autonomous driving increasingly leverages large language models (LLMs) for commonsense reasoning, yet LLM outputs are inherently unreliable, posing risks in safety-critical applications. We propose C-TRAIL, a framework built on a Commonsense World that couples LLM-derived commo",
-    "url": "https://arxiv.org/abs/2603.29908",
+    "title": "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
+    "summary": "arXiv:2604.00478v2 Announce Type: new Abstract: Large Language Models (LLMs) increasingly prioritize user validation over epistemic accuracy - a phenomenon known as sycophancy. We present The Silicon Mirror, an orchestration framework that dynamically detects user persuasion tactics and adjusts AI behavior to maintain factual integrity. Our archite",
+    "url": "https://arxiv.org/abs/2604.00478",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "The Triadic Cognitive Architecture: Bounding Autonomous Action via Spatio-Temporal and Epistemic Friction",
-    "summary": "arXiv:2603.30031v1 Announce Type: new Abstract: Current autonomous AI agents, driven primarily by Large Language Models (LLMs), operate in a state of cognitive weightlessness: they process information without an intrinsic sense of network topology, temporal pacing, or epistemic limits. Consequently, heuristic agentic loops (e.g., ReAct) can exhibit",
-    "url": "https://arxiv.org/abs/2603.30031",
+    "title": "Does Unification Come at a Cost? Uni-SafeBench: A Safety Benchmark for Unified Multimodal Large Models",
+    "summary": "arXiv:2604.00547v1 Announce Type: new Abstract: Unified Multimodal Large Models (UMLMs) integrate understanding and generation capabilities within a single architecture. While this architectural unification, driven by the deep fusion of multimodal features, enhances model performance, it also introduces important yet underexplored safety challenges",
+    "url": "https://arxiv.org/abs/2604.00547",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "Privacy Guard & Token Parsimony by Prompt and Context Handling and LLM Routing",
-    "summary": "arXiv:2603.28972v1 Announce Type: cross Abstract: The large-scale adoption of Large Language Models (LLMs) forces a trade-off between operational cost (OpEx) and data privacy. Current routing frameworks reduce costs but ignore prompt sensitivity, exposing users and institutions to leakage risks towards third-party cloud providers. We formalise the ",
-    "url": "https://arxiv.org/abs/2603.28972",
+    "title": "BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery",
+    "summary": "arXiv:2604.00550v1 Announce Type: new Abstract: The integration of Large Language Models (LLMs) into life sciences has catalyzed the development of \"AI Scientists.\" However, translating these theoretical capabilities into deployment-ready research environments exposes profound infrastructural vulnerabilities. Current frameworks are bottlenecked by ",
+    "url": "https://arxiv.org/abs/2604.00550",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning",
-    "summary": "arXiv:2603.29025v1 Announce Type: cross Abstract: Large language models systematically fail when a salient surface cue conflicts with an unstated feasibility constraint. We study this through a diagnose-measure-bridge-treat framework. Causal-behavioral analysis of the ``car wash problem'' across six models reveals approximately context-independent ",
-    "url": "https://arxiv.org/abs/2603.29025",
+    "title": "Two-Stage Optimizer-Aware Online Data Selection for Large Language Models",
+    "summary": "arXiv:2604.00001v1 Announce Type: cross Abstract: Gradient-based data selection offers a principled framework for estimating sample utility in large language model (LLM) fine-tuning, but existing methods are mostly designed for offline settings. They are therefore less suited to online fine-tuning, where data arrives sequentially, sample utility is",
+    "url": "https://arxiv.org/abs/2604.00001",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation",
-    "summary": "arXiv:2603.29029v1 Announce Type: cross Abstract: Recent multimodal face generation models address the spatial control limitations of text-to-image diffusion models by augmenting text-based conditioning with spatial priors such as segmentation masks, sketches, or edge maps. This multimodal fusion enables controllable synthesis aligned with both hig",
-    "url": "https://arxiv.org/abs/2603.29029",
+    "title": "Learning to Play Blackjack: A Curriculum Learning Perspective",
+    "summary": "arXiv:2604.00076v2 Announce Type: cross Abstract: Reinforcement Learning (RL) agents often struggle with efficiency and performance in complex environments. We propose a novel framework that uses a Large Language Model (LLM) to dynamically generate a curriculum over available actions, enabling the agent to incorporate each action individually. We a",
+    "url": "https://arxiv.org/abs/2604.00076",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "WybeCoder: Verified Imperative Code Generation",
-    "summary": "arXiv:2603.29088v1 Announce Type: cross Abstract: Recent progress in large language models (LLMs) has advanced automatic code generation and formal theorem proving, yet software verification has not seen the same improvement. To address this gap, we propose WybeCoder, an agentic code verification framework that enables prove-as-you-generate develop",
-    "url": "https://arxiv.org/abs/2603.29088",
+    "title": "QUEST: A robust attention formulation using query-modulated spherical attention",
+    "summary": "arXiv:2604.00199v1 Announce Type: cross Abstract: The Transformer model architecture has become one of the most widely used in deep learning and the attention mechanism is at its core. The standard attention formulation uses a softmax operation applied to a scaled dot product between query and key vectors. We explore the role played by norms of the",
+    "url": "https://arxiv.org/abs/2604.00199",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "Multi-Layered Memory Architectures for LLM Agents: An Experimental Evaluation of Long-Term Context Retention",
-    "summary": "arXiv:2603.29194v1 Announce Type: cross Abstract: Long-horizon dialogue systems suffer from semanticdrift and unstable memory retention across extended sessions. This paper presents a Multi-Layer Memory Framework that decomposes dialogue history into working, episodic, and semantic layers with adaptive retrieval gating and retention regularization.",
-    "url": "https://arxiv.org/abs/2603.29194",
+    "title": "Robust Multimodal Safety via Conditional Decoding",
+    "summary": "arXiv:2604.00310v1 Announce Type: cross Abstract: Multimodal large-language models (MLLMs) often experience degraded safety alignment when harmful queries exploit cross-modal interactions. Models aligned on text alone show a higher rate of successful attacks when extended to two or more modalities. In this work, we propose a simple conditional deco",
+    "url": "https://arxiv.org/abs/2604.00310",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism",
-    "summary": "arXiv:2603.29252v1 Announce Type: cross Abstract: Long video understanding is a key challenge that plagues the advancement of \\emph{Multimodal Large language Models} (MLLMs). In this paper, we study this problem from the perspective of visual memory mechanism, and proposed a novel and training-free approach, termed \\emph{Flexible Memory} (\\textbf{F",
-    "url": "https://arxiv.org/abs/2603.29252",
+    "title": "MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding",
+    "summary": "arXiv:2604.00513v2 Announce Type: cross Abstract: With the rapid growth of e-commerce, exploring general representations rather than task-specific ones has attracted increasing attention. Although recent multimodal large language models (MLLMs) have driven significant progress in product understanding, they are typically employed as feature extract",
+    "url": "https://arxiv.org/abs/2604.00513",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "Adversarial Prompt Injection Attack on Multimodal Large Language Models",
-    "summary": "arXiv:2603.29418v1 Announce Type: cross Abstract: Although multimodal large language models (MLLMs) are increasingly deployed in real-world applications, their instruction-following behavior leaves them vulnerable to prompt injection attacks. Existing prompt injection methods predominantly rely on textual prompts or perceptible visual prompts that ",
-    "url": "https://arxiv.org/abs/2603.29418",
+    "title": "KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection",
+    "summary": "arXiv:2604.00878v1 Announce Type: cross Abstract: Actor-level stance detection aims to determine an author expressed position toward specific geopolitical actors mentioned or implicated in a text. Although transformer-based models have achieved relatively good performance in stance classification, they typically rely on unified representations that",
+    "url": "https://arxiv.org/abs/2604.00878",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "MemFactory: Unified Inference & Training Framework for Agent Memory",
-    "summary": "arXiv:2603.29493v1 Announce Type: cross Abstract: Memory-augmented Large Language Models (LLMs) are essential for developing capable, long-term AI agents. Recently, applying Reinforcement Learning (RL) to optimize memory operations, such as extraction, updating, and retrieval, has emerged as a highly promising research direction. However, existing ",
-    "url": "https://arxiv.org/abs/2603.29493",
+    "title": "Dual Optimal: Make Your LLM Peer-like with Dignity",
+    "summary": "arXiv:2604.00979v2 Announce Type: cross Abstract: Current aligned language models exhibit a dual failure mode we term the Evasive Servant: they sycophantically validate flawed user beliefs while deflecting responsibility with boilerplate disclaimers. We propose the Dignified Peer framework, which counters servility with anti-sycophancy and trustwor",
+    "url": "https://arxiv.org/abs/2604.00979",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "An Empirical Study of Multi-Agent Collaboration for Automated Research",
-    "summary": "arXiv:2603.29632v1 Announce Type: cross Abstract: As AI agents evolve, the community is rapidly shifting from single Large Language Models (LLMs) to Multi-Agent Systems (MAS) to overcome cognitive bottlenecks in automated research. However, the optimal multi-agent coordination framework for these autonomous agents remains largely unexplored. In thi",
-    "url": "https://arxiv.org/abs/2603.29632",
+    "title": "Query-Conditioned Evidential Keyframe Sampling for MLLM-Based Long-Form Video Understanding",
+    "summary": "arXiv:2604.01002v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have shown strong performance on video question answering, but their application to long-form videos is constrained by limited context length and computational cost, making keyframe sampling essential. Existing approaches typically rely on semantic relevance ",
+    "url": "https://arxiv.org/abs/2604.01002",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   },
   {
-    "title": "Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models",
-    "summary": "arXiv:2603.30022v1 Announce Type: cross Abstract: This paper introduces a new hybrid framework that combines Reinforcement Learning (RL) and Large Language Models (LLMs) to improve robotic manipulation tasks. By utilizing RL for accurate low-level control and LLMs for high level task planning and understanding of natural language, the proposed fram",
-    "url": "https://arxiv.org/abs/2603.30022",
+    "title": "Automated Framework to Evaluate and Harden LLM System Instructions against Encoding Attacks",
+    "summary": "arXiv:2604.01039v1 Announce Type: cross Abstract: System Instructions in Large Language Models (LLMs) are commonly used to enforce safety policies, define agent behavior, and protect sensitive operational context in agentic AI applications. These instructions may contain sensitive information such as API credentials, internal policies, and privileg",
+    "url": "https://arxiv.org/abs/2604.01039",
     "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
+    "published_at": "2026-04-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
+    "archived_at": "2026-04-04T03:25:46.863966+00:00"
   }
 ]

@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 02, 2026",
+    "last_updated": "April 04, 2026",
     "tools": [
         {
-            "Name": "VideoLingo",
-            "Category": "Video Processing & Translation",
-            "Description": "An all-in-one AI video localization platform that automates subtitle cutting, translation, alignment, and dubbing.",
-            "Use_Case": "Creating Netflix-quality multilingual subtitles and dubbing for videos, enabling global knowledge sharing.",
-            "URL": "https://github.com/Huanshere/VideoLingo"
+            "Name": "Onyx",
+            "Category": "AI Platform",
+            "Description": "An open-source application layer for LLMs featuring RAG, deep research, web search, code execution, and custom agent orchestration.",
+            "Use_Case": "Enterprise-grade AI deployment, custom agent development, and RAG-based information retrieval.",
+            "URL": "https://github.com/onyx-dot-app/onyx"
         },
         {
             "Name": "Skill Seekers",
-            "Category": "Knowledge Management",
-            "Description": "A universal data preprocessing layer that converts documentation, codebases, PDFs, and videos into structured assets for AI agents and RAG pipelines.",
-            "Use_Case": "Preparing context for AI coding assistants (Cursor, Windsurf) and building RAG pipelines (LangChain, LlamaIndex) in minutes.",
+            "Category": "AI Development",
+            "Description": "A universal data layer that converts diverse documentation sources (GitHub, PDFs, etc.) into structured knowledge assets for AI skills, RAG, and coding assistants.",
+            "Use_Case": "Preprocessing and preparing documentation to act as specialized skills for LLMs like Claude or for use in RAG pipelines.",
             "URL": "https://github.com/yusufkaraaslan/Skill_Seekers"
         },
         {
-            "Name": "LMCache",
-            "Category": "LLM Serving Infrastructure",
-            "Description": "A high-performance KV cache serving extension that offloads and shares KV caches across CPU, Disk, and S3.",
-            "Use_Case": "Reducing time-to-first-token (TTFT) and increasing throughput for long-context LLM applications like RAG and multi-round chat.",
-            "URL": "https://github.com/LMCache/LMCache"
+            "Name": "PraisonAI",
+            "Category": "Multi-Agent Framework",
+            "Description": "A low-code, production-ready multi-agent framework that automates complex tasks through orchestrated agent teams.",
+            "Use_Case": "Automating complex business processes, research, content creation, and delivering results to communication platforms like Discord or Telegram.",
+            "URL": "https://github.com/MervinPraison/PraisonAI"
         }
     ]
 }

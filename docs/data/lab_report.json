@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-03-29",
+    "last_updated": "2024-04-26",
     "papers": [
         {
-            "title": "Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures",
-            "innovation": "Demonstrates that self-organizing LLM agents, without externally imposed hierarchies or roles, can significantly outperform systems with designed structures. This highlights the potential of emergent coordination for enhanced autonomy and performance in multi-agent LLM systems.",
-            "benchmarks": "A large-scale computational experiment involving 25,000 tasks, 8 models, 4-256 agents, and 8 distinct coordination protocols (ranging from imposed hierarchy to self-organization).",
-            "use_case": "Designing more efficient, scalable, and robust multi-agent LLM systems for complex tasks; optimizing agent coordination and interaction strategies to leverage emergent behavior rather than prescriptive roles.",
-            "url": "https://arxiv.org/abs/2603.28990"
+            "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
+            "innovation": "Proposes a framework for improving the reliability of tool-integrated LLMs by disentangling failures stemming from 'tool-use accuracy' (agent's invocation) and 'intrinsic tool accuracy' (tool's correctness), addressing a key bottleneck in practical agent development.",
+            "benchmarks": "Not explicitly mentioned in the abstract.",
+            "use_case": "Designing, building, and deploying robust and reliable AI agents that interact with external tools for diverse tasks like data retrieval, computation, and real-world actions.",
+            "url": "https://arxiv.org/abs/2604.00137"
         },
         {
-            "title": "Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild",
-            "innovation": "Addresses critical shortcomings in existing AI agent evaluation practices, proposing methodologies for robust, transparent, and contextually aligned evaluation of agents, particularly those operating in complex, real-world (web) environments.",
-            "benchmarks": "Focuses on developing better evaluation practices rather than a single benchmark, aiming for consistent and transparent assessment of agents' reliability and performance in unconstrained settings.",
-            "use_case": "Improving the reliability, safety, and trustworthiness of deployed AI agents; establishing standardized and effective evaluation protocols for autonomous agents in production, especially for web-based or real-world tasks.",
-            "url": "https://arxiv.org/abs/2603.29020"
+            "title": "Decision-Centric Design for LLM Systems",
+            "innovation": "Advocates for a fundamental architectural shift where control decisions (e.g., answer, clarify, retrieve, call tools, repair, escalate) are explicitly designed and separated from text generation, leading to more transparent, robust, and debuggable LLM systems.",
+            "benchmarks": "Not explicitly mentioned in the abstract.",
+            "use_case": "Architecting and developing complex LLM applications that require intelligent control flow, explicit decision-making capabilities, and improved failure mode tractability, rather than implicit decision-making within generation.",
+            "url": "https://arxiv.org/abs/2604.00414"
         },
         {
-            "title": "PAR$^2$-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering",
-            "innovation": "Introduces PAR$^2$-RAG, a novel approach that uses 'planned active retrieval and reasoning' to significantly improve Large Language Models' (LLMs) performance on multi-hop question answering (MHQA) tasks. It specifically addresses issues of early low-recall trajectories and error amplification common in iterative retrieval systems.",
-            "benchmarks": "Designed to enhance performance on challenging multi-hop question answering datasets, aiming to overcome limitations of existing retrieval-augmented generation (RAG) methods.",
-            "use_case": "Enhancing the accuracy and robustness of Retrieval-Augmented Generation (RAG) systems; developing more reliable LLM-based knowledge retrieval and synthesis applications for complex information extraction and multi-hop reasoning.",
-            "url": "https://arxiv.org/abs/2603.29085"
+            "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+            "innovation": "Introduces a methodology called 'Signals' for effectively analyzing and improving multi-step agentic applications post-deployment. This involves sampling and triaging voluminous agent trajectories to understand system behavior and identify areas for improvement.",
+            "benchmarks": "Not explicitly mentioned in the abstract.",
+            "use_case": "Debugging, monitoring, and iteratively improving deployed large language model-based agentic applications by providing insights into their multi-step interaction loops, planning, action execution, and environment feedback.",
+            "url": "https://arxiv.org/abs/2604.00356"
         }
     ]
 }
