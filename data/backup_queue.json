@@ -1,137 +1,38 @@
 [
   {
-    "title": "Unified Architecture Metamodel of Information Systems Developed by Generative AI",
-    "summary": "arXiv:2604.00171v1 Announce Type: cross Abstract: The rapid development of AI and LLMs has driven new methods of SDLC, in which a large portion of code, technical, and business documentation is generated automatically. However, since there is no single architectural framework that can provide consistent, repeatable transformations across different ",
-    "url": "https://arxiv.org/abs/2604.00171",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
+    "title": "Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind",
+    "summary": "Netflix has open-sourced an AI framework that can remove objects from videos and automatically adjusts the physical effects those objects had on the rest of the scene. The article Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind appeared first on The Decoder.",
+    "url": "https://the-decoder.com/netflix-open-sources-void-an-ai-framework-that-erases-video-objects-and-rewrites-the-physics-they-left-behind/",
+    "source": "The Decoder",
+    "published_at": "2026-04-04T11:14:54+00:00",
+    "score": 6,
+    "archived_at": "2026-04-05T03:47:57.342379+00:00"
   },
   {
-    "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
-    "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral health communication. We propose a safety-aware, role-orchestrated multi-agent LLM framework designed to simulate supportive behavioral health dialogue ",
-    "url": "https://arxiv.org/abs/2604.00249",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
+    "title": "OpenAI reshuffles leadership as health issues force key executives to step back",
+    "summary": "Three executives are stepping back at OpenAI, two for health reasons. President Greg Brockman steps in to fill part of the gap. The article OpenAI reshuffles leadership as health issues force key executives to step back appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-reshuffles-leadership-as-health-issues-force-key-executives-to-step-back/",
+    "source": "The Decoder",
+    "published_at": "2026-04-04T09:04:03+00:00",
+    "score": 6,
+    "archived_at": "2026-04-05T03:47:57.342379+00:00"
   },
   {
-    "title": "Decision-Centric Design for LLM Systems",
-    "summary": "arXiv:2604.00414v1 Announce Type: new Abstract: LLM systems must make control decisions in addition to generating outputs: whether to answer, clarify, retrieve, call tools, repair, or escalate. In many current architectures, these decisions remain implicit within generation, entangling assessment and action in a single model call and making failure",
-    "url": "https://arxiv.org/abs/2604.00414",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
+    "title": "Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees",
+    "summary": "Anthropic is paying 400 million dollars for an eight-month-old biotech startup with fewer than ten employees. The investor walks away with a 38,513 percent return. The article Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-drops-400-million-in-shares-on-an-eight-month-old-ai-pharma-startup-with-fewer-than-ten-employees/",
+    "source": "The Decoder",
+    "published_at": "2026-04-04T08:24:56+00:00",
+    "score": 6,
+    "archived_at": "2026-04-05T03:47:57.342379+00:00"
   },
   {
-    "title": "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
-    "summary": "arXiv:2604.00478v2 Announce Type: new Abstract: Large Language Models (LLMs) increasingly prioritize user validation over epistemic accuracy - a phenomenon known as sycophancy. We present The Silicon Mirror, an orchestration framework that dynamically detects user persuasion tactics and adjusts AI behavior to maintain factual integrity. Our archite",
-    "url": "https://arxiv.org/abs/2604.00478",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "Does Unification Come at a Cost? Uni-SafeBench: A Safety Benchmark for Unified Multimodal Large Models",
-    "summary": "arXiv:2604.00547v1 Announce Type: new Abstract: Unified Multimodal Large Models (UMLMs) integrate understanding and generation capabilities within a single architecture. While this architectural unification, driven by the deep fusion of multimodal features, enhances model performance, it also introduces important yet underexplored safety challenges",
-    "url": "https://arxiv.org/abs/2604.00547",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery",
-    "summary": "arXiv:2604.00550v1 Announce Type: new Abstract: The integration of Large Language Models (LLMs) into life sciences has catalyzed the development of \"AI Scientists.\" However, translating these theoretical capabilities into deployment-ready research environments exposes profound infrastructural vulnerabilities. Current frameworks are bottlenecked by ",
-    "url": "https://arxiv.org/abs/2604.00550",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "Two-Stage Optimizer-Aware Online Data Selection for Large Language Models",
-    "summary": "arXiv:2604.00001v1 Announce Type: cross Abstract: Gradient-based data selection offers a principled framework for estimating sample utility in large language model (LLM) fine-tuning, but existing methods are mostly designed for offline settings. They are therefore less suited to online fine-tuning, where data arrives sequentially, sample utility is",
-    "url": "https://arxiv.org/abs/2604.00001",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "Learning to Play Blackjack: A Curriculum Learning Perspective",
-    "summary": "arXiv:2604.00076v2 Announce Type: cross Abstract: Reinforcement Learning (RL) agents often struggle with efficiency and performance in complex environments. We propose a novel framework that uses a Large Language Model (LLM) to dynamically generate a curriculum over available actions, enabling the agent to incorporate each action individually. We a",
-    "url": "https://arxiv.org/abs/2604.00076",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "QUEST: A robust attention formulation using query-modulated spherical attention",
-    "summary": "arXiv:2604.00199v1 Announce Type: cross Abstract: The Transformer model architecture has become one of the most widely used in deep learning and the attention mechanism is at its core. The standard attention formulation uses a softmax operation applied to a scaled dot product between query and key vectors. We explore the role played by norms of the",
-    "url": "https://arxiv.org/abs/2604.00199",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "Robust Multimodal Safety via Conditional Decoding",
-    "summary": "arXiv:2604.00310v1 Announce Type: cross Abstract: Multimodal large-language models (MLLMs) often experience degraded safety alignment when harmful queries exploit cross-modal interactions. Models aligned on text alone show a higher rate of successful attacks when extended to two or more modalities. In this work, we propose a simple conditional deco",
-    "url": "https://arxiv.org/abs/2604.00310",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding",
-    "summary": "arXiv:2604.00513v2 Announce Type: cross Abstract: With the rapid growth of e-commerce, exploring general representations rather than task-specific ones has attracted increasing attention. Although recent multimodal large language models (MLLMs) have driven significant progress in product understanding, they are typically employed as feature extract",
-    "url": "https://arxiv.org/abs/2604.00513",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection",
-    "summary": "arXiv:2604.00878v1 Announce Type: cross Abstract: Actor-level stance detection aims to determine an author expressed position toward specific geopolitical actors mentioned or implicated in a text. Although transformer-based models have achieved relatively good performance in stance classification, they typically rely on unified representations that",
-    "url": "https://arxiv.org/abs/2604.00878",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "Dual Optimal: Make Your LLM Peer-like with Dignity",
-    "summary": "arXiv:2604.00979v2 Announce Type: cross Abstract: Current aligned language models exhibit a dual failure mode we term the Evasive Servant: they sycophantically validate flawed user beliefs while deflecting responsibility with boilerplate disclaimers. We propose the Dignified Peer framework, which counters servility with anti-sycophancy and trustwor",
-    "url": "https://arxiv.org/abs/2604.00979",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "Query-Conditioned Evidential Keyframe Sampling for MLLM-Based Long-Form Video Understanding",
-    "summary": "arXiv:2604.01002v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have shown strong performance on video question answering, but their application to long-form videos is constrained by limited context length and computational cost, making keyframe sampling essential. Existing approaches typically rely on semantic relevance ",
-    "url": "https://arxiv.org/abs/2604.01002",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
-  },
-  {
-    "title": "Automated Framework to Evaluate and Harden LLM System Instructions against Encoding Attacks",
-    "summary": "arXiv:2604.01039v1 Announce Type: cross Abstract: System Instructions in Large Language Models (LLMs) are commonly used to enforce safety policies, define agent behavior, and protect sensitive operational context in agentic AI applications. These instructions may contain sensitive information such as API credentials, internal policies, and privileg",
-    "url": "https://arxiv.org/abs/2604.01039",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-03T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-04T03:25:46.863966+00:00"
+    "title": "Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand",
+    "summary": "Anthropic is cutting off Claude usage through external tools like OpenClaw for subscription customers. The decision exposes a core problem in the AI industry: flat-rate pricing and agent-driven nonstop usage don't mix. The article Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand appeared first o",
+    "url": "https://the-decoder.com/anthropic-cuts-off-third-party-tools-like-openclaw-for-claude-subscribers-citing-unsustainable-demand/",
+    "source": "The Decoder",
+    "published_at": "2026-04-04T08:00:03+00:00",
+    "score": 6,
+    "archived_at": "2026-04-05T03:47:57.342379+00:00"
   }
 ]

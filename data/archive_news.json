@@ -1,5 +1,41 @@
 [
   {
+    "title": "Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind",
+    "summary": "Netflix has open-sourced an AI framework that can remove objects from videos and automatically adjusts the physical effects those objects had on the rest of the scene. The article Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind appeared first on The Decoder.",
+    "url": "https://the-decoder.com/netflix-open-sources-void-an-ai-framework-that-erases-video-objects-and-rewrites-the-physics-they-left-behind/",
+    "source": "The Decoder",
+    "published_at": "2026-04-04T11:14:54+00:00",
+    "score": 6,
+    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+  },
+  {
+    "title": "OpenAI reshuffles leadership as health issues force key executives to step back",
+    "summary": "Three executives are stepping back at OpenAI, two for health reasons. President Greg Brockman steps in to fill part of the gap. The article OpenAI reshuffles leadership as health issues force key executives to step back appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-reshuffles-leadership-as-health-issues-force-key-executives-to-step-back/",
+    "source": "The Decoder",
+    "published_at": "2026-04-04T09:04:03+00:00",
+    "score": 6,
+    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+  },
+  {
+    "title": "Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees",
+    "summary": "Anthropic is paying 400 million dollars for an eight-month-old biotech startup with fewer than ten employees. The investor walks away with a 38,513 percent return. The article Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-drops-400-million-in-shares-on-an-eight-month-old-ai-pharma-startup-with-fewer-than-ten-employees/",
+    "source": "The Decoder",
+    "published_at": "2026-04-04T08:24:56+00:00",
+    "score": 6,
+    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+  },
+  {
+    "title": "Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand",
+    "summary": "Anthropic is cutting off Claude usage through external tools like OpenClaw for subscription customers. The decision exposes a core problem in the AI industry: flat-rate pricing and agent-driven nonstop usage don't mix. The article Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand appeared first o",
+    "url": "https://the-decoder.com/anthropic-cuts-off-third-party-tools-like-openclaw-for-claude-subscribers-citing-unsustainable-demand/",
+    "source": "The Decoder",
+    "published_at": "2026-04-04T08:00:03+00:00",
+    "score": 6,
+    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+  },
+  {
     "title": "Unified Architecture Metamodel of Information Systems Developed by Generative AI",
     "summary": "arXiv:2604.00171v1 Announce Type: cross Abstract: The rapid development of AI and LLMs has driven new methods of SDLC, in which a large portion of code, technical, and business documentation is generated automatically. However, since there is no single architectural framework that can provide consistent, repeatable transformations across different ",
     "url": "https://arxiv.org/abs/2604.00171",
@@ -2658,42 +2694,6 @@
     "title": "Arbiter: Detecting Interference in LLM Agent System Prompts",
     "summary": "arXiv:2603.08993v1 Announce Type: cross Abstract: System prompts for LLM-based coding agents are software artifacts that govern agent behavior, yet lack the testing infrastructure applied to conventional software. We present Arbiter, a framework combining formal evaluation rules with multi-model LLM scouring to detect interference patterns in syste",
     "url": "https://arxiv.org/abs/2603.08993",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-11T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-11T11:50:35.586098+00:00"
-  },
-  {
-    "title": "Reviving ConvNeXt for Efficient Convolutional Diffusion Models",
-    "summary": "arXiv:2603.09408v1 Announce Type: cross Abstract: Recent diffusion models increasingly favor Transformer backbones, motivated by the remarkable scalability of fully attentional architectures. Yet the locality bias, parameter efficiency, and hardware friendliness--the attributes that established ConvNets as the efficient vision backbone--have seen l",
-    "url": "https://arxiv.org/abs/2603.09408",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-11T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-11T11:50:35.586098+00:00"
-  },
-  {
-    "title": "Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers",
-    "summary": "arXiv:2603.09453v1 Announce Type: cross Abstract: Foundation models are increasingly being deployed in contexts where understanding the uncertainty of their outputs is critical to ensuring responsible deployment. While Bayesian methods offer a principled approach to uncertainty quantification, their computational overhead renders their use impracti",
-    "url": "https://arxiv.org/abs/2603.09453",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-11T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-11T11:50:35.586098+00:00"
-  },
-  {
-    "title": "EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning",
-    "summary": "arXiv:2603.09731v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) are increasingly considered as a foundation for embodied agents, yet it remains unclear whether they can reliably reason about the long-term physical consequences of actions from an egocentric viewpoint. We study this gap through a new task, Egocentric Scene ",
-    "url": "https://arxiv.org/abs/2603.09731",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-11T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-11T11:50:35.586098+00:00"
-  },
-  {
-    "title": "Correction of Transformer-Based Models with Smoothing Pseudo-Projector",
-    "summary": "arXiv:2603.09815v1 Announce Type: cross Abstract: The pseudo-projector is a lightweight modification that can be integrated into existing language models and other neural networks without altering their core architecture. It can be viewed as a hidden-representation corrector that reduces sensitivity to noise by suppressing directions induced by lab",
-    "url": "https://arxiv.org/abs/2603.09815",
     "source": "Arxiv AI",
     "published_at": "2026-03-11T04:00:00+00:00",
     "score": 7,
