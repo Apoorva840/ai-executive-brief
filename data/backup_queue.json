@@ -1,38 +1,38 @@
 [
   {
-    "title": "Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind",
-    "summary": "Netflix has open-sourced an AI framework that can remove objects from videos and automatically adjusts the physical effects those objects had on the rest of the scene. The article Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind appeared first on The Decoder.",
-    "url": "https://the-decoder.com/netflix-open-sources-void-an-ai-framework-that-erases-video-objects-and-rewrites-the-physics-they-left-behind/",
+    "title": "The New York Times drops freelancer whose AI tool copied from an existing book review",
+    "summary": "AI tools can speed up journalism until they backfire. Two recent cases show what happens when writers don't understand how their AI tools work: copied passages and made-up quotes. The article The New York Times drops freelancer whose AI tool copied from an existing book review appeared first on The Decoder.",
+    "url": "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/",
     "source": "The Decoder",
-    "published_at": "2026-04-04T11:14:54+00:00",
+    "published_at": "2026-04-05T15:11:08+00:00",
     "score": 6,
-    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+    "archived_at": "2026-04-06T03:50:33.209439+00:00"
   },
   {
-    "title": "OpenAI reshuffles leadership as health issues force key executives to step back",
-    "summary": "Three executives are stepping back at OpenAI, two for health reasons. President Greg Brockman steps in to fill part of the gap. The article OpenAI reshuffles leadership as health issues force key executives to step back appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-reshuffles-leadership-as-health-issues-force-key-executives-to-step-back/",
+    "title": "Study maps developer frustration over \"AI slop\" as a \"tragedy of the commons\" in software development",
+    "summary": "A qualitative study looks at how developers perceive and push back against low-quality AI content, or \"slop,\" in software development. The critics describe a \"tragedy of the commons\" where individual productivity gains come at the cost of reviewers and the open-source community. The article Study maps developer frustration over &quot;AI slop&quot; ",
+    "url": "https://the-decoder.com/study-maps-developer-frustration-over-ai-slop-as-a-tragedy-of-the-commons-in-software-development/",
     "source": "The Decoder",
-    "published_at": "2026-04-04T09:04:03+00:00",
+    "published_at": "2026-04-05T10:55:18+00:00",
     "score": 6,
-    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+    "archived_at": "2026-04-06T03:50:33.209439+00:00"
   },
   {
-    "title": "Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees",
-    "summary": "Anthropic is paying 400 million dollars for an eight-month-old biotech startup with fewer than ten employees. The investor walks away with a 38,513 percent return. The article Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropic-drops-400-million-in-shares-on-an-eight-month-old-ai-pharma-startup-with-fewer-than-ten-employees/",
+    "title": "AI benchmarks systematically ignore how humans disagree, Google study finds",
+    "summary": "A Google study finds that the standard three to five human raters per test example often aren't enough for reliable AI benchmarks, and that splitting your annotation budget the right way matters just as much as the budget itself. The article AI benchmarks systematically ignore how humans disagree, Google study finds appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ai-benchmarks-systematically-ignore-how-humans-disagree-google-study-finds/",
     "source": "The Decoder",
-    "published_at": "2026-04-04T08:24:56+00:00",
+    "published_at": "2026-04-05T08:31:45+00:00",
     "score": 6,
-    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+    "archived_at": "2026-04-06T03:50:33.209439+00:00"
   },
   {
-    "title": "Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand",
-    "summary": "Anthropic is cutting off Claude usage through external tools like OpenClaw for subscription customers. The decision exposes a core problem in the AI industry: flat-rate pricing and agent-driven nonstop usage don't mix. The article Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand appeared first o",
-    "url": "https://the-decoder.com/anthropic-cuts-off-third-party-tools-like-openclaw-for-claude-subscribers-citing-unsustainable-demand/",
+    "title": "AI chatbot traffic grows seven times faster than social media but still trails by a factor of four",
+    "summary": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user behavior. The article AI chatbot traffic grows seven times faster than social media but still trails by a factor of four appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/",
     "source": "The Decoder",
-    "published_at": "2026-04-04T08:00:03+00:00",
+    "published_at": "2026-04-05T07:27:57+00:00",
     "score": 6,
-    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+    "archived_at": "2026-04-06T03:50:33.209439+00:00"
   }
 ]

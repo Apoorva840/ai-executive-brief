@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 05, 2026",
+    "last_updated": "April 06, 2026",
     "tools": [
         {
-            "Name": "LightRAG",
-            "Category": "Retrieval-Augmented Generation",
-            "Description": "A simple and fast framework for Retrieval-Augmented Generation (RAG) that uses graph-based retrieval to outperform traditional naive RAG systems.",
-            "Use_Case": "Improving query results and comprehensiveness in RAG applications by leveraging knowledge graphs.",
-            "URL": "https://github.com/HKUDS/LightRAG"
+            "Name": "MLX-VLM",
+            "Category": "Machine Learning / AI Tools",
+            "Description": "A package for inference and fine-tuning of Vision Language Models (VLMs) and Omni Models (with audio/video) locally on Mac hardware.",
+            "Use_Case": "Running multimodal AI (vision, audio, text) directly on Apple Silicon with hardware acceleration.",
+            "URL": "https://github.com/Blaizzy/mlx-vlm"
         },
         {
-            "Name": "mlx-lm",
-            "Category": "Machine Learning / LLMs",
-            "Description": "A Python package designed for efficient text generation and fine-tuning of large language models (LLMs) specifically for Apple silicon using MLX.",
-            "Use_Case": "Running, fine-tuning, and quantizing LLMs locally on macOS devices with high performance.",
-            "URL": "https://github.com/ml-explore/mlx-lm"
+            "Name": "Onyx",
+            "Category": "AI Platform / Agent Framework",
+            "Description": "An open-source AI platform serving as an application layer for LLMs with advanced capabilities like RAG, web search, code execution, and deep research.",
+            "Use_Case": "Deploying a full-featured, self-hosted AI agentic interface that supports multiple LLM backends and enterprise-grade features.",
+            "URL": "https://github.com/onyx-dot-app/onyx"
         },
         {
-            "Name": "mngr",
-            "Category": "AI Agent Management",
-            "Description": "A Unix-style CLI tool for creating, managing, and orchestrating multiple AI agents across local hosts, containers, and cloud environments.",
-            "Use_Case": "Scaling and managing coding agents in parallel, simplifying the developer workflow for agentic tasks.",
-            "URL": "https://github.com/imbue-ai/mngr"
+            "Name": "RAG-Anything",
+            "Category": "RAG / Document Processing",
+            "Description": "An all-in-one multimodal RAG system capable of processing text, images, tables, equations, and diverse file formats seamlessly.",
+            "Use_Case": "Extracting information and building knowledge bases from complex documents that contain non-textual elements like charts and formulas.",
+            "URL": "https://github.com/HKUDS/RAG-Anything"
         }
     ]
 }
