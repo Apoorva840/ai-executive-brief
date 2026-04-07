@@ -1,45 +1,42 @@
 [
   {
-    "title": "AI offensive cyber capabilities are doubling every six months, safety researchers find",
-    "summary": "AI models are rapidly improving at exploiting security vulnerabilities. According to a new study, their offensive cyber capability has been doubling every 5.7 months since 2024, with Opus 4.6 and GPT-5.3 Codex now solving tasks that take human experts about three hours. The article AI offensive cyber capabilities are doubling every six months, safe",
-    "url": "https://the-decoder.com/ai-offensive-cyber-capabilities-are-doubling-every-six-months-safety-researchers-find/",
-    "source": "The Decoder",
-    "published_at": "2026-04-05T09:08:22+00:00",
-    "score": 7
+    "title": "A Multimodal Vision Transformer-based Modeling Framework for Prediction of Fluid Flows in Energy Systems",
+    "summary": "arXiv:2604.02483v1 Announce Type: cross Abstract: Computational fluid dynamics (CFD) simulations of complex fluid flows in energy systems are prohibitively expensive due to strong nonlinearities and multiscale-multiphysics interactions. In this work, we present a transformer-based modeling framework for prediction of fluid flows, and demonstrate it",
+    "url": "https://arxiv.org/abs/2604.02483",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 8
   },
   {
-    "title": "Alibaba's Qwen team makes AI models think deeper with new algorithm",
-    "summary": "Reinforcement learning hits a wall with reasoning models because every token gets the same reward. A new algorithm from Alibaba's Qwen team fixes this by weighting each step based on how much it shapes what comes next, doubling the length of thought processes in the process. The article Alibaba&#039;s Qwen team makes AI models think deeper with new",
-    "url": "https://the-decoder.com/alibabas-qwen-team-makes-ai-models-think-deeper-with-new-algorithm/",
+    "title": "Alibaba's Qwen team built HopChain to fix how AI vision models fall apart during multi-step reasoning",
+    "summary": "When AI models reason about images, small perceptual errors compound across multiple steps and produce wrong answers. Alibaba's HopChain framework tackles this by generating multi-stage image questions that break complex problems into linked individual steps, forcing models to verify each visual detail before drawing conclusions. The approach impro",
+    "url": "https://the-decoder.com/alibabas-qwen-team-built-hopchain-to-fix-how-ai-vision-models-fall-apart-during-multi-step-reasoning/",
     "source": "The Decoder",
-    "published_at": "2026-04-05T06:30:37+00:00",
-    "score": 7
+    "published_at": "2026-04-06T07:33:51+00:00",
+    "score": 8
   },
   {
-    "title": "Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind",
-    "summary": "Netflix has open-sourced an AI framework that can remove objects from videos and automatically adjusts the physical effects those objects had on the rest of the scene. The article Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind appeared first on The Decoder.",
-    "url": "https://the-decoder.com/netflix-open-sources-void-an-ai-framework-that-erases-video-objects-and-rewrites-the-physics-they-left-behind/",
+    "title": "OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes",
+    "summary": "\"My vibes don't really fit.\" In a new New Yorker profile based on over 100 interviews, Sam Altman explains why safety researchers keep leaving OpenAI and why shifting commitments others might call deception are just part of the job. The article OpenAI&#039;s safety brain drain finally gets an explanation and it&#039;s just Sam Altman&#039;s vibes a",
+    "url": "https://the-decoder.com/openais-safety-brain-drain-finally-gets-an-explanation-and-its-just-sam-altmans-vibes/",
     "source": "The Decoder",
-    "published_at": "2026-04-04T11:14:54+00:00",
-    "score": 6,
-    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+    "published_at": "2026-04-06T18:03:43+00:00",
+    "score": 6
   },
   {
-    "title": "OpenAI reshuffles leadership as health issues force key executives to step back",
-    "summary": "Three executives are stepping back at OpenAI, two for health reasons. President Greg Brockman steps in to fill part of the gap. The article OpenAI reshuffles leadership as health issues force key executives to step back appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-reshuffles-leadership-as-health-issues-force-key-executives-to-step-back/",
-    "source": "The Decoder",
-    "published_at": "2026-04-04T09:04:03+00:00",
-    "score": 6,
-    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+    "title": "As AI agents take on more tasks, governance becomes a priority",
+    "summary": "AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model is allowed to [&#8230;] The post As AI agents take o",
+    "url": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
+    "source": "AI News",
+    "published_at": "2026-04-06T10:00:00+00:00",
+    "score": 6
   },
   {
-    "title": "Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees",
-    "summary": "Anthropic is paying 400 million dollars for an eight-month-old biotech startup with fewer than ten employees. The investor walks away with a 38,513 percent return. The article Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropic-drops-400-million-in-shares-on-an-eight-month-old-ai-pharma-startup-with-fewer-than-ten-employees/",
-    "source": "The Decoder",
-    "published_at": "2026-04-04T08:24:56+00:00",
-    "score": 6,
-    "archived_at": "2026-04-05T03:47:57.342379+00:00"
+    "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
+    "summary": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
+    "url": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
+    "source": "Wired AI",
+    "published_at": "2026-04-06T09:00:00+00:00",
+    "score": 5
   }
 ]

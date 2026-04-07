@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-04-26",
+    "last_updated": "Today's Date",
     "papers": [
         {
-            "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
-            "innovation": "Proposes a framework for improving the reliability of tool-integrated LLMs by disentangling failures stemming from 'tool-use accuracy' (agent's invocation) and 'intrinsic tool accuracy' (tool's correctness), addressing a key bottleneck in practical agent development.",
-            "benchmarks": "Not explicitly mentioned in the abstract.",
-            "use_case": "Designing, building, and deploying robust and reliable AI agents that interact with external tools for diverse tasks like data retrieval, computation, and real-world actions.",
-            "url": "https://arxiv.org/abs/2604.00137"
+            "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+            "innovation": "Proposes Holos, a web-scale LLM-based multi-agent system, marking a pivotal shift towards the 'Agentic Web' where heterogeneous agents autonomously interact and co-evolve. This vision moves LLM agents from isolated task solvers to persistent digital entities, advancing AGI.",
+            "benchmarks": "Not specified in abstract, focusing on a new system architecture and paradigm.",
+            "use_case": "Developing foundational infrastructure for the 'Agentic Web', enabling large-scale, co-evolving multi-agent systems and persistent digital entities for various applications.",
+            "url": "https://arxiv.org/abs/2604.02334"
         },
         {
-            "title": "Decision-Centric Design for LLM Systems",
-            "innovation": "Advocates for a fundamental architectural shift where control decisions (e.g., answer, clarify, retrieve, call tools, repair, escalate) are explicitly designed and separated from text generation, leading to more transparent, robust, and debuggable LLM systems.",
-            "benchmarks": "Not explicitly mentioned in the abstract.",
-            "use_case": "Architecting and developing complex LLM applications that require intelligent control flow, explicit decision-making capabilities, and improved failure mode tractability, rather than implicit decision-making within generation.",
-            "url": "https://arxiv.org/abs/2604.00414"
+            "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+            "innovation": "Introduces Xpertbench, a novel framework for evaluating LLM proficiency in complex, open-ended tasks that demand expert-level cognition. It addresses the limitations of conventional benchmarks by utilizing a rubrics-based evaluation approach for deeper assessment.",
+            "benchmarks": "Xpertbench itself is a new evaluation framework/benchmark designed to overcome the plateauing performance assessment of LLMs on conventional benchmarks.",
+            "use_case": "Rigorously evaluating and comparing LLMs for their ability to perform expert-level tasks, facilitating the development and deployment of more capable and reliable AI systems in specialized domains.",
+            "url": "https://arxiv.org/abs/2604.02368"
         },
         {
-            "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
-            "innovation": "Introduces a methodology called 'Signals' for effectively analyzing and improving multi-step agentic applications post-deployment. This involves sampling and triaging voluminous agent trajectories to understand system behavior and identify areas for improvement.",
-            "benchmarks": "Not explicitly mentioned in the abstract.",
-            "use_case": "Debugging, monitoring, and iteratively improving deployed large language model-based agentic applications by providing insights into their multi-step interaction loops, planning, action execution, and environment feedback.",
-            "url": "https://arxiv.org/abs/2604.00356"
+            "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
+            "innovation": "Proposes an innovative neuro-symbolic LLM agent-integrated framework for Verification and Validation (V&V) of autonomous systems. It addresses the challenges of anomaly classification, scalability, and distinguishing genuine faults from nuisance faults inherent in deep learning models.",
+            "benchmarks": "Not explicitly mentioned in abstract; focuses on a V&V methodology for trustworthiness rather than specific datasets.",
+            "use_case": "Ensuring the trustworthiness, reliability, and safety of autonomous systems by providing a robust V&V framework that integrates neuro-symbolic reasoning and LLM agents to accurately classify anomalies and ensure system integrity.",
+            "url": "https://arxiv.org/abs/2604.02478"
         }
     ]
 }

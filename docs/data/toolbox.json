@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 06, 2026",
+    "last_updated": "April 07, 2026",
     "tools": [
         {
+            "Name": "Hermes Agent",
+            "Category": "AI Agents",
+            "Description": "A self-improving AI agent with a built-in learning loop that can persist knowledge, search past conversations, and create skills autonomously.",
+            "Use_Case": "Task automation, personal assistance, and complex workflow orchestration across cloud and local environments.",
+            "URL": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+            "Name": "DeepTutor",
+            "Category": "Education / Learning",
+            "Description": "An agent-native platform for personalized tutoring that integrates chat, research, quiz generation, and math animation in a unified workspace.",
+            "Use_Case": "Automated educational support, structured learning paths, and managing RAG-based knowledge bases for students or professionals.",
+            "URL": "https://github.com/HKUDS/DeepTutor"
+        },
+        {
             "Name": "MLX-VLM",
-            "Category": "Machine Learning / AI Tools",
-            "Description": "A package for inference and fine-tuning of Vision Language Models (VLMs) and Omni Models (with audio/video) locally on Mac hardware.",
-            "Use_Case": "Running multimodal AI (vision, audio, text) directly on Apple Silicon with hardware acceleration.",
+            "Category": "Vision-Language Models",
+            "Description": "A specialized package for running inference and fine-tuning Vision Language Models (VLMs) optimized for Apple Silicon (MLX).",
+            "Use_Case": "Performing multi-modal analysis (images, video, audio) efficiently on local Mac hardware.",
             "URL": "https://github.com/Blaizzy/mlx-vlm"
-        },
-        {
-            "Name": "Onyx",
-            "Category": "AI Platform / Agent Framework",
-            "Description": "An open-source AI platform serving as an application layer for LLMs with advanced capabilities like RAG, web search, code execution, and deep research.",
-            "Use_Case": "Deploying a full-featured, self-hosted AI agentic interface that supports multiple LLM backends and enterprise-grade features.",
-            "URL": "https://github.com/onyx-dot-app/onyx"
-        },
-        {
-            "Name": "RAG-Anything",
-            "Category": "RAG / Document Processing",
-            "Description": "An all-in-one multimodal RAG system capable of processing text, images, tables, equations, and diverse file formats seamlessly.",
-            "Use_Case": "Extracting information and building knowledge bases from complex documents that contain non-textual elements like charts and formulas.",
-            "URL": "https://github.com/HKUDS/RAG-Anything"
         }
     ]
 }

@@ -1,38 +1,137 @@
 [
   {
-    "title": "The New York Times drops freelancer whose AI tool copied from an existing book review",
-    "summary": "AI tools can speed up journalism until they backfire. Two recent cases show what happens when writers don't understand how their AI tools work: copied passages and made-up quotes. The article The New York Times drops freelancer whose AI tool copied from an existing book review appeared first on The Decoder.",
-    "url": "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/",
-    "source": "The Decoder",
-    "published_at": "2026-04-05T15:11:08+00:00",
-    "score": 6,
-    "archived_at": "2026-04-06T03:50:33.209439+00:00"
+    "title": "Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs",
+    "summary": "arXiv:2604.02689v1 Announce Type: cross Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have expanded reasoning capabilities into 3D domains, enabling fine-grained spatial understanding. However, the substantial size of 3D MLLMs and the high dimensionality of input features introduce considerable inference overhead, which limi",
+    "url": "https://arxiv.org/abs/2604.02689",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
   },
   {
-    "title": "Study maps developer frustration over \"AI slop\" as a \"tragedy of the commons\" in software development",
-    "summary": "A qualitative study looks at how developers perceive and push back against low-quality AI content, or \"slop,\" in software development. The critics describe a \"tragedy of the commons\" where individual productivity gains come at the cost of reviewers and the open-source community. The article Study maps developer frustration over &quot;AI slop&quot; ",
-    "url": "https://the-decoder.com/study-maps-developer-frustration-over-ai-slop-as-a-tragedy-of-the-commons-in-software-development/",
-    "source": "The Decoder",
-    "published_at": "2026-04-05T10:55:18+00:00",
-    "score": 6,
-    "archived_at": "2026-04-06T03:50:33.209439+00:00"
+    "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+    "summary": "arXiv:2604.02368v1 Announce Type: new Abstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffer from narrow domain coverage, reliance on generali",
+    "url": "https://arxiv.org/abs/2604.02368",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
   },
   {
-    "title": "AI benchmarks systematically ignore how humans disagree, Google study finds",
-    "summary": "A Google study finds that the standard three to five human raters per test example often aren't enough for reliable AI benchmarks, and that splitting your annotation budget the right way matters just as much as the budget itself. The article AI benchmarks systematically ignore how humans disagree, Google study finds appeared first on The Decoder.",
-    "url": "https://the-decoder.com/ai-benchmarks-systematically-ignore-how-humans-disagree-google-study-finds/",
-    "source": "The Decoder",
-    "published_at": "2026-04-05T08:31:45+00:00",
-    "score": 6,
-    "archived_at": "2026-04-06T03:50:33.209439+00:00"
+    "title": "Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling",
+    "summary": "arXiv:2604.02545v1 Announce Type: new Abstract: The preservation of intangible cultural heritage is a critical challenge as collective memory fades over time. While Large Language Models (LLMs) offer a promising avenue for generating engaging narratives, their propensity for factual inaccuracies or \"hallucinations\" makes them unreliable for heritag",
+    "url": "https://arxiv.org/abs/2604.02545",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
   },
   {
-    "title": "AI chatbot traffic grows seven times faster than social media but still trails by a factor of four",
-    "summary": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user behavior. The article AI chatbot traffic grows seven times faster than social media but still trails by a factor of four appeared first on The Decoder.",
-    "url": "https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/",
-    "source": "The Decoder",
-    "published_at": "2026-04-05T07:27:57+00:00",
-    "score": 6,
-    "archived_at": "2026-04-06T03:50:33.209439+00:00"
+    "title": "Do Audio-Visual Large Language Models Really See and Hear?",
+    "summary": "arXiv:2604.02605v1 Announce Type: new Abstract: Audio-Visual Large Language Models (AVLLMs) are emerging as unified interfaces to multimodal perception. We present the first mechanistic interpretability study of AVLLMs, analyzing how audio and visual features evolve and fuse through different layers of an AVLLM to produce the final text outputs. We",
+    "url": "https://arxiv.org/abs/2604.02605",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "AutoVerifier: An Agentic Automated Verification Framework Using Large Language Models",
+    "summary": "arXiv:2604.02617v1 Announce Type: new Abstract: Scientific and Technical Intelligence (S&amp;TI) analysis requires verifying complex technical claims across rapidly growing literature, where existing approaches fail to bridge the verification gap between surface-level accuracy and deeper methodological validity. We present AutoVerifier, an LLM-base",
+    "url": "https://arxiv.org/abs/2604.02617",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "Aligning Progress and Feasibility: A Neuro-Symbolic Dual Memory Framework for Long-Horizon LLM Agents",
+    "summary": "arXiv:2604.02734v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated strong potential in long-horizon decision-making tasks, such as embodied manipulation and web interaction. However, agents frequently struggle with endless trial-and-error loops or deviate from the main objective in complex environments. We attribute thes",
+    "url": "https://arxiv.org/abs/2604.02734",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "CharTool: Tool-Integrated Visual Reasoning for Chart Understanding",
+    "summary": "arXiv:2604.02794v1 Announce Type: new Abstract: Charts are ubiquitous in scientific and financial literature for presenting structured data. However, chart reasoning remains challenging for multimodal large language models (MLLMs) due to the lack of high-quality training data, as well as the need for fine-grained visual grounding and precise numeri",
+    "url": "https://arxiv.org/abs/2604.02794",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
+    "summary": "arXiv:2604.03016v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) are evolving from passive observers into active agents, solving problems through Visual Expansion (invoking visual tools) and Knowledge Expansion (open-web search). However, existing evaluations fall short: they lack flexible tool integration, test visual and s",
+    "url": "https://arxiv.org/abs/2604.03016",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling",
+    "summary": "arXiv:2112.07874v2 Announce Type: cross Abstract: We examine the extent to which, in principle, linguistic graph representations can complement and improve neural language modeling. With an ensemble setup consisting of a pretrained Transformer and ground-truth graphs from one of 7 different formalisms, we find that, overall, semantic constituency s",
+    "url": "https://arxiv.org/abs/2112.07874",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models",
+    "summary": "arXiv:2604.02816v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have shown strong reasoning ability, but their high computational and memory costs hinder deployment in resource-constrained settings. While Post-Training Quantization (PTQ) and vision token pruning are standard compression techniques, they are usually treate",
+    "url": "https://arxiv.org/abs/2604.02816",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "Council Mode: Mitigating Hallucination and Bias in LLMs via Multi-Agent Consensus",
+    "summary": "arXiv:2604.02923v1 Announce Type: cross Abstract: Large Language Models (LLMs), particularly those employing Mixture-of-Experts (MoE) architectures, have achieved remarkable capabilities across diverse natural language processing tasks. However, these models frequently suffer from hallucinations -- generating plausible but factually incorrect conte",
+    "url": "https://arxiv.org/abs/2604.02923",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "An Independent Safety Evaluation of Kimi K2.5",
+    "summary": "arXiv:2604.03121v1 Announce Type: cross Abstract: Kimi K2.5 is an open-weight LLM that rivals closed models across coding, multimodal, and agentic benchmarks, but was released without an accompanying safety evaluation. In this work, we conduct a preliminary safety assessment of Kimi K2.5 focusing on risks likely to be exacerbated by powerful open-w",
+    "url": "https://arxiv.org/abs/2604.03121",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models",
+    "summary": "arXiv:2604.03179v1 Announce Type: cross Abstract: The recent success of reinforcement learning (RL) in large reasoning models has inspired the growing adoption of RL for post-training Multimodal Large Language Models (MLLMs) to enhance their visual reasoning capabilities. Although many studies have reported improved performance, it remains unclear ",
+    "url": "https://arxiv.org/abs/2604.03179",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "WiseMind: a knowledge-guided multi-agent framework for accurate and empathetic psychiatric diagnosis",
+    "summary": "arXiv:2502.20689v3 Announce Type: replace Abstract: Large Language Models (LLMs) offer promising opportunities to support mental healthcare workflows, yet they often lack the structured clinical reasoning needed for reliable diagnosis and may struggle to provide the emotionally attuned communication essential for patient trust. Here, we introduce W",
+    "url": "https://arxiv.org/abs/2502.20689",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
+  },
+  {
+    "title": "Glia: A Human-Inspired AI for Automated Systems Design and Optimization",
+    "summary": "arXiv:2510.27176v5 Announce Type: replace Abstract: Can AI autonomously design mechanisms for computer systems on par with the creativity and reasoning of human experts? We present Glia, an AI architecture for networked systems design that uses large language models (LLMs) in a human-inspired multi-agent workflow. Each agent specializes in reasonin",
+    "url": "https://arxiv.org/abs/2510.27176",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-07T03:44:14.042368+00:00"
   }
 ]
