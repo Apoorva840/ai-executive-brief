@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 07, 2026",
+    "last_updated": "April 08, 2026",
     "tools": [
         {
-            "Name": "Hermes Agent",
-            "Category": "AI Agents",
-            "Description": "A self-improving AI agent with a built-in learning loop that can persist knowledge, search past conversations, and create skills autonomously.",
-            "Use_Case": "Task automation, personal assistance, and complex workflow orchestration across cloud and local environments.",
-            "URL": "https://github.com/NousResearch/hermes-agent"
-        },
-        {
             "Name": "DeepTutor",
-            "Category": "Education / Learning",
-            "Description": "An agent-native platform for personalized tutoring that integrates chat, research, quiz generation, and math animation in a unified workspace.",
-            "Use_Case": "Automated educational support, structured learning paths, and managing RAG-based knowledge bases for students or professionals.",
+            "Category": "AI Education",
+            "Description": "An agent-native, personalized learning assistant that integrates chat, problem-solving, quiz generation, and math animation.",
+            "Use_Case": "Creating persistent, autonomous AI tutors with long-term memory for structured and personalized learning journeys.",
             "URL": "https://github.com/HKUDS/DeepTutor"
         },
         {
-            "Name": "MLX-VLM",
-            "Category": "Vision-Language Models",
-            "Description": "A specialized package for running inference and fine-tuning Vision Language Models (VLMs) optimized for Apple Silicon (MLX).",
-            "Use_Case": "Performing multi-modal analysis (images, video, audio) efficiently on local Mac hardware.",
-            "URL": "https://github.com/Blaizzy/mlx-vlm"
+            "Name": "SEO Machine",
+            "Category": "Content Marketing",
+            "Description": "A specialized Claude Code workspace for researching, writing, and optimizing long-form SEO content.",
+            "Use_Case": "Automating the entire SEO content lifecycle, including competitive research, keyword mapping, and WordPress publishing.",
+            "URL": "https://github.com/TheCraigHewitt/seomachine"
+        },
+        {
+            "Name": "AutoAgent",
+            "Category": "AI Agent Framework",
+            "Description": "A fully-automated, zero-code framework that enables users to create and deploy LLM agents using only natural language.",
+            "Use_Case": "Building and orchestrating collaborative agent systems or deep research agents without manual coding or technical configuration.",
+            "URL": "https://github.com/HKUDS/AutoAgent"
         }
     ]
 }

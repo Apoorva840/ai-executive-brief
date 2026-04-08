@@ -1,26 +1,26 @@
 {
-    "last_updated": "Today's Date",
+    "last_updated": "2024-04-20",
     "papers": [
         {
-            "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
-            "innovation": "Proposes Holos, a web-scale LLM-based multi-agent system, marking a pivotal shift towards the 'Agentic Web' where heterogeneous agents autonomously interact and co-evolve. This vision moves LLM agents from isolated task solvers to persistent digital entities, advancing AGI.",
-            "benchmarks": "Not specified in abstract, focusing on a new system architecture and paradigm.",
-            "use_case": "Developing foundational infrastructure for the 'Agentic Web', enabling large-scale, co-evolving multi-agent systems and persistent digital entities for various applications.",
-            "url": "https://arxiv.org/abs/2604.02334"
+            "title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
+            "innovation": "Demonstrates the use of Large Language Models (LLMs) and LLM-based AI agents to achieve full autonomous control of complex laboratory instrumentation, democratizing access for researchers lacking programming expertise.",
+            "benchmarks": "Implies successful and reliable operation of various lab instruments and execution of complex experimental protocols. Specific quantitative benchmarks for control accuracy, reliability, or task completion rate in real-world lab settings are likely central to the full paper.",
+            "use_case": "Automating scientific discovery and experimentation, enabling non-programmers to control sophisticated lab equipment, and accelerating research in chemistry, biology, and materials science.",
+            "url": "https://arxiv.org/abs/2604.03286"
         },
         {
-            "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
-            "innovation": "Introduces Xpertbench, a novel framework for evaluating LLM proficiency in complex, open-ended tasks that demand expert-level cognition. It addresses the limitations of conventional benchmarks by utilizing a rubrics-based evaluation approach for deeper assessment.",
-            "benchmarks": "Xpertbench itself is a new evaluation framework/benchmark designed to overcome the plateauing performance assessment of LLMs on conventional benchmarks.",
-            "use_case": "Rigorously evaluating and comparing LLMs for their ability to perform expert-level tasks, facilitating the development and deployment of more capable and reliable AI systems in specialized domains.",
-            "url": "https://arxiv.org/abs/2604.02368"
+            "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
+            "innovation": "A position paper that critically analyzes systemic validity failures in current AI evaluation paradigms, advocating for a principled, item-level approach to benchmark design and data collection to improve evaluation rigor.",
+            "benchmarks": "Critiques current AI evaluation metrics and benchmark designs, arguing for the necessity of item-level data to address issues such as unjustified design choices and misaligned metrics. It proposes a new framework for evaluation rather than presenting specific new benchmarks.",
+            "use_case": "Guiding the development of more robust, valid, and trustworthy evaluation methodologies for generative AI systems, especially in high-stakes domains, which is crucial for AI engineers to ensure the quality and reliability of deployed models.",
+            "url": "https://arxiv.org/abs/2604.03244"
         },
         {
-            "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
-            "innovation": "Proposes an innovative neuro-symbolic LLM agent-integrated framework for Verification and Validation (V&V) of autonomous systems. It addresses the challenges of anomaly classification, scalability, and distinguishing genuine faults from nuisance faults inherent in deep learning models.",
-            "benchmarks": "Not explicitly mentioned in abstract; focuses on a V&V methodology for trustworthiness rather than specific datasets.",
-            "use_case": "Ensuring the trustworthiness, reliability, and safety of autonomous systems by providing a robust V&V framework that integrates neuro-symbolic reasoning and LLM agents to accurately classify anomalies and ensure system integrity.",
-            "url": "https://arxiv.org/abs/2604.02478"
+            "title": "Contextual Control without Memory Growth in a Context-Switching Task",
+            "innovation": "Proposes an innovative method for achieving context-dependent sequential decision-making by intervening on a shared neural manifold, thereby avoiding the need for explicit context input or unbounded growth of recurrent memory.",
+            "benchmarks": "Implied benchmarks include performance in context-switching tasks (e.g., adaptation speed, task accuracy) and memory efficiency (fixed memory footprint) compared to traditional recurrent or context-explicit models.",
+            "use_case": "Designing more efficient, scalable, and adaptive AI agents, particularly for reinforcement learning and long-horizon tasks in dynamic environments where managing computational resources and preventing memory explosion are critical engineering challenges.",
+            "url": "https://arxiv.org/abs/2604.03479"
         }
     ]
 }

@@ -1,42 +1,42 @@
 [
   {
-    "title": "A Multimodal Vision Transformer-based Modeling Framework for Prediction of Fluid Flows in Energy Systems",
-    "summary": "arXiv:2604.02483v1 Announce Type: cross Abstract: Computational fluid dynamics (CFD) simulations of complex fluid flows in energy systems are prohibitively expensive due to strong nonlinearities and multiscale-multiphysics interactions. In this work, we present a transformer-based modeling framework for prediction of fluid flows, and demonstrate it",
-    "url": "https://arxiv.org/abs/2604.02483",
+    "title": "MolDA: Molecular Understanding and Generation via Large Language Diffusion Model",
+    "summary": "arXiv:2604.04403v1 Announce Type: new Abstract: Large Language Models (LLMs) have significantly advanced molecular discovery, but existing multimodal molecular architectures fundamentally rely on autoregressive (AR) backbones. This strict left-to-right inductive bias is sub-optimal for generating chemically valid molecules, as it struggles to accou",
+    "url": "https://arxiv.org/abs/2604.04403",
     "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
+    "published_at": "2026-04-07T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Alibaba's Qwen team built HopChain to fix how AI vision models fall apart during multi-step reasoning",
-    "summary": "When AI models reason about images, small perceptual errors compound across multiple steps and produce wrong answers. Alibaba's HopChain framework tackles this by generating multi-stage image questions that break complex problems into linked individual steps, forcing models to verify each visual detail before drawing conclusions. The approach impro",
-    "url": "https://the-decoder.com/alibabas-qwen-team-built-hopchain-to-fix-how-ai-vision-models-fall-apart-during-multi-step-reasoning/",
+    "title": "Microsoft's Bing team open-sources \"Harrier\" embedding model",
+    "summary": "Microsoft's Bing team open-sources Harrier, an embedding model that tops the multilingual MTEB v2 benchmark and supports more than 100 languages. The article Microsoft&#039;s Bing team open-sources &quot;Harrier&quot; embedding model appeared first on The Decoder.",
+    "url": "https://the-decoder.com/microsofts-bing-team-open-sources-harrier-embedding-model/",
     "source": "The Decoder",
-    "published_at": "2026-04-06T07:33:51+00:00",
-    "score": 8
+    "published_at": "2026-04-07T16:38:23+00:00",
+    "score": 7
   },
   {
-    "title": "OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes",
-    "summary": "\"My vibes don't really fit.\" In a new New Yorker profile based on over 100 interviews, Sam Altman explains why safety researchers keep leaving OpenAI and why shifting commitments others might call deception are just part of the job. The article OpenAI&#039;s safety brain drain finally gets an explanation and it&#039;s just Sam Altman&#039;s vibes a",
-    "url": "https://the-decoder.com/openais-safety-brain-drain-finally-gets-an-explanation-and-its-just-sam-altmans-vibes/",
+    "title": "OpenAI, Anthropic, and Google team up against unauthorized Chinese model copying",
+    "summary": "OpenAI, Anthropic, and Google have started working together to combat the unauthorized copying of their AI models by Chinese competitors, according to Bloomberg. The article OpenAI, Anthropic, and Google team up against unauthorized Chinese model copying appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-anthropic-and-google-team-up-against-unauthorized-chinese-model-copying/",
     "source": "The Decoder",
-    "published_at": "2026-04-06T18:03:43+00:00",
-    "score": 6
+    "published_at": "2026-04-07T11:43:19+00:00",
+    "score": 7
   },
   {
-    "title": "As AI agents take on more tasks, governance becomes a priority",
-    "summary": "AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model is allowed to [&#8230;] The post As AI agents take o",
-    "url": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
-    "source": "AI News",
-    "published_at": "2026-04-06T10:00:00+00:00",
-    "score": 6
-  },
-  {
-    "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
-    "summary": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
-    "url": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
+    "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+    "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
+    "url": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
     "source": "Wired AI",
-    "published_at": "2026-04-06T09:00:00+00:00",
-    "score": 5
+    "published_at": "2026-04-07T18:49:50+00:00",
+    "score": 6
+  },
+  {
+    "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
+    "summary": "The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped. The failure mode is that the data feeding those systems is fragmented, inconsistently labelled, and spread across dozens of applications that were [&#8230;] The post Boo",
+    "url": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+    "source": "AI News",
+    "published_at": "2026-04-07T12:00:00+00:00",
+    "score": 6
   }
 ]
