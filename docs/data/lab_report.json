@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-04-20",
+    "last_updated": "2024-04-26",
     "papers": [
         {
-            "title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
-            "innovation": "Demonstrates the use of Large Language Models (LLMs) and LLM-based AI agents to achieve full autonomous control of complex laboratory instrumentation, democratizing access for researchers lacking programming expertise.",
-            "benchmarks": "Implies successful and reliable operation of various lab instruments and execution of complex experimental protocols. Specific quantitative benchmarks for control accuracy, reliability, or task completion rate in real-world lab settings are likely central to the full paper.",
-            "use_case": "Automating scientific discovery and experimentation, enabling non-programmers to control sophisticated lab equipment, and accelerating research in chemistry, biology, and materials science.",
-            "url": "https://arxiv.org/abs/2604.03286"
+            "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
+            "innovation": "Proposing a fine-tuning approach for Large Language Models (LLMs) using principles from Navya-Nyaya (an ancient Indian logic system) to enhance epistemic reasoning and reduce confident but unfounded claims (hallucination), thereby improving systematic reasoning.",
+            "benchmarks": "Not specified in abstract for their method, but aims to address significant performance degradation (e.g., 65% with irrelevant context) observed in existing LLMs.",
+            "use_case": "Developing more reliable, trustworthy, and systematically reasoning LLM applications, especially in domains requiring high epistemic rigor such as scientific research, legal analysis, or medical diagnostics, where factual accuracy and logical consistency are paramount.",
+            "url": "https://arxiv.org/abs/2604.04937"
         },
         {
-            "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
-            "innovation": "A position paper that critically analyzes systemic validity failures in current AI evaluation paradigms, advocating for a principled, item-level approach to benchmark design and data collection to improve evaluation rigor.",
-            "benchmarks": "Critiques current AI evaluation metrics and benchmark designs, arguing for the necessity of item-level data to address issues such as unjustified design choices and misaligned metrics. It proposes a new framework for evaluation rather than presenting specific new benchmarks.",
-            "use_case": "Guiding the development of more robust, valid, and trustworthy evaluation methodologies for generative AI systems, especially in high-stakes domains, which is crucial for AI engineers to ensure the quality and reliability of deployed models.",
-            "url": "https://arxiv.org/abs/2604.03244"
+            "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
+            "innovation": "Introducing ReVEL, a multi-turn reflective framework that leverages Large Language Models (LLMs) and structured performance feedback to iteratively evolve and improve heuristics for NP-hard combinatorial optimization problems, overcoming limitations of brittle one-shot code synthesis approaches.",
+            "benchmarks": "Not explicitly mentioned in the abstract for their method, but the goal is to improve upon 'brittle heuristics that underutilize the models' capacity for iteration.'",
+            "use_case": "Automating and enhancing the design and optimization of heuristics for complex NP-hard problems across various fields, including logistics, scheduling, resource allocation, manufacturing, and supply chain management, by leveraging LLMs to iteratively refine problem-solving strategies.",
+            "url": "https://arxiv.org/abs/2604.04940"
         },
         {
-            "title": "Contextual Control without Memory Growth in a Context-Switching Task",
-            "innovation": "Proposes an innovative method for achieving context-dependent sequential decision-making by intervening on a shared neural manifold, thereby avoiding the need for explicit context input or unbounded growth of recurrent memory.",
-            "benchmarks": "Implied benchmarks include performance in context-switching tasks (e.g., adaptation speed, task accuracy) and memory efficiency (fixed memory footprint) compared to traditional recurrent or context-explicit models.",
-            "use_case": "Designing more efficient, scalable, and adaptive AI agents, particularly for reinforcement learning and long-horizon tasks in dynamic environments where managing computational resources and preventing memory explosion are critical engineering challenges.",
-            "url": "https://arxiv.org/abs/2604.03479"
+            "title": "MedGemma 1.5 Technical Report",
+            "innovation": "The MedGemma 1.5 4B model expands previous capabilities by integrating support for high-dimensional medical imaging (CT/MRI volumes, histopathology whole slide images), anatomical localization via bounding boxes, and multi-timepoint change tracking, enhancing its utility in medical contexts.",
+            "benchmarks": "Details of specific performance benchmarks are expected within the full technical report; the abstract highlights expanded capabilities including high-dimensional medical imaging processing, anatomical localization, and multi-timepoint change tracking.",
+            "use_case": "Advanced medical AI applications for diagnosis, prognosis, treatment planning, and research, particularly involving multi-modal medical data (text, imaging) and longitudinal patient monitoring, providing a more comprehensive tool for clinicians and researchers.",
+            "url": "https://arxiv.org/abs/2604.05081"
         }
     ]
 }

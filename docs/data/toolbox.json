@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 08, 2026",
+    "last_updated": "April 09, 2026",
     "tools": [
         {
-            "Name": "DeepTutor",
-            "Category": "AI Education",
-            "Description": "An agent-native, personalized learning assistant that integrates chat, problem-solving, quiz generation, and math animation.",
-            "Use_Case": "Creating persistent, autonomous AI tutors with long-term memory for structured and personalized learning journeys.",
-            "URL": "https://github.com/HKUDS/DeepTutor"
+            "Name": "Unsloth",
+            "Category": "AI Model Training & Inference",
+            "Description": "A high-performance framework for training and running open-source LLMs like Qwen, Gemma, and Llama, offering significantly faster training and lower VRAM usage.",
+            "Use_Case": "Fine-tuning large language models on local hardware or notebooks with high efficiency.",
+            "URL": "https://github.com/unslothai/unsloth"
         },
         {
-            "Name": "SEO Machine",
-            "Category": "Content Marketing",
-            "Description": "A specialized Claude Code workspace for researching, writing, and optimizing long-form SEO content.",
-            "Use_Case": "Automating the entire SEO content lifecycle, including competitive research, keyword mapping, and WordPress publishing.",
-            "URL": "https://github.com/TheCraigHewitt/seomachine"
+            "Name": "Mem0",
+            "Category": "Memory Management",
+            "Description": "A universal memory layer for AI agents that remembers user preferences, session history, and provides adaptive personalization over time.",
+            "Use_Case": "Enhancing customer support chatbots, AI assistants, and personalized AI agents with long-term memory.",
+            "URL": "https://github.com/mem0ai/mem0"
         },
         {
-            "Name": "AutoAgent",
-            "Category": "AI Agent Framework",
-            "Description": "A fully-automated, zero-code framework that enables users to create and deploy LLM agents using only natural language.",
-            "Use_Case": "Building and orchestrating collaborative agent systems or deep research agents without manual coding or technical configuration.",
-            "URL": "https://github.com/HKUDS/AutoAgent"
+            "Name": "TradingView-MCP",
+            "Category": "Financial Analysis",
+            "Description": "An advanced MCP server providing AI-powered market analysis, including technical indicators, backtesting, and sentiment analysis for stocks and crypto.",
+            "Use_Case": "Automated market research and technical analysis for AI agents or personal traders.",
+            "URL": "https://github.com/atilaahmettaner/tradingview-mcp"
         }
     ]
 }
