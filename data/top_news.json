@@ -1,42 +1,42 @@
 [
   {
-    "title": "Advancing AI Research Assistants with Expert-Involved Learning",
-    "summary": "arXiv:2505.04638v5 Announce Type: replace Abstract: Large language models (LLMs) and large multimodal models (LMMs) promise to accelerate biomedical discovery, yet their reliability remains unclear. We introduce ARIEL (AI Research Assistant for Expert-in-the-Loop Learning), an open-source evaluation and optimization framework that pairs a curated m",
-    "url": "https://arxiv.org/abs/2505.04638",
+    "title": "Faithful-First Reasoning, Planning, and Acting for Multimodal LLMs",
+    "summary": "arXiv:2511.08409v4 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) frequently suffer from unfaithfulness, generating reasoning chains that drift from visual evidence or contradict final predictions. We propose Faithful-First Reasoning, Planning, and Acting (RPA) framework in which FaithEvi provides step-wise and chain-leve",
+    "url": "https://arxiv.org/abs/2511.08409",
     "source": "Arxiv AI",
-    "published_at": "2026-04-08T04:00:00+00:00",
+    "published_at": "2026-04-10T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Meta's Muse Spark is its first frontier model and its first without open weights",
-    "summary": "Meta Superintelligence Labs ships Muse Spark, its first frontier model and Meta's first without open weights. Independent testing shows it closing the gap to OpenAI, Anthropic, and Google, but the competition isn't standing still. The article Meta&#039;s Muse Spark is its first frontier model and its first without open weights appeared first on The",
-    "url": "https://the-decoder.com/metas-muse-spark-is-its-first-frontier-model-and-its-first-without-open-weights/",
+    "title": "LLMs crush coding and math but choke on casual questions, and that's not a contradiction",
+    "summary": "AI models can restructure entire codebases in hours but stumble over simple everyday questions. That's not a contradiction, and it might reveal a fundamental limit of today's language models. The article LLMs crush coding and math but choke on casual questions, and that&#039;s not a contradiction appeared first on The Decoder.",
+    "url": "https://the-decoder.com/llms-crush-coding-and-math-but-choke-on-casual-questions-and-thats-not-a-contradiction/",
     "source": "The Decoder",
-    "published_at": "2026-04-08T18:00:03+00:00",
+    "published_at": "2026-04-10T11:23:41+00:00",
     "score": 8
   },
   {
-    "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-04-08T14:27:42+00:00",
-    "score": 7
-  },
-  {
-    "title": "Stability AI launches Brand Studio for brand-consistent image generation",
-    "summary": "Stability AI is going commercial: The new \"Brand Studio\" lets creative teams generate AI visuals that match their brand identity, using custom-trained models, automated production workflows, and precision image editing tools. The article Stability AI launches Brand Studio for brand-consistent image generation appeared first on The Decoder.",
-    "url": "https://the-decoder.com/stability-ai-launches-brand-studio-for-brand-consistent-image-generation/",
-    "source": "The Decoder",
-    "published_at": "2026-04-08T16:15:42+00:00",
-    "score": 7
-  },
-  {
-    "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
-    "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
-    "url": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+    "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+    "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+    "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
     "source": "Wired AI",
-    "published_at": "2026-04-08T22:27:26+00:00",
+    "published_at": "2026-04-10T18:08:37+00:00",
+    "score": 6
+  },
+  {
+    "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
+    "summary": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
+    "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+    "source": "Wired AI",
+    "published_at": "2026-04-10T09:30:00+00:00",
+    "score": 6
+  },
+  {
+    "title": "Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade",
+    "summary": "Deepmind CEO Demis Hassabis thinks AGI could arrive within five years and compares its impact to ten times the industrial revolution, unfolding in a tenth of the time. Yet he warns that AI is overhyped right now and still vastly underestimated over the next decade. The article Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions ",
+    "url": "https://the-decoder.com/deepmind-ceo-hassabis-says-agi-will-hit-like-ten-industrial-revolutions-compressed-into-a-single-decade/",
+    "source": "The Decoder",
+    "published_at": "2026-04-10T19:06:18+00:00",
     "score": 6
   }
 ]

@@ -1,39 +1,25 @@
 [
   {
-    "title": "Advancing AI Research Assistants with Expert-Involved Learning",
-    "url": "https://arxiv.org/abs/2505.04638",
+    "title": "Faithful-First Reasoning, Planning, and Acting for Multimodal LLMs",
+    "url": "https://arxiv.org/abs/2511.08409",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2505.04638v5 Announce Type: replace Abstract: Large language models (LLMs) and large multimodal models (LMMs) promise to accelerate biomedical discovery, yet their reliability remains unclear. We introduce ARIEL (AI Research Assistant for Expert-in-the-Loop Learning), an open-source evaluation and optimization framework that pairs a curated m",
+    "what_happened": "arXiv:2511.08409v4 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) frequently suffer from unfaithfulness, generating reasoning chains that drift from visual evidence or contradict final predictions. We propose Faithful-First Reasoning, Planning, and Acting (RPA) framework in which FaithEvi provides step-wise and chain-leve",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "Research Scientists",
       "ML Engineers"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
-  },
-  {
-    "title": "Meta's Muse Spark is its first frontier model and its first without open weights",
-    "url": "https://the-decoder.com/metas-muse-spark-is-its-first-frontier-model-and-its-first-without-open-weights/",
-    "source": "The Decoder",
-    "score": 8,
-    "what_happened": "Meta Superintelligence Labs ships Muse Spark, its first frontier model and Meta's first without open weights. Independent testing shows it closing the gap to OpenAI, Anthropic, and Google, but the competition isn't standing still. The article Meta&#039;s Muse Spark is its first frontier model and its first without open weights appeared first on The",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
-    "source": "Hugging Face Blog",
-    "score": 7,
-    "what_happened": "Hugging Face Blog announced 'ALTK‑Evolve: On‑the‑Job Learning for AI Agents', highlighting new developments relevant to AI researchers and practitioners.",
+    "title": "LLMs crush coding and math but choke on casual questions, and that's not a contradiction",
+    "url": "https://the-decoder.com/llms-crush-coding-and-math-but-choke-on-casual-questions-and-thats-not-a-contradiction/",
+    "source": "The Decoder",
+    "score": 8,
+    "what_happened": "AI models can restructure entire codebases in hours but stumble over simple everyday questions. That's not a contradiction, and it might reveal a fundamental limit of today's language models. The article LLMs crush coding and math but choke on casual questions, and that&#039;s not a contradiction appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -44,31 +30,46 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "Stability AI launches Brand Studio for brand-consistent image generation",
-    "url": "https://the-decoder.com/stability-ai-launches-brand-studio-for-brand-consistent-image-generation/",
+    "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+    "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+    "source": "Wired AI",
+    "score": 6,
+    "what_happened": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+    "technical_takeaway": null,
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "who_should_care": [
+      "Policy Leaders",
+      "Tech Strategists"
+    ],
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+  },
+  {
+    "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
+    "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+    "source": "Wired AI",
+    "score": 6,
+    "what_happened": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
+    "technical_takeaway": null,
+    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
+    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
+    "who_should_care": [
+      "AI Ethics Engineers",
+      "Legal & Compliance"
+    ],
+    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
+  },
+  {
+    "title": "Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade",
+    "url": "https://the-decoder.com/deepmind-ceo-hassabis-says-agi-will-hit-like-ten-industrial-revolutions-compressed-into-a-single-decade/",
     "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Stability AI is going commercial: The new \"Brand Studio\" lets creative teams generate AI visuals that match their brand identity, using custom-trained models, automated production workflows, and precision image editing tools. The article Stability AI launches Brand Studio for brand-consistent image generation appeared first on The Decoder.",
+    "score": 6,
+    "what_happened": "Deepmind CEO Demis Hassabis thinks AGI could arrive within five years and compares its impact to ten times the industrial revolution, unfolding in a tenth of the time. Yet he warns that AI is overhyped right now and still vastly underestimated over the next decade. The article Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "AI Professionals"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
-    "url": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
-    "source": "Wired AI",
-    "score": 6,
-    "what_happened": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
-    "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   }

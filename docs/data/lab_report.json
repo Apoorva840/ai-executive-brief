@@ -2,25 +2,25 @@
     "last_updated": "2024-04-26",
     "papers": [
         {
-            "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
-            "innovation": "Proposing a fine-tuning approach for Large Language Models (LLMs) using principles from Navya-Nyaya (an ancient Indian logic system) to enhance epistemic reasoning and reduce confident but unfounded claims (hallucination), thereby improving systematic reasoning.",
-            "benchmarks": "Not specified in abstract for their method, but aims to address significant performance degradation (e.g., 65% with irrelevant context) observed in existing LLMs.",
-            "use_case": "Developing more reliable, trustworthy, and systematically reasoning LLM applications, especially in domains requiring high epistemic rigor such as scientific research, legal analysis, or medical diagnostics, where factual accuracy and logical consistency are paramount.",
-            "url": "https://arxiv.org/abs/2604.04937"
+            "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+            "innovation": "Introduces Qualixar OS, an application-layer operating system for universal orchestration of heterogeneous multi-agent AI systems, supporting diverse LLM providers and agent frameworks.",
+            "benchmarks": "Supports 10 LLM providers and 8+ agent frameworks, demonstrating broad compatibility and integration capabilities.",
+            "use_case": "Building and deploying complex multi-agent AI systems, orchestrating diverse LLM agents, designing scalable AI system architectures, and developing enterprise AI solutions.",
+            "url": "https://arxiv.org/abs/2604.06392"
         },
         {
-            "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
-            "innovation": "Introducing ReVEL, a multi-turn reflective framework that leverages Large Language Models (LLMs) and structured performance feedback to iteratively evolve and improve heuristics for NP-hard combinatorial optimization problems, overcoming limitations of brittle one-shot code synthesis approaches.",
-            "benchmarks": "Not explicitly mentioned in the abstract for their method, but the goal is to improve upon 'brittle heuristics that underutilize the models' capacity for iteration.'",
-            "use_case": "Automating and enhancing the design and optimization of heuristics for complex NP-hard problems across various fields, including logistics, scheduling, resource allocation, manufacturing, and supply chain management, by leveraging LLMs to iteratively refine problem-solving strategies.",
-            "url": "https://arxiv.org/abs/2604.04940"
+            "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
+            "innovation": "Develops a method to distill hallucination signals directly into LLM's internal representations during training using weak supervision, significantly reducing reliance on external verification at inference time.",
+            "benchmarks": "Addresses hallucination detection, aiming for improved reliability of LLMs (implied standard LLM evaluation sets).",
+            "use_case": "Improving the reliability and trustworthiness of Large Language Models (LLMs), fine-tuning LLMs for reduced hallucination, and developing more robust and dependable LLM applications.",
+            "url": "https://arxiv.org/abs/2604.06277"
         },
         {
-            "title": "MedGemma 1.5 Technical Report",
-            "innovation": "The MedGemma 1.5 4B model expands previous capabilities by integrating support for high-dimensional medical imaging (CT/MRI volumes, histopathology whole slide images), anatomical localization via bounding boxes, and multi-timepoint change tracking, enhancing its utility in medical contexts.",
-            "benchmarks": "Details of specific performance benchmarks are expected within the full technical report; the abstract highlights expanded capabilities including high-dimensional medical imaging processing, anatomical localization, and multi-timepoint change tracking.",
-            "use_case": "Advanced medical AI applications for diagnosis, prognosis, treatment planning, and research, particularly involving multi-modal medical data (text, imaging) and longitudinal patient monitoring, providing a more comprehensive tool for clinicians and researchers.",
-            "url": "https://arxiv.org/abs/2604.05081"
+            "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
+            "innovation": "Proposes SELFDOUBT, a novel, single-pass uncertainty quantification method for reasoning LLMs based on the Hedge-to-Verify Ratio, addressing the computational cost of sampling and inconsistency of other proxies.",
+            "benchmarks": "Evaluated on reasoning tasks, demonstrating improved uncertainty estimation metrics such as calibration and correlation with accuracy.",
+            "use_case": "Deploying LLMs in high-stakes reasoning applications, improving decision-making reliability of LLMs, enabling better evaluation of proprietary LLMs, and increasing user trust in AI outputs.",
+            "url": "https://arxiv.org/abs/2604.06389"
         }
     ]
 }

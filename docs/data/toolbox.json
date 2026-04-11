@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 09, 2026",
+    "last_updated": "April 11, 2026",
     "tools": [
         {
-            "Name": "Unsloth",
-            "Category": "AI Model Training & Inference",
-            "Description": "A high-performance framework for training and running open-source LLMs like Qwen, Gemma, and Llama, offering significantly faster training and lower VRAM usage.",
-            "Use_Case": "Fine-tuning large language models on local hardware or notebooks with high efficiency.",
-            "URL": "https://github.com/unslothai/unsloth"
+            "Name": "MarkItDown",
+            "Category": "Data Processing",
+            "Description": "A lightweight Python utility for converting various file types (PDF, Office, Images, Audio, etc.) to Markdown.",
+            "Use_Case": "Preparing diverse documents for input into LLM and text analysis pipelines while preserving structure.",
+            "URL": "https://github.com/microsoft/markitdown"
         },
         {
-            "Name": "Mem0",
-            "Category": "Memory Management",
-            "Description": "A universal memory layer for AI agents that remembers user preferences, session history, and provides adaptive personalization over time.",
-            "Use_Case": "Enhancing customer support chatbots, AI assistants, and personalized AI agents with long-term memory.",
-            "URL": "https://github.com/mem0ai/mem0"
+            "Name": "DeepTutor",
+            "Category": "AI Education Assistant",
+            "Description": "An agent-native personalized learning assistant that integrates chat, research, quiz generation, and math visualization.",
+            "Use_Case": "Providing structured, multi-step learning journeys with persistent memory for educational contexts.",
+            "URL": "https://github.com/HKUDS/DeepTutor"
         },
         {
-            "Name": "TradingView-MCP",
-            "Category": "Financial Analysis",
-            "Description": "An advanced MCP server providing AI-powered market analysis, including technical indicators, backtesting, and sentiment analysis for stocks and crypto.",
-            "Use_Case": "Automated market research and technical analysis for AI agents or personal traders.",
-            "URL": "https://github.com/atilaahmettaner/tradingview-mcp"
+            "Name": "Scrapling",
+            "Category": "Web Scraping",
+            "Description": "An adaptive Web Scraping framework that features element tracking and automatic anti-bot bypass.",
+            "Use_Case": "Scaling up data collection from dynamic websites with resilient parsing and concurrent crawl capabilities.",
+            "URL": "https://github.com/D4Vinci/Scrapling"
         }
     ]
 }
