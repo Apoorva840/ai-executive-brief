@@ -1,0 +1,58 @@
+{
+  "date": "March 26, 2026",
+  "timestamp": "2026-03-26T03:40:55.423039",
+  "is_archive_run": false,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "A transformer architecture alteration to incentivise externalised reasoning",
+      "summary": "arXiv:2603.21376v2 Announce Type: replace Abstract: We propose a new architectural change, and post-training pipeline, for making LLMs more verbose reasoners by teaching a model to truncate forward passes early. We augment an existing transformer architecture with an early-exit mechanism at intermediate layers and train the model to exit at shallow",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2603.21376"
+    },
+    {
+      "rank": 2,
+      "title": "Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use",
+      "summary": "Google is making AI music longer and more widely available: Lyria 3 Pro generates songs up to three minutes long, complete with verses, choruses, and bridges. Google says the model was trained on content it has the right to use. That sets it apart from rival music generator Suno, which is facing legal battles with record labels over potential copyr",
+      "technical_takeaway": "Trust, not model size, is becoming a core technical constraint in AI systems.",
+      "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
+      "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/"
+    },
+    {
+      "rank": 3,
+      "title": "AI2's fully open web agent MolmoWeb navigates the web using only screenshots",
+      "summary": "AI2 releases MolmoWeb, a fully open web agent that navigates websites using only screenshots. Despite having just 4 and 8 billion parameters, the models beat several larger proprietary systems on standard benchmarks. The article AI2&#039;s fully open web agent MolmoWeb navigates the web using only screenshots appeared first on The Decoder.",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai2s-fully-open-web-agent-molmoweb-navigates-the-web-using-only-screenshots/"
+    },
+    {
+      "rank": 4,
+      "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+      "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
+      "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/"
+    },
+    {
+      "rank": 5,
+      "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+      "summary": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/"
+    }
+  ]
+}

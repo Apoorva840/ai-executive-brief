@@ -1,0 +1,58 @@
+{
+  "date": "April 06, 2026",
+  "timestamp": "2026-04-06T03:51:33.289791",
+  "is_archive_run": false,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "AI offensive cyber capabilities are doubling every six months, safety researchers find",
+      "summary": "AI models are rapidly improving at exploiting security vulnerabilities. According to a new study, their offensive cyber capability has been doubling every 5.7 months since 2024, with Opus 4.6 and GPT-5.3 Codex now solving tasks that take human experts about three hours. The article AI offensive cyber capabilities are doubling every six months, safe",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-offensive-cyber-capabilities-are-doubling-every-six-months-safety-researchers-find/"
+    },
+    {
+      "rank": 2,
+      "title": "Alibaba's Qwen team makes AI models think deeper with new algorithm",
+      "summary": "Reinforcement learning hits a wall with reasoning models because every token gets the same reward. A new algorithm from Alibaba's Qwen team fixes this by weighting each step based on how much it shapes what comes next, doubling the length of thought processes in the process. The article Alibaba&#039;s Qwen team makes AI models think deeper with new",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/alibabas-qwen-team-makes-ai-models-think-deeper-with-new-algorithm/"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind",
+      "summary": "Netflix has open-sourced an AI framework that can remove objects from videos and automatically adjusts the physical effects those objects had on the rest of the scene. The article Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind appeared first on The Decoder.",
+      "technical_takeaway": "Adds empirical validation to approaches already used in production AI stacks.",
+      "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+      "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/netflix-open-sources-void-an-ai-framework-that-erases-video-objects-and-rewrites-the-physics-they-left-behind/"
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI reshuffles leadership as health issues force key executives to step back",
+      "summary": "Three executives are stepping back at OpenAI, two for health reasons. President Greg Brockman steps in to fill part of the gap. The article OpenAI reshuffles leadership as health issues force key executives to step back appeared first on The Decoder.",
+      "technical_takeaway": "Adds empirical validation to approaches already used in production AI stacks.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-reshuffles-leadership-as-health-issues-force-key-executives-to-step-back/"
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees",
+      "summary": "Anthropic is paying 400 million dollars for an eight-month-old biotech startup with fewer than ten employees. The investor walks away with a 38,513 percent return. The article Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees appeared first on The Decoder.",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Marginal performance gains may not justify integration effort.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-drops-400-million-in-shares-on-an-eight-month-old-ai-pharma-startup-with-fewer-than-ten-employees/"
+    }
+  ]
+}

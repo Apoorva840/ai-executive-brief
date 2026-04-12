@@ -1,0 +1,58 @@
+{
+  "date": "March 27, 2026",
+  "timestamp": "2026-03-27T03:44:11.433299",
+  "is_archive_run": false,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "DepthCharge: A Domain-Agnostic Framework for Measuring Depth-Dependent Knowledge in Large Language Models",
+      "summary": "arXiv:2603.23514v1 Announce Type: cross Abstract: Large Language Models appear competent when answering general questions but often fail when pushed into domain-specific details. No existing methodology provides an out-of-the-box solution for measuring how deeply LLMs can sustain accurate responses under adaptive follow-up questioning across arbitr",
+      "technical_takeaway": "Hybrid local-cloud inference is becoming the dominant deployment model.",
+      "primary_risk": "Fragmentation across hardware-specific inference stacks.",
+      "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2603.23514"
+    },
+    {
+      "rank": 2,
+      "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
+      "summary": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret. The article Apple gets full Gemini access and uses distillation to build lightweight on-device AI appeared first on The Decoder.",
+      "technical_takeaway": "Hybrid local-cloud inference is becoming the dominant deployment model.",
+      "primary_risk": "Fragmentation across hardware-specific inference stacks.",
+      "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/"
+    },
+    {
+      "rank": 3,
+      "title": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages",
+      "summary": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio. The article Mistral&#039;s first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages appeared first on The Decoder.",
+      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
+      "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+      "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/mistrals-first-open-weight-tts-model-voxtral-clones-voices-from-three-seconds-of-audio-across-nine-languages/"
+    },
+    {
+      "rank": 4,
+      "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
+      "summary": "Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two steps: a VLM generates a plan in natural language, and a separate model translates it into executable actions. This approach often breaks [&#8230;] The po",
+      "technical_takeaway": "Adds empirical validation to approaches already used in production AI stacks.",
+      "primary_risk": "Marginal performance gains may not justify integration effort.",
+      "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/"
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+      "summary": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Marginal performance gains may not justify integration effort.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/"
+    }
+  ]
+}

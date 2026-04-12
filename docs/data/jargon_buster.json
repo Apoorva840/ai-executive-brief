@@ -1,24 +1,24 @@
 {
-    "last_updated": "March 11, 2026",
+    "last_updated": "April 12, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Multi-Agent Systems (MAS) Architecture",
-            "definition": "MAS represents a shift from monolithic AI models to a decentralized network of specialized LLM 'agents' that collaborate through structured communication protocols. These systems use frameworks like LangGraph or AutoGen to orchestrate complex workflows, where individual agents are assigned distinct roles, reasoning profiles, and identities to solve multifaceted problems.",
-            "analogy": "Think of a professional kitchen: instead of one 'Super Chef' trying to cook a 50-item banquet alone, MAS is a coordinated brigade where a Sous Chef, a Pastry Chef, and a Saucier use a shared ticket system to deliver a synchronized meal.",
-            "business_value": "MAS allows enterprises to move beyond simple chatbots toward 'Autonomous Departments.' By delegating tasks between specialized agents, CEOs can scale complex operations like software engineering or financial auditing with higher reliability and lower error rates than single-model solutions."
+            "term": "Agentic AI",
+            "definition": "Agentic AI refers to systems that do not just generate text, but autonomously use tools and execute multi-step workflows to achieve a specific goal. These models can independently access external resources like Wikipedia, maps, or APIs to solve problems without requiring a human to prompt every individual sub-task.",
+            "analogy": "Imagine a kitchen where the oven doesn't just heat up when told, but autonomously checks the fridge, realizes you're out of milk, orders it from the grocery store, and adjusts the recipe timing based on the delivery estimate.",
+            "business_value": "This moves AI from being a passive 'consultant' to an active 'digital employee.' It allows for the automation of complex, end-to-end business processes, significantly reducing the labor costs associated with manual task orchestration."
         },
         {
-            "term": "Agentic Retrieval-Augmented Generation (Agentic RAG)",
-            "definition": "Agentic RAG evolves standard data retrieval by adding a reasoning loop that iteratively searches, evaluates the relevance of found data, and refines queries until a specific objective is met. It manages the trade-off between 'search depth' and 'token budget,' ensuring the AI doesn't just find information, but critically assesses its quality before generating a response.",
-            "analogy": "A standard RAG is like a driver using a paper map to find a destination; Agentic RAG is a high-end self-driving system that constantly scans road conditions, checks multiple GPS sources, and reroutes itself in real-time if it detects the data is leading to a dead end.",
-            "business_value": "This significantly reduces 'hallucination risk' in high-stakes environments like legal or medical research. For the bottom line, it optimizes cloud compute costs by stopping the search once the 'good enough' confidence threshold is reached, preventing expensive over-processing."
+            "term": "On-Device (Edge) AI",
+            "definition": "This trend involves running high-performance AI models locally on consumer hardware\u2014like smartphones or laptops\u2014rather than on centralized cloud servers. This is achieved through model optimization techniques that allow the AI to process text, image, and audio data without ever transmitting that information over the internet.",
+            "analogy": "It is the difference between having a private, master chef living in your own kitchen versus having to call a restaurant across town and waiting for a delivery driver to bring your meal.",
+            "business_value": "On-device processing solves the 'privacy-performance' paradox. It allows companies to deploy powerful AI tools to employees while guaranteeing that sensitive corporate data never leaves the device, effectively eliminating cloud latency and third-party data breach risks."
         },
         {
-            "term": "Visual Positioning System (VPS)",
-            "definition": "VPS is a spatial intelligence technology that provides centimeter-level localization by comparing visual 'keypoints' from a camera feed against a pre-mapped 3D environment. Unlike GPS, which can be off by meters, VPS uses computer vision to understand a device's exact orientation and location relative to physical objects in its immediate surroundings.",
-            "analogy": "Standard GPS tells your car it is 'somewhere on 5th Avenue'; VPS is the equivalent of the car recognizing the specific texture of the brickwork and the exact position of the curb to park with inch-perfect precision.",
-            "business_value": "VPS is the 'Last Yard' solution for the physical economy. It unlocks the viability of autonomous last-mile delivery robots and precision AR-assisted manufacturing, where traditional navigation is too blunt a tool to operate safely in crowded or complex human environments."
+            "term": "Proactive Multimodal Reasoning",
+            "definition": "This is a specialized capability where an AI model analyzes multiple data inputs (like a photo and a text description) and identifies gaps in its own knowledge. Instead of 'hallucinating' or guessing when information is missing, the model is trained via reinforcement learning to proactively ask the user for the specific data it needs to be accurate.",
+            "analogy": "Think of a car\u2019s dashboard that doesn't just show a vague 'check engine' light, but specifically tells you the oil is 20% low and refuses to let you drive high speeds until you confirm you've seen the warning.",
+            "business_value": "For a CEO, this is a critical risk-mitigation feature. It reduces the liability and cost of AI 'hallucinations' by ensuring the system flags uncertainty rather than making high-stakes business decisions based on incomplete or 'guessed' information."
         }
     ]
 }

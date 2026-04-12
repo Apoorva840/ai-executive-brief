@@ -1,26 +1,26 @@
 {
-    "last_updated": "March 11, 2026",
+    "last_updated": "April 12, 2026",
     "tools": [
         {
-            "Name": "Hermes Agent",
-            "Category": "AI Agent Framework",
-            "Description": "A self-improving, platform-agnostic AI agent that supports a built-in learning loop, allowing it to create skills from experience and manage conversation history across platforms like Telegram and Discord.",
-            "Use_Case": "Automating multi-step tasks, cross-platform AI interactions, and building persistent, self-evolving AI assistants on low-resource infrastructure.",
-            "URL": "https://github.com/NousResearch/hermes-agent"
+            "Name": "MarkItDown",
+            "Category": "Data Processing",
+            "Description": "A lightweight Python utility for converting various file formats (PDF, PPT, Word, Excel, Images, etc.) to Markdown for use with LLMs.",
+            "Use_Case": "Preparing diverse document types as clean, token-efficient Markdown inputs for RAG or text analysis pipelines.",
+            "URL": "https://github.com/microsoft/markitdown"
         },
         {
-            "Name": "Crawlee (Python)",
-            "Category": "Web Scraping / Data Collection",
-            "Description": "A high-performance web scraping and browser automation library designed to build reliable, human-like crawlers with features like proxy rotation and session management.",
-            "Use_Case": "Extracting large-scale data from websites to build datasets for LLM pre-training, RAG applications, and AI agents.",
-            "URL": "https://github.com/apify/crawlee-python"
+            "Name": "VoxCPM2",
+            "Category": "Speech Synthesis",
+            "Description": "A 2B-parameter, tokenizer-free, diffusion-based text-to-speech model supporting 30 languages with 48kHz output quality.",
+            "Use_Case": "Real-time multilingual voice synthesis, creative voice design from text, and high-fidelity controllable voice cloning.",
+            "URL": "https://github.com/OpenBMB/VoxCPM"
         },
         {
-            "Name": "Sirchmunk",
-            "Category": "Search & Knowledge Management",
-            "Description": "An indexless, embedding-free retrieval system that searches directly over raw data using Monte Carlo Evidence Sampling to find relevant information efficiently.",
-            "Use_Case": "Real-time, context-aware information retrieval from massive local file repositories without the overhead of maintaining traditional vector databases.",
-            "URL": "https://github.com/modelscope/sirchmunk"
+            "Name": "DeepTutor",
+            "Category": "AI Learning Assistant",
+            "Description": "An agent-native platform designed for personalized learning, featuring a unified workspace that supports chat, deep research, quiz generation, and math animation.",
+            "Use_Case": "Creating persistent, autonomous AI tutors with long-term memory that can execute complex, multi-step research and learning plans.",
+            "URL": "https://github.com/HKUDS/DeepTutor"
         }
     ]
 }

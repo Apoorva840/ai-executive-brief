@@ -1,0 +1,58 @@
+{
+  "date": "March 30, 2026",
+  "timestamp": "2026-03-30T03:52:41.892236",
+  "is_archive_run": false,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "MetaClaw framework trains AI agents while you're in meetings by checking your Google Calendar",
+      "summary": "Researchers from four US universities have built a framework that improves AI agents during operation. It checks the user's Google calendar to figure out when to train. The article MetaClaw framework trains AI agents while you&#039;re in meetings by checking your Google Calendar appeared first on The Decoder.",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/metaclaw-framework-trains-ai-agents-while-youre-in-meetings-by-checking-your-google-calendar/"
+    },
+    {
+      "rank": 2,
+      "title": "AI sycophancy makes people less likely to apologize and more likely to double down, study finds",
+      "summary": "AI models tell people what they want to hear nearly 50 percent more often than other humans do. A new Science study shows this isn't just annoying: it makes people less willing to apologize, less likely to see the other side, and more convinced they're right. The worst part: users love it. The article AI sycophancy makes people less likely to apolo",
+      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-sycophancy-makes-people-less-likely-to-apologize-and-more-likely-to-double-down-study-finds/"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
+      "summary": "Anthropic grew out of more than just concern for AI safety—it was born from a bitter power struggle and personal conflict at OpenAI. A report by Sam Altman biographer Keach Hagey reveals how personal slights, rivalries, and strategic disagreements led to what may be the most consequential split in the AI industry. The article Anthropic reportedly v",
+      "technical_takeaway": "Hardware and energy constraints now shape model design decisions.",
+      "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+      "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-reportedly-views-itself-as-the-antidote-to-openais-tobacco-industry-approach-to-ai/"
+    },
+    {
+      "rank": 4,
+      "title": "Meta's hyperagents improve at tasks and improve at improving",
+      "summary": "Researchers at Meta and several universities have developed \"hyperagents,\" AI systems that don't just solve tasks, but also optimize the very mechanism they use to get better. The approach works across different task areas and could open the door to self-accelerating AI. The article Meta&#039;s hyperagents improve at tasks and improve at improving",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/metas-hyperagents-improve-at-tasks-and-improve-at-improving/"
+    },
+    {
+      "rank": 5,
+      "title": "OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September",
+      "summary": "OpenAI is pulling the plug on Sora, its AI video generation tool, in a two-stage shutdown starting April 2026. The move signals a major strategic shift away from creative AI tools and toward coding and enterprise products. The article OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September appeared first on Th",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/"
+    }
+  ]
+}

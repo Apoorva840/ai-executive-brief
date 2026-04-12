@@ -1,26 +1,26 @@
 {
-    "last_updated": "Today's Date",
+    "last_updated": "2024-04-26",
     "papers": [
         {
-            "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
-            "innovation": "Presents a controlled measurement study to quantify the impact of agentic RAG design decisions (search depth, retrieval strategy, completion token limits) on accuracy and cost under explicit budget constraints. This provides empirical evidence for crucial trade-offs in real-world deployments.",
-            "benchmarks": "Focuses on quantifying the accuracy and cost impact of design decisions in agentic RAG systems, providing a framework for benchmarking specific design choices under budget constraints.",
-            "use_case": "Optimizing agentic Retrieval-Augmented Generation (RAG) systems for deployment in production environments where computational budgets (e.g., API calls, token usage) are strict. Essential for engineers to make data-driven decisions on system configuration for efficiency and performance.",
-            "url": "https://arxiv.org/abs/2603.08877"
+            "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+            "innovation": "Introduces Qualixar OS, an application-layer operating system for universal orchestration of heterogeneous multi-agent AI systems, supporting diverse LLM providers and agent frameworks.",
+            "benchmarks": "Supports 10 LLM providers and 8+ agent frameworks, demonstrating broad compatibility and integration capabilities.",
+            "use_case": "Building and deploying complex multi-agent AI systems, orchestrating diverse LLM agents, designing scalable AI system architectures, and developing enterprise AI solutions.",
+            "url": "https://arxiv.org/abs/2604.06392"
         },
         {
-            "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
-            "innovation": "Proposes a fundamental shift in evaluation methodologies for multi-agent LLM systems, moving from model-centric benchmarks to a comprehensive system-centric approach. This framework considers the performance of the entire agentic setup, including frameworks and other system components, not just the base LLM.",
-            "benchmarks": "Criticizes existing 'model-centric' benchmarks and advocates for the development of new, holistic benchmarks that encompass all system components within multi-agent LLM setups.",
-            "use_case": "Provides a conceptual framework and strong argument for AI engineers to conduct more thorough and realistic evaluations of multi-agent LLM systems. This is critical for building robust, reliable, and performant systems by understanding the true impact of architectural and component choices.",
-            "url": "https://arxiv.org/abs/2603.08835"
+            "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
+            "innovation": "Develops a method to distill hallucination signals directly into LLM's internal representations during training using weak supervision, significantly reducing reliance on external verification at inference time.",
+            "benchmarks": "Addresses hallucination detection, aiming for improved reliability of LLMs (implied standard LLM evaluation sets).",
+            "use_case": "Improving the reliability and trustworthiness of Large Language Models (LLMs), fine-tuning LLMs for reduced hallucination, and developing more robust and dependable LLM applications.",
+            "url": "https://arxiv.org/abs/2604.06277"
         },
         {
-            "title": "MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games",
-            "innovation": "Introduces MEMO, a memory-augmented model context optimization technique that significantly reduces run-to-run variance in multi-turn, multi-agent LLM game evaluations. This improves the reliability of win rate estimates and rankings, addressing a key challenge in evaluating complex agent interactions.",
-            "benchmarks": "Directly addresses and aims to improve the robustness and reliability of win rate estimates and rankings across repeated tournaments in multi-turn, multi-agent LLM game evaluations.",
-            "use_case": "Essential for AI engineers who are developing, iterating on, and comparing multi-agent LLM systems, particularly in long-horizon interaction or competitive scenarios. Enables more trustworthy performance metrics, leading to more reliable experimentation and faster development cycles.",
-            "url": "https://arxiv.org/abs/2603.09022"
+            "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
+            "innovation": "Proposes SELFDOUBT, a novel, single-pass uncertainty quantification method for reasoning LLMs based on the Hedge-to-Verify Ratio, addressing the computational cost of sampling and inconsistency of other proxies.",
+            "benchmarks": "Evaluated on reasoning tasks, demonstrating improved uncertainty estimation metrics such as calibration and correlation with accuracy.",
+            "use_case": "Deploying LLMs in high-stakes reasoning applications, improving decision-making reliability of LLMs, enabling better evaluation of proprietary LLMs, and increasing user trust in AI outputs.",
+            "url": "https://arxiv.org/abs/2604.06389"
         }
     ]
 }

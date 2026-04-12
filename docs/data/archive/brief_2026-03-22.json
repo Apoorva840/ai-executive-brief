@@ -1,0 +1,58 @@
+{
+  "date": "March 22, 2026",
+  "timestamp": "2026-03-22T03:31:27.773402",
+  "is_archive_run": false,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Transformers Remember First, Forget Last: Dual-Process Interference in LLMs",
+      "summary": "arXiv:2603.00270v2 Announce Type: replace-cross Abstract: When large language models encounter conflicting information in context, which memories survive -- early or recent? We adapt classical interference paradigms from cognitive psychology to answer this question, testing 39 LLMs across diverse architectures and scales. Every model shows the same",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Marginal performance gains may not justify integration effort.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "Arxiv AI",
+      "url": "https://arxiv.org/abs/2603.00270"
+    },
+    {
+      "rank": 2,
+      "title": "Chinese AI model MiniMax M2.7 reportedly helped develop itself",
+      "summary": "Chinese AI company MiniMax has released M2.7, a model that reportedly played an active role in its own development. Through autonomous optimization loops, it improved its own training process and posted competitive benchmark results. The article Chinese AI model MiniMax M2.7 reportedly helped develop itself appeared first on The Decoder.",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/chinese-ai-model-minimax-m2-7-reportedly-helped-develop-itself/"
+    },
+    {
+      "rank": 3,
+      "title": "Cursor quietly built its new coding model on top of Chinese open-source Kimi K2.5",
+      "summary": "Cursor releases Composer 2, the second generation of its own AI model for software development. The model is designed to keep pace with the leading coding models from Anthropic and OpenAI at significantly lower costs. The article Cursor quietly built its new coding model on top of Chinese open-source Kimi K2.5 appeared first on The Decoder.",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/cursor-quietly-built-its-new-coding-model-on-top-of-chinese-open-source-kimi-k2-5/"
+    },
+    {
+      "rank": 4,
+      "title": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
+      "summary": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Unclear production readiness despite promising early results.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/"
+    },
+    {
+      "rank": 5,
+      "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
+      "summary": "Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
+      "technical_takeaway": "Signals incremental evolution rather than a paradigm shift in current AI systems.",
+      "primary_risk": "Marginal performance gains may not justify integration effort.",
+      "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/"
+    }
+  ]
+}
