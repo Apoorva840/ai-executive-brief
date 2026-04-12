@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 11, 2026",
+    "last_updated": "April 12, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Deterministic Reasoning Layer",
-            "definition": "A computational architecture that sits atop generative AI models to enforce logical consistency and traceability. Instead of relying on probabilistic 'best guesses,' this layer applies hard-coded rules and symbolic logic to verify that an AI's output adheres to specific facts or safety protocols before the user sees it.",
-            "analogy": "In a high-end kitchen, the LLM is the creative chef who might improvise a recipe, but the Deterministic Reasoning Layer is the health inspector standing over their shoulder with a thermometer, ensuring every dish meets exact safety and quality standards before it leaves the pass.",
-            "business_value": "This is the 'bridge' to AI trust. It transforms AI from a creative assistant into a reliable corporate tool suitable for regulated industries like healthcare or finance by eliminating hallucinations and ensuring every decision has a clear audit trail."
+            "term": "Agentic AI",
+            "definition": "Agentic AI refers to systems that do not just generate text, but autonomously use tools and execute multi-step workflows to achieve a specific goal. These models can independently access external resources like Wikipedia, maps, or APIs to solve problems without requiring a human to prompt every individual sub-task.",
+            "analogy": "Imagine a kitchen where the oven doesn't just heat up when told, but autonomously checks the fridge, realizes you're out of milk, orders it from the grocery store, and adjusts the recipe timing based on the delivery estimate.",
+            "business_value": "This moves AI from being a passive 'consultant' to an active 'digital employee.' It allows for the automation of complex, end-to-end business processes, significantly reducing the labor costs associated with manual task orchestration."
         },
         {
-            "term": "Uncertainty Quantification (UQ)",
-            "definition": "The process of measuring how 'sure' an AI model is about a specific output, often using metrics like the 'Hedge-to-Verify' ratio to detect internal vacillation. Rather than just providing an answer, UQ allows the system to flag low-confidence responses that require human-in-the-loop verification.",
-            "analogy": "It is like a modern car's dashboard that doesn't just show the fuel level, but uses real-time sensors to tell you exactly how many miles you can drive based on current road conditions and tire pressure, warning you the moment your 'safety margin' is too thin.",
-            "business_value": "For CEOs, UQ is a massive cost-saving mechanism. It allows the business to automate 90% of tasks with high confidence while only routing the 'risky' 10% to expensive human experts, optimizing the labor-to-automation ratio."
+            "term": "On-Device (Edge) AI",
+            "definition": "This trend involves running high-performance AI models locally on consumer hardware\u2014like smartphones or laptops\u2014rather than on centralized cloud servers. This is achieved through model optimization techniques that allow the AI to process text, image, and audio data without ever transmitting that information over the internet.",
+            "analogy": "It is the difference between having a private, master chef living in your own kitchen versus having to call a restaurant across town and waiting for a delivery driver to bring your meal.",
+            "business_value": "On-device processing solves the 'privacy-performance' paradox. It allows companies to deploy powerful AI tools to employees while guaranteeing that sensitive corporate data never leaves the device, effectively eliminating cloud latency and third-party data breach risks."
         },
         {
-            "term": "AI Agent Orchestration",
-            "definition": "A management framework\u2014often functioning as an 'AI Operating System'\u2014that coordinates diverse, specialized AI agents to work together on complex workflows. It manages 'heterogeneous' systems, meaning it can simultaneously direct a Claude-based agent, a GPT-based agent, and a local open-source model to complete a single multi-step project.",
-            "analogy": "Imagine a kitchen where you have a specialist for pastry, a specialist for the grill, and a specialist for the wine list. Agent Orchestration is the Executive Chef who communicates with all of them, ensures they don't get in each other's way, and makes sure they all deliver their components at the exact same moment.",
-            "business_value": "This solves the problem of 'Point Solution Fatigue.' Instead of dozens of disconnected bots, orchestration allows a company to build a unified 'Digital Workforce' that can handle end-to-end business processes, reducing the need for manual middleware and vendor lock-in."
+            "term": "Proactive Multimodal Reasoning",
+            "definition": "This is a specialized capability where an AI model analyzes multiple data inputs (like a photo and a text description) and identifies gaps in its own knowledge. Instead of 'hallucinating' or guessing when information is missing, the model is trained via reinforcement learning to proactively ask the user for the specific data it needs to be accurate.",
+            "analogy": "Think of a car\u2019s dashboard that doesn't just show a vague 'check engine' light, but specifically tells you the oil is 20% low and refuses to let you drive high speeds until you confirm you've seen the warning.",
+            "business_value": "For a CEO, this is a critical risk-mitigation feature. It reduces the liability and cost of AI 'hallucinations' by ensuring the system flags uncertainty rather than making high-stakes business decisions based on incomplete or 'guessed' information."
         }
     ]
 }
