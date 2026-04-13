@@ -1,5 +1,50 @@
 [
   {
+    "title": "Man who firebombed Sam Altman's home was likely driven by AI extinction fears",
+    "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity to extinction. The article Man who firebombed Sam Altman&#039;s home was likely driven by AI extinction fears appeared first on The Decoder.",
+    "url": "https://the-decoder.com/man-who-firebombed-sam-altmans-home-was-likely-driven-by-ai-extinction-fears/",
+    "source": "The Decoder",
+    "published_at": "2026-04-12T15:04:58+00:00",
+    "score": 6,
+    "archived_at": "2026-04-13T04:03:10.888979+00:00"
+  },
+  {
+    "title": "OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans",
+    "summary": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up. The article OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/",
+    "source": "The Decoder",
+    "published_at": "2026-04-12T13:32:38+00:00",
+    "score": 6,
+    "archived_at": "2026-04-13T04:03:10.888979+00:00"
+  },
+  {
+    "title": "Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior",
+    "summary": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior. The article Anthropic seeks advice from Christian leaders on Claude&#039;s moral and spiritual behavior appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/",
+    "source": "The Decoder",
+    "published_at": "2026-04-12T11:25:54+00:00",
+    "score": 6,
+    "archived_at": "2026-04-13T04:03:10.888979+00:00"
+  },
+  {
+    "title": "Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks",
+    "summary": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks. The article Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks appeared first on The Decod",
+    "url": "https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/",
+    "source": "The Decoder",
+    "published_at": "2026-04-12T08:59:26+00:00",
+    "score": 6,
+    "archived_at": "2026-04-13T04:03:10.888979+00:00"
+  },
+  {
+    "title": "Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions",
+    "summary": "ChatGPT told a man with delusional beliefs he had the highest level of mental health, then helped him forge clinical reports to stalk and humiliate his ex-girlfriend. She's now suing OpenAI and says the company ignored three separate warnings. The article Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions appeared first ",
+    "url": "https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/",
+    "source": "The Decoder",
+    "published_at": "2026-04-12T07:43:23+00:00",
+    "score": 6,
+    "archived_at": "2026-04-13T04:03:10.888979+00:00"
+  },
+  {
     "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
     "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\" The article Someone threw a Molotov cocktail at OpenAI CEO Sam Altman&#039;s home in the middle of the night appeared first o",
     "url": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/",
@@ -2649,51 +2694,6 @@
     "title": "SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs",
     "summary": "arXiv:2603.12382v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have advanced from image-level reasoning to pixel-level grounding, but extending these capabilities to videos remains challenging as models must achieve spatial precision and temporally consistent reference tracking. Existing video MLLMs often rely on a stati",
     "url": "https://arxiv.org/abs/2603.12382",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-16T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-17T03:23:15.231128+00:00"
-  },
-  {
-    "title": "Human-Centered Evaluation of an LLM-Based Process Modeling Copilot: A Mixed-Methods Study with Domain Experts",
-    "summary": "arXiv:2603.12895v1 Announce Type: cross Abstract: Integrating Large Language Models (LLMs) into business process management tools promises to democratize Business Process Model and Notation (BPMN) modeling for non-experts. While automated frameworks assess syntactic and semantic quality, they miss human factors like trust, usability, and profession",
-    "url": "https://arxiv.org/abs/2603.12895",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-16T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-17T03:23:15.231128+00:00"
-  },
-  {
-    "title": "Delta1 with LLM: symbolic and neural integration for credible and explainable reasoning",
-    "summary": "arXiv:2603.12953v1 Announce Type: cross Abstract: Neuro-symbolic reasoning increasingly demands frameworks that unite the formal rigor of logic with the interpretability of large language models (LLMs). We introduce an end to end explainability by construction pipeline integrating the Automated Theorem Generator Delta1 based on the full triangular ",
-    "url": "https://arxiv.org/abs/2603.12953",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-16T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-17T03:23:15.231128+00:00"
-  },
-  {
-    "title": "Geometry-Guided Camera Motion Understanding in VideoLLMs",
-    "summary": "arXiv:2603.13119v1 Announce Type: cross Abstract: Camera motion is a fundamental geometric signal that shapes visual perception and cinematic style, yet current video-capable vision-language models (VideoLLMs) rarely represent it explicitly and often fail on fine-grained motion primitives. We address this gap with a framework of $\\textbf{benchmarki",
-    "url": "https://arxiv.org/abs/2603.13119",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-16T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-17T03:23:15.231128+00:00"
-  },
-  {
-    "title": "COMPASS: The explainable agentic framework for Sovereignty, Sustainability, Compliance, and Ethics",
-    "summary": "arXiv:2603.11277v2 Announce Type: replace Abstract: The rapid proliferation of large language model (LLM)-based agentic systems raises critical concerns regarding digital sovereignty, environmental sustainability, regulatory compliance, and ethical alignment. Whilst existing frameworks address individual dimensions in isolation, no unified architec",
-    "url": "https://arxiv.org/abs/2603.11277",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-16T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-17T03:23:15.231128+00:00"
-  },
-  {
-    "title": "Multimodal Continual Learning with MLLMs from Multi-scenario Perspectives",
-    "summary": "arXiv:2511.18507v3 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) deployed on devices must adapt to continuously changing visual scenarios such as variations in background and perspective, to effectively perform complex visual tasks. To investigate catastrophic forgetting under real-world scenario shifts, we constru",
-    "url": "https://arxiv.org/abs/2511.18507",
     "source": "Arxiv AI",
     "published_at": "2026-03-16T04:00:00+00:00",
     "score": 7,

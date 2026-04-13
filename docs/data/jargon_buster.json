@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 12, 2026",
+    "last_updated": "April 13, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Agentic AI",
-            "definition": "Agentic AI refers to systems that do not just generate text, but autonomously use tools and execute multi-step workflows to achieve a specific goal. These models can independently access external resources like Wikipedia, maps, or APIs to solve problems without requiring a human to prompt every individual sub-task.",
-            "analogy": "Imagine a kitchen where the oven doesn't just heat up when told, but autonomously checks the fridge, realizes you're out of milk, orders it from the grocery store, and adjusts the recipe timing based on the delivery estimate.",
-            "business_value": "This moves AI from being a passive 'consultant' to an active 'digital employee.' It allows for the automation of complex, end-to-end business processes, significantly reducing the labor costs associated with manual task orchestration."
+            "term": "World Models",
+            "definition": "A world model is a computational representation of an environment that allows an AI to predict future states based on current observations and hypothetical actions. Unlike standard video generators that merely predict the next pixel based on visual patterns, a true world model understands underlying causal physics and the 'rules' of the reality it is simulating.",
+            "analogy": "A world model is like a seasoned driver who understands that if they hit a patch of ice, the car will slide regardless of what the camera sees; a basic video generator is just a movie of a car driving that has no concept of friction or momentum.",
+            "business_value": "True world models are the key to moving AI from digital screens to physical labor. For CEOs, this is the difference between an AI that can 'imagine' a factory floor and an AI that can actually navigate and manage one without constant human intervention."
         },
         {
-            "term": "On-Device (Edge) AI",
-            "definition": "This trend involves running high-performance AI models locally on consumer hardware\u2014like smartphones or laptops\u2014rather than on centralized cloud servers. This is achieved through model optimization techniques that allow the AI to process text, image, and audio data without ever transmitting that information over the internet.",
-            "analogy": "It is the difference between having a private, master chef living in your own kitchen versus having to call a restaurant across town and waiting for a delivery driver to bring your meal.",
-            "business_value": "On-device processing solves the 'privacy-performance' paradox. It allows companies to deploy powerful AI tools to employees while guaranteeing that sensitive corporate data never leaves the device, effectively eliminating cloud latency and third-party data breach risks."
+            "term": "Agentic Modular Skills",
+            "definition": "These are discrete, specialized instruction sets or 'plug-ins' that an autonomous AI agent can call upon to perform specific tasks, such as coding or financial analysis. While intended to provide modular expertise, research indicates that weaker 'base models' often struggle to integrate these complex instructions, leading to a performance collapse in real-world applications.",
+            "analogy": "Think of this like giving a novice home cook a library of 'MasterClass' cards for complex souffl\u00e9s; if the cook doesn't understand basic heat management, the high-end instructions will likely just lead to a messier kitchen and a ruined meal.",
+            "business_value": "This reveals a critical 'capability floor' for enterprise automation. Executives must realize that buying specialized AI 'skills' is worthless if the underlying model isn't powerful enough to orchestrate them, potentially leading to expensive 'shadow' failures in automated workflows."
         },
         {
-            "term": "Proactive Multimodal Reasoning",
-            "definition": "This is a specialized capability where an AI model analyzes multiple data inputs (like a photo and a text description) and identifies gaps in its own knowledge. Instead of 'hallucinating' or guessing when information is missing, the model is trained via reinforcement learning to proactively ask the user for the specific data it needs to be accurate.",
-            "analogy": "Think of a car\u2019s dashboard that doesn't just show a vague 'check engine' light, but specifically tells you the oil is 20% low and refuses to let you drive high speeds until you confirm you've seen the warning.",
-            "business_value": "For a CEO, this is a critical risk-mitigation feature. It reduces the liability and cost of AI 'hallucinations' by ensuring the system flags uncertainty rather than making high-stakes business decisions based on incomplete or 'guessed' information."
+            "term": "Open Reasoning Models",
+            "definition": "These are high-parameter, open-source AI models specifically engineered for logical inference and multi-step problem solving rather than simple pattern matching. By utilizing massive scale (e.g., 400 billion parameters) and specialized training, these models aim to match the 'thought' processes of proprietary systems while allowing for private, on-premise deployment.",
+            "analogy": "If a standard AI is an automatic transmission that shifts for you based on speed, an open reasoning model is a high-performance manual gearbox that allows the driver to control exactly how much power and logic is applied to every turn of the road.",
+            "business_value": "This shifts the power balance back to the enterprise. It allows companies to possess 'Claude-level' cognitive capabilities on their own hardware, mitigating the 'vendor lock-in' and data privacy risks associated with sending sensitive corporate logic to third-party cloud providers."
         }
     ]
 }

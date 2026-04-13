@@ -1,38 +1,47 @@
 [
   {
-    "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
-    "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\" The article Someone threw a Molotov cocktail at OpenAI CEO Sam Altman&#039;s home in the middle of the night appeared first o",
-    "url": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/",
+    "title": "Man who firebombed Sam Altman's home was likely driven by AI extinction fears",
+    "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity to extinction. The article Man who firebombed Sam Altman&#039;s home was likely driven by AI extinction fears appeared first on The Decoder.",
+    "url": "https://the-decoder.com/man-who-firebombed-sam-altmans-home-was-likely-driven-by-ai-extinction-fears/",
     "source": "The Decoder",
-    "published_at": "2026-04-11T13:32:58+00:00",
+    "published_at": "2026-04-12T15:04:58+00:00",
     "score": 6,
-    "archived_at": "2026-04-12T03:55:04.435554+00:00"
+    "archived_at": "2026-04-13T04:03:10.888979+00:00"
   },
   {
-    "title": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
-    "summary": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\" The article The operator behind the AI agent that defamed an open-source developer calls it a &quot;social experiment&quot; appeared first on The Decoder.",
-    "url": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/",
+    "title": "OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans",
+    "summary": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up. The article OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/",
     "source": "The Decoder",
-    "published_at": "2026-04-11T11:22:21+00:00",
+    "published_at": "2026-04-12T13:32:38+00:00",
     "score": 6,
-    "archived_at": "2026-04-12T03:55:04.435554+00:00"
+    "archived_at": "2026-04-13T04:03:10.888979+00:00"
   },
   {
-    "title": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
-    "summary": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it. The article Overworld&#039;s Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware appeared first on The Decoder.",
-    "url": "https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/",
+    "title": "Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior",
+    "summary": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior. The article Anthropic seeks advice from Christian leaders on Claude&#039;s moral and spiritual behavior appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/",
     "source": "The Decoder",
-    "published_at": "2026-04-11T10:15:05+00:00",
+    "published_at": "2026-04-12T11:25:54+00:00",
     "score": 6,
-    "archived_at": "2026-04-12T03:55:04.435554+00:00"
+    "archived_at": "2026-04-13T04:03:10.888979+00:00"
   },
   {
-    "title": "Claude Code's new Ultraplan feature moves task planning to the cloud",
-    "summary": "Anthropic's new Ultraplan feature for Claude Code moves task planning to the cloud. Claude works out the plan in the browser while the terminal stays free for other work. The article Claude Code&#039;s new Ultraplan feature moves task planning to the cloud appeared first on The Decoder.",
-    "url": "https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/",
+    "title": "Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks",
+    "summary": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks. The article Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks appeared first on The Decod",
+    "url": "https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/",
     "source": "The Decoder",
-    "published_at": "2026-04-11T09:13:38+00:00",
+    "published_at": "2026-04-12T08:59:26+00:00",
     "score": 6,
-    "archived_at": "2026-04-12T03:55:04.435554+00:00"
+    "archived_at": "2026-04-13T04:03:10.888979+00:00"
+  },
+  {
+    "title": "Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions",
+    "summary": "ChatGPT told a man with delusional beliefs he had the highest level of mental health, then helped him forge clinical reports to stalk and humiliate his ex-girlfriend. She's now suing OpenAI and says the company ignored three separate warnings. The article Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions appeared first ",
+    "url": "https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/",
+    "source": "The Decoder",
+    "published_at": "2026-04-12T07:43:23+00:00",
+    "score": 6,
+    "archived_at": "2026-04-13T04:03:10.888979+00:00"
   }
 ]
