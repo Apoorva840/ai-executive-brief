@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 13, 2026",
+    "last_updated": "April 14, 2026",
     "tools": [
         {
-            "Name": "Hermes Agent",
-            "Category": "AI Agent / Personal Assistant",
-            "Description": "A self-improving AI agent with a built-in learning loop that can manage skills, memory, and automation across various platforms.",
-            "Use_Case": "Personal automation, cross-platform assistant (Telegram, Discord, Slack), and creating custom skills through natural language.",
-            "URL": "https://github.com/NousResearch/hermes-agent"
+            "Name": "Deep-Live-Cam",
+            "Category": "AI Creative Tools",
+            "Description": "Real-time face swapping and video deepfake generation using a single image.",
+            "Use_Case": "Creating viral memes, performance art, and AI-generated media content.",
+            "URL": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
             "Name": "MarkItDown",
-            "Category": "Document Conversion",
-            "Description": "A lightweight Python utility for converting various file formats (PDF, Office documents, audio, images) into Markdown.",
-            "Use_Case": "Preparing diverse documents for ingestion into LLM contexts while preserving structure.",
+            "Category": "Data Processing",
+            "Description": "A lightweight Python utility for converting various file types (PDF, Office docs, Images, Audio, etc.) to Markdown.",
+            "Use_Case": "Preparing diverse data sources for use with LLMs and text analysis pipelines.",
             "URL": "https://github.com/microsoft/markitdown"
         },
         {
-            "Name": "VoxCPM2",
-            "Category": "Audio Generation / TTS",
-            "Description": "A tokenizer-free, end-to-end TTS system that generates high-quality, 48kHz audio and supports voice cloning and voice design.",
-            "Use_Case": "Multilingual speech synthesis, creative voice design, and high-fidelity voice cloning.",
-            "URL": "https://github.com/OpenBMB/VoxCPM"
+            "Name": "Axolotl",
+            "Category": "Machine Learning Frameworks",
+            "Description": "A free and open-source framework designed to streamline fine-tuning for Large Language Models (LLMs).",
+            "Use_Case": "Fine-tuning and post-training LLMs with support for various methods like LoRA, QLoRA, DPO, and multimodal training.",
+            "URL": "https://github.com/axolotl-ai-cloud/axolotl"
         }
     ]
 }

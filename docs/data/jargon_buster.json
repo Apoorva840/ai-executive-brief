@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 13, 2026",
+    "last_updated": "April 14, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "World Models",
-            "definition": "A world model is a computational representation of an environment that allows an AI to predict future states based on current observations and hypothetical actions. Unlike standard video generators that merely predict the next pixel based on visual patterns, a true world model understands underlying causal physics and the 'rules' of the reality it is simulating.",
-            "analogy": "A world model is like a seasoned driver who understands that if they hit a patch of ice, the car will slide regardless of what the camera sees; a basic video generator is just a movie of a car driving that has no concept of friction or momentum.",
-            "business_value": "True world models are the key to moving AI from digital screens to physical labor. For CEOs, this is the difference between an AI that can 'imagine' a factory floor and an AI that can actually navigate and manage one without constant human intervention."
+            "term": "Agentic Mutation",
+            "definition": "Agentic mutation occurs when autonomous AI agents move beyond generating text to directly modifying the state of external systems, such as altering database records or executing financial transactions. To manage the risks of probabilistic systems making unauthorized changes, new protocols implement execution-bound safety and evidence chains to govern these state transitions.",
+            "analogy": "In a car, this is the difference between a GPS suggesting a turn and a self-driving system actually turning the wheel; mutation governance is the mechanical linkage that ensures the wheel only turns within safe physical limits, regardless of what the software 'thinks' it should do.",
+            "business_value": "This is the bridge between AI 'chatting' and AI 'working.' For the CEO, it represents the technical safeguard required to safely grant AI agents 'write access' to enterprise systems without risking catastrophic, unrecoverable data corruption or unauthorized expenditures."
         },
         {
-            "term": "Agentic Modular Skills",
-            "definition": "These are discrete, specialized instruction sets or 'plug-ins' that an autonomous AI agent can call upon to perform specific tasks, such as coding or financial analysis. While intended to provide modular expertise, research indicates that weaker 'base models' often struggle to integrate these complex instructions, leading to a performance collapse in real-world applications.",
-            "analogy": "Think of this like giving a novice home cook a library of 'MasterClass' cards for complex souffl\u00e9s; if the cook doesn't understand basic heat management, the high-end instructions will likely just lead to a messier kitchen and a ruined meal.",
-            "business_value": "This reveals a critical 'capability floor' for enterprise automation. Executives must realize that buying specialized AI 'skills' is worthless if the underlying model isn't powerful enough to orchestrate them, potentially leading to expensive 'shadow' failures in automated workflows."
+            "term": "Ontology-Governed Graph Simulation",
+            "definition": "This architecture prevents LLMs from making decisions based on 'unrestricted knowledge' by first simulating the specific business scenario within a structured graph of rules and relationships. By grounding the AI's reasoning in a predefined ontology (a map of business concepts), the system ensures every output is compliant with corporate logic and produces a verifiable audit trail.",
+            "analogy": "Imagine a kitchen where a chef is prohibited from even touching a stove until a digital simulator confirms that the specific ingredients are in stock and the recipe follows the restaurant's strict health and safety standards. It prevents the chef from 'hallucinating' a dish they don't have the ingredients for.",
+            "business_value": "This eliminates the 'Black Box' risk of AI. By forcing agents to simulate outcomes within your specific business rules first, you gain 'Auditable Decisions,' which are essential for navigating regulatory requirements and ensuring AI doesn't deviate from corporate policy."
         },
         {
-            "term": "Open Reasoning Models",
-            "definition": "These are high-parameter, open-source AI models specifically engineered for logical inference and multi-step problem solving rather than simple pattern matching. By utilizing massive scale (e.g., 400 billion parameters) and specialized training, these models aim to match the 'thought' processes of proprietary systems while allowing for private, on-premise deployment.",
-            "analogy": "If a standard AI is an automatic transmission that shifts for you based on speed, an open reasoning model is a high-performance manual gearbox that allows the driver to control exactly how much power and logic is applied to every turn of the road.",
-            "business_value": "This shifts the power balance back to the enterprise. It allows companies to possess 'Claude-level' cognitive capabilities on their own hardware, mitigating the 'vendor lock-in' and data privacy risks associated with sending sensitive corporate logic to third-party cloud providers."
+            "term": "Numeric Action Models",
+            "definition": "These are mathematical frameworks used in automated planning that specify the exact preconditions and quantitative effects of an action. Recent breakthroughs allow AI to learn these models 'online'\u2014observing real-time data to update its understanding of how actions impact numerical variables like cost, time, or resource consumption.",
+            "analogy": "Think of a smart car that doesn't just know 'braking stops the car,' but constantly learns exactly how many meters it takes to stop based on current tire wear, road moisture, and vehicle weight, updating its internal math with every stop sign.",
+            "business_value": "This moves AI from qualitative guesses to quantitative precision. For the bottom line, this enables the automation of hyper-complex logistics and industrial processes where even a 1% error in numerical planning can result in millions of dollars in wasted resources or operational downtime."
         }
     ]
 }
