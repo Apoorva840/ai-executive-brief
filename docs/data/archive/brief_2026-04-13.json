@@ -1,0 +1,58 @@
+{
+  "date": "April 13, 2026",
+  "timestamp": "2026-04-13T04:04:10.972018",
+  "is_archive_run": false,
+  "total_stories": 5,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Researchers define what counts as a world model and text-to-video generators do not",
+      "summary": "An international research team wants to bring order to the fragmented world model research landscape with OpenWorldLib. Text-to-video models like Sora are explicitly left out of their definition. The article Researchers define what counts as a world model and text-to-video generators do not appeared first on The Decoder.",
+      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
+      "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+      "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/researchers-define-what-counts-as-a-world-model-and-text-to-video-generators-do-not/"
+    },
+    {
+      "rank": 2,
+      "title": "Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find",
+      "summary": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancements barely help under realistic conditions. Weaker models actually perform worse with them than without. The article Agent skills look great in benchma",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/agent-skills-look-great-in-benchmarks-but-fall-apart-under-realistic-conditions-researchers-find/"
+    },
+    {
+      "rank": 3,
+      "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
+      "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\" The article Someone threw a Molotov cocktail at OpenAI CEO Sam Altman&#039;s home in the middle of the night appeared first o",
+      "technical_takeaway": "Hardware and energy constraints now shape model design decisions.",
+      "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+      "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/"
+    },
+    {
+      "rank": 4,
+      "title": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
+      "summary": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\" The article The operator behind the AI agent that defamed an open-source developer calls it a &quot;social experiment&quot; appeared first on The Decoder.",
+      "technical_takeaway": "Agent orchestration is emerging as a new software abstraction layer.",
+      "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+      "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/"
+    },
+    {
+      "rank": 5,
+      "title": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
+      "summary": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it. The article Overworld&#039;s Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware appeared first on The Decoder.",
+      "technical_takeaway": "Reinforces known techniques with modest refinements to existing methods.",
+      "primary_risk": "Marginal performance gains may not justify integration effort.",
+      "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/"
+    }
+  ]
+}

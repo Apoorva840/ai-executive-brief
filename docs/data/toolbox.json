@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 12, 2026",
+    "last_updated": "April 14, 2026",
     "tools": [
+        {
+            "Name": "Deep-Live-Cam",
+            "Category": "AI Creative Tools",
+            "Description": "Real-time face swapping and video deepfake generation using a single image.",
+            "Use_Case": "Creating viral memes, performance art, and AI-generated media content.",
+            "URL": "https://github.com/hacksider/Deep-Live-Cam"
+        },
         {
             "Name": "MarkItDown",
             "Category": "Data Processing",
-            "Description": "A lightweight Python utility for converting various file formats (PDF, PPT, Word, Excel, Images, etc.) to Markdown for use with LLMs.",
-            "Use_Case": "Preparing diverse document types as clean, token-efficient Markdown inputs for RAG or text analysis pipelines.",
+            "Description": "A lightweight Python utility for converting various file types (PDF, Office docs, Images, Audio, etc.) to Markdown.",
+            "Use_Case": "Preparing diverse data sources for use with LLMs and text analysis pipelines.",
             "URL": "https://github.com/microsoft/markitdown"
         },
         {
-            "Name": "VoxCPM2",
-            "Category": "Speech Synthesis",
-            "Description": "A 2B-parameter, tokenizer-free, diffusion-based text-to-speech model supporting 30 languages with 48kHz output quality.",
-            "Use_Case": "Real-time multilingual voice synthesis, creative voice design from text, and high-fidelity controllable voice cloning.",
-            "URL": "https://github.com/OpenBMB/VoxCPM"
-        },
-        {
-            "Name": "DeepTutor",
-            "Category": "AI Learning Assistant",
-            "Description": "An agent-native platform designed for personalized learning, featuring a unified workspace that supports chat, deep research, quiz generation, and math animation.",
-            "Use_Case": "Creating persistent, autonomous AI tutors with long-term memory that can execute complex, multi-step research and learning plans.",
-            "URL": "https://github.com/HKUDS/DeepTutor"
+            "Name": "Axolotl",
+            "Category": "Machine Learning Frameworks",
+            "Description": "A free and open-source framework designed to streamline fine-tuning for Large Language Models (LLMs).",
+            "Use_Case": "Fine-tuning and post-training LLMs with support for various methods like LoRA, QLoRA, DPO, and multimodal training.",
+            "URL": "https://github.com/axolotl-ai-cloud/axolotl"
         }
     ]
 }

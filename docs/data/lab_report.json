@@ -2,25 +2,25 @@
     "last_updated": "2024-04-26",
     "papers": [
         {
-            "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
-            "innovation": "Introduces Qualixar OS, an application-layer operating system for universal orchestration of heterogeneous multi-agent AI systems, supporting diverse LLM providers and agent frameworks.",
-            "benchmarks": "Supports 10 LLM providers and 8+ agent frameworks, demonstrating broad compatibility and integration capabilities.",
-            "use_case": "Building and deploying complex multi-agent AI systems, orchestrating diverse LLM agents, designing scalable AI system architectures, and developing enterprise AI solutions.",
-            "url": "https://arxiv.org/abs/2604.06392"
+            "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
+            "innovation": "Introduces OpenKedge, a protocol that redefines state mutation by autonomous AI agents as a governed process, rather than direct execution. It emphasizes execution-bound safety and evidence chains to provide sufficient context, coordination, and safety guarantees, addressing fundamental flaws in API-centric architectures for agent deployment.",
+            "benchmarks": "Not specified in abstract; describes a conceptual protocol and framework for agent governance.",
+            "use_case": "Developing and deploying autonomous AI agents in critical environments where safety, auditability, and controlled execution of actions (state mutations) are paramount. Essential for ensuring agent reliability and preventing unintended side effects.",
+            "url": "https://arxiv.org/abs/2604.08601"
         },
         {
-            "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
-            "innovation": "Develops a method to distill hallucination signals directly into LLM's internal representations during training using weak supervision, significantly reducing reliance on external verification at inference time.",
-            "benchmarks": "Addresses hallucination detection, aiming for improved reliability of LLMs (implied standard LLM evaluation sets).",
-            "use_case": "Improving the reliability and trustworthiness of Large Language Models (LLMs), fine-tuning LLMs for reduced hallucination, and developing more robust and dependable LLM applications.",
-            "url": "https://arxiv.org/abs/2604.06277"
+            "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
+            "innovation": "Proposes an ontology-governed graph simulation approach to ground LLM-based agent decisions within active business scenarios. This method aims to produce auditable and contextually relevant decisions, addressing the common problem of LLM agents generating fluent but ungrounded responses lacking an audit trail in enterprise settings.",
+            "benchmarks": "Not specified in abstract; describes an architectural approach for enterprise AI systems.",
+            "use_case": "Building robust, explainable, and auditable AI agent systems for enterprise applications. Crucial for industries requiring strict compliance, transparency, and logical grounding of AI-driven decisions within complex business processes.",
+            "url": "https://arxiv.org/abs/2604.08603"
         },
         {
-            "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
-            "innovation": "Proposes SELFDOUBT, a novel, single-pass uncertainty quantification method for reasoning LLMs based on the Hedge-to-Verify Ratio, addressing the computational cost of sampling and inconsistency of other proxies.",
-            "benchmarks": "Evaluated on reasoning tasks, demonstrating improved uncertainty estimation metrics such as calibration and correlation with accuracy.",
-            "use_case": "Deploying LLMs in high-stakes reasoning applications, improving decision-making reliability of LLMs, enabling better evaluation of proprietary LLMs, and increasing user trust in AI outputs.",
-            "url": "https://arxiv.org/abs/2604.06389"
+            "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
+            "innovation": "Introduces Sequence-Level PPO (SPPO), an optimization framework designed to overcome the instability of temporal credit assignment and the prohibitively high computational cost of standard token-level PPO when aligning Large Language Models (LLMs) for long-horizon Chain-of-Thought (CoT) reasoning tasks.",
+            "benchmarks": "Implicitly, improvements in stability and efficiency on long-horizon reasoning tasks and Chain-of-Thought (CoT) tasks, compared to token-level PPO's performance in these settings.",
+            "use_case": "Training and fine-tuning LLMs for complex, multi-step reasoning problems. AI engineers can leverage SPPO to achieve more stable and computationally efficient alignment of LLMs for advanced agentic behaviors and problem-solving, especially when dealing with long context windows and detailed reasoning paths.",
+            "url": "https://arxiv.org/abs/2604.08865"
         }
     ]
 }

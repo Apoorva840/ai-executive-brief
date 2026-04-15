@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 12, 2026",
+    "last_updated": "April 14, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Agentic AI",
-            "definition": "Agentic AI refers to systems that do not just generate text, but autonomously use tools and execute multi-step workflows to achieve a specific goal. These models can independently access external resources like Wikipedia, maps, or APIs to solve problems without requiring a human to prompt every individual sub-task.",
-            "analogy": "Imagine a kitchen where the oven doesn't just heat up when told, but autonomously checks the fridge, realizes you're out of milk, orders it from the grocery store, and adjusts the recipe timing based on the delivery estimate.",
-            "business_value": "This moves AI from being a passive 'consultant' to an active 'digital employee.' It allows for the automation of complex, end-to-end business processes, significantly reducing the labor costs associated with manual task orchestration."
+            "term": "Agentic Mutation",
+            "definition": "Agentic mutation occurs when autonomous AI agents move beyond generating text to directly modifying the state of external systems, such as altering database records or executing financial transactions. To manage the risks of probabilistic systems making unauthorized changes, new protocols implement execution-bound safety and evidence chains to govern these state transitions.",
+            "analogy": "In a car, this is the difference between a GPS suggesting a turn and a self-driving system actually turning the wheel; mutation governance is the mechanical linkage that ensures the wheel only turns within safe physical limits, regardless of what the software 'thinks' it should do.",
+            "business_value": "This is the bridge between AI 'chatting' and AI 'working.' For the CEO, it represents the technical safeguard required to safely grant AI agents 'write access' to enterprise systems without risking catastrophic, unrecoverable data corruption or unauthorized expenditures."
         },
         {
-            "term": "On-Device (Edge) AI",
-            "definition": "This trend involves running high-performance AI models locally on consumer hardware\u2014like smartphones or laptops\u2014rather than on centralized cloud servers. This is achieved through model optimization techniques that allow the AI to process text, image, and audio data without ever transmitting that information over the internet.",
-            "analogy": "It is the difference between having a private, master chef living in your own kitchen versus having to call a restaurant across town and waiting for a delivery driver to bring your meal.",
-            "business_value": "On-device processing solves the 'privacy-performance' paradox. It allows companies to deploy powerful AI tools to employees while guaranteeing that sensitive corporate data never leaves the device, effectively eliminating cloud latency and third-party data breach risks."
+            "term": "Ontology-Governed Graph Simulation",
+            "definition": "This architecture prevents LLMs from making decisions based on 'unrestricted knowledge' by first simulating the specific business scenario within a structured graph of rules and relationships. By grounding the AI's reasoning in a predefined ontology (a map of business concepts), the system ensures every output is compliant with corporate logic and produces a verifiable audit trail.",
+            "analogy": "Imagine a kitchen where a chef is prohibited from even touching a stove until a digital simulator confirms that the specific ingredients are in stock and the recipe follows the restaurant's strict health and safety standards. It prevents the chef from 'hallucinating' a dish they don't have the ingredients for.",
+            "business_value": "This eliminates the 'Black Box' risk of AI. By forcing agents to simulate outcomes within your specific business rules first, you gain 'Auditable Decisions,' which are essential for navigating regulatory requirements and ensuring AI doesn't deviate from corporate policy."
         },
         {
-            "term": "Proactive Multimodal Reasoning",
-            "definition": "This is a specialized capability where an AI model analyzes multiple data inputs (like a photo and a text description) and identifies gaps in its own knowledge. Instead of 'hallucinating' or guessing when information is missing, the model is trained via reinforcement learning to proactively ask the user for the specific data it needs to be accurate.",
-            "analogy": "Think of a car\u2019s dashboard that doesn't just show a vague 'check engine' light, but specifically tells you the oil is 20% low and refuses to let you drive high speeds until you confirm you've seen the warning.",
-            "business_value": "For a CEO, this is a critical risk-mitigation feature. It reduces the liability and cost of AI 'hallucinations' by ensuring the system flags uncertainty rather than making high-stakes business decisions based on incomplete or 'guessed' information."
+            "term": "Numeric Action Models",
+            "definition": "These are mathematical frameworks used in automated planning that specify the exact preconditions and quantitative effects of an action. Recent breakthroughs allow AI to learn these models 'online'\u2014observing real-time data to update its understanding of how actions impact numerical variables like cost, time, or resource consumption.",
+            "analogy": "Think of a smart car that doesn't just know 'braking stops the car,' but constantly learns exactly how many meters it takes to stop based on current tire wear, road moisture, and vehicle weight, updating its internal math with every stop sign.",
+            "business_value": "This moves AI from qualitative guesses to quantitative precision. For the bottom line, this enables the automation of hyper-complex logistics and industrial processes where even a 1% error in numerical planning can result in millions of dollars in wasted resources or operational downtime."
         }
     ]
 }
