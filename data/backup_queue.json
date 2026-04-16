@@ -1,137 +1,137 @@
 [
   {
-    "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation",
-    "summary": "arXiv:2604.08570v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly used for code generation, yet quantum code generation is still evaluated mostly within single frameworks, making it difficult to separate quantum reasoning from framework familiarity. We introduce QuanBench+, a unified benchmark spanning Qiskit, PennyLan",
-    "url": "https://arxiv.org/abs/2604.08570",
+    "title": "CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models",
+    "summary": "arXiv:2604.12767v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) suffer from substantial computational overhead due to the high redundancy in visual token sequences. Existing approaches typically address this issue using single-layer Vision Transformer (ViT) features and static pruning strategies. However, such fixed confi",
+    "url": "https://arxiv.org/abs/2604.12767",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "published_at": "2026-04-15T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "Act or Escalate? Evaluating Escalation Behavior in Automation with Language Models",
-    "summary": "arXiv:2604.08588v1 Announce Type: cross Abstract: Effective automation hinges on deciding when to act and when to escalate. We model this as a decision under uncertainty: an LLM forms a prediction, estimates its probability of being correct, and compares the expected costs of acting and escalating. Using this framework across five domains of record",
-    "url": "https://arxiv.org/abs/2604.08588",
+    "title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
+    "summary": "arXiv:2604.12016v1 Announce Type: new Abstract: Large language models map semantically related prompts to similar internal representations -- a phenomenon interpretable as attractor-like dynamics. We ask whether the identity document of a persistent cognitive agent (its cognitive_core) exhibits analogous attractor-like behavior. We present a contro",
+    "url": "https://arxiv.org/abs/2604.12016",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding",
-    "summary": "arXiv:2604.08645v1 Announce Type: cross Abstract: Large multimodal models are increasingly used as the reasoning core of embodied agents operating in 3D environments, yet they remain prone to hallucinations that can produce unsafe and ungrounded decisions. Existing inference-time hallucination mitigation methods largely target 2D vision-language se",
-    "url": "https://arxiv.org/abs/2604.08645",
+    "title": "LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks",
+    "summary": "arXiv:2604.12096v1 Announce Type: new Abstract: On online advertising platforms, newly introduced promotional ads face the cold-start problem, as they lack sufficient user feedback for model training. In this work, we propose LLM-HYPER, a novel framework that treats large language models (LLMs) as hypernetworks to directly generate the parameters o",
+    "url": "https://arxiv.org/abs/2604.12096",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving",
-    "summary": "arXiv:2604.08719v1 Announce Type: cross Abstract: Recent years have seen remarkable progress in autonomous driving, yet generalization to long-tail and open-world scenarios remains a major bottleneck for large-scale deployment. To address this challenge, some works use LLMs and VLMs for vision-language understanding and reasoning, enabling vehicles",
-    "url": "https://arxiv.org/abs/2604.08719",
+    "title": "Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints",
+    "summary": "arXiv:2604.12384v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) remains highly fragile during fine-tuning, where even benign adaptation can degrade pre-trained refusal behaviors and enable harmful responses. Existing defenses typically constrain either weights or activations in isolation, without considering their c",
+    "url": "https://arxiv.org/abs/2604.12384",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs",
-    "summary": "arXiv:2604.08846v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have been shown to be vulnerable to malicious queries that can elicit unsafe responses. Recent work uses prompt engineering, response classification, or finetuning to improve MLLM safety. Nevertheless, such approaches are often ineffective against evolving ma",
-    "url": "https://arxiv.org/abs/2604.08846",
+    "title": "A Two-Stage LLM Framework for Accessible and Verified XAI Explanations",
+    "summary": "arXiv:2604.12543v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly used to translate the technical outputs of eXplainable Artificial Intelligence (XAI) methods into accessible natural-language explanations. However, existing approaches often lack guarantees of accuracy, faithfulness, and completeness. At the same time, cu",
+    "url": "https://arxiv.org/abs/2604.12543",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "A Mathematical Framework for Temporal Modeling and Counterfactual Policy Simulation of Student Dropout",
-    "summary": "arXiv:2604.08874v1 Announce Type: cross Abstract: This study proposes a temporal modeling framework with a counterfactual policy-simulation layer for student dropout in higher education, using LMS engagement data and administrative withdrawal records. Dropout is operationalized as a time-to-event outcome at the enrollment level; weekly risk is mode",
-    "url": "https://arxiv.org/abs/2604.08874",
+    "title": "IDEA: An Interpretable and Editable Decision-Making Framework for LLMs via Verbal-to-Numeric Calibration",
+    "summary": "arXiv:2604.12573v1 Announce Type: new Abstract: Large Language Models are increasingly deployed for decision-making, yet their adoption in high-stakes domains remains limited by miscalibrated probabilities, unfaithful explanations, and inability to incorporate expert knowledge precisely. We propose IDEA, a framework that extracts LLM decision knowl",
+    "url": "https://arxiv.org/abs/2604.12573",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing",
-    "summary": "arXiv:2604.08884v1 Announce Type: cross Abstract: While multimodal large language models (MLLMs) have made significant strides in natural image understanding, their ability to perceive and reason over hyperspectral image (HSI) remains underexplored, which is a vital modality in remote sensing. The high dimensionality and intricate spectral-spatial ",
-    "url": "https://arxiv.org/abs/2604.08884",
+    "title": "DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding",
+    "summary": "arXiv:2604.12812v1 Announce Type: new Abstract: Existing Multimodal Large Language Models (MLLMs) suffer from significant performance degradation on the long document understanding task as document length increases. This stems from two fundamental challenges: 1) a low Signal-to-Noise Ratio (SNR), with crucial evidence buried in irrelevant pages; an",
+    "url": "https://arxiv.org/abs/2604.12812",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator",
-    "summary": "arXiv:2604.08947v1 Announce Type: cross Abstract: As Large Language Models (LLMs) become increasingly prevalent in text simplification, systematically evaluating their outputs across diverse prompting strategies and architectures remains a critical methodological challenge in both NLP research and Intelligent Tutoring Systems (ITS). Developing robu",
-    "url": "https://arxiv.org/abs/2604.08947",
+    "title": "LLM-Guided Semantic Bootstrapping for Interpretable Text Classification with Tsetlin Machines",
+    "summary": "arXiv:2604.12223v1 Announce Type: cross Abstract: Pretrained language models (PLMs) like BERT provide strong semantic representations but are costly and opaque, while symbolic models such as the Tsetlin Machine (TM) offer transparency but lack semantic generalization. We propose a semantic bootstrapping framework that transfers LLM knowledge into s",
+    "url": "https://arxiv.org/abs/2604.12223",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "PinpointQA: A Dataset and Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos",
-    "summary": "arXiv:2604.08991v1 Announce Type: cross Abstract: Small object-centric spatial understanding in indoor videos remains a significant challenge for multimodal large language models (MLLMs), despite its practical value for object search and assistive applications. Although existing benchmarks have advanced video spatial intelligence, embodied reasonin",
-    "url": "https://arxiv.org/abs/2604.08991",
+    "title": "GCA Framework: A Gulf-Grounded Dataset and Agentic Pipeline for Climate Decision Support",
+    "summary": "arXiv:2604.12306v1 Announce Type: cross Abstract: Climate decision-making in the Gulf increasingly demands systems that can translate heterogeneous scientific and policy evidence into actionable guidance, yet general-purpose large language models (LLMs) remain weak both in region-specific climate knowledge and grounded interaction with geospatial a",
+    "url": "https://arxiv.org/abs/2604.12306",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "ASTRA: Adaptive Semantic Tree Reasoning Architecture for Complex Table Question Answering",
-    "summary": "arXiv:2604.08999v1 Announce Type: cross Abstract: Table serialization remains a critical bottleneck for Large Language Models (LLMs) in complex table question answering, hindered by challenges such as structural neglect, representation gaps, and reasoning opacity. Existing serialization methods fail to capture explicit hierarchies and lack schema f",
-    "url": "https://arxiv.org/abs/2604.08999",
+    "title": "Decoding by Perturbation: Mitigating MLLM Hallucinations via Dynamic Textual Perturbation",
+    "summary": "arXiv:2604.12424v1 Announce Type: cross Abstract: Multimodal Large Language Models frequently suffer from inference hallucinations, partially stemming from language priors dominating visual evidence. Existing training-free mitigation methods either perturb the visual representation and deviate from the natural image distribution, or enforce intrusi",
+    "url": "https://arxiv.org/abs/2604.12424",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "Watt Counts: Energy-Aware Benchmark for Sustainable LLM Inference on Heterogeneous GPU Architectures",
-    "summary": "arXiv:2604.09048v1 Announce Type: cross Abstract: While the large energy consumption of Large Language Models (LLMs) is recognized by the community, system operators lack guidance for energy-efficient LLM inference deployments that leverage energy trade-offs of heterogeneous hardware due to a lack of energy-aware benchmarks and data. In this work w",
-    "url": "https://arxiv.org/abs/2604.09048",
+    "title": "MGA: Memory-Driven GUI Agent for Observation-Centric Interaction",
+    "summary": "arXiv:2510.24168v3 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) have significantly advanced GUI agents, yet long-horizon automation remains constrained by two critical bottlenecks: context overload from raw sequential trajectory dependence and architectural redundancy from over-engineered expert modules. Prevailing End-",
+    "url": "https://arxiv.org/abs/2510.24168",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "Learning Vision-Language-Action World Models for Autonomous Driving",
-    "summary": "arXiv:2604.09059v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models have recently achieved notable progress in end-to-end autonomous driving by integrating perception, reasoning, and control within a unified multimodal framework. However, they often lack explicit modeling of temporal dynamics and global world consistency, which li",
-    "url": "https://arxiv.org/abs/2604.09059",
+    "title": "Persona Non Grata: Single-Method Safety Evaluation Is Incomplete for Persona-Imbued LLMs",
+    "summary": "arXiv:2604.11120v2 Announce Type: replace Abstract: Personality imbuing customizes LLM behavior, but safety evaluations almost always study prompt-based personas alone. We show this is incomplete: prompting and activation steering expose *different*, architecture-dependent vulnerability profiles, and testing with only one method can miss a model's ",
+    "url": "https://arxiv.org/abs/2604.11120",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation",
-    "summary": "arXiv:2604.09089v1 Announce Type: cross Abstract: Large Language Models (LLMs) for code generation can replicate insecure patterns from their training data. To mitigate this, a common strategy for security hardening is to fine-tune models using supervision derived from the final transformer layer. However, this design may suffer from a final-layer ",
-    "url": "https://arxiv.org/abs/2604.09089",
+    "title": "GUIDE: Guided Updates for In-context Decision Evolution in LLM-Driven Spacecraft Operations",
+    "summary": "arXiv:2603.27306v2 Announce Type: replace-cross Abstract: Large language models (LLMs) have been proposed as supervisory agents for spacecraft operations, but existing approaches rely on static prompting and do not improve across repeated executions. We introduce \\textsc{GUIDE}, a non-parametric policy improvement framework that enables cross-episo",
+    "url": "https://arxiv.org/abs/2603.27306",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
+    "published_at": "2026-04-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
-    "summary": "arXiv:2604.09529v1 Announce Type: cross Abstract: Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes domains. Existing verbalized confidence calibration methods, largely developed for text-only LLMs, typi",
-    "url": "https://arxiv.org/abs/2604.09529",
+    "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
+    "summary": "arXiv:2604.11969v1 Announce Type: new Abstract: We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction task. Unlike existing methods that directly summarize raw text into slides, ArcDeck explicitly models the source paper's logical flow. It first parses the input to construct",
+    "url": "https://arxiv.org/abs/2604.11969",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "published_at": "2026-04-15T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   },
   {
-    "title": "Rethinking Prospect Theory for LLMs: Revealing the Instability of Decision-Making under Epistemic Uncertainty",
-    "summary": "arXiv:2508.08992v3 Announce Type: replace Abstract: Prospect Theory (PT) models human decision-making behaviour under uncertainty, among which linguistic uncertainty is commonly adopted in real-world scenarios. Although recent studies have developed some frameworks to test PT parameters for Large Language Models (LLMs), few have considered the fitn",
-    "url": "https://arxiv.org/abs/2508.08992",
+    "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+    "summary": "arXiv:2604.11978v1 Announce Type: new Abstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that require extended, interdependent action sequences. Despite rapid progress in agentic systems, these long-horizon failures remain poorly characterized, hindering principle",
+    "url": "https://arxiv.org/abs/2604.11978",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
+    "published_at": "2026-04-15T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-04-16T03:57:49.378289+00:00"
   }
 ]

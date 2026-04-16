@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-04-26",
+    "last_updated": "2024-05-18",
     "papers": [
         {
-            "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
-            "innovation": "Introduces OpenKedge, a protocol that redefines state mutation by autonomous AI agents as a governed process, rather than direct execution. It emphasizes execution-bound safety and evidence chains to provide sufficient context, coordination, and safety guarantees, addressing fundamental flaws in API-centric architectures for agent deployment.",
-            "benchmarks": "Not specified in abstract; describes a conceptual protocol and framework for agent governance.",
-            "use_case": "Developing and deploying autonomous AI agents in critical environments where safety, auditability, and controlled execution of actions (state mutations) are paramount. Essential for ensuring agent reliability and preventing unintended side effects.",
-            "url": "https://arxiv.org/abs/2604.08601"
+            "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+            "innovation": "This paper offers a critical diagnosis of why large language model (LLM) agents struggle and fail on long-horizon tasks, which is a major hurdle for practical deployment. It systematically characterizes failure modes, moving beyond anecdotal observations to provide foundational insights into agent robustness.",
+            "benchmarks": "Focuses on analyzing and characterizing failures of LLM agents in extended, interdependent action sequences, implying diagnostic evaluation across various challenging multi-step tasks where agent breakdowns are common.",
+            "use_case": "Crucial for AI engineers building, deploying, and debugging LLM-powered agentic systems. Understanding the root causes of failure on complex, long-running tasks enables the development of more robust agent architectures, better error handling, and more reliable deployment strategies.",
+            "url": "https://arxiv.org/abs/2604.11978"
         },
         {
-            "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
-            "innovation": "Proposes an ontology-governed graph simulation approach to ground LLM-based agent decisions within active business scenarios. This method aims to produce auditable and contextually relevant decisions, addressing the common problem of LLM agents generating fluent but ungrounded responses lacking an audit trail in enterprise settings.",
-            "benchmarks": "Not specified in abstract; describes an architectural approach for enterprise AI systems.",
-            "use_case": "Building robust, explainable, and auditable AI agent systems for enterprise applications. Crucial for industries requiring strict compliance, transparency, and logical grounding of AI-driven decisions within complex business processes.",
-            "url": "https://arxiv.org/abs/2604.08603"
+            "title": "When to Forget: A Memory Governance Primitive",
+            "innovation": "Proposes a principled operational metric for memory quality governance in AI agents, tackling the challenge of deciding which accumulated memories to trust, suppress, or deprecate as an agent's operational context evolves. This is a significant step towards dynamic and intelligent memory management.",
+            "benchmarks": "Implicitly suggests evaluation against memory efficiency, relevance, and agent performance over extended periods or shifting task distributions, demonstrating how dynamic memory management impacts learning and decision-making.",
+            "use_case": "Essential for AI engineers designing and implementing persistent and scalable memory systems for LLM agents and other autonomous systems. It enables agents to manage their knowledge base effectively, preventing memory bloat, improving recall relevance, and adapting more gracefully to changing environments.",
+            "url": "https://arxiv.org/abs/2604.12007"
         },
         {
-            "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
-            "innovation": "Introduces Sequence-Level PPO (SPPO), an optimization framework designed to overcome the instability of temporal credit assignment and the prohibitively high computational cost of standard token-level PPO when aligning Large Language Models (LLMs) for long-horizon Chain-of-Thought (CoT) reasoning tasks.",
-            "benchmarks": "Implicitly, improvements in stability and efficiency on long-horizon reasoning tasks and Chain-of-Thought (CoT) tasks, compared to token-level PPO's performance in these settings.",
-            "use_case": "Training and fine-tuning LLMs for complex, multi-step reasoning problems. AI engineers can leverage SPPO to achieve more stable and computationally efficient alignment of LLMs for advanced agentic behaviors and problem-solving, especially when dealing with long context windows and detailed reasoning paths.",
-            "url": "https://arxiv.org/abs/2604.08865"
+            "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
+            "innovation": "Investigates the practical utility of self-monitoring capabilities (e.g., metacognition, self-prediction) in reinforcement learning agents, providing empirical evidence on whether these complex additions actually lead to performance benefits. This informs the design of more introspective and capable agents.",
+            "benchmarks": "Evaluates agent performance in a continuous-time multi-timescale setting, specifically in 'predator-prey survival environments,' likely comparing metrics such as survival rate, efficiency, and adaptability between agents with and without integrated self-monitoring.",
+            "use_case": "Directly impacts AI engineers developing advanced RL agents or other autonomous systems. If self-monitoring is proven beneficial, engineers can leverage these insights to design more robust, adaptable, and efficient agents that can better understand their own state and predict outcomes, leading to improved decision-making.",
+            "url": "https://arxiv.org/abs/2604.11914"
         }
     ]
 }

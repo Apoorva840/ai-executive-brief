@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 14, 2026",
+    "last_updated": "April 16, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Agentic Mutation",
-            "definition": "Agentic mutation occurs when autonomous AI agents move beyond generating text to directly modifying the state of external systems, such as altering database records or executing financial transactions. To manage the risks of probabilistic systems making unauthorized changes, new protocols implement execution-bound safety and evidence chains to govern these state transitions.",
-            "analogy": "In a car, this is the difference between a GPS suggesting a turn and a self-driving system actually turning the wheel; mutation governance is the mechanical linkage that ensures the wheel only turns within safe physical limits, regardless of what the software 'thinks' it should do.",
-            "business_value": "This is the bridge between AI 'chatting' and AI 'working.' For the CEO, it represents the technical safeguard required to safely grant AI agents 'write access' to enterprise systems without risking catastrophic, unrecoverable data corruption or unauthorized expenditures."
+            "term": "Long-Horizon Agentic Decay",
+            "definition": "This refers to the progressive failure of AI agents when tasked with complex, multi-step workflows that require interdependent action sequences over time. While models succeed at short-term tasks, they often suffer from compounding errors where a minor deviation in step one causes a total logical collapse by step ten.",
+            "analogy": "In a professional kitchen, this is the difference between a line cook searing a single steak (short-horizon) versus an Executive Chef coordinating a 12-course tasting menu for a party of fifty; one late delivery in the first course creates a 'mirage' of progress that eventually ruins the entire service.",
+            "business_value": "For the C-suite, this highlights the gap between 'AI Hype' and 'AI Utility.' Until long-horizon reliability is solved, autonomous agents should be deployed for modular tasks rather than end-to-end business processes to avoid systemic operational fragility."
         },
         {
-            "term": "Ontology-Governed Graph Simulation",
-            "definition": "This architecture prevents LLMs from making decisions based on 'unrestricted knowledge' by first simulating the specific business scenario within a structured graph of rules and relationships. By grounding the AI's reasoning in a predefined ontology (a map of business concepts), the system ensures every output is compliant with corporate logic and produces a verifiable audit trail.",
-            "analogy": "Imagine a kitchen where a chef is prohibited from even touching a stove until a digital simulator confirms that the specific ingredients are in stock and the recipe follows the restaurant's strict health and safety standards. It prevents the chef from 'hallucinating' a dish they don't have the ingredients for.",
-            "business_value": "This eliminates the 'Black Box' risk of AI. By forcing agents to simulate outcomes within your specific business rules first, you gain 'Auditable Decisions,' which are essential for navigating regulatory requirements and ensuring AI doesn't deviate from corporate policy."
+            "term": "Memory Governance Primitives",
+            "definition": "These are algorithmic rules that determine how an AI agent decides which information to prioritize, suppress, or permanently delete as its task environment evolves. Instead of treating all data as equally important, these primitives allow the agent to 'forget' obsolete data to prevent 'context clutter' and decision-making noise.",
+            "analogy": "Think of a smart car's navigation system: memory governance is the logic that decides to 'forget' a road closure from three years ago while 'trusting' a fresh report of a traffic jam five miles ahead, ensuring the driver isn't overwhelmed by irrelevant historical data.",
+            "business_value": "Effective memory governance reduces the 'compute tax'\u2014the cost of processing unnecessary data\u2014and significantly lowers the risk of 'hallucinations' caused by the AI relying on deprecated or conflicting corporate information."
         },
         {
-            "term": "Numeric Action Models",
-            "definition": "These are mathematical frameworks used in automated planning that specify the exact preconditions and quantitative effects of an action. Recent breakthroughs allow AI to learn these models 'online'\u2014observing real-time data to update its understanding of how actions impact numerical variables like cost, time, or resource consumption.",
-            "analogy": "Think of a smart car that doesn't just know 'braking stops the car,' but constantly learns exactly how many meters it takes to stop based on current tire wear, road moisture, and vehicle weight, updating its internal math with every stop sign.",
-            "business_value": "This moves AI from qualitative guesses to quantitative precision. For the bottom line, this enables the automation of hyper-complex logistics and industrial processes where even a 1% error in numerical planning can result in millions of dollars in wasted resources or operational downtime."
+            "term": "Attractor Dynamics in Activation Space",
+            "definition": "This is a geometric interpretation of how an LLM maintains a consistent persona or 'identity' within its internal mathematical layers (activation space). It suggests that certain semantic concepts act like 'gravity wells,' pulling the model's responses toward a stable center of gravity to ensure the agent doesn't drift into erratic behavior.",
+            "analogy": "Imagine a car's wheel alignment: no matter how many times the driver hits a bump or nudges the wheel (the input), the 'attractor' (the physical alignment) pulls the car back to a straight, predictable path.",
+            "business_value": "This provides a technical foundation for 'Brand Safety.' By measuring these attractors, executives can mathematically verify that their customer-facing AI will remain consistent with corporate values and identity, even when provoked by unpredictable user inputs."
         }
     ]
 }

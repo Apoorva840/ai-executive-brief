@@ -1,42 +1,42 @@
 [
   {
-    "title": "EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture",
-    "summary": "arXiv:2511.03122v2 Announce Type: replace-cross Abstract: Designing materials with targeted properties remains challenging due to the vastness of chemical space and the scarcity of property-labeled data. While recent advances in generative models offer a promising way for inverse design, most approaches require large datasets and must be retrained ",
-    "url": "https://arxiv.org/abs/2511.03122",
+    "title": "GRACE: A Dynamic Coreset Selection Framework for Large Language Model Optimization",
+    "summary": "arXiv:2604.11810v1 Announce Type: cross Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities in natural language understanding and generation. However, their immense number of parameters and complex transformer-based architectures result in significant resource demands and computational complexity during training, making",
+    "url": "https://arxiv.org/abs/2604.11810",
     "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 8
+    "published_at": "2026-04-15T04:00:00+00:00",
+    "score": 9
   },
   {
-    "title": "OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\"",
-    "summary": "An internal OpenAI memo lays out five strategic priorities for the enterprise business - including a new model codenamed \"Spud,\" a platform play for AI agents, and the blunt accusation that Anthropic is overstating its revenue by 8 billion dollars. The article OpenAI&#039;s leaked memo says new &quot;Spud&quot; model will make all its products &quo",
-    "url": "https://the-decoder.com/openais-leaked-memo-says-new-spud-model-will-make-all-its-products-significantly-better/",
-    "source": "The Decoder",
-    "published_at": "2026-04-13T19:06:34+00:00",
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-04-15T12:07:25+00:00",
     "score": 7
   },
   {
-    "title": "New AI model generates 45-minute lip-synced video from one photo and runs in real time",
-    "summary": "A single image becomes a talking character: LPM 1.0 generates real-time video with lip sync, facial expressions, and emotional reactions. For now, it remains a research project. The article New AI model generates 45-minute lip-synced video from one photo and runs in real time appeared first on The Decoder.",
-    "url": "https://the-decoder.com/new-ai-model-generates-45-minute-lip-synced-video-from-one-photo-and-runs-in-real-time/",
-    "source": "The Decoder",
-    "published_at": "2026-04-13T17:31:59+00:00",
+    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "summary": "",
+    "url": "https://huggingface.co/blog/Hcompany/holotab",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-04-15T09:25:20+00:00",
     "score": 7
   },
   {
-    "title": "Strengthening enterprise governance for rising edge AI workloads",
-    "summary": "Models like Google Gemma 4 are increasing enterprise AI governance challenges for CISOs as they scramble to secure edge workloads. Security chiefs have built massive digital walls around the cloud; deploying advanced cloud access security brokers and routing every piece of traffic heading to external large language models through monitored corporat",
-    "url": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
+    "title": "The US-China AI gap closed. The responsible AI gap didn’t",
+    "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University&#8217;s 2026 AI Index Report, published this week. The report, produced by Stanford&#8217;s Institute for Human-Centred Artificial Intelligence, is a 423-page annual ass",
+    "url": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
     "source": "AI News",
-    "published_at": "2026-04-13T13:02:01+00:00",
+    "published_at": "2026-04-15T10:00:00+00:00",
     "score": 6
   },
   {
-    "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
-    "summary": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
-    "url": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+    "title": "AI Could Democratize One of Tech's Most Valuable Resources",
+    "summary": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
+    "url": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
     "source": "Wired AI",
-    "published_at": "2026-04-13T23:37:38+00:00",
+    "published_at": "2026-04-15T18:00:00+00:00",
     "score": 5
   }
 ]

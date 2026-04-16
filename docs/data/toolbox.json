@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 14, 2026",
+    "last_updated": "April 16, 2026",
     "tools": [
         {
-            "Name": "Deep-Live-Cam",
-            "Category": "AI Creative Tools",
-            "Description": "Real-time face swapping and video deepfake generation using a single image.",
-            "Use_Case": "Creating viral memes, performance art, and AI-generated media content.",
-            "URL": "https://github.com/hacksider/Deep-Live-Cam"
+            "Name": "Open WebUI",
+            "Category": "AI User Interface",
+            "Description": "A user-friendly, self-hosted AI platform designed to operate entirely offline.",
+            "Use_Case": "Providing a chat-based interface for LLMs like Ollama and OpenAI-compatible APIs, including support for RAG and web search.",
+            "URL": "https://github.com/open-webui/open-webui"
         },
         {
-            "Name": "MarkItDown",
-            "Category": "Data Processing",
-            "Description": "A lightweight Python utility for converting various file types (PDF, Office docs, Images, Audio, etc.) to Markdown.",
-            "Use_Case": "Preparing diverse data sources for use with LLMs and text analysis pipelines.",
-            "URL": "https://github.com/microsoft/markitdown"
+            "Name": "Magika",
+            "Category": "File Analysis",
+            "Description": "An AI-powered file type detection tool that uses deep learning for fast and accurate classification.",
+            "Use_Case": "Automated identification of file types (binary vs. textual) within security and content policy pipelines.",
+            "URL": "https://github.com/google/magika"
         },
         {
-            "Name": "Axolotl",
-            "Category": "Machine Learning Frameworks",
-            "Description": "A free and open-source framework designed to streamline fine-tuning for Large Language Models (LLMs).",
-            "Use_Case": "Fine-tuning and post-training LLMs with support for various methods like LoRA, QLoRA, DPO, and multimodal training.",
-            "URL": "https://github.com/axolotl-ai-cloud/axolotl"
+            "Name": "GenericAgent",
+            "Category": "Autonomous Agents",
+            "Description": "A minimal, self-evolving autonomous agent framework that builds a skill tree through experience.",
+            "Use_Case": "Automating complex system-level tasks like browser control, file system management, and scripting with autonomous skill accumulation.",
+            "URL": "https://github.com/lsdefine/GenericAgent"
         }
     ]
 }
