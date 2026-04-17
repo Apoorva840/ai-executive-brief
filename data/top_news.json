@@ -4,39 +4,39 @@
     "summary": "arXiv:2604.11810v1 Announce Type: cross Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities in natural language understanding and generation. However, their immense number of parameters and complex transformer-based architectures result in significant resource demands and computational complexity during training, making",
     "url": "https://arxiv.org/abs/2604.11810",
     "source": "Arxiv AI",
-    "published_at": "2026-04-15T04:00:00+00:00",
+    "published_at": "2026-04-16T04:00:00+00:00",
     "score": 9
   },
   {
-    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-04-15T12:07:25+00:00",
+    "title": "Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities",
+    "summary": "Anthropic's new flagship model Claude Opus 4.7 delivers major improvements in coding tasks. During training, the company deliberately tried to reduce certain cybersecurity capabilities. The article Anthropic&#039;s Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropics-claude-opus-4-7-makes-a-big-leap-in-coding-while-deliberately-scaling-back-cyber-capabilities/",
+    "source": "The Decoder",
+    "published_at": "2026-04-16T15:52:49+00:00",
     "score": 7
   },
   {
-    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-    "summary": "",
-    "url": "https://huggingface.co/blog/Hcompany/holotab",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-04-15T09:25:20+00:00",
+    "title": "OpenAI wants to sell more ads in ChatGPT, but advertisers are struggling with basic tools",
+    "summary": "OpenAI is expanding its advertising business in ChatGPT and introducing new pricing models. But early advertisers are running into a lack of tracking tools and limited targeting options. The article OpenAI wants to sell more ads in ChatGPT, but advertisers are struggling with basic tools appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-wants-to-sell-more-ads-in-chatgpt-but-advertisers-are-struggling-with-basic-tools/",
+    "source": "The Decoder",
+    "published_at": "2026-04-16T15:23:44+00:00",
     "score": 7
   },
   {
-    "title": "The US-China AI gap closed. The responsible AI gap didn’t",
-    "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University&#8217;s 2026 AI Index Report, published this week. The report, produced by Stanford&#8217;s Institute for Human-Centred Artificial Intelligence, is a 423-page annual ass",
-    "url": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
+    "title": "OpenAI Agents SDK improves governance with sandbox execution",
+    "summary": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred. Using model-agnostic frameworks offered initial flexibility but failed to full",
+    "url": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
     "source": "AI News",
-    "published_at": "2026-04-15T10:00:00+00:00",
-    "score": 6
+    "published_at": "2026-04-16T11:20:00+00:00",
+    "score": 7
   },
   {
-    "title": "AI Could Democratize One of Tech's Most Valuable Resources",
-    "summary": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
-    "url": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
-    "source": "Wired AI",
-    "published_at": "2026-04-15T18:00:00+00:00",
-    "score": 5
+    "title": "5 top cloud migration software for Infrastructure as Code (IaC)",
+    "summary": "Cloud migration becomes much harder when teams are not moving workloads, but also trying to make every environment reproducible and deployment-ready through Infrastructure as Code. The challenge is not limited to copying applications from one platform to another. It includes validating architecture decisions, controlling drift, enforcing policies, ",
+    "url": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/",
+    "source": "AI News",
+    "published_at": "2026-04-16T12:30:30+00:00",
+    "score": 6
   }
 ]

@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 16, 2026",
+    "last_updated": "April 17, 2026",
     "tools": [
-        {
-            "Name": "Open WebUI",
-            "Category": "AI User Interface",
-            "Description": "A user-friendly, self-hosted AI platform designed to operate entirely offline.",
-            "Use_Case": "Providing a chat-based interface for LLMs like Ollama and OpenAI-compatible APIs, including support for RAG and web search.",
-            "URL": "https://github.com/open-webui/open-webui"
-        },
-        {
-            "Name": "Magika",
-            "Category": "File Analysis",
-            "Description": "An AI-powered file type detection tool that uses deep learning for fast and accurate classification.",
-            "Use_Case": "Automated identification of file types (binary vs. textual) within security and content policy pipelines.",
-            "URL": "https://github.com/google/magika"
-        },
         {
             "Name": "GenericAgent",
             "Category": "Autonomous Agents",
-            "Description": "A minimal, self-evolving autonomous agent framework that builds a skill tree through experience.",
-            "Use_Case": "Automating complex system-level tasks like browser control, file system management, and scripting with autonomous skill accumulation.",
+            "Description": "A minimal, self-evolving autonomous agent framework that crystallizes execution paths into reusable skills.",
+            "Use_Case": "Automating complex tasks (e.g., web exploration, data processing) that require evolving capabilities over time.",
             "URL": "https://github.com/lsdefine/GenericAgent"
+        },
+        {
+            "Name": "Cognee",
+            "Category": "AI Memory / Knowledge Engine",
+            "Description": "A knowledge engine for building AI memory that combines vector search and graph databases.",
+            "Use_Case": "Providing long-term memory, context management, and cross-agent knowledge sharing for AI agents.",
+            "URL": "https://github.com/topoteretes/cognee"
+        },
+        {
+            "Name": "Magika",
+            "Category": "File Identification",
+            "Description": "An AI-powered tool for fast and accurate detection of file types using deep learning.",
+            "Use_Case": "Automated security scanning, content policy enforcement, and reliable file classification in data pipelines.",
+            "URL": "https://github.com/google/magika"
         }
     ]
 }
