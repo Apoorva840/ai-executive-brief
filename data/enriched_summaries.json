@@ -1,25 +1,10 @@
 [
   {
-    "title": "GRACE: A Dynamic Coreset Selection Framework for Large Language Model Optimization",
-    "url": "https://arxiv.org/abs/2604.11810",
+    "title": "LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems",
+    "url": "https://arxiv.org/abs/2601.14053",
     "source": "Arxiv AI",
-    "score": 9,
-    "what_happened": "arXiv:2604.11810v1 Announce Type: cross Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities in natural language understanding and generation. However, their immense number of parameters and complex transformer-based architectures result in significant resource demands and computational complexity during training, making",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
-    "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
-    ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities",
-    "url": "https://the-decoder.com/anthropics-claude-opus-4-7-makes-a-big-leap-in-coding-while-deliberately-scaling-back-cyber-capabilities/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Anthropic's new flagship model Claude Opus 4.7 delivers major improvements in coding tasks. During training, the company deliberately tried to reduce certain cybersecurity capabilities. The article Anthropic&#039;s Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities appeared first on The Decoder.",
+    "score": 8,
+    "what_happened": "arXiv:2601.14053v2 Announce Type: replace-cross Abstract: The field of artificial intelligence has undergone a revolution from foundational Transformer architectures to reasoning-capable systems approaching human-level performance. We present LLMOrbit, a comprehensive circular taxonomy navigating the landscape of large language models spanning 2019",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -30,46 +15,61 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "OpenAI wants to sell more ads in ChatGPT, but advertisers are struggling with basic tools",
-    "url": "https://the-decoder.com/openai-wants-to-sell-more-ads-in-chatgpt-but-advertisers-are-struggling-with-basic-tools/",
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "source": "Hugging Face Blog",
+    "score": 8,
+    "what_happened": "Hugging Face Blog announced 'Building a Fast Multilingual OCR Model with Synthetic Data', highlighting new developments relevant to AI researchers and practitioners.",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "who_should_care": [
+      "ML Engineers",
+      "Open-Source Contributors"
+    ],
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "Physical Intelligence shows robot model with LLM-like generalization, flaws included",
+    "url": "https://the-decoder.com/physical-intelligence-shows-robot-model-with-llm-like-generalization-flaws-included/",
+    "source": "The Decoder",
+    "score": 8,
+    "what_happened": "US start-up Physical Intelligence has introduced π0.7, a new robot foundation model designed to recombine skills learned during training, similar to how a language model reassembles text fragments from its training data. The researchers describe this as early signs of \"compositional generalization\" in robotics. The article Physical Intelligence sho",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+  },
+  {
+    "title": "The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse",
+    "url": "https://the-decoder.com/the-white-house-weighs-whether-anthropics-mythos-is-too-valuable-for-the-federal-government-to-refuse/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "OpenAI is expanding its advertising business in ChatGPT and introducing new pricing models. But early advertisers are running into a lack of tracking tools and limited targeting options. The article OpenAI wants to sell more ads in ChatGPT, but advertisers are struggling with basic tools appeared first on The Decoder.",
+    "what_happened": "Anthropic CEO Dario Amodei is meeting Trump's Chief of Staff Susie Wiles at the White House to end a months-long standoff with the Pentagon. The new Mythos model's cybersecurity chops reportedly opened the door. The article The White House weighs whether Anthropic&#039;s Mythos is too valuable for the federal government to refuse appeared first on",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "AI Professionals"
     ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "OpenAI Agents SDK improves governance with sandbox execution",
-    "url": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
-    "source": "AI News",
-    "score": 7,
-    "what_happened": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred. Using model-agnostic frameworks offered initial flexibility but failed to full",
+    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+    "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "5 top cloud migration software for Infrastructure as Code (IaC)",
-    "url": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/",
-    "source": "AI News",
-    "score": 6,
-    "what_happened": "Cloud migration becomes much harder when teams are not moving workloads, but also trying to make every environment reproducible and deployment-ready through Infrastructure as Code. The challenge is not limited to copying applications from one platform to another. It includes validating architecture decisions, controlling drift, enforcing policies,",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
-      "AI Professionals"
+      "Policy Leaders",
+      "Tech Strategists"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   }
 ]

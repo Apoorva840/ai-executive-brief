@@ -1,26 +1,5 @@
 {
-    "last_updated": "2023-10-27",
-    "papers": [
-        {
-            "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
-            "innovation": "This paper provides a crucial characterization and diagnosis of failure modes in Large Language Model (LLM) agentic systems, specifically for long-horizon tasks. Unlike previous work that observed failures, this research aims for a principled understanding of why these systems break down, offering a foundation for systematic improvement.",
-            "benchmarks": "Focuses on characterizing and diagnosing existing failures rather than introducing new performance benchmarks. The implicit benchmark is the improved understanding of robustness and reliability for complex agentic tasks.",
-            "use_case": "Essential for AI engineers tasked with building, debugging, and improving the reliability and scalability of LLM-based agentic systems. It provides actionable insights into common failure points in multi-step, interdependent action sequences, enabling more robust system design.",
-            "url": "https://arxiv.org/abs/2604.11978"
-        },
-        {
-            "title": "When to Forget: A Memory Governance Primitive",
-            "innovation": "Introduces the concept of a 'memory governance primitive' and a principled operational metric for managing agent memory. This allows dynamic decisions on which memories to trust, suppress, or deprecate as an agent's task distribution shifts, addressing the limitations of static write-time importance scores.",
-            "benchmarks": "Proposes a principled operational metric for memory quality governance; specific experimental benchmarks demonstrating its effectiveness are not detailed in the abstract but are implied by the focus on dynamic management systems.",
-            "use_case": "Highly relevant for AI engineers developing adaptive, long-running AI agents. This innovation offers a foundational mechanism for improving agent efficiency, relevance, and accuracy over time by preventing memory bloat and ensuring knowledge quality in dynamic environments.",
-            "url": "https://arxiv.org/abs/2604.12007"
-        },
-        {
-            "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
-            "innovation": "This paper highlights and contributes to a new cluster of memory architectures for LLMs, moving beyond simple Retrieval-Augmented Generation (RAG). It focuses on 'personal wiki-style' designs that compile knowledge into interlinked artifacts, offering a more structured and metabolic approach to persistent memory.",
-            "benchmarks": "Discusses a 'visible cluster of design proposals' (e.g., Karpathy, MemPalace, LLM Wiki v2) rather than presenting new experimental benchmarks. The innovation lies in the architectural design patterns themselves.",
-            "use_case": "Critical for AI engineers designing and implementing advanced LLM-based systems that require sophisticated, persistent, and structured knowledge management. It provides architectural blueprints and conceptual frameworks for building 'companion knowledge systems' that can evolve and adapt more effectively than traditional RAG approaches.",
-            "url": "https://arxiv.org/abs/2604.12034"
-        }
-    ]
+    "last_updated": "2026-04-18",
+    "papers": [],
+    "status": "AI service temporarily unavailable"
 }

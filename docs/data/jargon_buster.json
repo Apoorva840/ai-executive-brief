@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 17, 2026",
+    "last_updated": "April 18, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Small Language Models (SLMs)",
-            "definition": "SLMs are streamlined neural networks trained on highly curated, high-quality datasets with significantly fewer parameters than traditional LLMs. They leverage techniques like knowledge distillation and architectural optimization to deliver high performance on specific, domain-restricted tasks while requiring a fraction of the computational power and memory.",
-            "analogy": "In a kitchen context, an LLM is a massive industrial food processing plant capable of making any dish, while an SLM is a specialized air fryer. The air fryer uses far less energy and space, and if you only need to make crispy fries, it actually performs that specific task faster and more efficiently than the giant factory.",
-            "business_value": "SLMs drastically lower the 'total cost of ownership' for AI by reducing inference costs and allowing for localized, secure deployment. For the public sector or regulated industries, this enables 'on-premise' intelligence that doesn't leak sensitive data to the cloud."
+            "term": "Mistake Gating",
+            "definition": "A mechanism in neural networks that selectively triggers parameter updates only when the model encounters a prediction error or high-loss scenario. By bypassing updates for data the model already understands, it minimizes the metabolic and computational cost of 'synaptic plasticity' during continual learning.",
+            "analogy": "Imagine a professional chef who only writes down a note when a dish fails; if the recipe works perfectly, they don't waste time or ink re-recording what they already know. It keeps the kitchen notebook lean and efficient.",
+            "business_value": "This significantly lowers the 'Hidden Cost of AI' by reducing the energy consumption and hardware wear-and-tear of edge devices that must learn on-the-job without constant, expensive cloud retraining."
         },
         {
-            "term": "AI Operating Layer",
-            "definition": "Rather than treating AI as a standalone application or chatbot, the operating layer approach integrates intelligence as a foundational middleware that orchestrates data flow, permissions, and tool usage across an entire organization. It shifts the focus from the 'model' (the brain) to the 'nervous system' (the structural integration) that connects AI to proprietary business logic and workflows.",
-            "analogy": "Think of the AI model as a car's engine and the Operating Layer as the car's chassis and electronic control unit (ECU). You can swap out a Ford engine for a Ferrari engine, but without the chassis and wiring to connect the steering wheel and brakes, the engine is just a heavy, useless block of metal.",
-            "business_value": "Focusing on the operating layer creates a 'moat' for your business. While AI models are becoming commodities, the proprietary way your organization integrates that intelligence into its specific workflows is what creates long-term structural efficiency and high switching costs for competitors."
+            "term": "Explainable Surrogate Modeling",
+            "definition": "The process of building transparent, human-interpretable 'proxy' models to mimic the outputs of massive, opaque 'black-box' simulations. These surrogates provide a computationally cheap way to predict outcomes while revealing the underlying logic of the complex system they represent.",
+            "analogy": "It is like having a simplified transparent 3D model of a car engine on your dashboard. Instead of just a 'Check Engine' light, you see exactly which gear is slipping, allowing you to trust the car's automated diagnostics.",
+            "business_value": "In high-stakes industries like nuclear power or finance, this provides 'Audit-Ready AI.' It allows executives to justify automated decisions to regulators, moving beyond 'the black box said so' to evidence-based governance."
         },
         {
-            "term": "Local Minimum Trap",
-            "definition": "In optimization theory, this occurs when a system settles into a 'good enough' solution because any immediate change feels like a step backward, even if a vastly superior 'global' solution exists further away. In the context of AI and science, it refers to 'path dependence' where we might be over-optimizing current transformer architectures while ignoring potentially superior, non-obvious alternatives.",
-            "analogy": "Imagine you are driving a car and find a shortcut that saves five minutes, so you take it every day. You have hit a 'local minimum' of efficiency and stop looking for other routes, even though a new highway was built two miles away that could have saved you thirty minutes.",
-            "business_value": "For a CEO, this is a warning against 'technological lock-in.' Over-investing in today's dominant AI standard might make you highly efficient in the short term, but it leaves you vulnerable to 'leapfrog' competitors who bypass current trends to adopt the next paradigm-shifting architecture."
+            "term": "Heartbeat-Driven Autonomous Activity Scheduling",
+            "definition": "An architectural shift for LLM agents that replaces rigid, prompt-response triggers with an internal rhythmic 'pulse' to manage cognitive tasks. This 'heartbeat' allows the AI to proactively schedule its own reflections, tool-use, and reasoning cycles rather than waiting for a human to tell it what to do next.",
+            "analogy": "Think of a car with an intelligent 'idle' mode. Instead of just sitting still at a red light, the car uses that 'heartbeat' interval to scan the horizon, optimize its route, and check its tire pressure proactively before you even touch the gas.",
+            "business_value": "This evolves AI from a reactive tool into a proactive digital employee. It increases operational velocity by allowing autonomous agents to manage complex, multi-day projects with significantly less human 'hand-holding' or prompting."
         }
     ]
 }
