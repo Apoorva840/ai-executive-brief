@@ -1,68 +1,53 @@
 [
   {
-    "title": "LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems",
-    "url": "https://arxiv.org/abs/2601.14053",
-    "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2601.14053v2 Announce Type: replace-cross Abstract: The field of artificial intelligence has undergone a revolution from foundational Transformer architectures to reasoning-capable systems approaching human-level performance. We present LLMOrbit, a comprehensive circular taxonomy navigating the landscape of large language models spanning 2019",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
-    "source": "Hugging Face Blog",
-    "score": 8,
-    "what_happened": "Hugging Face Blog announced 'Building a Fast Multilingual OCR Model with Synthetic Data', highlighting new developments relevant to AI researchers and practitioners.",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "ML Engineers",
-      "Open-Source Contributors"
-    ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
-  },
-  {
-    "title": "Physical Intelligence shows robot model with LLM-like generalization, flaws included",
-    "url": "https://the-decoder.com/physical-intelligence-shows-robot-model-with-llm-like-generalization-flaws-included/",
-    "source": "The Decoder",
-    "score": 8,
-    "what_happened": "US start-up Physical Intelligence has introduced π0.7, a new robot foundation model designed to recombine skills learned during training, similar to how a language model reassembles text fragments from its training data. The researchers describe this as early signs of \"compositional generalization\" in robotics. The article Physical Intelligence sho",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse",
-    "url": "https://the-decoder.com/the-white-house-weighs-whether-anthropics-mythos-is-too-valuable-for-the-federal-government-to-refuse/",
+    "title": "The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased",
+    "url": "https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Anthropic CEO Dario Amodei is meeting Trump's Chief of Staff Susie Wiles at the White House to end a months-long standoff with the Pentagon. The new Mythos model's cybersecurity chops reportedly opened the door. The article The White House weighs whether Anthropic&#039;s Mythos is too valuable for the federal government to refuse appeared first on",
+    "what_happened": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can reproduce most of the vulnerability analyses Anthropic has put on display. The article The myth of Claude Mythos crumbles as small open models hunt t",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-    "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "title": "Deepseek reportedly seeks outside funding for the first time at $10 billion valuation",
+    "url": "https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million. The shift comes after delayed model releases, top researchers being poached by rivals, and mounting pressure from deep-pocketed tech giants. The article Deepseek reportedly seeks outs",
+    "technical_takeaway": null,
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+    "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
+    "what_happened": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "Policy Leaders",
+      "Tech Strategists"
+    ],
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+  },
+  {
+    "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+    "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
@@ -71,5 +56,20 @@
       "Tech Strategists"
     ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
+    "url": "https://arxiv.org/abs/2604.14178",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2604.14178v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable capabilities in reasoning and tool use, yet they often suffer from rigid, reactive control flows that limit their adaptability and efficiency. Most existing frameworks rely on fixed pipelines or failure-triggered reflection, causing agents",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   }
 ]

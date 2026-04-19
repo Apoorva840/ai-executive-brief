@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 18, 2026",
+    "last_updated": "April 19, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Mistake Gating",
-            "definition": "A mechanism in neural networks that selectively triggers parameter updates only when the model encounters a prediction error or high-loss scenario. By bypassing updates for data the model already understands, it minimizes the metabolic and computational cost of 'synaptic plasticity' during continual learning.",
-            "analogy": "Imagine a professional chef who only writes down a note when a dish fails; if the recipe works perfectly, they don't waste time or ink re-recording what they already know. It keeps the kitchen notebook lean and efficient.",
-            "business_value": "This significantly lowers the 'Hidden Cost of AI' by reducing the energy consumption and hardware wear-and-tear of edge devices that must learn on-the-job without constant, expensive cloud retraining."
+            "term": "Headless AI Architectures",
+            "definition": "A design paradigm where the AI backend executes tasks and makes decisions via Application Programming Interfaces (APIs) rather than a traditional graphical user interface (GUI). This allows AI agents to interact directly with enterprise systems, bypassing the need for a human-readable browser or screen and treating the entire software stack as a programmable surface.",
+            "analogy": "Imagine a commercial kitchen where there are no waiters or menus; instead, the smart appliances communicate directly with the pantry and the customers' digital orders to cook and serve meals without a single human ever touching a keypad.",
+            "business_value": "By removing 'UI friction,' companies can transition from human-dependent software workflows to autonomous agentic execution, drastically reducing the time-to-value for complex operations and lowering the cost of seat-based licenses."
         },
         {
-            "term": "Explainable Surrogate Modeling",
-            "definition": "The process of building transparent, human-interpretable 'proxy' models to mimic the outputs of massive, opaque 'black-box' simulations. These surrogates provide a computationally cheap way to predict outcomes while revealing the underlying logic of the complex system they represent.",
-            "analogy": "It is like having a simplified transparent 3D model of a car engine on your dashboard. Instead of just a 'Check Engine' light, you see exactly which gear is slipping, allowing you to trust the car's automated diagnostics.",
-            "business_value": "In high-stakes industries like nuclear power or finance, this provides 'Audit-Ready AI.' It allows executives to justify automated decisions to regulators, moving beyond 'the black box said so' to evidence-based governance."
+            "term": "Recursive Self-Improvement",
+            "definition": "A process where an artificial intelligence system is engineered to analyze its own architecture and code to identify inefficiencies and autonomously generate optimizations. This creates a compounding feedback loop where each iteration of the AI becomes more capable at designing the next, more advanced version of itself.",
+            "analogy": "Imagine a race car equipped with onboard robotic arms that, while driving at top speed, constantly redesigns its own engine and reshapes its body for better aerodynamics to ensure it gets faster with every single lap.",
+            "business_value": "This shifts R&D costs from expensive human engineering teams to automated, 24/7 compute cycles, potentially creating an exponential performance 'moat' that competitors relying on manual development cannot overcome."
         },
         {
-            "term": "Heartbeat-Driven Autonomous Activity Scheduling",
-            "definition": "An architectural shift for LLM agents that replaces rigid, prompt-response triggers with an internal rhythmic 'pulse' to manage cognitive tasks. This 'heartbeat' allows the AI to proactively schedule its own reflections, tool-use, and reasoning cycles rather than waiting for a human to tell it what to do next.",
-            "analogy": "Think of a car with an intelligent 'idle' mode. Instead of just sitting still at a red light, the car uses that 'heartbeat' interval to scan the horizon, optimize its route, and check its tire pressure proactively before you even touch the gas.",
-            "business_value": "This evolves AI from a reactive tool into a proactive digital employee. It increases operational velocity by allowing autonomous agents to manage complex, multi-day projects with significantly less human 'hand-holding' or prompting."
+            "term": "AI Scaling Laws",
+            "definition": "The empirical principle that the performance and intelligence of a model are predictable functions of the amount of compute power, data volume, and total parameters utilized during training. It suggests that there is a linear relationship between capital investment in infrastructure and the resulting cognitive capability of the AI.",
+            "analogy": "It is the belief that to build a faster car, you don't need a revolutionary new fuel; you simply need to keep building a larger engine and adding more cylinders, and the top speed will continue to increase in direct proportion to the size of the motor.",
+            "business_value": "For the CEO, this transforms AI development from a speculative 'art' into a predictable 'industrial process,' allowing for massive capital expenditure (CapEx) on hardware with high confidence in the resulting competitive advantage."
         }
     ]
 }

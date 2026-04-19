@@ -1,42 +1,43 @@
 [
   {
-    "title": "LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems",
-    "summary": "arXiv:2601.14053v2 Announce Type: replace-cross Abstract: The field of artificial intelligence has undergone a revolution from foundational Transformer architectures to reasoning-capable systems approaching human-level performance. We present LLMOrbit, a comprehensive circular taxonomy navigating the landscape of large language models spanning 2019",
-    "url": "https://arxiv.org/abs/2601.14053",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-17T04:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
-    "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-04-17T16:17:55+00:00",
-    "score": 8
-  },
-  {
-    "title": "Physical Intelligence shows robot model with LLM-like generalization, flaws included",
-    "summary": "US start-up Physical Intelligence has introduced π0.7, a new robot foundation model designed to recombine skills learned during training, similar to how a language model reassembles text fragments from its training data. The researchers describe this as early signs of \"compositional generalization\" in robotics. The article Physical Intelligence sho",
-    "url": "https://the-decoder.com/physical-intelligence-shows-robot-model-with-llm-like-generalization-flaws-included/",
+    "title": "The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased",
+    "summary": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can reproduce most of the vulnerability analyses Anthropic has put on display. The article The myth of Claude Mythos crumbles as small open models hunt t",
+    "url": "https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/",
     "source": "The Decoder",
-    "published_at": "2026-04-17T11:57:54+00:00",
-    "score": 8
-  },
-  {
-    "title": "The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse",
-    "summary": "Anthropic CEO Dario Amodei is meeting Trump's Chief of Staff Susie Wiles at the White House to end a months-long standoff with the Pentagon. The new Mythos model's cybersecurity chops reportedly opened the door. The article The White House weighs whether Anthropic&#039;s Mythos is too valuable for the federal government to refuse appeared first on ",
-    "url": "https://the-decoder.com/the-white-house-weighs-whether-anthropics-mythos-is-too-valuable-for-the-federal-government-to-refuse/",
-    "source": "The Decoder",
-    "published_at": "2026-04-17T18:30:49+00:00",
+    "published_at": "2026-04-18T08:48:05+00:00",
     "score": 7
   },
   {
-    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-    "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-    "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "title": "Deepseek reportedly seeks outside funding for the first time at $10 billion valuation",
+    "summary": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million. The shift comes after delayed model releases, top researchers being poached by rivals, and mounting pressure from deep-pocketed tech giants. The article Deepseek reportedly seeks outs",
+    "url": "https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/",
+    "source": "The Decoder",
+    "published_at": "2026-04-18T08:20:17+00:00",
+    "score": 7
+  },
+  {
+    "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+    "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+    "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
     "source": "Wired AI",
-    "published_at": "2026-04-17T19:56:42+00:00",
+    "published_at": "2026-04-18T10:30:00+00:00",
     "score": 5
+  },
+  {
+    "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+    "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+    "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+    "source": "Wired AI",
+    "published_at": "2026-04-18T10:30:00+00:00",
+    "score": 5
+  },
+  {
+    "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
+    "summary": "arXiv:2604.14178v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable capabilities in reasoning and tool use, yet they often suffer from rigid, reactive control flows that limit their adaptability and efficiency. Most existing frameworks rely on fixed pipelines or failure-triggered reflection, causing agents",
+    "url": "https://arxiv.org/abs/2604.14178",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-17T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-18T03:40:53.680763+00:00"
   }
 ]

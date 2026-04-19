@@ -1,25 +1,25 @@
 {
-    "last_updated": "April 18, 2026",
+    "last_updated": "April 19, 2026",
     "tools": [
         {
             "Name": "GenericAgent",
-            "Category": "Autonomous Agents",
-            "Description": "A minimal, self-evolving autonomous agent framework that builds a personalized skill tree from a 3K-line seed code.",
-            "Use_Case": "Automating complex local computer tasks like web exploration, file management, and quantitative stock screening.",
+            "Category": "AI Agents",
+            "Description": "A minimal, self-evolving autonomous agent framework that builds a skill tree from a ~3K-line seed code.",
+            "Use_Case": "Automating complex, multi-step tasks across browser, terminal, filesystem, and mobile devices.",
             "URL": "https://github.com/lsdefine/GenericAgent"
         },
         {
-            "Name": "OpenSRE",
-            "Category": "AI for DevOps / SRE",
-            "Description": "An open-source reinforcement learning framework for AI-driven infrastructure incident response.",
-            "Use_Case": "Automated incident investigation, root-cause analysis, and infrastructure monitoring across cloud environments.",
-            "URL": "https://github.com/Tracer-Cloud/opensre"
+            "Name": "Unsloth Studio",
+            "Category": "Model Training & Inference",
+            "Description": "A unified local interface for running and training open-source models like Qwen, Gemma, and DeepSeek efficiently.",
+            "Use_Case": "Faster, VRAM-efficient fine-tuning and local deployment of LLMs with support for text, vision, and audio models.",
+            "URL": "https://github.com/unslothai/unsloth"
         },
         {
             "Name": "Magika",
-            "Category": "File Identification",
-            "Description": "An AI-powered file type detection tool that achieves ~99% accuracy using a highly optimized deep learning model.",
-            "Use_Case": "Fast and accurate identification of file types to improve security, routing, and content policy scanning.",
+            "Category": "Developer Tools",
+            "Description": "A fast and highly accurate AI-powered file type detection tool developed by Google.",
+            "Use_Case": "Automated file classification and safety scanning at scale with high precision.",
             "URL": "https://github.com/google/magika"
         }
     ]
