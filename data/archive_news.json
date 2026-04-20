@@ -1,5 +1,50 @@
 [
   {
+    "title": "Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation",
+    "summary": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating valuations as high as $1 trillion. The article Anthropic&#039;s revenue surge reportedly fuels talk of trillion-dollar valuation appeared first on The D",
+    "url": "https://the-decoder.com/anthropics-revenue-surge-reportedly-fuels-talk-of-trillion-dollar-valuation/",
+    "source": "The Decoder",
+    "published_at": "2026-04-19T14:40:00+00:00",
+    "score": 6,
+    "archived_at": "2026-04-20T04:01:52.992380+00:00"
+  },
+  {
+    "title": "German court rules AI comic adaptation of copyrighted photo doesn't violate the original",
+    "summary": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied. The article German court rules AI comic adaptation of copyrighted photo doesn&#039;t violate the original appeared first on The Decoder.",
+    "url": "https://the-decoder.com/german-court-rules-ai-comic-adaptation-of-copyrighted-photo-doesnt-violate-the-original/",
+    "source": "The Decoder",
+    "published_at": "2026-04-19T13:08:17+00:00",
+    "score": 6,
+    "archived_at": "2026-04-20T04:01:52.992380+00:00"
+  },
+  {
+    "title": "First token counts reveal Opus 4.7 costs significantly more than 4.6 despite Anthropic's flat pricing",
+    "summary": "Anthropic's Opus 4.7 matches its predecessor's per-token price, but each request ends up costing significantly more. The reason: a new tokenizer that breaks the same text into up to 47 percent more tokens. Early measurements show what that shift means in practice for Claude Code users. The article First token counts reveal Opus 4.7 costs significan",
+    "url": "https://the-decoder.com/first-token-counts-reveal-opus-4-7-costs-significantly-more-than-4-6-despite-anthropics-flat-pricing/",
+    "source": "The Decoder",
+    "published_at": "2026-04-19T10:01:53+00:00",
+    "score": 6,
+    "archived_at": "2026-04-20T04:01:52.992380+00:00"
+  },
+  {
+    "title": "AI-generated influencers flood social media with pro-Trump content ahead of midterms",
+    "summary": "Hundreds of AI avatars are flooding TikTok, Instagram, and YouTube with pro-Trump messaging. Some accounts have pulled in more than 35,000 followers and millions of views, and Trump himself has already shared AI-generated content. It's unclear whether this is the work of individual activists or a coordinated campaign. The article AI-generated influ",
+    "url": "https://the-decoder.com/ai-generated-influencers-flood-social-media-with-pro-trump-content-ahead-of-midterms/",
+    "source": "The Decoder",
+    "published_at": "2026-04-19T09:07:54+00:00",
+    "score": 6,
+    "archived_at": "2026-04-20T04:01:52.992380+00:00"
+  },
+  {
+    "title": "Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study",
+    "summary": "A research team developed an OpenClaw agent for smart glasses to find out how continuously perceiving AI changes the way people use agentic AI systems. The article Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study appeared first on The Decoder.",
+    "url": "https://the-decoder.com/always-on-ray-ban-meta-glasses-powered-by-openclaw-speed-up-everyday-tasks-in-new-study/",
+    "source": "The Decoder",
+    "published_at": "2026-04-19T07:55:33+00:00",
+    "score": 6,
+    "archived_at": "2026-04-20T04:01:52.992380+00:00"
+  },
+  {
     "title": "Salesforce CEO Marc Benioff says APIs are the new UI for AI agents",
     "summary": "Salesforce is opening its entire platform to AI agents. With \"Headless 360,\" the API becomes the user interface and the browser becomes obsolete. CEO Marc Benioff is putting into practice exactly what OpenAI's Sam Altman recently called an inevitable shift. The article Salesforce CEO Marc Benioff says APIs are the new UI for AI agents appeared firs",
     "url": "https://the-decoder.com/salesforce-ceo-marc-benioff-says-apis-are-the-new-ui-for-ai-agents/",
@@ -2649,51 +2694,6 @@
     "title": "MCP-38: A Comprehensive Threat Taxonomy for Model Context Protocol Systems (v1.0)",
     "summary": "arXiv:2603.18063v1 Announce Type: cross Abstract: The Model Context Protocol (MCP) introduces a structurally distinct attack surface that existing threat frameworks, designed for traditional software systems or generic LLM deployments, do not adequately cover. This paper presents MCP-38, a protocol-specific threat taxonomy consisting of 38 threat c",
     "url": "https://arxiv.org/abs/2603.18063",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-21T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-22T03:30:27.684135+00:00"
-  },
-  {
-    "title": "A Trace-Based Assurance Framework for Agentic AI Orchestration: Contracts, Testing, and Governance",
-    "summary": "arXiv:2603.18096v1 Announce Type: cross Abstract: In Agentic AI, Large Language Models (LLMs) are increasingly used in the orchestration layer to coordinate multiple agents and to interact with external services, retrieval components, and shared memory. In this setting, failures are not limited to incorrect final outputs. They also arise from long-",
-    "url": "https://arxiv.org/abs/2603.18096",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-21T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-22T03:30:27.684135+00:00"
-  },
-  {
-    "title": "Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models",
-    "summary": "arXiv:2603.18118v1 Announce Type: cross Abstract: Large Language Models (LLMs) have achieved remarkable reliability and advanced capabilities through extended test-time reasoning. However, extending these capabilities to Multi-modal Large Language Models (MLLMs) remains a significant challenge due to a critical scarcity of high-quality, long-chain ",
-    "url": "https://arxiv.org/abs/2603.18118",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-21T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-22T03:30:27.684135+00:00"
-  },
-  {
-    "title": "VLM-AutoDrive: Post-Training Vision-Language Models for Safety-Critical Autonomous Driving Events",
-    "summary": "arXiv:2603.18178v1 Announce Type: cross Abstract: The rapid growth of ego-centric dashcam footage presents a major challenge for detecting safety-critical events such as collisions and near-collisions, scenarios that are brief, rare, and difficult for generic vision models to capture. While multimodal large language models (MLLMs) demonstrate stron",
-    "url": "https://arxiv.org/abs/2603.18178",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-21T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-22T03:30:27.684135+00:00"
-  },
-  {
-    "title": "When Names Change Verdicts: Intervention Consistency Reveals Systematic Bias in LLM Decision-Making",
-    "summary": "arXiv:2603.18530v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used for high-stakes decisions, yet their susceptibility to spurious features remains poorly characterized. We introduce ICE-Guard, a framework applying intervention consistency testing to detect three types of spurious feature reliance: demographic (nam",
-    "url": "https://arxiv.org/abs/2603.18530",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-21T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-22T03:30:27.684135+00:00"
-  },
-  {
-    "title": "Elastic Weight Consolidation Done Right for Continual Learning",
-    "summary": "arXiv:2603.18596v1 Announce Type: cross Abstract: Weight regularization methods in continual learning (CL) alleviate catastrophic forgetting by assessing and penalizing changes to important model weights. Elastic Weight Consolidation (EWC) is a foundational and widely used approach within this framework that estimates weight importance based on gra",
-    "url": "https://arxiv.org/abs/2603.18596",
     "source": "Arxiv AI",
     "published_at": "2026-03-21T04:00:00+00:00",
     "score": 7,

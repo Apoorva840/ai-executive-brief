@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 19, 2026",
+    "last_updated": "April 20, 2026",
     "tools": [
         {
+            "Name": "DeepTutor",
+            "Category": "Education / Agentic AI",
+            "Description": "An agent-native personalized learning assistant that integrates chat, research, problem-solving, and math animation into a unified workspace.",
+            "Use_Case": "Automated tutoring, structured learning plans, RAG-based document analysis, and multi-agent problem solving.",
+            "URL": "https://github.com/HKUDS/DeepTutor"
+        },
+        {
             "Name": "GenericAgent",
-            "Category": "AI Agents",
-            "Description": "A minimal, self-evolving autonomous agent framework that builds a skill tree from a ~3K-line seed code.",
-            "Use_Case": "Automating complex, multi-step tasks across browser, terminal, filesystem, and mobile devices.",
+            "Category": "Autonomous Agents",
+            "Description": "A minimal, self-evolving autonomous agent framework that builds a personal skill tree from a small seed of code to control system environments.",
+            "Use_Case": "Automating system-level tasks like browser navigation, file management, and software installation without manual intervention.",
             "URL": "https://github.com/lsdefine/GenericAgent"
         },
         {
-            "Name": "Unsloth Studio",
-            "Category": "Model Training & Inference",
-            "Description": "A unified local interface for running and training open-source models like Qwen, Gemma, and DeepSeek efficiently.",
-            "Use_Case": "Faster, VRAM-efficient fine-tuning and local deployment of LLMs with support for text, vision, and audio models.",
-            "URL": "https://github.com/unslothai/unsloth"
-        },
-        {
-            "Name": "Magika",
-            "Category": "Developer Tools",
-            "Description": "A fast and highly accurate AI-powered file type detection tool developed by Google.",
-            "Use_Case": "Automated file classification and safety scanning at scale with high precision.",
-            "URL": "https://github.com/google/magika"
+            "Name": "DeerFlow",
+            "Category": "Agent Harness / SuperAgent",
+            "Description": "A super-agent harness that orchestrates sub-agents, memory, and sandboxes to handle long-horizon research and coding tasks.",
+            "Use_Case": "Complex, multi-step research and development workflows that require orchestration of multiple specialized AI agents.",
+            "URL": "https://github.com/bytedance/deer-flow"
         }
     ]
 }

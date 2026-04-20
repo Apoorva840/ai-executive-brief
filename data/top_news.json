@@ -1,43 +1,45 @@
 [
   {
-    "title": "The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased",
-    "summary": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can reproduce most of the vulnerability analyses Anthropic has put on display. The article The myth of Claude Mythos crumbles as small open models hunt t",
-    "url": "https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/",
+    "title": "Even the best AI models lose about half their performance when charts get complicated, new benchmark finds",
+    "summary": "The RealChart2Code benchmark puts 14 leading AI models to the test on complex visualizations built from real-world datasets. Even the top proprietary models lose nearly half their performance compared to simpler tests. The article Even the best AI models lose about half their performance when charts get complicated, new benchmark finds appeared fir",
+    "url": "https://the-decoder.com/even-the-best-ai-models-lose-about-half-their-performance-when-charts-get-complicated-new-benchmark-finds/",
     "source": "The Decoder",
-    "published_at": "2026-04-18T08:48:05+00:00",
+    "published_at": "2026-04-19T08:35:10+00:00",
     "score": 7
   },
   {
-    "title": "Deepseek reportedly seeks outside funding for the first time at $10 billion valuation",
-    "summary": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million. The shift comes after delayed model releases, top researchers being poached by rivals, and mounting pressure from deep-pocketed tech giants. The article Deepseek reportedly seeks outs",
-    "url": "https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/",
+    "title": "Google launches generative UI standard for AI agents",
+    "summary": "Google's A2UI 0.9 is a framework-agnostic standard that lets AI agents generate UI elements on the fly, tapping into an app's existing components across web, mobile, and other platforms. The article Google launches generative UI standard for AI agents appeared first on The Decoder.",
+    "url": "https://the-decoder.com/google-launches-generative-ui-standard-for-ai-agents/",
     "source": "The Decoder",
-    "published_at": "2026-04-18T08:20:17+00:00",
+    "published_at": "2026-04-19T07:16:51+00:00",
     "score": 7
   },
   {
-    "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-    "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-    "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-    "source": "Wired AI",
-    "published_at": "2026-04-18T10:30:00+00:00",
-    "score": 5
+    "title": "Salesforce CEO Marc Benioff says APIs are the new UI for AI agents",
+    "summary": "Salesforce is opening its entire platform to AI agents. With \"Headless 360,\" the API becomes the user interface and the browser becomes obsolete. CEO Marc Benioff is putting into practice exactly what OpenAI's Sam Altman recently called an inevitable shift. The article Salesforce CEO Marc Benioff says APIs are the new UI for AI agents appeared firs",
+    "url": "https://the-decoder.com/salesforce-ceo-marc-benioff-says-apis-are-the-new-ui-for-ai-agents/",
+    "source": "The Decoder",
+    "published_at": "2026-04-18T13:06:19+00:00",
+    "score": 6,
+    "archived_at": "2026-04-19T03:59:19.936162+00:00"
   },
   {
-    "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-    "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-    "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-    "source": "Wired AI",
-    "published_at": "2026-04-18T10:30:00+00:00",
-    "score": 5
+    "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
+    "summary": "Anthropic CEO Dario Amodei sees no limits to AI scaling and is urging the industry not to downplay the risk of job losses, but to make the upside big enough to offset the disruption. The article Anthropic CEO Amodei declares &quot;there is no end to the rainbow&quot; for AI scaling appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-ceo-amodei-declares-there-is-no-end-to-the-rainbow-for-ai-scaling/",
+    "source": "The Decoder",
+    "published_at": "2026-04-18T10:17:28+00:00",
+    "score": 6,
+    "archived_at": "2026-04-19T03:59:19.936162+00:00"
   },
   {
-    "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
-    "summary": "arXiv:2604.14178v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable capabilities in reasoning and tool use, yet they often suffer from rigid, reactive control flows that limit their adaptability and efficiency. Most existing frameworks rely on fixed pipelines or failure-triggered reflection, causing agents",
-    "url": "https://arxiv.org/abs/2604.14178",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-17T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-18T03:40:53.680763+00:00"
+    "title": "Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding",
+    "summary": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI that improves itself. The article Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding appeare",
+    "url": "https://the-decoder.com/self-improving-ai-startup-recursive-superintelligence-pulls-in-500-million-just-four-months-after-founding/",
+    "source": "The Decoder",
+    "published_at": "2026-04-18T09:32:57+00:00",
+    "score": 6,
+    "archived_at": "2026-04-19T03:59:19.936162+00:00"
   }
 ]

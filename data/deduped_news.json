@@ -1,72 +1,51 @@
 [
   {
-    "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-    "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-    "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-    "source": "Wired AI",
-    "published_at": "2026-04-18T10:30:00+00:00"
-  },
-  {
-    "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-    "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-    "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-    "source": "Wired AI",
-    "published_at": "2026-04-18T10:30:00+00:00"
-  },
-  {
-    "title": "Salesforce CEO Marc Benioff says APIs are the new UI for AI agents",
-    "summary": "Salesforce is opening its entire platform to AI agents. With \"Headless 360,\" the API becomes the user interface and the browser becomes obsolete. CEO Marc Benioff is putting into practice exactly what OpenAI's Sam Altman recently called an inevitable shift. The article Salesforce CEO Marc Benioff says APIs are the new UI for AI agents appeared firs",
-    "url": "https://the-decoder.com/salesforce-ceo-marc-benioff-says-apis-are-the-new-ui-for-ai-agents/",
+    "title": "Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation",
+    "summary": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating valuations as high as $1 trillion. The article Anthropic&#039;s revenue surge reportedly fuels talk of trillion-dollar valuation appeared first on The D",
+    "url": "https://the-decoder.com/anthropics-revenue-surge-reportedly-fuels-talk-of-trillion-dollar-valuation/",
     "source": "The Decoder",
-    "published_at": "2026-04-18T13:06:19+00:00"
+    "published_at": "2026-04-19T14:40:00+00:00"
   },
   {
-    "title": "Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds",
-    "summary": "Just 10 to 15 minutes with an AI assistant is enough to measurably weaken problem-solving ability and persistence on later tasks done without AI, according to a new study from researchers in the US and UK. The article Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds appeared first on The",
-    "url": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/",
+    "title": "German court rules AI comic adaptation of copyrighted photo doesn't violate the original",
+    "summary": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied. The article German court rules AI comic adaptation of copyrighted photo doesn&#039;t violate the original appeared first on The Decoder.",
+    "url": "https://the-decoder.com/german-court-rules-ai-comic-adaptation-of-copyrighted-photo-doesnt-violate-the-original/",
     "source": "The Decoder",
-    "published_at": "2026-04-18T12:45:14+00:00"
+    "published_at": "2026-04-19T13:08:17+00:00"
   },
   {
-    "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
-    "summary": "Anthropic CEO Dario Amodei sees no limits to AI scaling and is urging the industry not to downplay the risk of job losses, but to make the upside big enough to offset the disruption. The article Anthropic CEO Amodei declares &quot;there is no end to the rainbow&quot; for AI scaling appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropic-ceo-amodei-declares-there-is-no-end-to-the-rainbow-for-ai-scaling/",
+    "title": "First token counts reveal Opus 4.7 costs significantly more than 4.6 despite Anthropic's flat pricing",
+    "summary": "Anthropic's Opus 4.7 matches its predecessor's per-token price, but each request ends up costing significantly more. The reason: a new tokenizer that breaks the same text into up to 47 percent more tokens. Early measurements show what that shift means in practice for Claude Code users. The article First token counts reveal Opus 4.7 costs significan",
+    "url": "https://the-decoder.com/first-token-counts-reveal-opus-4-7-costs-significantly-more-than-4-6-despite-anthropics-flat-pricing/",
     "source": "The Decoder",
-    "published_at": "2026-04-18T10:17:28+00:00"
+    "published_at": "2026-04-19T10:01:53+00:00"
   },
   {
-    "title": "Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding",
-    "summary": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI that improves itself. The article Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding appeare",
-    "url": "https://the-decoder.com/self-improving-ai-startup-recursive-superintelligence-pulls-in-500-million-just-four-months-after-founding/",
+    "title": "AI-generated influencers flood social media with pro-Trump content ahead of midterms",
+    "summary": "Hundreds of AI avatars are flooding TikTok, Instagram, and YouTube with pro-Trump messaging. Some accounts have pulled in more than 35,000 followers and millions of views, and Trump himself has already shared AI-generated content. It's unclear whether this is the work of individual activists or a coordinated campaign. The article AI-generated influ",
+    "url": "https://the-decoder.com/ai-generated-influencers-flood-social-media-with-pro-trump-content-ahead-of-midterms/",
     "source": "The Decoder",
-    "published_at": "2026-04-18T09:32:57+00:00"
+    "published_at": "2026-04-19T09:07:54+00:00"
   },
   {
-    "title": "The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased",
-    "summary": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can reproduce most of the vulnerability analyses Anthropic has put on display. The article The myth of Claude Mythos crumbles as small open models hunt t",
-    "url": "https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/",
+    "title": "Even the best AI models lose about half their performance when charts get complicated, new benchmark finds",
+    "summary": "The RealChart2Code benchmark puts 14 leading AI models to the test on complex visualizations built from real-world datasets. Even the top proprietary models lose nearly half their performance compared to simpler tests. The article Even the best AI models lose about half their performance when charts get complicated, new benchmark finds appeared fir",
+    "url": "https://the-decoder.com/even-the-best-ai-models-lose-about-half-their-performance-when-charts-get-complicated-new-benchmark-finds/",
     "source": "The Decoder",
-    "published_at": "2026-04-18T08:48:05+00:00"
+    "published_at": "2026-04-19T08:35:10+00:00"
   },
   {
-    "title": "Deepseek reportedly seeks outside funding for the first time at $10 billion valuation",
-    "summary": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million. The shift comes after delayed model releases, top researchers being poached by rivals, and mounting pressure from deep-pocketed tech giants. The article Deepseek reportedly seeks outs",
-    "url": "https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/",
+    "title": "Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study",
+    "summary": "A research team developed an OpenClaw agent for smart glasses to find out how continuously perceiving AI changes the way people use agentic AI systems. The article Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study appeared first on The Decoder.",
+    "url": "https://the-decoder.com/always-on-ray-ban-meta-glasses-powered-by-openclaw-speed-up-everyday-tasks-in-new-study/",
     "source": "The Decoder",
-    "published_at": "2026-04-18T08:20:17+00:00"
+    "published_at": "2026-04-19T07:55:33+00:00"
   },
   {
-    "title": "Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI infrastructure",
-    "summary": "Meta is preparing to cut around 8,000 jobs on May 20, with a second wave planned for later this year. In total, more than 20 percent of the workforce could be let go as the company moves to offset its massive AI spending. The article Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI inf",
-    "url": "https://the-decoder.com/zuckerberg-reportedly-trades-headcount-for-compute-as-meta-readies-to-cut-10-percent-of-its-workforce-to-fund-ai-infrastructure/",
+    "title": "Google launches generative UI standard for AI agents",
+    "summary": "Google's A2UI 0.9 is a framework-agnostic standard that lets AI agents generate UI elements on the fly, tapping into an app's existing components across web, mobile, and other platforms. The article Google launches generative UI standard for AI agents appeared first on The Decoder.",
+    "url": "https://the-decoder.com/google-launches-generative-ui-standard-for-ai-agents/",
     "source": "The Decoder",
-    "published_at": "2026-04-18T08:05:35+00:00"
-  },
-  {
-    "title": "OpenAI loses three executives in one swoop as restructuring reshapes its product lineup",
-    "summary": "Three high-profile executives are walking away from OpenAI. The departures come as the company restructures and doubles down on coding and enterprise customers. The article OpenAI loses three executives in one swoop as restructuring reshapes its product lineup appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-loses-three-executives-in-one-swoop-as-restructuring-reshapes-its-product-lineup/",
-    "source": "The Decoder",
-    "published_at": "2026-04-18T07:20:45+00:00"
+    "published_at": "2026-04-19T07:16:51+00:00"
   }
 ]
