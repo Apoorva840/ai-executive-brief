@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 20, 2026",
+    "last_updated": "April 21, 2026",
     "tools": [
         {
-            "Name": "DeepTutor",
-            "Category": "Education / Agentic AI",
-            "Description": "An agent-native personalized learning assistant that integrates chat, research, problem-solving, and math animation into a unified workspace.",
-            "Use_Case": "Automated tutoring, structured learning plans, RAG-based document analysis, and multi-agent problem solving.",
-            "URL": "https://github.com/HKUDS/DeepTutor"
+            "Name": "Swarms",
+            "Category": "AI Multi-Agent Orchestration",
+            "Description": "An enterprise-grade production-ready framework for multi-agent orchestration that supports hierarchical swarms, parallel pipelines, and various agentic structures.",
+            "Use_Case": "Building scalable, complex, multi-agent AI systems for production environments.",
+            "URL": "https://github.com/kyegomez/swarms"
         },
         {
-            "Name": "GenericAgent",
-            "Category": "Autonomous Agents",
-            "Description": "A minimal, self-evolving autonomous agent framework that builds a personal skill tree from a small seed of code to control system environments.",
-            "Use_Case": "Automating system-level tasks like browser navigation, file management, and software installation without manual intervention.",
-            "URL": "https://github.com/lsdefine/GenericAgent"
+            "Name": "RAG-Anything",
+            "Category": "AI RAG Framework",
+            "Description": "An all-in-one multimodal RAG system that handles text, images, tables, equations, and diverse file formats through a unified pipeline.",
+            "Use_Case": "Advanced document retrieval and analysis for research, technical documentation, and financial reports.",
+            "URL": "https://github.com/HKUDS/RAG-Anything"
         },
         {
-            "Name": "DeerFlow",
-            "Category": "Agent Harness / SuperAgent",
-            "Description": "A super-agent harness that orchestrates sub-agents, memory, and sandboxes to handle long-horizon research and coding tasks.",
-            "Use_Case": "Complex, multi-step research and development workflows that require orchestration of multiple specialized AI agents.",
-            "URL": "https://github.com/bytedance/deer-flow"
+            "Name": "TrendRadar",
+            "Category": "AI Trend Monitoring",
+            "Description": "An AI-driven monitor for trends and public opinion that aggregates data from multiple platforms, provides smart alerts, and uses AI for analysis and translation.",
+            "Use_Case": "Monitoring market trends, sentiment analysis, and aggregating news across multiple channels with AI-powered summaries.",
+            "URL": "https://github.com/sansan0/TrendRadar"
         }
     ]
 }

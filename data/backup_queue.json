@@ -1,47 +1,137 @@
 [
   {
-    "title": "Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation",
-    "summary": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating valuations as high as $1 trillion. The article Anthropic&#039;s revenue surge reportedly fuels talk of trillion-dollar valuation appeared first on The D",
-    "url": "https://the-decoder.com/anthropics-revenue-surge-reportedly-fuels-talk-of-trillion-dollar-valuation/",
-    "source": "The Decoder",
-    "published_at": "2026-04-19T14:40:00+00:00",
-    "score": 6,
-    "archived_at": "2026-04-20T04:01:52.992380+00:00"
+    "title": "ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams",
+    "summary": "arXiv:2604.15994v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) excel at recognizing individual visual elements and reasoning over simple linear diagrams. However, when faced with complex topological structures involving branching paths, converging flows, and cyclic dependencies, their reasoning capabilities degrade sharply",
+    "url": "https://arxiv.org/abs/2604.15994",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
   },
   {
-    "title": "German court rules AI comic adaptation of copyrighted photo doesn't violate the original",
-    "summary": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied. The article German court rules AI comic adaptation of copyrighted photo doesn&#039;t violate the original appeared first on The Decoder.",
-    "url": "https://the-decoder.com/german-court-rules-ai-comic-adaptation-of-copyrighted-photo-doesnt-violate-the-original/",
-    "source": "The Decoder",
-    "published_at": "2026-04-19T13:08:17+00:00",
-    "score": 6,
-    "archived_at": "2026-04-20T04:01:52.992380+00:00"
+    "title": "MRGEN: A Conceptual Framework for LLM-Powered Mixed Reality Authoring Tools for Education",
+    "summary": "arXiv:2604.15341v1 Announce Type: cross Abstract: Mixed Reality (MR) offers immersive and multimodal opportunities for education but remains difficult for teachers to author without technical expertise. We propose MRGEN, a conceptual framework for LLM-powered authoring tools to support teachers in creating MR learning activities that work on mobile",
+    "url": "https://arxiv.org/abs/2604.15341",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
   },
   {
-    "title": "First token counts reveal Opus 4.7 costs significantly more than 4.6 despite Anthropic's flat pricing",
-    "summary": "Anthropic's Opus 4.7 matches its predecessor's per-token price, but each request ends up costing significantly more. The reason: a new tokenizer that breaks the same text into up to 47 percent more tokens. Early measurements show what that shift means in practice for Claude Code users. The article First token counts reveal Opus 4.7 costs significan",
-    "url": "https://the-decoder.com/first-token-counts-reveal-opus-4-7-costs-significantly-more-than-4-6-despite-anthropics-flat-pricing/",
-    "source": "The Decoder",
-    "published_at": "2026-04-19T10:01:53+00:00",
-    "score": 6,
-    "archived_at": "2026-04-20T04:01:52.992380+00:00"
+    "title": "FineSteer: A Unified Framework for Fine-Grained Inference-Time Steering in Large Language Models",
+    "summary": "arXiv:2604.15488v1 Announce Type: cross Abstract: Large language models (LLMs) often exhibit undesirable behaviors, such as safety violations and hallucinations. Although inference-time steering offers a cost-effective way to adjust model behavior without updating its parameters, existing methods often fail to be simultaneously effective, utility-p",
+    "url": "https://arxiv.org/abs/2604.15488",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
   },
   {
-    "title": "AI-generated influencers flood social media with pro-Trump content ahead of midterms",
-    "summary": "Hundreds of AI avatars are flooding TikTok, Instagram, and YouTube with pro-Trump messaging. Some accounts have pulled in more than 35,000 followers and millions of views, and Trump himself has already shared AI-generated content. It's unclear whether this is the work of individual activists or a coordinated campaign. The article AI-generated influ",
-    "url": "https://the-decoder.com/ai-generated-influencers-flood-social-media-with-pro-trump-content-ahead-of-midterms/",
-    "source": "The Decoder",
-    "published_at": "2026-04-19T09:07:54+00:00",
-    "score": 6,
-    "archived_at": "2026-04-20T04:01:52.992380+00:00"
+    "title": "Towards Intrinsic Interpretability of Large Language Models:A Survey of Design Principles and Architectures",
+    "summary": "arXiv:2604.16042v1 Announce Type: cross Abstract: While Large Language Models (LLMs) have achieved strong performance across many NLP tasks, their opaque internal mechanisms hinder trustworthiness and safe deployment. Existing surveys in explainable AI largely focus on post-hoc explanation methods that interpret trained models through external appr",
+    "url": "https://arxiv.org/abs/2604.16042",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
   },
   {
-    "title": "Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study",
-    "summary": "A research team developed an OpenClaw agent for smart glasses to find out how continuously perceiving AI changes the way people use agentic AI systems. The article Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study appeared first on The Decoder.",
-    "url": "https://the-decoder.com/always-on-ray-ban-meta-glasses-powered-by-openclaw-speed-up-everyday-tasks-in-new-study/",
+    "title": "Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs",
+    "summary": "arXiv:2604.16054v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have achieved impressive progress on vision language benchmarks, yet their capacity for visual cognitive and visuospatial reasoning remains less understood. We introduce \"Mind's Eye\", a multiple-choice benchmark of eight visuo-cognitive tasks inspired by clas",
+    "url": "https://arxiv.org/abs/2604.16054",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
+  },
+  {
+    "title": "Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs",
+    "summary": "arXiv:2604.16060v1 Announce Type: cross Abstract: Multimodal Reasoning Models (MRMs) leveraging Chain-of-Thought (CoT) based thinking have revolutionized mathematical and logical problem-solving. However, we show that this paradigm struggles with generalized spatial intelligence. We perform a comprehensive evaluation of seventeen models across thir",
+    "url": "https://arxiv.org/abs/2604.16060",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
+  },
+  {
+    "title": "WiseMind: a knowledge-guided multi-agent framework for accurate and empathetic psychiatric diagnosis",
+    "summary": "arXiv:2502.20689v4 Announce Type: replace Abstract: Large Language Models (LLMs) offer promising opportunities to support mental healthcare workflows, yet they often lack the structured clinical reasoning needed for reliable diagnosis and may struggle to provide the emotionally attuned communication essential for patient trust. Here, we introduce W",
+    "url": "https://arxiv.org/abs/2502.20689",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
+  },
+  {
+    "title": "Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints",
+    "summary": "arXiv:2507.16727v3 Announce Type: replace Abstract: Improving the reliability of large language models (LLMs) is critical for deploying them in real-world scenarios. In this paper, we propose \\textbf{Deliberative Searcher}, the first framework to integrate certainty calibration with retrieval-based search for open-domain question answering. The age",
+    "url": "https://arxiv.org/abs/2507.16727",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
+  },
+  {
+    "title": "VeriMoA: A Mixture-of-Agents Framework for Spec-to-HDL Generation",
+    "summary": "arXiv:2510.27617v2 Announce Type: replace Abstract: Automation of Register Transfer Level (RTL) design can help developers meet increasing computational demands. Large Language Models (LLMs) show promise for Hardware Description Language (HDL) generation, but face challenges due to limited parametric knowledge and domain-specific constraints. While",
+    "url": "https://arxiv.org/abs/2510.27617",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
+  },
+  {
+    "title": "MM-Telco: Benchmarks and Multimodal Large Language Models for Telecom Applications",
+    "summary": "arXiv:2511.13131v2 Announce Type: replace Abstract: Large Language Models (LLMs) have emerged as powerful tools for automating complex reasoning and decision-making tasks. In telecommunications, they hold the potential to transform network optimization, automate troubleshooting, enhance customer support, and ensure regulatory compliance. However, t",
+    "url": "https://arxiv.org/abs/2511.13131",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
+  },
+  {
+    "title": "Anthropogenic Regional Adaptation in Multimodal Vision-Language Model",
+    "summary": "arXiv:2604.11490v2 Announce Type: replace Abstract: While the field of vision-language (VL) has achieved remarkable success in integrating visual and textual information across multiple languages and domains, there is still no dedicated framework for assessing human-centric alignment in vision-language systems. We offer two contributions to address",
+    "url": "https://arxiv.org/abs/2604.11490",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
+  },
+  {
+    "title": "TriagerX: Dual Transformers for Bug Triaging Tasks with Content and Interaction Based Rankings",
+    "summary": "arXiv:2508.16860v2 Announce Type: replace-cross Abstract: Pretrained Language Models or PLMs are transformer-based architectures that can be used in bug triaging tasks. PLMs can better capture token semantics than traditional Machine Learning (ML) models that rely on statistical features (e.g., TF-IDF, bag of words). However, PLMs may still attend ",
+    "url": "https://arxiv.org/abs/2508.16860",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
+  },
+  {
+    "title": "Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection",
+    "summary": "arXiv:2509.17292v3 Announce Type: replace-cross Abstract: Cognitive distortions have been closely linked to mental health disorders, yet their automatic detection remains challenging due to contextual ambiguity, co-occurrence, and semantic overlap. We propose a novel framework that combines Large Language Models (LLMs) with a Multiple-Instance Lear",
+    "url": "https://arxiv.org/abs/2509.17292",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-20T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
+  },
+  {
+    "title": "Adobe fights AI disruption of its own business model with new enterprise agent platform",
+    "summary": "The software giant is responding to growing pressure from AI-native competitors with a new enterprise agent platform. At the same time, the company is looking for its next chief executive. The article Adobe fights AI disruption of its own business model with new enterprise agent platform appeared first on The Decoder.",
+    "url": "https://the-decoder.com/adobe-fights-ai-disruption-of-its-own-business-model-with-new-enterprise-agent-platform/",
     "source": "The Decoder",
-    "published_at": "2026-04-19T07:55:33+00:00",
-    "score": 6,
-    "archived_at": "2026-04-20T04:01:52.992380+00:00"
+    "published_at": "2026-04-20T14:39:14+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
+  },
+  {
+    "title": "The NSA is using Anthropic's most powerful AI model Mythos",
+    "summary": "The NSA, the US intelligence agency responsible for electronic surveillance, is using Anthropic's most powerful AI model, \"Mythos Preview.\" The article The NSA is using Anthropic&#039;s most powerful AI model Mythos appeared first on The Decoder.",
+    "url": "https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/",
+    "source": "The Decoder",
+    "published_at": "2026-04-20T09:26:04+00:00",
+    "score": 7,
+    "archived_at": "2026-04-21T03:57:09.532433+00:00"
   }
 ]

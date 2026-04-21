@@ -1,5 +1,26 @@
 {
-    "last_updated": "2026-04-18",
-    "papers": [],
-    "status": "AI service temporarily unavailable"
+    "last_updated": "2024-04-26",
+    "papers": [
+        {
+            "title": "LACE: Lattice Attention for Cross-thread Exploration",
+            "innovation": "Introduces 'Lattice Attention,' a novel framework that transforms isolated LLM reasoning paths into interactive, collaborative trajectories, enabling them to learn from each other and avoid redundant failures.",
+            "benchmarks": "Aims to improve the overall reasoning quality, robustness, and efficiency of LLMs in complex problem-solving, likely measurable through enhanced accuracy or faster convergence on multi-step reasoning benchmarks by preventing common pitfalls.",
+            "use_case": "Enhancing the reliability and effectiveness of large language models for complex analytical tasks, scientific discovery, and automated decision-making processes that require robust, interactive reasoning capabilities.",
+            "url": "https://arxiv.org/abs/2604.15529"
+        },
+        {
+            "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
+            "innovation": "Proposes a systematic, bilevel optimization framework leveraging Monte Carlo Tree Search (MCTS) to algorithmically design and refine 'skills' (collections of instructions, tools, and resources) for large language model agents, moving beyond heuristic or manual design.",
+            "benchmarks": "Demonstrates improved agent task performance directly attributable to optimized skill design, likely measured on various agentic benchmarks requiring specific tool use, instruction following, or multi-step execution, showing material effects on agent performance.",
+            "use_case": "Automating and improving the development process for LLM-powered agents, leading to more robust, efficient, and capable agents in diverse domains such as customer service, research assistants, or complex operational control, by systematically enhancing their operational abilities.",
+            "url": "https://arxiv.org/abs/2604.15709"
+        },
+        {
+            "title": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
+            "innovation": "Presents a symbolic reasoning framework that leverages 'algebraic invariants' to imbue LLMs with structured abductive-deductive-inductive reasoning capabilities, explicitly separating hypothesis generation from verification and ensuring logical soundness.",
+            "benchmarks": "Addresses systematic limitations in structured logical reasoning by LLMs, aiming for superior performance on tasks requiring rigorous inference, formal verification, and accurate distinction between conjecture and validated knowledge, overcoming issues like propagating weak reasoning steps.",
+            "use_case": "Developing more reliable and verifiable LLM applications for critical domains such as scientific research, legal analysis, software engineering (code analysis/synthesis), and mathematical theorem proving, where logical consistency and accuracy are paramount.",
+            "url": "https://arxiv.org/abs/2604.15727"
+        }
+    ]
 }

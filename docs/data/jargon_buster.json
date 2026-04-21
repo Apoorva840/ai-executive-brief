@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 20, 2026",
+    "last_updated": "April 21, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Tokenizer Density Shift",
-            "definition": "A tokenizer is the algorithm that translates raw text into numerical 'tokens' for an AI to process. A density shift occurs when a new tokenizer version breaks the same string of text into a higher volume of tokens, effectively increasing the billable units for a single request even if the unit price remains flat.",
-            "analogy": "In a kitchen, imagine buying a loaf of bread for $5. If the baker previously sliced it into 10 thick pieces but now slices it into 15 thin pieces and charges you 'per slice,' you are paying 50% more for the exact same amount of bread.",
-            "business_value": "CEO Insight: Do not judge AI vendors solely on 'price per million tokens.' You must audit 'cost-per-task' metrics, as architectural changes like tokenizer density can create hidden OpEx inflation that bypasses traditional procurement price-locks."
+            "term": "Agent Distillation",
+            "definition": "Agent distillation is the process of transferring complex decision-making logic and behavioral traits from a 'teacher' entity\u2014be it a high-level model or a human expert\u2014into a streamlined, autonomous agent. This involves capturing not just the final output, but the underlying reasoning trajectories and 'subliminal' patterns to ensure the smaller agent replicates the expert's performance with higher efficiency.",
+            "analogy": "Think of it as a Master Chef creating a highly detailed, step-by-step recipe card for a line cook. The line cook doesn't need the Chef's decades of experience to execute the dish perfectly; they just need the 'distilled' instructions and timing to produce a 5-star result at a fraction of the cost.",
+            "business_value": "Distillation allows companies to scale human expertise and expensive compute into lightweight, proprietary assets. For leadership, this represents the transition from 'renting' AI capability to 'owning' a fleet of specialized digital workers that retain corporate memory even when talent leaves."
         },
         {
-            "term": "Generative User Interface (GenUI)",
-            "definition": "GenUI is a framework where AI agents create or assemble interface elements\u2014like buttons, sliders, or forms\u2014on the fly based on the user's immediate goal. Instead of developers hard-coding every screen, the AI uses a standard library to render a bespoke dashboard that only contains the tools needed for the current context.",
-            "analogy": "Imagine a car dashboard that is a blank glass slate. When you are racing, it dynamically generates a massive tachometer; when you are lost, the tachometer disappears and is replaced by a high-definition 3D map and a 'find fuel' button.",
-            "business_value": "CEO Insight: GenUI collapses the distance between intent and action. It reduces 'UI friction' and development overhead, allowing your software to adapt to the user rather than forcing the user to learn your software, directly increasing customer conversion and retention."
+            "term": "Lattice Attention",
+            "definition": "Lattice Attention is a reasoning framework that moves away from 'isolated' processing, where an AI tries multiple solutions in parallel but in total silence from one another. It creates a structured web of communication between these parallel reasoning threads, allowing the system to cross-reference insights and prune redundant or failing paths in real-time.",
+            "analogy": "Imagine five different GPS apps in your car, each calculating a different route to the same office. Instead of you picking one and hoping for the best, Lattice Attention allows the apps to talk to each other mid-trip, saying 'I've hit a pothole on 5th street, everyone else should reroute,' ensuring the car takes the single most optimized path possible.",
+            "business_value": "This significantly reduces the 'hallucination' rate and computational waste in complex problem-solving. For the bottom line, this means more reliable automated decision-making in high-stakes fields like legal discovery or supply chain logistics where a single redundant error can be costly."
         },
         {
-            "term": "Continuous Perceptual Agents",
-            "definition": "These are AI systems designed for 'always-on' situational awareness, processing a constant stream of multimodal data (like video and audio) rather than waiting for a specific text prompt. This allows the agent to maintain a persistent state of context, enabling it to proactively offer assistance based on real-world environmental triggers.",
-            "analogy": "This is the difference between a car's GPS (which only talks when you ask for a route) and a car's Collision Avoidance System. The latter is 'always-on,' constantly watching the road to intervene the millisecond it perceives a threat, without you ever having to press a button.",
-            "business_value": "CEO Insight: This shifts AI from a reactive 'tool' to a proactive 'teammate.' For the bottom line, this means 'Zero-Touch' productivity\u2014where AI identifies and solves operational bottlenecks before a human employee even realizes they exist."
+            "term": "Intelligent Semantic Topology",
+            "definition": "This refers to a mapping method for embodied AI that goes beyond simple 3D scanning to create a 'map of meaning' within physical spaces. By integrating multimodal knowledge, the AI understands the functional relationship and long-term placement of objects in messy environments, like retail stores or hospitals, allowing it to navigate even when specific items are moved.",
+            "analogy": "A basic robot sees a 'wooden rectangle' and doesn't know what to do; a robot using Semantic Topology understands it is a 'dining table' where 'recording devices' or 'food' belong. It\u2019s the difference between a car that only knows the road coordinates and a car that understands that a 'school zone' means it needs to be hypersensitive to unpredictable movement.",
+            "business_value": "As robotics move from predictable factory floors to 'dirty' real-world environments like warehouses and retail aisles, this tech is the 'brain' that prevents robots from getting confused by clutter. It lowers the barrier to entry for full physical automation in dynamic, consumer-facing businesses."
         }
     ]
 }
