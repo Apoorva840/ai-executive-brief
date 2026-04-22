@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 21, 2026",
+    "last_updated": "April 22, 2026",
     "tools": [
         {
-            "Name": "Swarms",
-            "Category": "AI Multi-Agent Orchestration",
-            "Description": "An enterprise-grade production-ready framework for multi-agent orchestration that supports hierarchical swarms, parallel pipelines, and various agentic structures.",
-            "Use_Case": "Building scalable, complex, multi-agent AI systems for production environments.",
-            "URL": "https://github.com/kyegomez/swarms"
+            "Name": "FastMCP",
+            "Category": "AI Development Framework",
+            "Description": "A fast, Pythonic framework for building Model Context Protocol (MCP) servers and clients, handling schema generation, validation, and protocol lifecycle automatically.",
+            "Use_Case": "Developing AI applications that need to connect to external tools, data, or interactive UIs within the conversation context.",
+            "URL": "https://github.com/PrefectHQ/fastmcp"
         },
         {
             "Name": "RAG-Anything",
-            "Category": "AI RAG Framework",
-            "Description": "An all-in-one multimodal RAG system that handles text, images, tables, equations, and diverse file formats through a unified pipeline.",
-            "Use_Case": "Advanced document retrieval and analysis for research, technical documentation, and financial reports.",
+            "Category": "RAG Framework",
+            "Description": "An all-in-one multimodal RAG framework that processes diverse documents including text, images, tables, and mathematical equations.",
+            "Use_Case": "Enterprise knowledge management and research where documents contain mixed-content types requiring a unified, multimodal processing framework.",
             "URL": "https://github.com/HKUDS/RAG-Anything"
         },
         {
-            "Name": "TrendRadar",
-            "Category": "AI Trend Monitoring",
-            "Description": "An AI-driven monitor for trends and public opinion that aggregates data from multiple platforms, provides smart alerts, and uses AI for analysis and translation.",
-            "Use_Case": "Monitoring market trends, sentiment analysis, and aggregating news across multiple channels with AI-powered summaries.",
-            "URL": "https://github.com/sansan0/TrendRadar"
+            "Name": "Kimi Code CLI",
+            "Category": "AI Agent",
+            "Description": "An autonomous AI agent that runs in the terminal, capable of reading/editing code, executing shell commands, and autonomous planning.",
+            "Use_Case": "Software development tasks, terminal operations, and autonomous coding assistance through shell or IDE integration.",
+            "URL": "https://github.com/MoonshotAI/kimi-cli"
         }
     ]
 }

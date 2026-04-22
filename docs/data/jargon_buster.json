@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 21, 2026",
+    "last_updated": "April 22, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Agent Distillation",
-            "definition": "Agent distillation is the process of transferring complex decision-making logic and behavioral traits from a 'teacher' entity\u2014be it a high-level model or a human expert\u2014into a streamlined, autonomous agent. This involves capturing not just the final output, but the underlying reasoning trajectories and 'subliminal' patterns to ensure the smaller agent replicates the expert's performance with higher efficiency.",
-            "analogy": "Think of it as a Master Chef creating a highly detailed, step-by-step recipe card for a line cook. The line cook doesn't need the Chef's decades of experience to execute the dish perfectly; they just need the 'distilled' instructions and timing to produce a 5-star result at a fraction of the cost.",
-            "business_value": "Distillation allows companies to scale human expertise and expensive compute into lightweight, proprietary assets. For leadership, this represents the transition from 'renting' AI capability to 'owning' a fleet of specialized digital workers that retain corporate memory even when talent leaves."
+            "term": "World Models",
+            "definition": "World models are internal neural representations that allow an AI to learn the underlying physics and causal logic of a physical environment. Unlike traditional LLMs that predict the next word, world models predict the next 'state' of a visual or physical scene, enabling the AI to simulate the consequences of an action before performing it.",
+            "analogy": "In a kitchen, a world model is the intuitive understanding that if you tilt a pot of boiling water, it will pour out and potentially burn you; you don't need to actually spill it to know the outcome.",
+            "business_value": "This is the 'Holy Grail' for physical automation. Mastering world models allows AI to move from digital screens to the physical world, enabling robots to handle complex, unstructured tasks like warehouse logistics or grocery shelving without manual programming."
         },
         {
-            "term": "Lattice Attention",
-            "definition": "Lattice Attention is a reasoning framework that moves away from 'isolated' processing, where an AI tries multiple solutions in parallel but in total silence from one another. It creates a structured web of communication between these parallel reasoning threads, allowing the system to cross-reference insights and prune redundant or failing paths in real-time.",
-            "analogy": "Imagine five different GPS apps in your car, each calculating a different route to the same office. Instead of you picking one and hoping for the best, Lattice Attention allows the apps to talk to each other mid-trip, saying 'I've hit a pothole on 5th street, everyone else should reroute,' ensuring the car takes the single most optimized path possible.",
-            "business_value": "This significantly reduces the 'hallucination' rate and computational waste in complex problem-solving. For the bottom line, this means more reliable automated decision-making in high-stakes fields like legal discovery or supply chain logistics where a single redundant error can be costly."
+            "term": "Agent Orchestration",
+            "definition": "Agent orchestration is the management layer that coordinates multiple specialized AI agents to execute a complex, multi-step workflow. It involves a 'boss' model that breaks down a high-level goal into sub-tasks, assigns them to specialized 'worker' models, and synthesizes their outputs into a final result.",
+            "analogy": "Think of it as a Head Chef in a Michelin-star kitchen who doesn't chop onions or sear steaks personally, but directs the line cooks and ensures every component of a 12-course meal arrives at the table in perfect harmony.",
+            "business_value": "This shifts AI from a 'search tool' to a 'digital workforce.' For the bottom line, this means automating entire business processes\u2014such as end-to-end supply chain adjustments or complex legal discovery\u2014rather than just automating single, isolated tasks."
         },
         {
-            "term": "Intelligent Semantic Topology",
-            "definition": "This refers to a mapping method for embodied AI that goes beyond simple 3D scanning to create a 'map of meaning' within physical spaces. By integrating multimodal knowledge, the AI understands the functional relationship and long-term placement of objects in messy environments, like retail stores or hospitals, allowing it to navigate even when specific items are moved.",
-            "analogy": "A basic robot sees a 'wooden rectangle' and doesn't know what to do; a robot using Semantic Topology understands it is a 'dining table' where 'recording devices' or 'food' belong. It\u2019s the difference between a car that only knows the road coordinates and a car that understands that a 'school zone' means it needs to be hypersensitive to unpredictable movement.",
-            "business_value": "As robotics move from predictable factory floors to 'dirty' real-world environments like warehouses and retail aisles, this tech is the 'brain' that prevents robots from getting confused by clutter. It lowers the barrier to entry for full physical automation in dynamic, consumer-facing businesses."
+            "term": "Open-Weight Models",
+            "definition": "Open-weight models provide the public with access to the pre-trained 'neural weights' of a model, allowing it to be downloaded and run on private hardware. This sits between 'closed' models (hidden behind a paid API) and 'open source' code, giving companies the blueprints to customize the AI's brain without starting from scratch.",
+            "analogy": "It is like a car manufacturer giving you the engine and chassis for free; you still need your own garage and fuel to run it, but you can modify the performance to your exact specifications without the manufacturer watching your every move.",
+            "business_value": "This is a massive strategic lever for data sovereignty and cost control. By using open-weight models, enterprises avoid 'vendor lock-in' and can keep their most sensitive proprietary data behind their own firewalls while drastically reducing long-term API subscription costs."
         }
     ]
 }
