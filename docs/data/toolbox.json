@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 22, 2026",
+    "last_updated": "April 23, 2026",
     "tools": [
         {
-            "Name": "FastMCP",
-            "Category": "AI Development Framework",
-            "Description": "A fast, Pythonic framework for building Model Context Protocol (MCP) servers and clients, handling schema generation, validation, and protocol lifecycle automatically.",
-            "Use_Case": "Developing AI applications that need to connect to external tools, data, or interactive UIs within the conversation context.",
-            "URL": "https://github.com/PrefectHQ/fastmcp"
+            "Name": "Fincept Terminal",
+            "Category": "Financial Analytics",
+            "Description": "A native C++20 desktop application offering CFA-level analytics, AI agents, and real-time trading broker integrations.",
+            "Use_Case": "Professional-grade financial research, portfolio optimization, and algorithmic trading.",
+            "URL": "https://github.com/Fincept-Corporation/FinceptTerminal"
         },
         {
             "Name": "RAG-Anything",
-            "Category": "RAG Framework",
-            "Description": "An all-in-one multimodal RAG framework that processes diverse documents including text, images, tables, and mathematical equations.",
-            "Use_Case": "Enterprise knowledge management and research where documents contain mixed-content types requiring a unified, multimodal processing framework.",
+            "Category": "AI Development",
+            "Description": "An all-in-one RAG framework capable of processing multimodal content including images, tables, and mathematical equations.",
+            "Use_Case": "Enterprise knowledge management and retrieval for documents with mixed media and complex structured data.",
             "URL": "https://github.com/HKUDS/RAG-Anything"
         },
         {
-            "Name": "Kimi Code CLI",
-            "Category": "AI Agent",
-            "Description": "An autonomous AI agent that runs in the terminal, capable of reading/editing code, executing shell commands, and autonomous planning.",
-            "Use_Case": "Software development tasks, terminal operations, and autonomous coding assistance through shell or IDE integration.",
-            "URL": "https://github.com/MoonshotAI/kimi-cli"
+            "Name": "Open WebUI",
+            "Category": "AI Interface",
+            "Description": "A self-hosted, user-friendly AI platform with built-in RAG and support for Ollama and OpenAI-compatible APIs.",
+            "Use_Case": "Self-hosted AI interaction, document analysis, and model management.",
+            "URL": "https://github.com/open-webui/open-webui"
         }
     ]
 }

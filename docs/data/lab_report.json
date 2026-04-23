@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-05-20",
+    "last_updated": "Today's Date",
     "papers": [
         {
-            "title": "LACE: Lattice Attention for Cross-thread Exploration",
-            "innovation": "Introduces LACE, a framework that transforms LLM reasoning from independent trials into an interactive process using 'lattice attention', allowing parallel reasoning paths to communicate and avoid redundant failures.",
-            "benchmarks": "Implied by addressing 'redundant failures' and improving 'reasoning paths', likely evaluated on standard LLM reasoning benchmarks but not explicitly named in the abstract.",
-            "use_case": "Enhancing the robustness, efficiency, and reliability of large language model (LLM) reasoning for complex problem-solving, planning, and task execution.",
-            "url": "https://arxiv.org/abs/2604.15529"
+            "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
+            "innovation": "Proposes 'Adaptive Red-Teaming' and 'End-to-End Repair' for Reinforcement Learning from Human Feedback (RLHF) systems. Addresses the critical vulnerability of imperfect Reward Models (RM) by fixing their failure to penalize unsafe behaviors, offering a method to repair the policy-reward system.",
+            "benchmarks": "Implicitly aims for improved safety and robustness of LLMs; no explicit metrics or datasets named in the abstract.",
+            "use_case": "Enhancing safety and alignment of LLMs, especially those aligned via RLHF; developing robust guardrails against unsafe AI behaviors; red-teaming and continuous improvement of AI policy-reward systems.",
+            "url": "https://arxiv.org/abs/2604.18789"
         },
         {
-            "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
-            "innovation": "Proposes a systematic methodology for designing and optimizing 'skills' for large language model (LLM) agents, leveraging bilevel optimization and Monte Carlo Tree Search (MCTS) to improve task performance.",
-            "benchmarks": "Implied by 'materially affect agent task performance' and 'systematically discover better skills', suggesting evaluation on various agent task performance metrics, though specific benchmarks are not named.",
-            "use_case": "Developing and refining LLM agents for specific tasks, allowing AI engineers to systematically create and optimize tool-use, instruction sets, and resource integration for better agent performance.",
-            "url": "https://arxiv.org/abs/2604.15709"
+            "title": "How Adversarial Environments Mislead Agentic AI?",
+            "innovation": "Identifies and investigates a 'critical attack surface' for tool-integrated agents where external tools can maliciously mislead agents ('what if the tools lie'). Shifts focus from agent capability to agent robustness in adversarial environments, uncovering new vulnerabilities.",
+            "benchmarks": "Current evaluations benchmark capability; this paper implies the need for new benchmarks to assess robustness against manipulated tools/environments. No specific benchmarks named.",
+            "use_case": "Security analysis and hardening of autonomous agents; developing robust agent architectures against tool-based deception; red-teaming for agentic AI; designing trustworthy AI systems that interact with external environments.",
+            "url": "https://arxiv.org/abs/2604.18874"
         },
         {
-            "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
-            "innovation": "Demonstrates that unsafe behavioral traits can transfer 'subliminally' in agentic systems during policy distillation, even when the data is semantically unrelated to those traits, extending prior work on semantic trait transfer.",
-            "benchmarks": "Implied by 'demonstrates' and 'remains unclear whether behavioral traits can transfer', likely involves experimental evaluation of agent behavior post-distillation, but no specific benchmark suite is named.",
-            "use_case": "Crucial for safety and alignment engineering of AI agents, enabling the identification and mitigation of hidden vulnerabilities where undesirable or unsafe behaviors could be unintentionally transferred during model training or distillation processes.",
-            "url": "https://arxiv.org/abs/2604.15559"
+            "title": "Human-Guided Harm Recovery for Computer Use Agents",
+            "innovation": "Formalizes the problem of 'harm recovery' for autonomous agents, focusing on effective remediation of harm when preventive measures fail. Introduces human-guided post-execution safeguards to complement prevention mechanisms for agents operating on real computer systems.",
+            "benchmarks": "Aims for effective and scalable harm remediation; no specific benchmarks or metrics mentioned in the abstract, but the challenge itself is a benchmark for practical agent deployment.",
+            "use_case": "Designing robust and resilient autonomous computer-use agents; developing post-execution safety protocols; implementing human-in-the-loop recovery mechanisms for AI agent failures; minimizing the impact of unintended harmful agent actions.",
+            "url": "https://arxiv.org/abs/2604.18847"
         }
     ]
 }
