@@ -1,25 +1,25 @@
 {
-    "last_updated": "April 23, 2026",
+    "last_updated": "April 24, 2026",
     "tools": [
         {
-            "Name": "Fincept Terminal",
-            "Category": "Financial Analytics",
-            "Description": "A native C++20 desktop application offering CFA-level analytics, AI agents, and real-time trading broker integrations.",
-            "Use_Case": "Professional-grade financial research, portfolio optimization, and algorithmic trading.",
-            "URL": "https://github.com/Fincept-Corporation/FinceptTerminal"
+            "Name": "LiteLLM",
+            "Category": "AI Infrastructure / Gateway",
+            "Description": "An open-source AI gateway that provides a unified interface for calling over 100+ LLM APIs using the standard OpenAI format.",
+            "Use_Case": "Simplifying multi-LLM integration, cost tracking, load balancing, and adding guardrails to AI applications without rewriting code.",
+            "URL": "https://github.com/BerriAI/litellm"
         },
         {
-            "Name": "RAG-Anything",
-            "Category": "AI Development",
-            "Description": "An all-in-one RAG framework capable of processing multimodal content including images, tables, and mathematical equations.",
-            "Use_Case": "Enterprise knowledge management and retrieval for documents with mixed media and complex structured data.",
-            "URL": "https://github.com/HKUDS/RAG-Anything"
+            "Name": "CrewAI",
+            "Category": "Multi-Agent Orchestration",
+            "Description": "A Python framework for building and orchestrating role-playing, autonomous AI agents that work collaboratively.",
+            "Use_Case": "Building complex, production-grade multi-agent systems for business automation and task-oriented collaborative workflows.",
+            "URL": "https://github.com/crewAIInc/crewAI"
         },
         {
             "Name": "Open WebUI",
-            "Category": "AI Interface",
-            "Description": "A self-hosted, user-friendly AI platform with built-in RAG and support for Ollama and OpenAI-compatible APIs.",
-            "Use_Case": "Self-hosted AI interaction, document analysis, and model management.",
+            "Category": "User Interface / AI Platform",
+            "Description": "A feature-rich, self-hosted AI interface that supports various LLM runners like Ollama and OpenAI-compatible APIs.",
+            "Use_Case": "Deploying a user-friendly, private, and extensible AI chat platform with RAG, web search, and image generation capabilities.",
             "URL": "https://github.com/open-webui/open-webui"
         }
     ]

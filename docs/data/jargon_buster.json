@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 23, 2026",
+    "last_updated": "April 24, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Data Fabric",
-            "definition": "A Data Fabric is an architectural layer that uses metadata and AI to automate the discovery, governance, and integration of data across hybrid-cloud environments. It abstracts the complexity of disparate storage systems, providing a unified and real-time data stream that AI agents require to function without manual data preparation.",
-            "analogy": "Imagine a professional kitchen where a central conveyor system automatically identifies and delivers the exact ingredients from the pantry, fridge, or garden to the chef's station the moment a recipe is started, eliminating the need for the chef to ever search for a spice or prep a vegetable.",
-            "business_value": "It eliminates data silos and reduces manual integration labor, accelerating the deployment of AI 'agents' from months to days while ensuring models are making decisions based on the most current enterprise truth."
+            "term": "Tool-Overuse Illusion",
+            "definition": "This phenomenon occurs when an LLM bypasses its own high-quality internal training data to trigger external tools, such as calculators or search APIs, for tasks it could have solved natively. It represents a misalignment in the model's orchestration logic where the overhead of external execution is incurred unnecessarily, often leading to increased latency and redundant processing.",
+            "analogy": "It is like a professional chef who insists on driving to the store to buy pre-chopped onions for every single dish, even though they have a bag of fresh onions and a sharp knife sitting right in front of them.",
+            "business_value": "Over-reliance on external tools inflates API costs and introduces unnecessary points of failure. Executives must ensure their AI architects optimize the 'routing logic' to balance internal reasoning with external tool-use to maintain high margins and low latency."
         },
         {
-            "term": "Adaptive Red-Teaming (ARES)",
-            "definition": "Adaptive Red-Teaming is an automated security framework designed to stress-test the 'Reward Models' used in Reinforcement Learning from Human Feedback (RLHF). It utilizes AI agents to dynamically find and exploit 'policy-reward gaps,' which are flaws where an AI might be rewarded for generating a response that looks helpful but is actually unsafe or deceptive.",
-            "analogy": "Think of it like an elite 'white-hat' test driver who uses a specialized computer simulation to find the exact combination of speed, weather, and road angle that could trick an autonomous car\u2019s braking system into failing, and then uses that data to automatically patch the car\u2019s software.",
-            "business_value": "This moves AI safety from a manual, reactive process to a proactive, scalable one, protecting your brand from 'jailbreak' scandals and preventing autonomous agents from authorizing fraudulent or non-compliant corporate transactions."
+            "term": "Inference Headroom Ratio (IHR)",
+            "definition": "IHR is a dimensionless diagnostic metric used to quantify the stability of an AI system operating under resource or time constraints. It calculates the ratio between a system's total inferential capacity and the level of environmental uncertainty it must resolve, serving as a 'stress test' indicator for autonomous decision-making systems.",
+            "analogy": "Think of IHR as the 'redline' on a car's tachometer; it tells you exactly how much more power the engine has available to climb a steep hill before the vehicle stalls under the weight of the climb.",
+            "business_value": "For mission-critical AI, IHR provides a mathematical safeguard against system collapse during high-volatility events. It allows leadership to move from 'guessing' system reliability to 'measuring' the exact buffer required to prevent catastrophic service interruptions."
         },
         {
-            "term": "Quantum Qutrit-based Neural Networks",
-            "definition": "Unlike classical neural networks using binary bits (0 or 1) or standard quantum qubits (0 and 1), qutrit-based networks utilize ternary logic states\u20140, 1, and 2 simultaneously. This increases the state-space dimensionality and computational density, allowing the model to process highly complex, multi-variable patterns\u2014like those found in real-time financial markets\u2014with significantly lower latency.",
-            "analogy": "If a standard car has only 'Park' and 'Drive' gears, a qutrit-based car has a sophisticated three-way transmission that allows it to engage 'Park,' 'Drive,' and 'Turbo' all at once, enabling it to navigate more complex terrain at speeds a traditional car simply couldn't handle.",
-            "business_value": "For the C-suite, this represents a quantum-leap in predictive accuracy for high-frequency trading and risk management, identifying market shifts that traditional silicon-based AI models would miss due to computational bottlenecks."
+            "term": "Evolution of Computational Graphs",
+            "definition": "This paradigm shifts AI development from simply 'weight tuning' within a fixed model to 'architectural discovery.' It uses open-ended evolutionary algorithms to automatically design the actual structure of the mathematical operations, allowing the AI to invent new, more efficient logic flows that human engineers might never have considered.",
+            "analogy": "Instead of just trying to find the best settings on a standard kitchen stove, you allow an automated system to completely reconfigure the kitchen\u2014moving the sink, adding new heat sources, and rearranging the workflow\u2014to find the most efficient way to produce a meal.",
+            "business_value": "This approach reduces the R&D bottleneck caused by a shortage of elite machine learning engineers. By automating the discovery of model structures, companies can create leaner, proprietary 'EvoForests' that outperform massive, generic models at a fraction of the operational compute cost."
         }
     ]
 }

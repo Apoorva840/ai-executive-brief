@@ -1,42 +1,42 @@
 [
   {
-    "title": "Multimodal Transformer for Sample-Aware Prediction of Metal-Organic Framework Properties",
-    "summary": "arXiv:2604.19383v1 Announce Type: cross Abstract: Metal-organic frameworks (MOFs) are a major target of machine-learning-based property prediction, yet most models assume that a single framework representation maps to a single property value. This assumption becomes problematic for experimental MOFs, where samples reported as the same framework can",
-    "url": "https://arxiv.org/abs/2604.19383",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-22T04:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "AutoAdapt: Automated domain adaptation for large language models",
-    "summary": "Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reliability can quickly break down because adapting models to domain-specific requirements is a slow and manual process that is difficult to reproduce. The c",
-    "url": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
-    "source": "Microsoft Research",
-    "published_at": "2026-04-22T16:25:30+00:00",
-    "score": 7
-  },
-  {
-    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-    "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/gemma4",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-04-22T15:40:50+00:00",
-    "score": 7
-  },
-  {
-    "title": "Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world",
-    "summary": "New AI lab, familiar face: former OpenAI researcher Jerry Tworek wants to push past the limits of today's AI architectures with a small team and new learning methods. The article Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world appeared first on The Decoder.",
-    "url": "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/",
+    "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
+    "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a &quot;new class of intelligence&quot; at double the API price appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
     "source": "The Decoder",
-    "published_at": "2026-04-22T18:44:36+00:00",
+    "published_at": "2026-04-23T19:01:07+00:00",
     "score": 7
   },
   {
-    "title": "Unauthorized users breach Anthropic's restricted Mythos AI model",
-    "summary": "A small group of unauthorized users gained access to Anthropic's new AI model Claude Mythos, Bloomberg reports. The article Unauthorized users breach Anthropic&#039;s restricted Mythos AI model appeared first on The Decoder.",
-    "url": "https://the-decoder.com/unauthorized-users-breach-anthropics-restricted-mythos-ai-model/",
+    "title": "Trump science advisor says Chinese actors are copying American AI at massive scale",
+    "summary": "The US government says it has evidence of large-scale, industrial distillation campaigns targeting American frontier models, with China as the primary culprit. Now the Trump administration is moving to fight back. The article Trump science advisor says Chinese actors are copying American AI at massive scale appeared first on The Decoder.",
+    "url": "https://the-decoder.com/trump-science-advisor-says-chinese-actors-are-copying-american-ai-at-massive-scale/",
     "source": "The Decoder",
-    "published_at": "2026-04-22T12:54:43+00:00",
+    "published_at": "2026-04-23T18:04:39+00:00",
     "score": 7
+  },
+  {
+    "title": "The billion-dollar startup with a different idea for AI",
+    "summary": "A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs&#8217; Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the way through [&#8230;] The post The billion-dollar st",
+    "url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+    "source": "AI News",
+    "published_at": "2026-04-23T12:30:00+00:00",
+    "score": 6
+  },
+  {
+    "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+    "summary": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, this architecture aims to deliver up to ten times lowe",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+    "source": "AI News",
+    "published_at": "2026-04-23T12:19:36+00:00",
+    "score": 6
+  },
+  {
+    "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+    "summary": "In this week’s episode of Uncanny Valley, we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+    "source": "Wired AI",
+    "published_at": "2026-04-23T19:26:11+00:00",
+    "score": 5
   }
 ]

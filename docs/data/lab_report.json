@@ -1,26 +1,26 @@
 {
-    "last_updated": "Today's Date",
+    "last_updated": "2024-05-15",
     "papers": [
         {
-            "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
-            "innovation": "Proposes 'Adaptive Red-Teaming' and 'End-to-End Repair' for Reinforcement Learning from Human Feedback (RLHF) systems. Addresses the critical vulnerability of imperfect Reward Models (RM) by fixing their failure to penalize unsafe behaviors, offering a method to repair the policy-reward system.",
-            "benchmarks": "Implicitly aims for improved safety and robustness of LLMs; no explicit metrics or datasets named in the abstract.",
-            "use_case": "Enhancing safety and alignment of LLMs, especially those aligned via RLHF; developing robust guardrails against unsafe AI behaviors; red-teaming and continuous improvement of AI policy-reward systems.",
-            "url": "https://arxiv.org/abs/2604.18789"
+            "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+            "innovation": "Reveals and characterizes the pervasive problem of 'tool overuse' in LLMs, where models unnecessarily opt for external tools even when internal knowledge suffices. This understanding is crucial for designing more efficient and reliable LLM agents.",
+            "benchmarks": "Implies evaluation across diverse LLMs to demonstrate the pervasiveness of the phenomenon, likely involving agent-based tasks where tool calls are a metric.",
+            "use_case": "Designing more efficient and robust LLM agents, optimizing resource allocation by preventing unnecessary tool API calls, and improving the overall decision-making quality of AI systems that integrate external tools.",
+            "url": "https://arxiv.org/abs/2604.19749"
         },
         {
-            "title": "How Adversarial Environments Mislead Agentic AI?",
-            "innovation": "Identifies and investigates a 'critical attack surface' for tool-integrated agents where external tools can maliciously mislead agents ('what if the tools lie'). Shifts focus from agent capability to agent robustness in adversarial environments, uncovering new vulnerabilities.",
-            "benchmarks": "Current evaluations benchmark capability; this paper implies the need for new benchmarks to assess robustness against manipulated tools/environments. No specific benchmarks named.",
-            "use_case": "Security analysis and hardening of autonomous agents; developing robust agent architectures against tool-based deception; red-teaming for agentic AI; designing trustworthy AI systems that interact with external environments.",
-            "url": "https://arxiv.org/abs/2604.18874"
+            "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
+            "innovation": "Proposes a method for explainable AML triage using LLMs that addresses auditability and governance constraints. Key innovations include structured output, evidence retrieval, and counterfactual checks to mitigate risks of unconstrained generation.",
+            "benchmarks": "Evaluated on real-world AML alert triage datasets, focusing on metrics related to explanation quality, auditability, and decision accuracy within a regulated environment.",
+            "use_case": "Deploying LLMs in high-stakes, regulated industries (e.g., finance, healthcare) where interpretability, auditability, and control over model generation are paramount for compliance and trust. Specifically, for building explainable AI systems for fraud detection and risk assessment.",
+            "url": "https://arxiv.org/abs/2604.19755"
         },
         {
-            "title": "Human-Guided Harm Recovery for Computer Use Agents",
-            "innovation": "Formalizes the problem of 'harm recovery' for autonomous agents, focusing on effective remediation of harm when preventive measures fail. Introduces human-guided post-execution safeguards to complement prevention mechanisms for agents operating on real computer systems.",
-            "benchmarks": "Aims for effective and scalable harm remediation; no specific benchmarks or metrics mentioned in the abstract, but the challenge itself is a benchmark for practical agent deployment.",
-            "use_case": "Designing robust and resilient autonomous computer-use agents; developing post-execution safety protocols; implementing human-in-the-loop recovery mechanisms for AI agent failures; minimizing the impact of unintended harmful agent actions.",
-            "url": "https://arxiv.org/abs/2604.18847"
+            "title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
+            "innovation": "Introduces the 'Inference Headroom Ratio' (IHR), a dimensionless diagnostic quantity, and a control framework for characterizing and managing inference stability in constrained decision systems. This formalizes the relationship between inferential capacity and uncertainty.",
+            "benchmarks": "Simulation-based evaluation is used to demonstrate the effectiveness of IHR in diagnosing and controlling inference stability under various system constraints and uncertainties.",
+            "use_case": "Designing, monitoring, and optimizing robust and reliable AI inference systems in production environments. Crucial for MLOps engineers to ensure systems maintain stability and performance under varying operational conditions and resource limitations.",
+            "url": "https://arxiv.org/abs/2604.19760"
         }
     ]
 }
