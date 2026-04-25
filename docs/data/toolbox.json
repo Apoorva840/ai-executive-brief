@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 24, 2026",
+    "last_updated": "April 25, 2026",
     "tools": [
         {
-            "Name": "LiteLLM",
-            "Category": "AI Infrastructure / Gateway",
-            "Description": "An open-source AI gateway that provides a unified interface for calling over 100+ LLM APIs using the standard OpenAI format.",
-            "Use_Case": "Simplifying multi-LLM integration, cost tracking, load balancing, and adding guardrails to AI applications without rewriting code.",
-            "URL": "https://github.com/BerriAI/litellm"
+            "Name": "Free Claude Code",
+            "Category": "Development Tools / AI Proxy",
+            "Description": "A lightweight proxy that routes Claude Code API calls to various providers including NVIDIA NIM, OpenRouter, DeepSeek, and local LLM runners.",
+            "Use_Case": "Using Claude Code CLI or VSCode extension without needing an Anthropic API key.",
+            "URL": "https://github.com/Alishahryar1/free-claude-code"
         },
         {
-            "Name": "CrewAI",
-            "Category": "Multi-Agent Orchestration",
-            "Description": "A Python framework for building and orchestrating role-playing, autonomous AI agents that work collaboratively.",
-            "Use_Case": "Building complex, production-grade multi-agent systems for business automation and task-oriented collaborative workflows.",
-            "URL": "https://github.com/crewAIInc/crewAI"
+            "Name": "ML Intern",
+            "Category": "Autonomous AI Agent",
+            "Description": "An autonomous AI engineer designed to read research papers, train models, and ship ML code using the Hugging Face ecosystem.",
+            "Use_Case": "Automating ML research, coding, and deployment tasks.",
+            "URL": "https://github.com/huggingface/ml-intern"
         },
         {
-            "Name": "Open WebUI",
-            "Category": "User Interface / AI Platform",
-            "Description": "A feature-rich, self-hosted AI interface that supports various LLM runners like Ollama and OpenAI-compatible APIs.",
-            "Use_Case": "Deploying a user-friendly, private, and extensible AI chat platform with RAG, web search, and image generation capabilities.",
-            "URL": "https://github.com/open-webui/open-webui"
+            "Name": "OpenSRE",
+            "Category": "AI Operations (AIOps) / Security",
+            "Description": "An open-source framework for building AI SRE agents that investigate production incidents by correlating logs, metrics, and traces.",
+            "Use_Case": "Automating incident response and root-cause analysis on infrastructure.",
+            "URL": "https://github.com/Tracer-Cloud/opensre"
         }
     ]
 }

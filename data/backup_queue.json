@@ -1,92 +1,137 @@
 [
   {
-    "title": "OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense",
-    "summary": "OpenAI and Microsoft are joining forces to shore up cybersecurity as AI models become a bigger threat. The debate started with Anthropic's Mythos model, which is designed to hunt down security flaws on its own. The article OpenAI&#039;s new Trusted Access program gives Microsoft its most capable models for cyber defense appeared first on The Decode",
-    "url": "https://the-decoder.com/openais-new-trusted-access-program-gives-microsoft-its-most-capable-models-for-cyber-defense/",
-    "source": "The Decoder",
-    "published_at": "2026-04-23T16:09:29+00:00",
+    "title": "Can MLLMs \"Read\" What is Missing?",
+    "summary": "arXiv:2604.21277v1 Announce Type: new Abstract: We introduce MMTR-Bench, a benchmark designed to evaluate the intrinsic ability of Multimodal Large Language Models (MLLMs) to reconstruct masked text directly from visual context. Unlike conventional question-answering tasks, MMTR-Bench eliminates explicit prompts, requiring models to recover masked ",
+    "url": "https://arxiv.org/abs/2604.21277",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-24T04:01:42.433020+00:00"
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   },
   {
-    "title": "OpenAI releases open-source model that strips personal data from text",
-    "summary": "OpenAI has released Privacy Filter, an open-source model designed to detect and redact personal data in text. The article OpenAI releases open-source model that strips personal data from text appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-releases-open-source-model-that-strips-personal-data-from-text/",
-    "source": "The Decoder",
-    "published_at": "2026-04-23T13:53:13+00:00",
+    "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
+    "summary": "arXiv:2604.21284v1 Announce Type: new Abstract: MemPalace is an open-source AI memory system that applies the ancient method of loci (memory palace) spatial metaphor to organize long-term memory for large language models; launched in April 2026, it accumulated over 47,000 GitHub stars in its first two weeks and claims state-of-the-art retrieval per",
+    "url": "https://arxiv.org/abs/2604.21284",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-24T04:01:42.433020+00:00"
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   },
   {
-    "title": "Researchers warn US politics is repeating its ChatGPT mistake with world models",
-    "summary": "The next phase of AI development is moving beyond text and into the physical world. Researchers warn that US policymakers don't yet grasp the scale of what's coming, while China is already pulling ahead in robotics. The article Researchers warn US politics is repeating its ChatGPT mistake with world models appeared first on The Decoder.",
-    "url": "https://the-decoder.com/researchers-warn-us-politics-is-repeating-its-chatgpt-mistake-with-world-models/",
-    "source": "The Decoder",
-    "published_at": "2026-04-23T13:33:58+00:00",
+    "title": "ReaGeo: Reasoning-Enhanced End-to-End Geocoding with LLMs",
+    "summary": "arXiv:2604.21357v1 Announce Type: new Abstract: This paper proposes ReaGeo, an end-to-end geocoding framework based on large language models, designed to overcome the limitations of traditional multi-stage approaches that rely on text or vector similarity retrieval over geographic databases, including workflow complexity, error propagation, and hea",
+    "url": "https://arxiv.org/abs/2604.21357",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-24T04:01:42.433020+00:00"
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   },
   {
-    "title": "Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design",
-    "summary": "Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules. The article Google&#039;s open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design appeared first on The Decoder.",
-    "url": "https://the-decoder.com/googles-open-source-design-md-gives-ai-agents-a-prompt-ready-blueprint-for-brand-consistent-design/",
-    "source": "The Decoder",
-    "published_at": "2026-04-23T17:20:06+00:00",
-    "score": 6,
-    "archived_at": "2026-04-24T04:01:42.433020+00:00"
+    "title": "Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies",
+    "summary": "arXiv:2604.21571v1 Announce Type: new Abstract: Current model training approaches incorporate user information directly into shared weights, making individual data removal computationally infeasible without retraining. This paper presents a three-layer architecture that decouples personal data from shared weights by combining a static base model, c",
+    "url": "https://arxiv.org/abs/2604.21571",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   },
   {
-    "title": "Claude survey: new capabilities beat speed as top AI benefit, but creatives feel left behind",
-    "summary": "A survey of 81,000 Claude users shows that gaining new capabilities ranks slightly ahead of speed as the most common productivity benefit. Creatives, meanwhile, feel both limited and threatened by AI. The sample, however, has a significant bias. The article Claude survey: new capabilities beat speed as top AI benefit, but creatives feel left behind",
-    "url": "https://the-decoder.com/claude-survey-new-capabilities-beat-speed-as-top-ai-benefit-but-creatives-feel-left-behind/",
-    "source": "The Decoder",
-    "published_at": "2026-04-23T14:10:54+00:00",
-    "score": 6,
-    "archived_at": "2026-04-24T04:01:42.433020+00:00"
+    "title": "StyleVAR: Controllable Image Style Transfer via Visual Autoregressive Modeling",
+    "summary": "arXiv:2604.21052v1 Announce Type: cross Abstract: We build on the Visual Autoregressive Modeling (VAR) framework and formulate style transfer as conditional discrete sequence modeling in a learned latent space. Images are decomposed into multi-scale representations and tokenized into discrete codes by a VQ-VAE; a transformer then autoregressively m",
+    "url": "https://arxiv.org/abs/2604.21052",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   },
   {
-    "title": "Google says 75 percent of its new code is now written by AI",
-    "summary": "75 percent of new code at Google is now generated by AI and then reviewed by human developers, the company says. The article Google says 75 percent of its new code is now written by AI appeared first on The Decoder.",
-    "url": "https://the-decoder.com/google-says-75-percent-of-its-new-code-is-now-written-by-ai/",
-    "source": "The Decoder",
-    "published_at": "2026-04-23T13:23:56+00:00",
-    "score": 6,
-    "archived_at": "2026-04-24T04:01:42.433020+00:00"
+    "title": "SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference",
+    "summary": "arXiv:2604.21231v1 Announce Type: cross Abstract: Efficient inference for on-device Large Language Models (LLMs) remains challenging due to limited hardware resources and the high cost of the prefill stage, which processes the full input context to construct Key-Value (KV) caches. We present SparKV, an adaptive KV loading framework that combines cl",
+    "url": "https://arxiv.org/abs/2604.21231",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   },
   {
-    "title": "Sony AI builds the first robot to reach expert level in a sport",
-    "summary": "Sony's table tennis robot \"Ace\" is the first robot to reach expert-level performance in a sport, according to the company. The article Sony AI builds the first robot to reach expert level in a sport appeared first on The Decoder.",
-    "url": "https://the-decoder.com/sony-ai-builds-the-first-robot-to-reach-expert-level-in-a-sport/",
-    "source": "The Decoder",
-    "published_at": "2026-04-23T13:12:13+00:00",
-    "score": 6,
-    "archived_at": "2026-04-24T04:01:42.433020+00:00"
+    "title": "Reasoning Primitives in Hybrid and Non-Hybrid LLMs",
+    "summary": "arXiv:2604.21454v1 Announce Type: cross Abstract: Reasoning in large language models is often treated as a monolithic capability, but its observed gains may arise from more basic operations. We study reasoning through two such primitives, recall and state-tracking, and ask whether hybrid architectures that combine attention-based retrieval with rec",
+    "url": "https://arxiv.org/abs/2604.21454",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   },
   {
-    "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
-    "summary": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
-    "url": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
-    "source": "Wired AI",
-    "published_at": "2026-04-23T18:24:37+00:00",
-    "score": 5,
-    "archived_at": "2026-04-24T04:01:42.433020+00:00"
+    "title": "DryRUN: On the Role of Public Tests in LLM-Driven Code Generation",
+    "summary": "arXiv:2604.21598v1 Announce Type: cross Abstract: Multi-agent frameworks are widely used in autonomous code generation and have applications in complex algorithmic problem-solving. Recent work has addressed the challenge of generating functionally correct code by incorporating simulation-driven planning and debugging, where language models trace ex",
+    "url": "https://arxiv.org/abs/2604.21598",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   },
   {
-    "title": "OpenAI says its new ChatGPT for Clinicians outperforms doctors on clinical tasks even when they have unlimited time and web access",
-    "summary": "OpenAI is rolling out ChatGPT for Clinicians, a free version of its chatbot for medical professionals. A new benchmark claims GPT-5.4 beats human doctors on clinical tasks, even when those doctors have unlimited time and internet access. The article OpenAI says its new ChatGPT for Clinicians outperforms doctors on clinical tasks even when they have",
-    "url": "https://the-decoder.com/openai-says-its-new-chatgpt-for-clinicians-outperforms-doctors-on-clinical-tasks-even-when-they-have-unlimited-time-and-web-access/",
-    "source": "The Decoder",
-    "published_at": "2026-04-23T10:21:15+00:00",
-    "score": 5,
-    "archived_at": "2026-04-24T04:01:42.433020+00:00"
+    "title": "Process Supervision via Verbal Critique Improves Reasoning in Large Language Models",
+    "summary": "arXiv:2604.21611v1 Announce Type: cross Abstract: Inference-time scaling for LLM reasoning has focused on three axes: chain depth, sample breadth, and learned step-scorers (PRMs). We introduce a fourth axis, granularity of external verbal supervision, via Verbal Process Supervision (VPS), a training-free framework that uses structured natural-langu",
+    "url": "https://arxiv.org/abs/2604.21611",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   },
   {
-    "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
-    "summary": "An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as &#8220;physical AI,&#8221; where artificial intelligence is applied to machines operating in real-world environments. The robot, na",
-    "url": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
-    "source": "AI News",
-    "published_at": "2026-04-23T10:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-04-24T04:01:42.433020+00:00"
+    "title": "Promoting Simple Agents: Ensemble Methods for Event-Log Prediction",
+    "summary": "arXiv:2604.21629v1 Announce Type: cross Abstract: We compare lightweight automata-based models (n-grams) with neural architectures (LSTM, Transformer) for next-activity prediction in streaming event logs. Experiments on synthetic patterns and five real-world process mining datasets show that n-grams with appropriate context windows achieve comparab",
+    "url": "https://arxiv.org/abs/2604.21629",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Multimodal Bayesian Network for Robust Assessment of Casualties in Autonomous Triage",
+    "summary": "arXiv:2512.18908v2 Announce Type: replace Abstract: Mass Casualty Incidents can overwhelm emergency medical systems and resulting delays or errors in the assessment of casualties can lead to preventable deaths. We present a decision support framework that fuses outputs from multiple computer vision models, estimating signs of severe hemorrhage, res",
+    "url": "https://arxiv.org/abs/2512.18908",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams",
+    "summary": "arXiv:2604.15994v2 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) excel at recognizing individual visual elements and reasoning over simple linear diagrams. However, when faced with complex topological structures involving branching paths, converging flows, and cyclic dependencies, their reasoning capabilities degrade sha",
+    "url": "https://arxiv.org/abs/2604.15994",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Preserving Knowledge in Large Language Model with Model-Agnostic Self-Decompression",
+    "summary": "arXiv:2406.11354v3 Announce Type: replace-cross Abstract: Humans can retain old knowledge while learning new information, but Large Language Models (LLMs) often suffer from catastrophic forgetting when post-pretrained or supervised fine-tuned (SFT) on domain-specific data. Moreover, for Multimodal Large Language Models (MLLMs) which are composed of",
+    "url": "https://arxiv.org/abs/2406.11354",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Federated Co-tuning Framework for Large and Small Language Models",
+    "summary": "arXiv:2411.11707v3 Announce Type: replace-cross Abstract: By adapting Large Language Models (LLMs) to domain-specific tasks or enriching them with domain-specific knowledge, we can fully harness the capabilities of LLMs. Nonetheless, a gap persists in achieving simultaneous mutual enhancement between the server's LLM and the downstream clients' Sma",
+    "url": "https://arxiv.org/abs/2411.11707",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Analytical FFN-to-MoE Restructuring via Activation Pattern Analysis",
+    "summary": "arXiv:2502.04416v3 Announce Type: replace-cross Abstract: Scaling large language models (LLMs) improves performance but significantly increases inference costs, with feed-forward networks (FFNs) consuming the majority of computational resources. While Mixture-of-Experts (MoE) architectures can reduce this cost through sparse activation, restructuri",
+    "url": "https://arxiv.org/abs/2502.04416",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   }
 ]

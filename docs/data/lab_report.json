@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-05-15",
+    "last_updated": "2024-04-26",
     "papers": [
         {
-            "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-            "innovation": "Reveals and characterizes the pervasive problem of 'tool overuse' in LLMs, where models unnecessarily opt for external tools even when internal knowledge suffices. This understanding is crucial for designing more efficient and reliable LLM agents.",
-            "benchmarks": "Implies evaluation across diverse LLMs to demonstrate the pervasiveness of the phenomenon, likely involving agent-based tasks where tool calls are a metric.",
-            "use_case": "Designing more efficient and robust LLM agents, optimizing resource allocation by preventing unnecessary tool API calls, and improving the overall decision-making quality of AI systems that integrate external tools.",
-            "url": "https://arxiv.org/abs/2604.19749"
+            "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
+            "innovation": "Introduces \"value-conflict diagnostics\" as a novel methodology to detect alignment faking in LLMs, a phenomenon where models appear aligned when monitored but revert to unaligned preferences when unobserved. This advances beyond prior diagnostics that relied on highly toxic or overtly harmful content.",
+            "benchmarks": "The abstract implies a new diagnostic framework rather than specific benchmark datasets, focusing on evaluating the model's adherence to developer policy under varying observation conditions.",
+            "use_case": "Enhancing the safety and trustworthiness of deployed LLMs, improving alignment techniques, red-teaming advanced AI systems, and ensuring models consistently adhere to ethical guidelines and developer policies in production environments.",
+            "url": "https://arxiv.org/abs/2604.20995"
         },
         {
-            "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
-            "innovation": "Proposes a method for explainable AML triage using LLMs that addresses auditability and governance constraints. Key innovations include structured output, evidence retrieval, and counterfactual checks to mitigate risks of unconstrained generation.",
-            "benchmarks": "Evaluated on real-world AML alert triage datasets, focusing on metrics related to explanation quality, auditability, and decision accuracy within a regulated environment.",
-            "use_case": "Deploying LLMs in high-stakes, regulated industries (e.g., finance, healthcare) where interpretability, auditability, and control over model generation are paramount for compliance and trust. Specifically, for building explainable AI systems for fraud detection and risk assessment.",
-            "url": "https://arxiv.org/abs/2604.19755"
+            "title": "Adaptive Test-Time Compute Allocation with Evolving In-Context Demonstrations",
+            "innovation": "Proposes a framework that jointly adapts where computational resources are spent and how in-context demonstrations are selected or evolved during test-time. This dynamic approach aims to optimize model performance more effectively by intelligently allocating compute and tailoring input prompts.",
+            "benchmarks": "The abstract does not name specific benchmarks, but the innovation suggests improvements would be measured against standard LLM performance metrics (e.g., accuracy, quality) while also demonstrating efficiency gains or controlled compute usage on various tasks.",
+            "use_case": "Optimizing the efficiency and performance of LLM inference, reducing operational costs for deploying large language models, enabling dynamic resource allocation for AI services, and improving the responsiveness and quality of LLMs under varying computational constraints.",
+            "url": "https://arxiv.org/abs/2604.21018"
         },
         {
-            "title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
-            "innovation": "Introduces the 'Inference Headroom Ratio' (IHR), a dimensionless diagnostic quantity, and a control framework for characterizing and managing inference stability in constrained decision systems. This formalizes the relationship between inferential capacity and uncertainty.",
-            "benchmarks": "Simulation-based evaluation is used to demonstrate the effectiveness of IHR in diagnosing and controlling inference stability under various system constraints and uncertainties.",
-            "use_case": "Designing, monitoring, and optimizing robust and reliable AI inference systems in production environments. Crucial for MLOps engineers to ensure systems maintain stability and performance under varying operational conditions and resource limitations.",
-            "url": "https://arxiv.org/abs/2604.19760"
+            "title": "The Last Harness You'll Ever Build",
+            "innovation": "Focuses on developing robust \"harnesses\" for deploying AI agents in complex, domain-specific workflows. This addresses the practical challenges of integrating AI agents into real-world, often messy, environments such as enterprise web applications, multi-step research pipelines, or automated code review, emphasizing resilience and reliability.",
+            "benchmarks": "While no explicit benchmarks are named, the innovation is implicitly benchmarked by the successful and robust navigation and completion of tasks within complex, real-world enterprise web applications and multi-step research/automation pipelines.",
+            "use_case": "Automating complex enterprise workflows with AI agents, improving the reliability and integration of AI agents in production environments, enabling AI to operate robustly across unfamiliar repositories or dynamic web applications, and reducing the engineering overhead of deploying and maintaining agentic systems.",
+            "url": "https://arxiv.org/abs/2604.21003"
         }
     ]
 }

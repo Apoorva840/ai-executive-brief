@@ -1,5 +1,140 @@
 [
   {
+    "title": "Can MLLMs \"Read\" What is Missing?",
+    "summary": "arXiv:2604.21277v1 Announce Type: new Abstract: We introduce MMTR-Bench, a benchmark designed to evaluate the intrinsic ability of Multimodal Large Language Models (MLLMs) to reconstruct masked text directly from visual context. Unlike conventional question-answering tasks, MMTR-Bench eliminates explicit prompts, requiring models to recover masked ",
+    "url": "https://arxiv.org/abs/2604.21277",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
+    "summary": "arXiv:2604.21284v1 Announce Type: new Abstract: MemPalace is an open-source AI memory system that applies the ancient method of loci (memory palace) spatial metaphor to organize long-term memory for large language models; launched in April 2026, it accumulated over 47,000 GitHub stars in its first two weeks and claims state-of-the-art retrieval per",
+    "url": "https://arxiv.org/abs/2604.21284",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "ReaGeo: Reasoning-Enhanced End-to-End Geocoding with LLMs",
+    "summary": "arXiv:2604.21357v1 Announce Type: new Abstract: This paper proposes ReaGeo, an end-to-end geocoding framework based on large language models, designed to overcome the limitations of traditional multi-stage approaches that rely on text or vector similarity retrieval over geographic databases, including workflow complexity, error propagation, and hea",
+    "url": "https://arxiv.org/abs/2604.21357",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies",
+    "summary": "arXiv:2604.21571v1 Announce Type: new Abstract: Current model training approaches incorporate user information directly into shared weights, making individual data removal computationally infeasible without retraining. This paper presents a three-layer architecture that decouples personal data from shared weights by combining a static base model, c",
+    "url": "https://arxiv.org/abs/2604.21571",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "StyleVAR: Controllable Image Style Transfer via Visual Autoregressive Modeling",
+    "summary": "arXiv:2604.21052v1 Announce Type: cross Abstract: We build on the Visual Autoregressive Modeling (VAR) framework and formulate style transfer as conditional discrete sequence modeling in a learned latent space. Images are decomposed into multi-scale representations and tokenized into discrete codes by a VQ-VAE; a transformer then autoregressively m",
+    "url": "https://arxiv.org/abs/2604.21052",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference",
+    "summary": "arXiv:2604.21231v1 Announce Type: cross Abstract: Efficient inference for on-device Large Language Models (LLMs) remains challenging due to limited hardware resources and the high cost of the prefill stage, which processes the full input context to construct Key-Value (KV) caches. We present SparKV, an adaptive KV loading framework that combines cl",
+    "url": "https://arxiv.org/abs/2604.21231",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Reasoning Primitives in Hybrid and Non-Hybrid LLMs",
+    "summary": "arXiv:2604.21454v1 Announce Type: cross Abstract: Reasoning in large language models is often treated as a monolithic capability, but its observed gains may arise from more basic operations. We study reasoning through two such primitives, recall and state-tracking, and ask whether hybrid architectures that combine attention-based retrieval with rec",
+    "url": "https://arxiv.org/abs/2604.21454",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "DryRUN: On the Role of Public Tests in LLM-Driven Code Generation",
+    "summary": "arXiv:2604.21598v1 Announce Type: cross Abstract: Multi-agent frameworks are widely used in autonomous code generation and have applications in complex algorithmic problem-solving. Recent work has addressed the challenge of generating functionally correct code by incorporating simulation-driven planning and debugging, where language models trace ex",
+    "url": "https://arxiv.org/abs/2604.21598",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Process Supervision via Verbal Critique Improves Reasoning in Large Language Models",
+    "summary": "arXiv:2604.21611v1 Announce Type: cross Abstract: Inference-time scaling for LLM reasoning has focused on three axes: chain depth, sample breadth, and learned step-scorers (PRMs). We introduce a fourth axis, granularity of external verbal supervision, via Verbal Process Supervision (VPS), a training-free framework that uses structured natural-langu",
+    "url": "https://arxiv.org/abs/2604.21611",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Promoting Simple Agents: Ensemble Methods for Event-Log Prediction",
+    "summary": "arXiv:2604.21629v1 Announce Type: cross Abstract: We compare lightweight automata-based models (n-grams) with neural architectures (LSTM, Transformer) for next-activity prediction in streaming event logs. Experiments on synthetic patterns and five real-world process mining datasets show that n-grams with appropriate context windows achieve comparab",
+    "url": "https://arxiv.org/abs/2604.21629",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Multimodal Bayesian Network for Robust Assessment of Casualties in Autonomous Triage",
+    "summary": "arXiv:2512.18908v2 Announce Type: replace Abstract: Mass Casualty Incidents can overwhelm emergency medical systems and resulting delays or errors in the assessment of casualties can lead to preventable deaths. We present a decision support framework that fuses outputs from multiple computer vision models, estimating signs of severe hemorrhage, res",
+    "url": "https://arxiv.org/abs/2512.18908",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams",
+    "summary": "arXiv:2604.15994v2 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) excel at recognizing individual visual elements and reasoning over simple linear diagrams. However, when faced with complex topological structures involving branching paths, converging flows, and cyclic dependencies, their reasoning capabilities degrade sha",
+    "url": "https://arxiv.org/abs/2604.15994",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Preserving Knowledge in Large Language Model with Model-Agnostic Self-Decompression",
+    "summary": "arXiv:2406.11354v3 Announce Type: replace-cross Abstract: Humans can retain old knowledge while learning new information, but Large Language Models (LLMs) often suffer from catastrophic forgetting when post-pretrained or supervised fine-tuned (SFT) on domain-specific data. Moreover, for Multimodal Large Language Models (MLLMs) which are composed of",
+    "url": "https://arxiv.org/abs/2406.11354",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Federated Co-tuning Framework for Large and Small Language Models",
+    "summary": "arXiv:2411.11707v3 Announce Type: replace-cross Abstract: By adapting Large Language Models (LLMs) to domain-specific tasks or enriching them with domain-specific knowledge, we can fully harness the capabilities of LLMs. Nonetheless, a gap persists in achieving simultaneous mutual enhancement between the server's LLM and the downstream clients' Sma",
+    "url": "https://arxiv.org/abs/2411.11707",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
+    "title": "Analytical FFN-to-MoE Restructuring via Activation Pattern Analysis",
+    "summary": "arXiv:2502.04416v3 Announce Type: replace-cross Abstract: Scaling large language models (LLMs) improves performance but significantly increases inference costs, with feed-forward networks (FFNs) consuming the majority of computational resources. While Mixture-of-Experts (MoE) architectures can reduce this cost through sparse activation, restructuri",
+    "url": "https://arxiv.org/abs/2502.04416",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-24T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-25T03:44:18.186210+00:00"
+  },
+  {
     "title": "OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense",
     "summary": "OpenAI and Microsoft are joining forces to shore up cybersecurity as AI models become a bigger threat. The debate started with Anthropic's Mythos model, which is designed to hunt down security flaws on its own. The article OpenAI&#039;s new Trusted Access program gives Microsoft its most capable models for cyber defense appeared first on The Decode",
     "url": "https://the-decoder.com/openais-new-trusted-access-program-gives-microsoft-its-most-capable-models-for-cyber-defense/",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-03-26T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "The Diminishing Returns of Early-Exit Decoding in Modern LLMs",
-    "summary": "arXiv:2603.23701v1 Announce Type: cross Abstract: In Large Language Model (LLM) inference, early-exit refers to stopping computation at an intermediate layer once the prediction is sufficiently confident, thereby reducing latency and cost. However, recent LLMs adopt improved pretraining recipes and architectures that reduce layer redundancy, potent",
-    "url": "https://arxiv.org/abs/2603.23701",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection",
-    "summary": "arXiv:2603.23800v1 Announce Type: cross Abstract: We present a novel LLM-informed model-based planning framework, and a novel prompt selection method, for object search in partially-known environments. Our approach uses an LLM to estimate statistics about the likelihood of finding the target object when searching various locations throughout the sc",
-    "url": "https://arxiv.org/abs/2603.23800",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm",
-    "summary": "arXiv:2603.24079v1 Announce Type: cross Abstract: Recently, multimodal large language models (MLLMs) have emerged as a unified paradigm for language and image generation. Compared with diffusion models, MLLMs possess a much stronger capability for semantic understanding, enabling them to process more complex textual inputs and comprehend richer con",
-    "url": "https://arxiv.org/abs/2603.24079",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience",
-    "summary": "arXiv:2603.24533v1 Announce Type: cross Abstract: Autonomous mobile GUI agents have attracted increasing attention along with the advancement of Multimodal Large Language Models (MLLMs). However, existing methods still suffer from inefficient learning from failed trajectories and ambiguous credit assignment under sparse rewards for long-horizon GUI",
-    "url": "https://arxiv.org/abs/2603.24533",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "Evaluating Chunking Strategies For Retrieval-Augmented Generation in Oil and Gas Enterprise Documents",
-    "summary": "arXiv:2603.24556v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) has emerged as a framework to address the constraints of Large Language Models (LLMs). Yet, its effectiveness fundamentally hinges on document chunking - an often-overlooked determinant of its quality. This paper presents an empirical study quantifying performanc",
-    "url": "https://arxiv.org/abs/2603.24556",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "Pharos-ESG: A Framework for Multimodal Parsing, Contextual Narration, and Hierarchical Labeling of ESG Report",
-    "summary": "arXiv:2511.16417v2 Announce Type: replace Abstract: Environmental, Social, and Governance (ESG) principles are reshaping the foundations of global financial gover- nance, transforming capital allocation architectures, regu- latory frameworks, and systemic risk coordination mecha- nisms. However, as the core medium for assessing corpo- rate ESG perf",
-    "url": "https://arxiv.org/abs/2511.16417",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "Relationship-Aware Safety Unlearning for Multimodal LLMs",
-    "summary": "arXiv:2603.14185v3 Announce Type: replace Abstract: Generative multimodal models can exhibit safety failures that are inherently relational: two benign concepts can become unsafe when linked by a specific action or relation (e.g., child-drinking-wine). Existing unlearning and concept-erasure approaches often target isolated concepts or image-text p",
-    "url": "https://arxiv.org/abs/2603.14185",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "Bottlenecked Transformers: Periodic KV Cache Consolidation for Generalised Reasoning",
-    "summary": "arXiv:2505.16950v4 Announce Type: replace-cross Abstract: Transformer LLMs have been shown to exhibit strong reasoning ability that scales with inference-time compute, most prominently through token-space \"thinking\" chains of thought. A growing line of work pushes extra computation into the model's latent space, which we term Auxiliary Latent-Space",
-    "url": "https://arxiv.org/abs/2505.16950",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
-    "summary": "arXiv:2506.06303v5 Announce Type: replace-cross Abstract: Reinforcement learning (RL) is a framework for solving sequential decision-making problems. In this work, we demonstrate that, surprisingly, RL emerges during the inference time of large language models (LLMs), a phenomenon we term in-context RL (ICRL). To reveal this capability, we introduc",
-    "url": "https://arxiv.org/abs/2506.06303",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "Team of Thoughts: Efficient Test-time Scaling of Agentic Systems through Orchestrated Tool Calling",
-    "summary": "arXiv:2602.16485v2 Announce Type: replace-cross Abstract: Existing Multi-Agent Systems (MAS) typically rely on homogeneous model configurations, failing to exploit the diverse expertise inherent in different post-trained architectures. We propose Team-of-Thoughts, a heterogeneous MAS framework that treats diverse models as specialized tools within ",
-    "url": "https://arxiv.org/abs/2602.16485",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "Geometry-Guided Camera Motion Understanding in VideoLLMs",
-    "summary": "arXiv:2603.13119v2 Announce Type: replace-cross Abstract: Camera motion is a fundamental geometric signal that shapes visual perception and cinematic style, yet current video-capable vision-language models (VideoLLMs) rarely represent it explicitly and often fail on fine-grained motion primitives. We address this gap with a framework of $\\textbf{be",
-    "url": "https://arxiv.org/abs/2603.13119",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
-    "summary": "arXiv:2603.19312v2 Announce Type: replace-cross Abstract: Joint Embedding Predictive Architectures (JEPAs) offer a compelling framework for learning world models in compact latent spaces, yet existing methods remain fragile, relying on complex multi-term losses, exponential moving averages, pre-trained encoders, or auxiliary supervision to avoid re",
-    "url": "https://arxiv.org/abs/2603.19312",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "Tiny Inference-Time Scaling with Latent Verifiers",
-    "summary": "arXiv:2603.22492v2 Announce Type: replace-cross Abstract: Inference-time scaling has emerged as an effective way to improve generative models at test time by using a verifier to score and select candidate outputs. A common choice is to employ Multimodal Large Language Models (MLLMs) as verifiers, which can improve performance but introduce substant",
-    "url": "https://arxiv.org/abs/2603.22492",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "Gemini 3.1 Flash Live is Google's most natural-sounding AI voice model yet",
-    "summary": "Google's Gemini 3.1 Flash Live promises faster, more natural voice conversations. Developers can trade off quality for speed, and pricing stays at Gemini 2.5 levels. The article Gemini 3.1 Flash Live is Google&#039;s most natural-sounding AI voice model yet appeared first on The Decoder.",
-    "url": "https://the-decoder.com/gemini-3-1-flash-live-is-googles-most-natural-sounding-ai-voice-model-yet/",
-    "source": "The Decoder",
-    "published_at": "2026-03-26T17:35:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-27T03:43:11.348775+00:00"
-  },
-  {
-    "title": "STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems",
-    "summary": "arXiv:2603.22359v1 Announce Type: new Abstract: Current AI agent frameworks commit early to a single interaction protocol, a fixed tool integration strategy, and static user models, limiting their deployment across diverse interaction paradigms. To address these constraints, we introduce STEM Agent (Self-adapting, Tool-enabled, Extensible, Multi-ag",
-    "url": "https://arxiv.org/abs/2603.22359",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-03-26T03:39:55.338725+00:00"
   }
 ]
