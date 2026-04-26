@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 25, 2026",
+    "last_updated": "April 26, 2026",
     "tools": [
         {
-            "Name": "Free Claude Code",
-            "Category": "Development Tools / AI Proxy",
-            "Description": "A lightweight proxy that routes Claude Code API calls to various providers including NVIDIA NIM, OpenRouter, DeepSeek, and local LLM runners.",
-            "Use_Case": "Using Claude Code CLI or VSCode extension without needing an Anthropic API key.",
-            "URL": "https://github.com/Alishahryar1/free-claude-code"
+            "Name": "Claude Code",
+            "Category": "AI Development",
+            "Description": "An autonomous AI agent for the terminal that can read, write, and execute code to build or debug applications.",
+            "Use_Case": "Automating complex coding tasks, architectural planning, and project-wide refactoring.",
+            "URL": "https://github.com/anthropics/claude-code"
         },
         {
-            "Name": "ML Intern",
-            "Category": "Autonomous AI Agent",
-            "Description": "An autonomous AI engineer designed to read research papers, train models, and ship ML code using the Hugging Face ecosystem.",
-            "Use_Case": "Automating ML research, coding, and deployment tasks.",
-            "URL": "https://github.com/huggingface/ml-intern"
+            "Name": "DeepSeek-V3",
+            "Category": "Foundation Model",
+            "Description": "A large-scale Mixture-of-Experts (MoE) model optimized for efficient inference and high-performance reasoning.",
+            "Use_Case": "Powering large-scale natural language processing, coding assistance, and reasoning-intensive applications.",
+            "URL": "https://github.com/deepseek-ai/DeepSeek-V3"
         },
         {
-            "Name": "OpenSRE",
-            "Category": "AI Operations (AIOps) / Security",
-            "Description": "An open-source framework for building AI SRE agents that investigate production incidents by correlating logs, metrics, and traces.",
-            "Use_Case": "Automating incident response and root-cause analysis on infrastructure.",
-            "URL": "https://github.com/Tracer-Cloud/opensre"
+            "Name": "Memori",
+            "Category": "AI Infrastructure",
+            "Description": "Agent-native, LLM-agnostic memory infrastructure that persists interaction states as structured memory.",
+            "Use_Case": "Providing durable long-term memory and context for AI agents across different sessions and frameworks.",
+            "URL": "https://github.com/MemoriLabs/Memori"
         }
     ]
 }
