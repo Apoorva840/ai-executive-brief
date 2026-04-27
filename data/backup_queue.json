@@ -1,47 +1,137 @@
 [
   {
-    "title": "Anthropic says stronger AI models cut better deals, and the losers don't even notice",
-    "summary": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models start handling real transactions for humans, these dynamics could deepen existing economic inequalities. The article Anthropic says stronger AI models",
-    "url": "https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/",
-    "source": "The Decoder",
-    "published_at": "2026-04-25T10:18:31+00:00",
+    "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+    "summary": "arXiv:2604.22119v1 Announce Type: new Abstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Strategic Reasoning Risks (ESRRs). These include, but are not limited to, deception (intentionally mislead",
+    "url": "https://arxiv.org/abs/2604.22119",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
   },
   {
-    "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
-    "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a &quot;new class of intelligence&quot; at double the API price appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
-    "source": "The Decoder",
-    "published_at": "2026-04-25T08:38:07+00:00",
+    "title": "Rethinking Math Reasoning Evaluation: A Robust LLM-as-a-Judge Framework Beyond Symbolic Rigidity",
+    "summary": "arXiv:2604.22597v1 Announce Type: new Abstract: Recent advancements in large language models have led to significant improvements across various tasks, including mathematical reasoning, which is used to assess models' intelligence in logical reasoning and problem-solving. Models are evaluated on mathematical reasoning benchmarks by verifying the co",
+    "url": "https://arxiv.org/abs/2604.22597",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
   },
   {
-    "title": "US programmer job growth nearly halved since ChatGPT launched, Fed study finds",
-    "summary": "Programmers are among the professional groups whose everyday lives have changed the most as a result of generative AI. A new study by the Federal Reserve Board now provides evidence that this is also reflected in employment figures. The article US programmer job growth nearly halved since ChatGPT launched, Fed study finds appeared first on The Deco",
-    "url": "https://the-decoder.com/us-programmer-job-growth-nearly-halved-since-chatgpt-launched-fed-study-finds/",
-    "source": "The Decoder",
-    "published_at": "2026-04-25T12:44:29+00:00",
-    "score": 6,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
+    "title": "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models",
+    "summary": "arXiv:2604.21952v1 Announce Type: cross Abstract: This work presents a multi-layered methodology for efficiently accelerating multimodal foundation models (MFMs). It combines hardware and software co-design of transformer blocks with an optimization pipeline that reduces computational and memory requirements. During model development, it employs pe",
+    "url": "https://arxiv.org/abs/2604.21952",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
   },
   {
-    "title": "The UAE wants half its government run by autonomous AI agents within two years",
-    "summary": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years. The article The UAE wants half its government run by autonomous AI agents within two years appeared first on The Decoder.",
-    "url": "https://the-decoder.com/the-uae-wants-half-its-government-run-by-autonomous-ai-agents-within-two-years/",
-    "source": "The Decoder",
-    "published_at": "2026-04-25T09:08:57+00:00",
-    "score": 6,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
+    "title": "CGC: Compositional Grounded Contrast for Fine-Grained Multi-Image Understanding",
+    "summary": "arXiv:2604.22498v1 Announce Type: cross Abstract: Although Multimodal Large Language Models (MLLMs) have advanced rapidly, they still face notable challenges in fine-grained multi-image understanding, often exhibiting spatial hallucination, attention leakage, and failures in object constancy. In addition, existing approaches typically rely on expen",
+    "url": "https://arxiv.org/abs/2604.22498",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
   },
   {
-    "title": "Google pours up to $40 billion into ChatGPT rival Anthropic",
-    "summary": "Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks. The article Google pours up to $40 billion into ChatGPT rival Anthropic appeared first on The Decoder.",
-    "url": "https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/",
+    "title": "Controllable Spoken Dialogue Generation: An LLM-Driven Grading System for K-12 Non-Native English Learners",
+    "summary": "arXiv:2604.22542v1 Announce Type: cross Abstract: Large language models (LLMs) often fail to meet the pedagogical needs of K-12 English learners in non-native contexts due to a proficiency mismatch. To address this widespread challenge, we introduce a proficiency-aligned framework that adapts LLM outputs to learner abilities, using China's national",
+    "url": "https://arxiv.org/abs/2604.22542",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
+  },
+  {
+    "title": "SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning",
+    "summary": "arXiv:2604.22558v1 Announce Type: cross Abstract: As Multimodal Large Language Models (MLLMs) mature, GUI agents are evolving from static interactions to complex navigation. While Reinforcement Learning (RL) has emerged as a promising paradigm for training MLLM agents on dynamic GUI tasks, its effective application faces a dilemma. Standard Offline",
+    "url": "https://arxiv.org/abs/2604.22558",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
+  },
+  {
+    "title": "Learning Evidence Highlighting for Frozen LLMs",
+    "summary": "arXiv:2604.22565v1 Announce Type: cross Abstract: Large Language Models (LLMs) can reason well, yet often miss decisive evidence when it is buried in long, noisy contexts. We introduce HiLight, an Evidence Emphasis framework that decouples evidence selection from reasoning for frozen LLM solvers. HiLight avoids compressing or rewriting the input, w",
+    "url": "https://arxiv.org/abs/2604.22565",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
+  },
+  {
+    "title": "EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation",
+    "summary": "arXiv:2604.20133v2 Announce Type: replace Abstract: This paper proposes EvoAgent - an evolvable large language model (LLM) agent framework that integrates structured skill learning with a hierarchical sub-agent delegation mechanism. EvoAgent models skills as multi-file structured capability units equipped with triggering mechanisms and evolutionary",
+    "url": "https://arxiv.org/abs/2604.20133",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
+  },
+  {
+    "title": "Calibrating Behavioral Parameters with Large Language Models",
+    "summary": "arXiv:2602.01022v2 Announce Type: replace-cross Abstract: Behavioral parameters such as loss aversion, herding, and extrapolation are central to asset pricing models but remain difficult to measure reliably. We develop a framework that treats large language models (LLMs) as calibrated measurement instruments for behavioral parameters. Using four mo",
+    "url": "https://arxiv.org/abs/2602.01022",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
+  },
+  {
+    "title": "Unlocking the Edge deployment and ondevice acceleration of multi-LoRA enabled one-for-all foundational LLM",
+    "summary": "arXiv:2604.18655v2 Announce Type: replace-cross Abstract: Deploying large language models (LLMs) on smartphones poses significant engineering challenges due to stringent constraints on memory, latency, and runtime flexibility. In this work, we present a hardware-aware framework for efficient on-device inference of a LLaMA-based multilingual foundat",
+    "url": "https://arxiv.org/abs/2604.18655",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
+  },
+  {
+    "title": "500 investment bankers review AI outputs and find none ready for client delivery",
+    "summary": "A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; the results are too imprecise or flat-out wrong. Still, more than half of the bankers said they'd use the output as a starting point. The article 500 i",
+    "url": "https://the-decoder.com/500-investment-bankers-review-ai-outputs-and-find-none-ready-for-client-delivery/",
     "source": "The Decoder",
-    "published_at": "2026-04-25T08:26:11+00:00",
+    "published_at": "2026-04-26T09:18:16+00:00",
+    "score": 7,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
+  },
+  {
+    "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+    "summary": "arXiv:2604.21936v1 Announce Type: new Abstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applying analytical methods extends beyond model design to require dataset-aware workflow configuration and provenance tracking. Two requirements therefore be",
+    "url": "https://arxiv.org/abs/2604.21936",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
     "score": 6,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
+  },
+  {
+    "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+    "summary": "arXiv:2604.22085v1 Announce Type: new Abstract: The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be a primary architectural bottleneck in the deployment of production grade agentic systems. Existing methodologies largely depend on hybrid semantic graph architectures, which ",
+    "url": "https://arxiv.org/abs/2604.22085",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
+  },
+  {
+    "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
+    "summary": "arXiv:2604.22273v1 Announce Type: new Abstract: Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear. We frame self-correction as a cybernetic feedback loop in which the same language model serves as both controller and plant, and use a two-state Markov model over {Correct,",
+    "url": "https://arxiv.org/abs/2604.22273",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
+  },
+  {
+    "title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
+    "summary": "arXiv:2604.22411v1 Announce Type: new Abstract: Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Recent work by Thinking Machines Lab highlights implementation-level sources of nondeterminism, including batch-size variation, kernel non-invariance, and floating-point non-asso",
+    "url": "https://arxiv.org/abs/2604.22411",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-27T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-04-27T04:11:03.439985+00:00"
   }
 ]

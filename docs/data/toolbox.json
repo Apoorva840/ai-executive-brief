@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 26, 2026",
+    "last_updated": "April 27, 2026",
     "tools": [
         {
-            "Name": "Claude Code",
-            "Category": "AI Development",
-            "Description": "An autonomous AI agent for the terminal that can read, write, and execute code to build or debug applications.",
-            "Use_Case": "Automating complex coding tasks, architectural planning, and project-wide refactoring.",
-            "URL": "https://github.com/anthropics/claude-code"
+            "Name": "Free Claude Code",
+            "Category": "Development Tools",
+            "Description": "A lightweight proxy that allows using Claude Code CLI & VSCode extension without an Anthropic API key by routing requests through various free or local providers.",
+            "Use_Case": "Developers who want to use advanced AI coding assistants without paying for an Anthropic API subscription.",
+            "URL": "https://github.com/Alishahryar1/free-claude-code"
         },
         {
-            "Name": "DeepSeek-V3",
-            "Category": "Foundation Model",
-            "Description": "A large-scale Mixture-of-Experts (MoE) model optimized for efficient inference and high-performance reasoning.",
-            "Use_Case": "Powering large-scale natural language processing, coding assistance, and reasoning-intensive applications.",
-            "URL": "https://github.com/deepseek-ai/DeepSeek-V3"
+            "Name": "HackingTool",
+            "Category": "Cybersecurity",
+            "Description": "An all-in-one hacking tool for security researchers and penetration testers featuring 185+ tools across 20+ categories.",
+            "Use_Case": "Security professionals and ethical hackers performing reconnaissance, web attacks, or forensic analysis.",
+            "URL": "https://github.com/Z4nzu/hackingtool"
         },
         {
-            "Name": "Memori",
-            "Category": "AI Infrastructure",
-            "Description": "Agent-native, LLM-agnostic memory infrastructure that persists interaction states as structured memory.",
-            "Use_Case": "Providing durable long-term memory and context for AI agents across different sessions and frameworks.",
-            "URL": "https://github.com/MemoriLabs/Memori"
+            "Name": "LangExtract",
+            "Category": "Data Extraction",
+            "Description": "A Python library for extracting structured information from unstructured text using LLMs, with precise source grounding and interactive visualization.",
+            "Use_Case": "Processing large documents like clinical reports to extract structured data while maintaining traceability back to the source text.",
+            "URL": "https://github.com/google/langextract"
         }
     ]
 }
