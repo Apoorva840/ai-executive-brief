@@ -1,44 +1,42 @@
 [
   {
-    "title": "MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction",
-    "summary": "arXiv:2604.21957v1 Announce Type: cross Abstract: Recent works have demonstrated that attention-based transformer and large language model (LLM) architectures can achieve strong channel state prediction (CSP) performance by capturing long-range temporal dependencies across channel state information (CSI) sequences. However, these models suffer from",
-    "url": "https://arxiv.org/abs/2604.21957",
+    "title": "Au-M-ol: A Unified Model for Medical Audio and Language Understanding",
+    "summary": "arXiv:2604.23284v1 Announce Type: cross Abstract: In this work, we present Au-M-ol, a novel multimodal architecture that extends Large Language Models (LLMs) with audio processing. It is designed to improve performance on clinically relevant tasks such as Automatic Speech Recognition (ASR). Au-M-ol has three main components: (1) an audio encoder th",
+    "url": "https://arxiv.org/abs/2604.23284",
     "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
+    "published_at": "2026-04-28T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5",
-    "summary": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says. The article OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5 appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-kills-its-dedicated-coding-model-codex-again-folding-it-into-gpt-5-5/",
-    "source": "The Decoder",
-    "published_at": "2026-04-26T12:49:27+00:00",
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-04-28T00:28:13+00:00",
     "score": 7
   },
   {
-    "title": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline",
-    "summary": "OpenAI says developers shouldn't carry over old prompts for GPT-5.5. Instead, start minimal and from scratch. Role definitions, which some had written off as unnecessary, are back at the front of the framework. The article OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-says-old-prompts-are-holding-gpt-5-5-back-and-developers-need-a-fresh-baseline/",
-    "source": "The Decoder",
-    "published_at": "2026-04-26T10:20:04+00:00",
-    "score": 7
+    "title": "Data center demand drives 66% surge in natural gas power plant costs",
+    "summary": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets.",
+    "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-27T15:27:52+00:00",
+    "score": 6
   },
   {
-    "title": "Anthropic says stronger AI models cut better deals, and the losers don't even notice",
-    "summary": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models start handling real transactions for humans, these dynamics could deepen existing economic inequalities. The article Anthropic says stronger AI models",
-    "url": "https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/",
+    "title": "OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause",
+    "summary": "OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone. The article OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/",
     "source": "The Decoder",
-    "published_at": "2026-04-25T10:18:31+00:00",
-    "score": 7,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
+    "published_at": "2026-04-27T14:18:40+00:00",
+    "score": 6
   },
   {
-    "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
-    "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a &quot;new class of intelligence&quot; at double the API price appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
+    "title": "Sam Altman outlines five principles that double as justification for OpenAI's business decisions",
+    "summary": "OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves. The article Sam Altman outlines five principles that double as justification for OpenAI&#039;s business decisions appeared first on The Decoder.",
+    "url": "https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-justification-for-openais-business-decisions/",
     "source": "The Decoder",
-    "published_at": "2026-04-25T08:38:07+00:00",
-    "score": 7,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
+    "published_at": "2026-04-27T13:59:05+00:00",
+    "score": 6
   }
 ]

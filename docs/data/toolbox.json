@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 27, 2026",
+    "last_updated": "April 28, 2026",
     "tools": [
         {
+            "Name": "Composio Codex Skills",
+            "Category": "Productivity & Automation",
+            "Description": "A framework for modular instruction bundles that enable LLMs to execute real-world tasks across 1000+ apps.",
+            "Use_Case": "Automating workflows like sending emails, creating issues, or updating spreadsheets directly via natural language.",
+            "URL": "https://github.com/ComposioHQ/awesome-codex-skills"
+        },
+        {
             "Name": "Free Claude Code",
-            "Category": "Development Tools",
-            "Description": "A lightweight proxy that allows using Claude Code CLI & VSCode extension without an Anthropic API key by routing requests through various free or local providers.",
-            "Use_Case": "Developers who want to use advanced AI coding assistants without paying for an Anthropic API subscription.",
+            "Category": "Development",
+            "Description": "A drop-in proxy for Claude Code that enables using various model providers (NVIDIA NIM, OpenRouter, DeepSeek, Local) for development.",
+            "Use_Case": "Reducing costs and accessing alternative models when using AI coding agents in the terminal or VS Code.",
             "URL": "https://github.com/Alishahryar1/free-claude-code"
         },
         {
-            "Name": "HackingTool",
-            "Category": "Cybersecurity",
-            "Description": "An all-in-one hacking tool for security researchers and penetration testers featuring 185+ tools across 20+ categories.",
-            "Use_Case": "Security professionals and ethical hackers performing reconnaissance, web attacks, or forensic analysis.",
-            "URL": "https://github.com/Z4nzu/hackingtool"
-        },
-        {
-            "Name": "LangExtract",
-            "Category": "Data Extraction",
-            "Description": "A Python library for extracting structured information from unstructured text using LLMs, with precise source grounding and interactive visualization.",
-            "Use_Case": "Processing large documents like clinical reports to extract structured data while maintaining traceability back to the source text.",
-            "URL": "https://github.com/google/langextract"
+            "Name": "Claude Code Templates",
+            "Category": "Development",
+            "Description": "A comprehensive configuration library for Anthropic's Claude Code featuring agents, custom commands, and MCP integrations.",
+            "Use_Case": "Quickly scaffolding and configuring specialized AI agents for domain-specific tasks like code reviews, testing, or database management.",
+            "URL": "https://github.com/davila7/claude-code-templates"
         }
     ]
 }

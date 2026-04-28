@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-04-24",
+    "last_updated": "2024-04-26",
     "papers": [
         {
-            "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
-            "innovation": "Introduces a novel approach to typed semantic memory coupled with information-theoretic retrieval, specifically designed to address the critical memory bottleneck in persistent, multi-session autonomous agents. It moves beyond existing hybrid semantic graph architectures to enable more robust and scalable agentic systems.",
-            "benchmarks": "Focuses on enabling 'production grade agentic systems' by improving persistence and scalability, directly addressing architectural challenges rather than specific task-based benchmarks described in the abstract.",
-            "use_case": "Essential for AI engineers building complex, long-horizon autonomous agents that require persistent memory across multiple sessions, ensuring robustness and scalability for real-world deployment.",
-            "url": "https://arxiv.org/abs/2604.22085"
+            "title": "A Systematic Approach for Large Language Models Debugging",
+            "innovation": "Proposes a systematic methodology to diagnose and resolve issues in Large Language Models (LLMs), which are inherently opaque and probabilistic. This addresses a critical gap in the development and maintenance of LLM-powered applications.",
+            "benchmarks": "Focuses on providing a systematic methodology for debugging rather than reporting quantitative performance benchmarks of an LLM. Its success would be measured by improved efficiency and effectiveness of debugging processes.",
+            "use_case": "Essential for any AI engineer working with LLMs, providing tools and frameworks to identify and fix errors in complex LLM-based applications, improving reliability and reducing development time.",
+            "url": "https://arxiv.org/abs/2604.23027"
         },
         {
-            "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
-            "innovation": "Proposes an artifact-based agent framework that facilitates dataset-aware workflow configuration and provenance tracking. This innovation is crucial for making analytical methods adaptive and reproducible, particularly as medical imaging research shifts towards real-world clinical deployment from controlled benchmarks.",
-            "benchmarks": "Aims to improve adaptability, reproducibility, and reliability in real-world clinical deployment scenarios, shifting focus from traditional controlled benchmark evaluations.",
-            "use_case": "Highly relevant for engineers developing and deploying AI systems in critical domains like medical imaging, where adaptability, reproducibility, workflow configuration, and auditability are paramount for clinical integration.",
-            "url": "https://arxiv.org/abs/2604.21936"
+            "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+            "innovation": "Introduces Analytica, a novel approach for LLM agents to perform complex real-world analysis. It uses 'soft propositional reasoning' to address LLM's stochastic instability and provide a verifiable, compositional structure, enhancing robustness and scalability.",
+            "benchmarks": "Aims to improve robustness and scalability of LLM-driven analysis, implying better performance on complex analytical tasks (e.g., financial forecasting, scientific discovery), though specific quantitative benchmarks are not detailed in the abstract.",
+            "use_case": "Enabling AI engineers to build more reliable and trustworthy LLM-driven analytical systems for critical applications where accuracy, verifiability, and robust reasoning are paramount, such as in finance or scientific research.",
+            "url": "https://arxiv.org/abs/2604.23072"
         },
         {
-            "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
-            "innovation": "Frames iterative LLM self-correction as a cybernetic feedback loop, employing a two-state Markov model to diagnose precisely when self-correction benefits or harms performance. It also proposes a 'Verify-First Intervention' strategy to optimize this process.",
-            "benchmarks": "Provides a control-theoretic and Markov-model-based diagnostic framework to evaluate the efficacy of self-correction, determining when repeated refinement improves or degrades outputs.",
-            "use_case": "Invaluable for AI engineers designing and implementing agentic LLM systems, offering a principled way to understand and optimize self-correction mechanisms for improved performance, reliability, and efficiency, rather than relying on trial-and-error.",
-            "url": "https://arxiv.org/abs/2604.22273"
+            "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+            "innovation": "Presents a decoupled human-in-the-loop system design for AI agents, ensuring controlled autonomy, transparency, accountability, and trustworthiness in agentic workflows. This allows for human oversight without tightly coupling human intervention with the agent's core operations.",
+            "benchmarks": "Aims to enhance safety, transparency, and accountability in agentic workflows through architectural design, rather than reporting traditional performance benchmarks for AI models.",
+            "use_case": "Crucial for AI engineers deploying agents in sensitive or critical applications where human oversight, ethical considerations, and compliance are vital, such as automated decision-making systems or critical infrastructure management.",
+            "url": "https://arxiv.org/abs/2604.23049"
         }
     ]
 }

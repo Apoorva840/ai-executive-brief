@@ -1,10 +1,10 @@
 [
   {
-    "title": "MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction",
-    "url": "https://arxiv.org/abs/2604.21957",
+    "title": "Au-M-ol: A Unified Model for Medical Audio and Language Understanding",
+    "url": "https://arxiv.org/abs/2604.23284",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2604.21957v1 Announce Type: cross Abstract: Recent works have demonstrated that attention-based transformer and large language model (LLM) architectures can achieve strong channel state prediction (CSP) performance by capturing long-range temporal dependencies across channel state information (CSI) sequences. However, these models suffer from",
+    "what_happened": "arXiv:2604.23284v1 Announce Type: cross Abstract: In this work, we present Au-M-ol, a novel multimodal architecture that extends Large Language Models (LLMs) with audio processing. It is designed to improve performance on clinically relevant tasks such as Automatic Speech Recognition (ASR). Au-M-ol has three main components: (1) an audio encoder th",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
@@ -12,65 +12,64 @@
       "Research Scientists",
       "ML Engineers"
     ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+    "source": "Hugging Face Blog",
+    "score": 7,
+    "what_happened": "Hugging Face Blog announced 'Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI', highlighting new developments relevant to AI researchers and practitioners.",
+    "technical_takeaway": null,
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "who_should_care": [
+      "ML Engineers",
+      "Open-Source Contributors"
+    ],
     "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5",
-    "url": "https://the-decoder.com/openai-kills-its-dedicated-coding-model-codex-again-folding-it-into-gpt-5-5/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says. The article OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5 appeared first on The Decoder.",
+    "title": "Data center demand drives 66% surge in natural gas power plant costs",
+    "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
+    "source": "TechCrunch AI",
+    "score": 6,
+    "what_happened": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets.",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
   },
   {
-    "title": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline",
-    "url": "https://the-decoder.com/openai-says-old-prompts-are-holding-gpt-5-5-back-and-developers-need-a-fresh-baseline/",
+    "title": "OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause",
+    "url": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/",
     "source": "The Decoder",
-    "score": 7,
-    "what_happened": "OpenAI says developers shouldn't carry over old prompts for GPT-5.5. Instead, start minimal and from scratch. Role definitions, which some had written off as unnecessary, are back at the front of the framework. The article OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline appeared first on The Decoder.",
+    "score": 6,
+    "what_happened": "OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone. The article OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "Anthropic says stronger AI models cut better deals, and the losers don't even notice",
-    "url": "https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/",
+    "title": "Sam Altman outlines five principles that double as justification for OpenAI's business decisions",
+    "url": "https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-justification-for-openais-business-decisions/",
     "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models start handling real transactions for humans, these dynamics could deepen existing economic inequalities. The article Anthropic says stronger AI models",
+    "score": 6,
+    "what_happened": "OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves. The article Sam Altman outlines five principles that double as justification for OpenAI&#039;s business decisions appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "AI Professionals"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
-    "url": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a &quot;new class of intelligence&quot; at double the API price appeared first on The Decoder.",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   }
 ]
