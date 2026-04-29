@@ -4,39 +4,39 @@
     "summary": "arXiv:2604.23284v1 Announce Type: cross Abstract: In this work, we present Au-M-ol, a novel multimodal architecture that extends Large Language Models (LLMs) with audio processing. It is designed to improve performance on clinically relevant tasks such as Automatic Speech Recognition (ASR). Au-M-ol has three main components: (1) an audio encoder th",
     "url": "https://arxiv.org/abs/2604.23284",
     "source": "Arxiv AI",
-    "published_at": "2026-04-28T04:00:00+00:00",
+    "published_at": "2026-04-29T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
+    "summary": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels. The article Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026 appeared first on The Decoder.",
+    "url": "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/",
+    "source": "The Decoder",
+    "published_at": "2026-04-28T18:07:13+00:00",
+    "score": 8
+  },
+  {
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
     "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
     "source": "Hugging Face Blog",
-    "published_at": "2026-04-28T00:28:13+00:00",
+    "published_at": "2026-04-28T15:58:57+00:00",
     "score": 7
   },
   {
-    "title": "Data center demand drives 66% surge in natural gas power plant costs",
-    "summary": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets.",
-    "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-27T15:27:52+00:00",
-    "score": 6
+    "title": "Google signs AI deal with the Pentagon, ignoring protest from over 600 employees",
+    "summary": "Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safety clauses aren't legally binding. The article Google signs AI deal with the Pentagon, ignoring protest from over 600 employees appeared first on The ",
+    "url": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/",
+    "source": "The Decoder",
+    "published_at": "2026-04-28T11:10:05+00:00",
+    "score": 7
   },
   {
-    "title": "OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause",
-    "summary": "OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone. The article OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/",
-    "source": "The Decoder",
-    "published_at": "2026-04-27T14:18:40+00:00",
-    "score": 6
-  },
-  {
-    "title": "Sam Altman outlines five principles that double as justification for OpenAI's business decisions",
-    "summary": "OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves. The article Sam Altman outlines five principles that double as justification for OpenAI&#039;s business decisions appeared first on The Decoder.",
-    "url": "https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-justification-for-openais-business-decisions/",
-    "source": "The Decoder",
-    "published_at": "2026-04-27T13:59:05+00:00",
-    "score": 6
+    "title": "The evolution of encoders: From simple models to multimodal AI",
+    "summary": "When people talk about artificial intelligence, they usually focus on what it produces: Human-like text, stunning images, or eerily accurate recommendations. What rarely gets attention is how AI understands anything in the first place. That understanding begins with encoders. Think of an encoder as a translator that converts messy, real-world infor",
+    "url": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
+    "source": "AI News",
+    "published_at": "2026-04-28T13:01:51+00:00",
+    "score": 7
   }
 ]
