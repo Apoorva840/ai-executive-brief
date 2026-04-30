@@ -1,5 +1,140 @@
 [
   {
+    "title": "A Scoping Review of LLM-as-a-Judge in Healthcare and the MedJUDGE Framework",
+    "summary": "arXiv:2604.25933v1 Announce Type: cross Abstract: As large language models (LLMs) increasingly generate and process clinical text, scalable evaluation has become critical. LLM-as-a-Judge (LaaJ), which uses LLMs to evaluate model outputs, offers a scalable alternative to costly expert review, but its healthcare adoption raises safety and bias concer",
+    "url": "https://arxiv.org/abs/2604.25933",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "LLM Psychosis: A Theoretical and Diagnostic Framework for Reality-Boundary Failures in Large Language Models",
+    "summary": "arXiv:2604.25934v1 Announce Type: cross Abstract: The deployment of large language models (LLMs) as interactive agents has exposed a category of behavioral failure that prevailing terminology, principally hallucination, fails to adequately characterize. This paper introduces LLM Psychosis as a structured theoretical framework for pathological break",
+    "url": "https://arxiv.org/abs/2604.25934",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "Tree-of-Text: A Tree-based Prompting Framework for Table-to-Text Generation in the Sports Domain",
+    "summary": "arXiv:2604.26501v1 Announce Type: cross Abstract: Generating sports game reports from structured tables is a complex table-to-text task that demands both precise data interpretation and fluent narrative generation. Traditional model-based approaches require large, annotated datasets, while prompt-based methods using large language models (LLMs) oft",
+    "url": "https://arxiv.org/abs/2604.26501",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "MappingEvolve: LLM-Driven Code Evolution for Technology Mapping",
+    "summary": "arXiv:2604.26591v1 Announce Type: cross Abstract: Technology mapping is a critical yet challenging stage in logic synthesis. While Large Language Models (LLMs) have been applied to generate optimization scripts, their potential for core algorithm enhancement remains untapped. We introduce MappingEvolve, an open-source framework that pioneers the us",
+    "url": "https://arxiv.org/abs/2604.26591",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
+    "summary": "arXiv:2604.26951v1 Announce Type: cross Abstract: Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distillation methods for dLLMs reduce inference steps within a single architecture, none address cross-arch",
+    "url": "https://arxiv.org/abs/2604.26951",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "ToolPRM: Fine-Grained Inference Scaling of Structured Outputs for Function Calling",
+    "summary": "arXiv:2510.14703v2 Announce Type: replace Abstract: Large language models (LLMs) excel at function calling, but inference scaling has been explored mainly for unstructured generation. We propose an inference-scaling framework for structured outputs that combines fine-grained beam search with \\textbf{ToolPRM}, a process reward model scoring each int",
+    "url": "https://arxiv.org/abs/2510.14703",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "Beyond Text-Dominance: Understanding Modality Preference of Omni-modal Large Language Models",
+    "summary": "arXiv:2604.16902v3 Announce Type: replace Abstract: Native Omni-modal Large Language Models (OLLMs) have shifted from pipeline architectures to unified representation spaces. However, this native integration gives rise to a critical yet underexplored phenomenon: modality preference. To bridge this gap, we first systematically quantify modality pref",
+    "url": "https://arxiv.org/abs/2604.16902",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "MINOS: A Multimodal Evaluation Model for Bidirectional Generation Between Image and Text",
+    "summary": "arXiv:2506.02494v2 Announce Type: replace-cross Abstract: Evaluation is important for multimodal generation tasks, while traditional multimodal evaluation metrics suffer from several limitations. With the rapid progress of MLLMs, there is growing interest in applying MLLMs to build general evaluation systems. However, existing researches often simp",
+    "url": "https://arxiv.org/abs/2506.02494",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "Emergent Coordination in Multi-Agent Language Models",
+    "summary": "arXiv:2510.05174v4 Announce Type: replace-cross Abstract: When are multi-agent LLM systems merely a collection of individual agents versus an integrated collective with higher-order structure? We introduce an information-theoretic framework to test -- in a purely data-driven way -- whether multi-agent systems show signs of higher-order structure. T",
+    "url": "https://arxiv.org/abs/2510.05174",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "EvoDev: An Iterative Feature-Driven Framework for End-to-End Software Development with LLM-based Agents",
+    "summary": "arXiv:2511.02399v2 Announce Type: replace-cross Abstract: Recent advances in large language model agents offer the promise of automating end-to-end software development from natural language requirements. However, existing approaches largely adopt linear, waterfall-style pipelines, which oversimplify the iterative nature of real-world development a",
+    "url": "https://arxiv.org/abs/2511.02399",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "Training-Free Adaptation of New-Generation LLMs using Legacy Clinical Models",
+    "summary": "arXiv:2601.03423v3 Announce Type: replace-cross Abstract: Adapting language models to the clinical domain through continued pretraining and instruction tuning requires costly retraining for each new model generation. We propose Cross-Architecture Proxy Tuning (CAPT), a model-ensembling approach that enables training-free adaptation of state-of-the-",
+    "url": "https://arxiv.org/abs/2601.03423",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "AdaFRUGAL: Adaptive Memory-Efficient Training with Dynamic Control",
+    "summary": "arXiv:2601.11568v2 Announce Type: replace-cross Abstract: Training Large Language Models (LLMs) is highly memory-intensive due to optimizer state overhead. The FRUGAL framework mitigates this with gradient splitting, but its static hyperparameters -- the subspace ratio ($\\rho$) and update frequency ($T$) -- require costly manual tuning, limiting ad",
+    "url": "https://arxiv.org/abs/2601.11568",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "SciMDR: Advancing Scientific Multimodal Document Reasoning",
+    "summary": "arXiv:2603.12249v2 Announce Type: replace-cross Abstract: Constructing scientific multimodal document reasoning datasets for foundation model training involves an inherent trade-off among scale, faithfulness, and realism. To address this challenge, we introduce the synthesize-and-reground framework, a two-stage pipeline comprising: (1) Claim-Centri",
+    "url": "https://arxiv.org/abs/2603.12249",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "A Self-Calibrating Framework for Analog Circuit Sizing Using LLM-Derived Analytical Equations",
+    "summary": "arXiv:2604.07387v2 Announce Type: replace-cross Abstract: We present a design automation framework for analog circuit sizing that produces calibrated, topology-specific analytical equations from raw circuit netlists. A large language model (LLM) derives a complete Python sizing function in which each device dimension is traceable to a specific desi",
+    "url": "https://arxiv.org/abs/2604.07387",
+    "source": "Arxiv AI",
+    "published_at": "2026-04-30T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
+    "title": "White House moves to restore Anthropic access after Pentagon standoff",
+    "summary": "The White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos. The article White House moves to restore Anthropic access after Pentagon standoff appeared first on The Decoder.",
+    "url": "https://the-decoder.com/white-house-moves-to-restore-anthropic-access-after-pentagon-standoff/",
+    "source": "The Decoder",
+    "published_at": "2026-04-29T13:23:39+00:00",
+    "score": 7,
+    "archived_at": "2026-04-30T04:15:27.319728+00:00"
+  },
+  {
     "title": "Council Mode: A Heterogeneous Multi-Agent Consensus Framework for Reducing LLM Hallucination and Bias",
     "summary": "arXiv:2604.02923v3 Announce Type: replace-cross Abstract: Large Language Models (LLMs) have demonstrated advanced capabilities but often suffer from factual inaccuracies (hallucinations) and systematic biases. These issues, sometimes amplified in specific architectures like Mixture-of-Experts (MoE) which motivate our work, pose risks for reliable d",
     "url": "https://arxiv.org/abs/2604.02923",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-04-01T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation",
-    "summary": "arXiv:2603.29902v1 Announce Type: new Abstract: Interleaved text-and-image generation represents a significant frontier for Multimodal Large Language Models (MLLMs), offering a more intuitive way to convey complex information. Current paradigms rely on either image generation or retrieval augmentation, yet they typically treat the two as mutually e",
-    "url": "https://arxiv.org/abs/2603.29902",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "C-TRAIL: A Commonsense World Framework for Trajectory Planning in Autonomous Driving",
-    "summary": "arXiv:2603.29908v1 Announce Type: new Abstract: Trajectory planning for autonomous driving increasingly leverages large language models (LLMs) for commonsense reasoning, yet LLM outputs are inherently unreliable, posing risks in safety-critical applications. We propose C-TRAIL, a framework built on a Commonsense World that couples LLM-derived commo",
-    "url": "https://arxiv.org/abs/2603.29908",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "The Triadic Cognitive Architecture: Bounding Autonomous Action via Spatio-Temporal and Epistemic Friction",
-    "summary": "arXiv:2603.30031v1 Announce Type: new Abstract: Current autonomous AI agents, driven primarily by Large Language Models (LLMs), operate in a state of cognitive weightlessness: they process information without an intrinsic sense of network topology, temporal pacing, or epistemic limits. Consequently, heuristic agentic loops (e.g., ReAct) can exhibit",
-    "url": "https://arxiv.org/abs/2603.30031",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "Privacy Guard & Token Parsimony by Prompt and Context Handling and LLM Routing",
-    "summary": "arXiv:2603.28972v1 Announce Type: cross Abstract: The large-scale adoption of Large Language Models (LLMs) forces a trade-off between operational cost (OpEx) and data privacy. Current routing frameworks reduce costs but ignore prompt sensitivity, exposing users and institutions to leakage risks towards third-party cloud providers. We formalise the ",
-    "url": "https://arxiv.org/abs/2603.28972",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning",
-    "summary": "arXiv:2603.29025v1 Announce Type: cross Abstract: Large language models systematically fail when a salient surface cue conflicts with an unstated feasibility constraint. We study this through a diagnose-measure-bridge-treat framework. Causal-behavioral analysis of the ``car wash problem'' across six models reveals approximately context-independent ",
-    "url": "https://arxiv.org/abs/2603.29025",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation",
-    "summary": "arXiv:2603.29029v1 Announce Type: cross Abstract: Recent multimodal face generation models address the spatial control limitations of text-to-image diffusion models by augmenting text-based conditioning with spatial priors such as segmentation masks, sketches, or edge maps. This multimodal fusion enables controllable synthesis aligned with both hig",
-    "url": "https://arxiv.org/abs/2603.29029",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "WybeCoder: Verified Imperative Code Generation",
-    "summary": "arXiv:2603.29088v1 Announce Type: cross Abstract: Recent progress in large language models (LLMs) has advanced automatic code generation and formal theorem proving, yet software verification has not seen the same improvement. To address this gap, we propose WybeCoder, an agentic code verification framework that enables prove-as-you-generate develop",
-    "url": "https://arxiv.org/abs/2603.29088",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "Multi-Layered Memory Architectures for LLM Agents: An Experimental Evaluation of Long-Term Context Retention",
-    "summary": "arXiv:2603.29194v1 Announce Type: cross Abstract: Long-horizon dialogue systems suffer from semanticdrift and unstable memory retention across extended sessions. This paper presents a Multi-Layer Memory Framework that decomposes dialogue history into working, episodic, and semantic layers with adaptive retrieval gating and retention regularization.",
-    "url": "https://arxiv.org/abs/2603.29194",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism",
-    "summary": "arXiv:2603.29252v1 Announce Type: cross Abstract: Long video understanding is a key challenge that plagues the advancement of \\emph{Multimodal Large language Models} (MLLMs). In this paper, we study this problem from the perspective of visual memory mechanism, and proposed a novel and training-free approach, termed \\emph{Flexible Memory} (\\textbf{F",
-    "url": "https://arxiv.org/abs/2603.29252",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "Adversarial Prompt Injection Attack on Multimodal Large Language Models",
-    "summary": "arXiv:2603.29418v1 Announce Type: cross Abstract: Although multimodal large language models (MLLMs) are increasingly deployed in real-world applications, their instruction-following behavior leaves them vulnerable to prompt injection attacks. Existing prompt injection methods predominantly rely on textual prompts or perceptible visual prompts that ",
-    "url": "https://arxiv.org/abs/2603.29418",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "MemFactory: Unified Inference & Training Framework for Agent Memory",
-    "summary": "arXiv:2603.29493v1 Announce Type: cross Abstract: Memory-augmented Large Language Models (LLMs) are essential for developing capable, long-term AI agents. Recently, applying Reinforcement Learning (RL) to optimize memory operations, such as extraction, updating, and retrieval, has emerged as a highly promising research direction. However, existing ",
-    "url": "https://arxiv.org/abs/2603.29493",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "An Empirical Study of Multi-Agent Collaboration for Automated Research",
-    "summary": "arXiv:2603.29632v1 Announce Type: cross Abstract: As AI agents evolve, the community is rapidly shifting from single Large Language Models (LLMs) to Multi-Agent Systems (MAS) to overcome cognitive bottlenecks in automated research. However, the optimal multi-agent coordination framework for these autonomous agents remains largely unexplored. In thi",
-    "url": "https://arxiv.org/abs/2603.29632",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models",
-    "summary": "arXiv:2603.30022v1 Announce Type: cross Abstract: This paper introduces a new hybrid framework that combines Reinforcement Learning (RL) and Large Language Models (LLMs) to improve robotic manipulation tasks. By utilizing RL for accurate low-level control and LLMs for high level task planning and understanding of natural language, the proposed fram",
-    "url": "https://arxiv.org/abs/2603.30022",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-02T03:35:43.931131+00:00"
-  },
-  {
-    "title": "From Content to Audience: A Multimodal Annotation Framework for Broadcast Television Analytics",
-    "summary": "arXiv:2603.26772v1 Announce Type: cross Abstract: Automated semantic annotation of broadcast television content presents distinctive challenges, combining structured audiovisual composition, domain-specific editorial patterns, and strict operational constraints. While multimodal large language models (MLLMs) have demonstrated strong general-purpose",
-    "url": "https://arxiv.org/abs/2603.26772",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-31T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-04-01T03:54:27.965758+00:00"
-  },
-  {
-    "title": "AstraAI: LLMs, Retrieval, and AST-Guided Assistance for HPC Codebases",
-    "summary": "arXiv:2603.27423v1 Announce Type: new Abstract: We present AstraAI, a command-line interface (CLI) coding framework for high-performance computing (HPC) software development. AstraAI operates directly within a Linux terminal and integrates large language models (LLMs) with Retrieval-Augmented Generation (RAG) and Abstract Syntax Tree (AST)-based st",
-    "url": "https://arxiv.org/abs/2603.27423",
-    "source": "Arxiv AI",
-    "published_at": "2026-03-31T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-01T03:54:27.965758+00:00"
   }
 ]

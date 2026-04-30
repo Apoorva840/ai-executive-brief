@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 29, 2026",
+    "last_updated": "April 30, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Multi-Fidelity Digital Twin",
-            "definition": "A sophisticated virtual replica of a physical asset that synchronizes data across different levels of accuracy and computational cost. It combines low-fidelity, fast-running simulations with high-fidelity, sensor-rich data to diagnose complex system faults where real-world failure data is historically scarce.",
-            "analogy": "In a kitchen, this is like using a cheap, instant-read thermometer for 90% of your cooking, but switching to a $10,000 laboratory-grade thermal scanner the moment the souffl\u00e9 starts to vibrate, ensuring precision only when the stakes are highest.",
-            "business_value": "For capital-intensive industries like aviation or manufacturing, this technology enables 'predictive maintenance' for rare, catastrophic failures that traditional AI models miss, significantly reducing unplanned downtime and liability costs."
+            "term": "Onchain Language-Model Agents",
+            "definition": "These are autonomous AI entities that integrate Large Language Models with blockchain smart contracts to execute financial transactions with real capital. They translate high-level user mandates into validated 'tool actions,' allowing them to navigate decentralized markets and manage digital assets without human intervention.",
+            "analogy": "Imagine a smart slow-cooker that doesn't just cook what you provide, but independently monitors grocery prices, uses its own digital wallet to buy ingredients, and hires a delivery driver to bring them to your kitchen when it's most cost-effective.",
+            "business_value": "This shifts AI from a passive advisor to an active fiduciary. For the bottom line, it enables 24/7 autonomous treasury management and high-frequency execution in markets, reducing the need for human brokers and minimizing latency in capital allocation."
         },
         {
-            "term": "Agentic Parallel Exploration",
-            "definition": "A reasoning architecture where an AI agent generates and executes multiple potential solutions or code paths simultaneously rather than following a single linear thought process. These paths are then cross-referenced against automated test suites to identify the most accurate output, effectively treating AI reasoning as a software debugging task.",
-            "analogy": "Imagine a car's GPS that doesn't just suggest one route, but simultaneously sends out 10 'ghost cars' to drive every possible shortcut in real-time, instantly reporting back which path actually has a hidden road closure before you even turn the steering wheel.",
-            "business_value": "This breaks the trade-off between speed and accuracy. It allows CEOs to deploy AI for high-stakes financial or data tasks (like Text-to-SQL) where 'almost right' is a failure, ensuring the model self-corrects before the user ever sees the data."
+            "term": "Hierarchical Multi-Persona Induction",
+            "definition": "A process that uses LLMs to distill messy user behavioral logs into structured, evidence-grounded digital personas. By organizing these personas hierarchically, the system can differentiate between a user's stable, long-term traits and their transient, context-specific intents.",
+            "analogy": "Think of a car that doesn't just remember your seat position, but recognizes whether you are currently in 'Aggressive Commuter Mode' or 'Safety-First Parent Mode' based on your steering patterns, adjusting the dashboard and engine response accordingly.",
+            "business_value": "This solves the 'signal-to-noise' problem in customer data. It allows enterprises to move beyond generic segments to 'segment-of-one' personalization, significantly increasing Customer Lifetime Value (LTV) through hyper-relevant product interventions."
         },
         {
-            "term": "Autoformalisation",
-            "definition": "The process of using LLMs to translate 'informal' human reasoning\u2014such as scientific papers or handwritten proofs\u2014into 'formal' computer-verifiable code (e.g., Lean or Coq). This transforms abstract, ambiguous human ideas into rigid mathematical structures that a computer can prove to be 100% logically correct.",
-            "analogy": "It is like a Master Chef taking a grandmother\u2019s vague handwritten recipe that says 'add a pinch of love' and 'cook until it looks right,' and instantly translating it into a precise, molecular-gastronomy blueprint that a robotic kitchen can execute perfectly every single time.",
-            "business_value": "Autoformalisation allows enterprises to turn 'tribal knowledge' and unstructured R&D into verifiable, executable assets. It bridges the gap between creative human innovation and the zero-error tolerance required for mission-critical software and scientific discovery."
+            "term": "Automated Machine Learning Research (OMEGA Framework)",
+            "definition": "This refers to an end-to-end framework where AI agents automate the entire scientific R&D lifecycle, from generating novel algorithmic hypotheses to writing and executing the training code. It effectively creates a 'self-optimizing' loop where the AI acts as its own data scientist to improve performance.",
+            "analogy": "Imagine a high-end kitchen where the oven not only cooks the food but analyzes the flavor profiles of every dish, rewrites the recipes in the cookbook to be 10% more efficient, and automatically reorders the pantry to match the new instructions.",
+            "business_value": "This provides a massive competitive advantage by collapsing the R&D timeline. Companies can achieve state-of-the-art AI performance with a smaller team of human researchers, as the system autonomously handles the expensive trial-and-error phase of innovation."
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 29, 2026",
+    "last_updated": "April 30, 2026",
     "tools": [
         {
-            "Name": "Composio",
-            "Category": "AI Development",
-            "Description": "A platform for managing and executing modular AI skills that can interact with 1000+ third-party applications.",
-            "Use_Case": "Automating complex workflows like sending emails, managing GitHub issues, or posting to Slack via LLM agents.",
-            "URL": "https://github.com/ComposioHQ/awesome-codex-skills"
+            "Name": "DeepSeek-V3",
+            "Category": "Language Models",
+            "Description": "A strong Mixture-of-Experts (MoE) language model with 671B parameters, optimized for efficient inference and cost-effective training.",
+            "Use_Case": "Advanced natural language processing tasks, reasoning, coding, and mathematical problem-solving at scale.",
+            "URL": "https://github.com/deepseek-ai/DeepSeek-V3"
         },
         {
-            "Name": "VibeVoice",
-            "Category": "Speech AI",
-            "Description": "A family of open-source voice AI models including long-form speech recognition (ASR) and real-time text-to-speech (TTS).",
-            "Use_Case": "Transcribing long-form audio with speaker identification or building real-time interactive voice agents.",
-            "URL": "https://github.com/microsoft/VibeVoice"
+            "Name": "Maigret",
+            "Category": "OSINT",
+            "Description": "A tool that collects a comprehensive dossier on a person by checking usernames across 3,000+ websites.",
+            "Use_Case": "Information gathering, digital footprint investigation, and public profile research without needing API keys.",
+            "URL": "https://github.com/soxoj/maigret"
         },
         {
-            "Name": "Keep",
-            "Category": "AIOps & Alert Management",
-            "Description": "An open-source AIOps platform that provides alert deduplication, enrichment, and correlation using AI.",
-            "Use_Case": "Centralizing monitoring alerts, automating incident response workflows, and reducing alert fatigue.",
-            "URL": "https://github.com/keephq/keep"
+            "Name": "PPT Master",
+            "Category": "Productivity AI",
+            "Description": "A workflow that uses AI to generate natively editable PowerPoint (.pptx) presentations from documents using real shapes and charts.",
+            "Use_Case": "Automated professional presentation creation directly from PDFs, DOCX files, or URLs without manual formatting.",
+            "URL": "https://github.com/hugohe3/ppt-master"
         }
     ]
 }

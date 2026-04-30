@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-04-26",
+    "last_updated": "Today's Date",
     "papers": [
         {
-            "title": "A Systematic Approach for Large Language Models Debugging",
-            "innovation": "Proposing a systematic methodology to address the inherent challenges of debugging Large Language Models (LLMs), such as their opaque and probabilistic nature, which traditionally makes diagnosis difficult. This moves beyond ad-hoc methods towards a structured engineering approach.",
-            "benchmarks": "Aims to significantly improve the efficiency and effectiveness of identifying and resolving issues in LLM-powered applications, leading to more reliable and robust deployments.",
-            "use_case": "Essential for AI engineers involved in the development, testing, deployment, and maintenance of any LLM-based system, facilitating quicker issue resolution and improving overall system stability.",
-            "url": "https://arxiv.org/abs/2604.23027"
+            "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
+            "innovation": "A full, end-to-end framework for automating AI research and ML development, from idea generation to executable code. It leverages structured meta-prompt engineering and executable code generation to build AI that builds AI.",
+            "benchmarks": "Implied evaluation of generated algorithms, focusing on the optimization and performance of ML models developed through the system.",
+            "use_case": "Automating ML model development, accelerating AI research, MLOps pipeline automation, and generating executable code for various machine learning tasks, significantly boosting productivity for AI engineers.",
+            "url": "https://arxiv.org/abs/2604.26211"
         },
         {
-            "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
-            "innovation": "Introducing a decoupled human-in-the-loop (HITL) system design tailored for AI agentic workflows. This design ensures controlled autonomy, enhancing transparency, accountability, and trustworthiness by providing human oversight without tightly coupling human intervention with agent execution.",
-            "benchmarks": "Aims to improve the safety, control, and overall reliability of AI agent systems, particularly in contexts where human oversight is critical for transparent and accountable decision-making.",
-            "use_case": "Designing and implementing robust, safe, and transparent AI agent systems, especially in critical applications where human oversight and the ability to control agent behavior are paramount for responsible AI deployment.",
-            "url": "https://arxiv.org/abs/2604.23049"
+            "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+            "innovation": "Demonstrates and studies the reliability of autonomous language-model agents in a real-world, high-stakes financial environment (trading real ETH). Focuses on operating-layer controls for validated tool actions and user mandate translation under actual capital.",
+            "benchmarks": "Evaluated through a 21-day deployment (DX Terminal Pro) involving 3,505 user-funded agents trading real ETH in a bounded onchain market.",
+            "use_case": "Building and deploying robust, reliable, and auditable autonomous agents for critical applications such as decentralized finance, automated trading, supply chain management, and other high-stakes domains where agents interact with real capital or critical systems.",
+            "url": "https://arxiv.org/abs/2604.26091"
         },
         {
-            "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
-            "innovation": "Introducing Analytica, a novel framework that employs 'soft propositional reasoning' to directly address the stochastic instability and lack of verifiable, compositional structure in LLM agents. This aims to make LLM-driven analysis more robust, scalable, and reliable for complex tasks.",
-            "benchmarks": "Aims to significantly improve the robustness, scalability, and verifiability of LLM agents performing complex analytical tasks (e.g., in financial forecasting, scientific discovery), addressing current limitations like stochastic instability.",
-            "use_case": "Developing reliable and trustworthy LLM agents for high-stakes analytical tasks and complex decision-making processes, where accuracy, verifiability, and robustness of reasoning are critical requirements for deployment.",
-            "url": "https://arxiv.org/abs/2604.23072"
+            "title": "Evaluating Strategic Reasoning in Forecasting Agents",
+            "innovation": "Introduces Bench to the Future 2 (BTF-2), a novel benchmark designed to evaluate not just the accuracy but also the strategic reasoning capabilities of forecasting agents. It provides a reproducible environment with a frozen research corpus to understand 'why' some forecasters are more accurate.",
+            "benchmarks": "BTF-2, consisting of 1,417 'pastcasting' questions with a frozen 15M-document research corpus, enabling reproducible research and offline forecasting.",
+            "use_case": "Developing and assessing advanced forecasting agents, improving the transparency and interpretability of predictive AI systems, and designing more insightful evaluation methodologies for complex AI behaviors beyond simple accuracy metrics.",
+            "url": "https://arxiv.org/abs/2604.26106"
         }
     ]
 }

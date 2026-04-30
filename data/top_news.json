@@ -1,42 +1,42 @@
 [
   {
-    "title": "Au-M-ol: A Unified Model for Medical Audio and Language Understanding",
-    "summary": "arXiv:2604.23284v1 Announce Type: cross Abstract: In this work, we present Au-M-ol, a novel multimodal architecture that extends Large Language Models (LLMs) with audio processing. It is designed to improve performance on clinically relevant tasks such as Automatic Speech Recognition (ASR). Au-M-ol has three main components: (1) an audio encoder th",
-    "url": "https://arxiv.org/abs/2604.23284",
+    "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
+    "summary": "arXiv:2604.26522v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents exhibit systemic failures in compositional generalization, limiting their robustness in interactive environments. This work introduces AGEL-Comp, a neuro-symbolic AI agent architecture designed to address this challenge by grounding actions of the agent. AGEL-Co",
+    "url": "https://arxiv.org/abs/2604.26522",
     "source": "Arxiv AI",
-    "published_at": "2026-04-29T04:00:00+00:00",
+    "published_at": "2026-04-30T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
-    "summary": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels. The article Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026 appeared first on The Decoder.",
-    "url": "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/",
-    "source": "The Decoder",
-    "published_at": "2026-04-28T18:07:13+00:00",
-    "score": 8
-  },
-  {
-    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "title": "Granite 4.1 LLMs: How They’re Built",
     "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
     "source": "Hugging Face Blog",
-    "published_at": "2026-04-28T15:58:57+00:00",
-    "score": 7
+    "published_at": "2026-04-29T15:01:48+00:00",
+    "score": 8
   },
   {
-    "title": "Google signs AI deal with the Pentagon, ignoring protest from over 600 employees",
-    "summary": "Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safety clauses aren't legally binding. The article Google signs AI deal with the Pentagon, ignoring protest from over 600 employees appeared first on The ",
-    "url": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/",
+    "title": "With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model",
+    "summary": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others. The article With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model appeared ",
+    "url": "https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/",
     "source": "The Decoder",
-    "published_at": "2026-04-28T11:10:05+00:00",
+    "published_at": "2026-04-29T09:28:29+00:00",
+    "score": 8
+  },
+  {
+    "title": "AI evals are becoming the new compute bottleneck",
+    "summary": "",
+    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-04-29T16:45:09+00:00",
     "score": 7
   },
   {
-    "title": "The evolution of encoders: From simple models to multimodal AI",
-    "summary": "When people talk about artificial intelligence, they usually focus on what it produces: Human-like text, stunning images, or eerily accurate recommendations. What rarely gets attention is how AI understands anything in the first place. That understanding begins with encoders. Think of an encoder as a translator that converts messy, real-world infor",
-    "url": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
-    "source": "AI News",
-    "published_at": "2026-04-28T13:01:51+00:00",
+    "title": "OpenAI researchers explain why math is the road to AGI",
+    "summary": "AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artificial general intelligence. The article OpenAI researchers explain why math is the road to AGI appeare",
+    "url": "https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/",
+    "source": "The Decoder",
+    "published_at": "2026-04-29T15:24:12+00:00",
     "score": 7
   }
 ]
