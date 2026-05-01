@@ -1,42 +1,42 @@
 [
   {
-    "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
-    "summary": "arXiv:2604.26522v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents exhibit systemic failures in compositional generalization, limiting their robustness in interactive environments. This work introduces AGEL-Comp, a neuro-symbolic AI agent architecture designed to address this challenge by grounding actions of the agent. AGEL-Co",
-    "url": "https://arxiv.org/abs/2604.26522",
+    "title": "Safe Bilevel Delegation (SBD): A Formal Framework for Runtime Delegation Safety in Multi-Agent Systems",
+    "summary": "arXiv:2604.27358v1 Announce Type: new Abstract: As large language model (LLM) agents are deployed in high-stakes environments, the question of how safely to delegate subtasks to specialized sub-agents becomes critical. Existing work addresses multi-agent architecture selection at design time or provides broad empirical guidelines, but neither provi",
+    "url": "https://arxiv.org/abs/2604.27358",
     "source": "Arxiv AI",
-    "published_at": "2026-04-30T04:00:00+00:00",
+    "published_at": "2026-05-01T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Granite 4.1 LLMs: How They’re Built",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-04-29T15:01:48+00:00",
-    "score": 8
-  },
-  {
-    "title": "With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model",
-    "summary": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others. The article With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model appeared ",
-    "url": "https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/",
+    "title": "Tencent's 440 MB AI model translates 33 languages offline on your phone",
+    "summary": "Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones. The article Tencent&#039;s 440 MB AI model translates 33 languages offline on your phone appeared first on The Decoder.",
+    "url": "https://the-decoder.com/tencents-440-mb-ai-model-translates-33-languages-offline-on-your-phone/",
     "source": "The Decoder",
-    "published_at": "2026-04-29T09:28:29+00:00",
-    "score": 8
-  },
-  {
-    "title": "AI evals are becoming the new compute bottleneck",
-    "summary": "",
-    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-04-29T16:45:09+00:00",
+    "published_at": "2026-04-30T12:24:34+00:00",
     "score": 7
   },
   {
-    "title": "OpenAI researchers explain why math is the road to AGI",
-    "summary": "AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artificial general intelligence. The article OpenAI researchers explain why math is the road to AGI appeare",
-    "url": "https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/",
+    "title": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos",
+    "summary": "The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. The article White House worried about compute limits as it blocks wider access to Anthropic&#039;s Mythos appeared first on The Decoder.",
+    "url": "https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-access-to-anthropics-mythos/",
     "source": "The Decoder",
-    "published_at": "2026-04-29T15:24:12+00:00",
+    "published_at": "2026-04-30T12:14:46+00:00",
     "score": 7
+  },
+  {
+    "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
+    "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
+    "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+    "source": "Wired AI",
+    "published_at": "2026-04-30T17:41:14+00:00",
+    "score": 6
+  },
+  {
+    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+    "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possibl",
+    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-04-30T15:59:41+00:00",
+    "score": 5
   }
 ]

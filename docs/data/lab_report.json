@@ -1,26 +1,26 @@
 {
-    "last_updated": "Today's Date",
+    "last_updated": "2024-05-18",
     "papers": [
         {
-            "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
-            "innovation": "A full, end-to-end framework for automating AI research and ML development, from idea generation to executable code. It leverages structured meta-prompt engineering and executable code generation to build AI that builds AI.",
-            "benchmarks": "Implied evaluation of generated algorithms, focusing on the optimization and performance of ML models developed through the system.",
-            "use_case": "Automating ML model development, accelerating AI research, MLOps pipeline automation, and generating executable code for various machine learning tasks, significantly boosting productivity for AI engineers.",
-            "url": "https://arxiv.org/abs/2604.26211"
+            "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
+            "innovation": "Proposes a Bayesian statistical framework to calibrate automated evaluation metrics against human judgments, enabling confident and reliable migration or replacement of Large Language Models (LLMs) in production environments.",
+            "benchmarks": "Focuses on a methodological framework for confident migration, rather than reporting performance on traditional LLM benchmarks. The primary 'benchmark' is the robust calibration of automated metrics against human judgment for migration decisions.",
+            "use_case": "Essential for AI engineers managing the lifecycle of LLMs in production, ensuring smooth, confident, and performance-preserving transitions when models need to be updated, replaced, or reach end-of-life.",
+            "url": "https://arxiv.org/abs/2604.27082"
         },
         {
-            "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
-            "innovation": "Demonstrates and studies the reliability of autonomous language-model agents in a real-world, high-stakes financial environment (trading real ETH). Focuses on operating-layer controls for validated tool actions and user mandate translation under actual capital.",
-            "benchmarks": "Evaluated through a 21-day deployment (DX Terminal Pro) involving 3,505 user-funded agents trading real ETH in a bounded onchain market.",
-            "use_case": "Building and deploying robust, reliable, and auditable autonomous agents for critical applications such as decentralized finance, automated trading, supply chain management, and other high-stakes domains where agents interact with real capital or critical systems.",
-            "url": "https://arxiv.org/abs/2604.26091"
+            "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
+            "innovation": "Introduces a unified multi-agent architecture for fully autonomous, end-to-end machine learning (ML) pipeline generation. This system features self-healing capabilities, enhancing robustness and explainability from natural language goals and datasets.",
+            "benchmarks": "While the abstract highlights improvements in efficiency, robustness, and explainability, specific quantitative benchmarks on standard ML datasets are not detailed. The innovation is primarily in the multi-agent architecture and its autonomous capabilities.",
+            "use_case": "Automating complex MLOps tasks, from data profiling and intent analysis to model execution and pipeline healing. AI engineers can leverage this to significantly reduce manual intervention, accelerate development cycles, and improve the reliability of ML systems.",
+            "url": "https://arxiv.org/abs/2604.27096"
         },
         {
-            "title": "Evaluating Strategic Reasoning in Forecasting Agents",
-            "innovation": "Introduces Bench to the Future 2 (BTF-2), a novel benchmark designed to evaluate not just the accuracy but also the strategic reasoning capabilities of forecasting agents. It provides a reproducible environment with a frozen research corpus to understand 'why' some forecasters are more accurate.",
-            "benchmarks": "BTF-2, consisting of 1,417 'pastcasting' questions with a frozen 15M-document research corpus, enabling reproducible research and offline forecasting.",
-            "use_case": "Developing and assessing advanced forecasting agents, improving the transparency and interpretability of predictive AI systems, and designing more insightful evaluation methodologies for complex AI behaviors beyond simple accuracy metrics.",
-            "url": "https://arxiv.org/abs/2604.26106"
+            "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
+            "innovation": "Addresses critical limitations (robustness, scalability, trustworthiness, single points of failure) of centralized verification for Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains by proposing a decentralized AI service framework.",
+            "benchmarks": "This paper presents a conceptual framework addressing systemic challenges in AI service deployment rather than empirical performance metrics on a specific task. Its contribution is foundational to the design principles of robust decentralized AI.",
+            "use_case": "Designing and deploying highly reliable, scalable, and trustworthy AI services, particularly crucial for complex LRM and MAS applications in sensitive or high-stakes environments where centralized control is a bottleneck or security risk.",
+            "url": "https://arxiv.org/abs/2604.27132"
         }
     ]
 }

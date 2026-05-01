@@ -1,24 +1,24 @@
 {
-    "last_updated": "April 30, 2026",
+    "last_updated": "May 01, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Onchain Language-Model Agents",
-            "definition": "These are autonomous AI entities that integrate Large Language Models with blockchain smart contracts to execute financial transactions with real capital. They translate high-level user mandates into validated 'tool actions,' allowing them to navigate decentralized markets and manage digital assets without human intervention.",
-            "analogy": "Imagine a smart slow-cooker that doesn't just cook what you provide, but independently monitors grocery prices, uses its own digital wallet to buy ingredients, and hires a delivery driver to bring them to your kitchen when it's most cost-effective.",
-            "business_value": "This shifts AI from a passive advisor to an active fiduciary. For the bottom line, it enables 24/7 autonomous treasury management and high-frequency execution in markets, reducing the need for human brokers and minimizing latency in capital allocation."
+            "term": "Mechanistic Interpretability",
+            "definition": "Mechanistic interpretability is the field of study dedicated to reverse-engineering neural networks by mapping internal mathematical weights to human-understandable concepts. Rather than treating an LLM as a 'black box,' this approach identifies specific 'circuits' or neurons responsible for certain behaviors, allowing engineers to intervene and adjust model parameters directly.",
+            "analogy": "Imagine if, instead of just seeing a car move, you could see through the hood and identify exactly which gear tooth is causing a specific vibration, allowing you to file down that one tooth to fix the ride without replacing the entire transmission.",
+            "business_value": "This moves AI from 'probabilistic magic' to 'precision engineering.' For the C-Suite, this means significantly lower risks of 'hallucinations' and the ability to audit AI decision-making for regulatory compliance and brand safety."
         },
         {
-            "term": "Hierarchical Multi-Persona Induction",
-            "definition": "A process that uses LLMs to distill messy user behavioral logs into structured, evidence-grounded digital personas. By organizing these personas hierarchically, the system can differentiate between a user's stable, long-term traits and their transient, context-specific intents.",
-            "analogy": "Think of a car that doesn't just remember your seat position, but recognizes whether you are currently in 'Aggressive Commuter Mode' or 'Safety-First Parent Mode' based on your steering patterns, adjusting the dashboard and engine response accordingly.",
-            "business_value": "This solves the 'signal-to-noise' problem in customer data. It allows enterprises to move beyond generic segments to 'segment-of-one' personalization, significantly increasing Customer Lifetime Value (LTV) through hyper-relevant product interventions."
+            "term": "Physics-Informed Neural Networks (PINNs)",
+            "definition": "PINNs are a class of deep learning models that embed fundamental physical laws\u2014expressed as partial differential equations\u2014directly into the AI's learning process. This ensures that the model's outputs do not violate the laws of nature, such as gravity or thermodynamics, even when training data is sparse or noisy.",
+            "analogy": "Think of a smart oven that doesn't just follow a recipe (data), but also fundamentally understands the laws of heat transfer (physics). Even if the recipe is wrong, the oven will refuse to heat the exterior of a turkey to 500 degrees while leaving the inside frozen.",
+            "business_value": "PINNs allow for 'Scientific AI' in industrial sectors like aerospace, energy, and manufacturing. They reduce the amount of expensive experimental data needed for R&D, accelerating time-to-market for complex physical products."
         },
         {
-            "term": "Automated Machine Learning Research (OMEGA Framework)",
-            "definition": "This refers to an end-to-end framework where AI agents automate the entire scientific R&D lifecycle, from generating novel algorithmic hypotheses to writing and executing the training code. It effectively creates a 'self-optimizing' loop where the AI acts as its own data scientist to improve performance.",
-            "analogy": "Imagine a high-end kitchen where the oven not only cooks the food but analyzes the flavor profiles of every dish, rewrites the recipes in the cookbook to be 10% more efficient, and automatically reorders the pantry to match the new instructions.",
-            "business_value": "This provides a massive competitive advantage by collapsing the R&D timeline. Companies can achieve state-of-the-art AI performance with a smaller team of human researchers, as the system autonomously handles the expensive trial-and-error phase of innovation."
+            "term": "Binary Spiking Neural Networks (BSNNs)",
+            "definition": "BSNNs are bio-inspired architectures that mimic the human brain by processing information through discrete 'spikes' or pulses rather than continuous numerical streams. By representing data as binary events (0 or 1), these networks can operate with extreme energy efficiency on specialized neuromorphic hardware.",
+            "analogy": "Traditional AI is like a kitchen sink where the water (data) runs constantly to keep things moving. A Spiking Neural Network is like a specialized espresso machine that only uses a high-pressure 'burst' of power the moment a button is pressed, staying completely silent and energy-efficient otherwise.",
+            "business_value": "As AI scaling faces a 'power wall,' BSNNs offer a path to sustainable growth. They are critical for 'Edge AI'\u2014running complex intelligence on battery-powered devices (like medical sensors or drones) where high energy consumption is a deal-breaker."
         }
     ]
 }

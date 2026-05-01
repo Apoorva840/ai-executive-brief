@@ -1,26 +1,26 @@
 {
-    "last_updated": "April 30, 2026",
+    "last_updated": "May 01, 2026",
     "tools": [
-        {
-            "Name": "DeepSeek-V3",
-            "Category": "Language Models",
-            "Description": "A strong Mixture-of-Experts (MoE) language model with 671B parameters, optimized for efficient inference and cost-effective training.",
-            "Use_Case": "Advanced natural language processing tasks, reasoning, coding, and mathematical problem-solving at scale.",
-            "URL": "https://github.com/deepseek-ai/DeepSeek-V3"
-        },
         {
             "Name": "Maigret",
             "Category": "OSINT",
-            "Description": "A tool that collects a comprehensive dossier on a person by checking usernames across 3,000+ websites.",
-            "Use_Case": "Information gathering, digital footprint investigation, and public profile research without needing API keys.",
+            "Description": "An OSINT tool that collects a dossier on a person by username by searching across 3000+ websites without needing API keys.",
+            "Use_Case": "Social media footprint analysis and identity investigation.",
             "URL": "https://github.com/soxoj/maigret"
         },
         {
-            "Name": "PPT Master",
-            "Category": "Productivity AI",
-            "Description": "A workflow that uses AI to generate natively editable PowerPoint (.pptx) presentations from documents using real shapes and charts.",
-            "Use_Case": "Automated professional presentation creation directly from PDFs, DOCX files, or URLs without manual formatting.",
-            "URL": "https://github.com/hugohe3/ppt-master"
+            "Name": "LangExtract",
+            "Category": "Data Extraction",
+            "Description": "A Python library that uses LLMs to extract structured information from unstructured text with precise source grounding.",
+            "Use_Case": "Structuring clinical notes, radiology reports, or long documents into actionable data.",
+            "URL": "https://github.com/google/langextract"
+        },
+        {
+            "Name": "CorridorKey",
+            "Category": "Video Production",
+            "Description": "A neural network-based tool for green screen extraction that separates foreground elements from background colors while preserving edges and motion blur.",
+            "Use_Case": "High-quality professional video compositing and rotoscoping.",
+            "URL": "https://github.com/nikopueringer/CorridorKey"
         }
     ]
 }
