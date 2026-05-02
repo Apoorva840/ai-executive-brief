@@ -1,137 +1,101 @@
 [
   {
-    "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
-    "summary": "arXiv:2604.27082v1 Announce Type: new Abstract: We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires replacement. The key contribution is a Bayesian statistical approach that calibrates automated evaluation metrics against human judgments, enabling confide",
-    "url": "https://arxiv.org/abs/2604.27082",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
+    "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
+    "summary": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GPT-5.5, meanwhile, is already shipping in ChatGPT and through the API. The article GPT-",
+    "url": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
+    "source": "The Decoder",
+    "published_at": "2026-05-01T10:25:37+00:00",
     "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   },
   {
-    "title": "Toward Personalized Digital Twins for Cognitive Decline Assessment: A Multimodal, Uncertainty-Aware Framework",
-    "summary": "arXiv:2604.27217v1 Announce Type: new Abstract: Cognitive decline is highly heterogeneous across individuals, which complicates prognosis, trial design, and treatment planning. We present the Personalized Cognitive Decline Assessment Digital Twin (PCD-DT), a multimodal and uncertainty-aware framework for modeling patient-specific disease trajectori",
-    "url": "https://arxiv.org/abs/2604.27217",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
+    "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
+    "summary": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode. The article Mistral&#039;s new flagship Medium 3.5 folds chat, reasoning, and code into one m",
+    "url": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
+    "source": "The Decoder",
+    "published_at": "2026-05-01T08:21:14+00:00",
     "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   },
   {
-    "title": "AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling",
-    "summary": "arXiv:2604.27253v1 Announce Type: new Abstract: Recent advances in multimodal large language models (LLMs) have revolutionized web agents that can automate complex tasks on websites. However, their accuracy remains limited by the scarcity of high-quality web trajectory training data. Existing automatic trajectory generation methods suffer from inco",
-    "url": "https://arxiv.org/abs/2604.27253",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
+    "summary": "Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk. The article Eight tech giants sign Pentagon deals to build an &quot;AI-first fighting fo",
+    "url": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/",
+    "source": "The Decoder",
+    "published_at": "2026-05-01T16:30:38+00:00",
+    "score": 6,
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   },
   {
-    "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
-    "summary": "arXiv:2604.27419v1 Announce Type: new Abstract: With the advancement of multimodal large language models (MLLMs) and coding agents, the website development has shifted from manual programming to agent-based project-level code synthesis. Existing benchmarks rely on idealized assumptions, especially for well-structured, information-rich inputs and st",
-    "url": "https://arxiv.org/abs/2604.27419",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "title": "First Chinese AI startups are reportedly ditching offshore structures to register directly in China",
+    "summary": "After Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home. Now AI startups like Moonshot AI and StepFun are considering dissolving their foreign holding structures and registering directly in China as part of Beijing's broader push to keep its AI industry un",
+    "url": "https://the-decoder.com/first-chinese-ai-startups-are-reportedly-ditching-offshore-structures-to-register-directly-in-china/",
+    "source": "The Decoder",
+    "published_at": "2026-05-01T16:06:04+00:00",
+    "score": 6,
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   },
   {
-    "title": "Optimization before Evaluation: Evaluation with Unoptimised Prompts Can be Misleading",
-    "summary": "arXiv:2604.27637v1 Announce Type: new Abstract: Current Large Language Model (LLM) evaluation frameworks utilize the same static prompt template across all models under evaluation. This differs from the common industry practice of using prompt optimization (PO) techniques to optimize the prompt for each model to maximize application performance. In",
-    "url": "https://arxiv.org/abs/2604.27637",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "title": "Big tech's AI spending balloons to $725 billion this year",
+    "summary": "Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year. The article Big tech&#039;s AI spending balloons to $725 billion this year appeared first on The Decoder.",
+    "url": "https://the-decoder.com/big-techs-ai-spending-balloons-to-725-billion-this-year/",
+    "source": "The Decoder",
+    "published_at": "2026-05-01T14:41:45+00:00",
+    "score": 6,
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   },
   {
-    "title": "In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks",
-    "summary": "arXiv:2604.27891v1 Announce Type: new Abstract: Agent orchestration frameworks -- LangGraph, CrewAI, Google ADK, OpenAI Agents SDK, and others -- place an external orchestrator above the LLM, tracking state and injecting routing instructions at every turn. We present a controlled comparison showing that for procedural tasks, this architecture is do",
-    "url": "https://arxiv.org/abs/2604.27891",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "title": "Microsoft puts an AI legal agent inside Word for contract review",
+    "summary": "Microsoft is bringing an AI agent for lawyers straight into Word. The \"Legal Agent\" reviews contracts, suggests edits, and checks clauses against internal guidelines. The article Microsoft puts an AI legal agent inside Word for contract review appeared first on The Decoder.",
+    "url": "https://the-decoder.com/microsoft-puts-an-ai-legal-agent-inside-word-for-contract-review/",
+    "source": "The Decoder",
+    "published_at": "2026-05-01T13:11:36+00:00",
+    "score": 6,
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   },
   {
-    "title": "Simulating clinical interventions with a generative multimodal model of human physiology",
-    "summary": "arXiv:2604.27899v1 Announce Type: new Abstract: Understanding how human health changes over time, and why responses to interventions vary between individuals, remains a central challenge in medicine. Here we present HealthFormer, a decoder-only transformer that models the human physiological trajectory generatively, by training on data from the Hum",
-    "url": "https://arxiv.org/abs/2604.27899",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "title": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
+    "summary": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for serious tasks, let alone medical consultations. The article Google Deepmind&#039;s &quot;AI co-clinicia",
+    "url": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
+    "source": "The Decoder",
+    "published_at": "2026-05-01T09:21:32+00:00",
+    "score": 5,
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   },
   {
-    "title": "A Pattern Language for Resilient Visual Agents",
-    "summary": "arXiv:2604.28001v1 Announce Type: new Abstract: Integrating multimodal foundation models into enterprise ecosystems presents a fundamental software architecture challenge. Architects must balance competing quality attributes: the high latency and non-determinism of vision language action (VLA) models versus the strict determinism and real-time perf",
-    "url": "https://arxiv.org/abs/2604.28001",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-01T22:08:19+00:00",
+    "score": 3,
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   },
   {
-    "title": "SpecVQA: A Benchmark for Spectral Understanding and Visual Question Answering in Scientific Images",
-    "summary": "arXiv:2604.28039v1 Announce Type: new Abstract: Spectra are a prevalent yet highly information-dense form of scientific imagery, presenting substantial challenges to multimodal large language models (MLLMs) due to their unstructured and domain-specific characteristics. Here we introduce SpecVQA, a professional scientific-image benchmark for evaluat",
-    "url": "https://arxiv.org/abs/2604.28039",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "title": "Cyber-Insecurity in the AI Era",
+    "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230",
+    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-01T15:54:01+00:00",
+    "score": 3,
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   },
   {
-    "title": "Simulating Validity: Modal Decoupling in MLLM Generated Feedback on Science Drawings",
-    "summary": "arXiv:2604.26957v1 Announce Type: cross Abstract: In science education, students frequently construct hand-drawn visual models of scientific phenomena. These drawings rely on a visual structure where information is encoded through visual objects, their attributes, and relationships. Multimodal large language models (MLLMs) are increasingly used to ",
-    "url": "https://arxiv.org/abs/2604.26957",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "title": "Operationalizing AI for Scale and Sovereignty",
+    "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and",
+    "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-01T15:31:09+00:00",
+    "score": 3,
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   },
   {
-    "title": "COHERENCE: Benchmarking Fine-Grained Image-Text Alignment in Interleaved Multimodal Contexts",
-    "summary": "arXiv:2604.27389v1 Announce Type: cross Abstract: In recent years, Multimodal Large Language Models (MLLMs) have achieved remarkable progress on a wide range of multimodal benchmarks. Despite these advances, most existing benchmarks mainly focus on single-image or multi-image comprehension. In real-world scenarios such as document reading, informat",
-    "url": "https://arxiv.org/abs/2604.27389",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "From Mirage to Grounding: Towards Reliable Multimodal Circuit-to-Verilog Code Generation",
-    "summary": "arXiv:2604.27969v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) are increasingly used to translate visual artifacts into code, from UI mockups into HTML to scientific plots into Python scripts. A circuit diagram can be viewed as a visual domain-specific language for hardware: it encodes timing, topology, and bit level sem",
-    "url": "https://arxiv.org/abs/2604.27969",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "ITS-Mina: A Harris Hawks Optimization-Based All-MLP Framework with Iterative Refinement and External Attention for Multivariate Time Series Forecasting",
-    "summary": "arXiv:2604.27981v1 Announce Type: cross Abstract: Multivariate time series forecasting plays a pivotal role in numerous real-world applications, including financial analysis, energy management, and traffic planning. While Transformer-based architectures have gained popularity for this task, recent studies reveal that simpler MLP-based models can ac",
-    "url": "https://arxiv.org/abs/2604.27981",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "DEFault++: Automated Fault Detection, Categorization, and Diagnosis for Transformer Architectures",
-    "summary": "arXiv:2604.28118v1 Announce Type: cross Abstract: Transformer models are widely deployed in critical AI applications, yet faults in their attention mechanisms, projections, and other internal components often degrade behavior silently without raising runtime errors. Existing fault diagnosis techniques often target generic deep neural networks and c",
-    "url": "https://arxiv.org/abs/2604.28118",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs",
-    "summary": "arXiv:2506.07180v3 Announce Type: replace-cross Abstract: As video large language models (Video-LLMs) become increasingly integrated into real-world applications that demand grounded multimodal reasoning, ensuring their factual consistency and reliability is of critical importance. However, sycophancy, the tendency of these models to align with use",
-    "url": "https://arxiv.org/abs/2506.07180",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
+    "title": "A new US phone network for Christians aims to block porn and gender-related content",
+    "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;",
+    "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-01T09:00:00+00:00",
+    "score": 3,
+    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   }
 ]

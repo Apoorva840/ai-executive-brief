@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 01, 2026",
+    "last_updated": "May 02, 2026",
     "tools": [
         {
+            "Name": "TradingAgents",
+            "Category": "Financial AI",
+            "Description": "A multi-agent framework that mirrors real-world trading firms by deploying specialized LLM-powered agents to collaboratively evaluate market conditions.",
+            "Use_Case": "Automated financial market analysis and research support.",
+            "URL": "https://github.com/TauricResearch/TradingAgents"
+        },
+        {
             "Name": "Maigret",
-            "Category": "OSINT",
-            "Description": "An OSINT tool that collects a dossier on a person by username by searching across 3000+ websites without needing API keys.",
-            "Use_Case": "Social media footprint analysis and identity investigation.",
+            "Category": "OSINT / Security",
+            "Description": "An OSINT tool that gathers a dossier on a person using only their username by checking 3,000+ websites.",
+            "Use_Case": "Social media account investigation and digital footprint research.",
             "URL": "https://github.com/soxoj/maigret"
         },
         {
-            "Name": "LangExtract",
-            "Category": "Data Extraction",
-            "Description": "A Python library that uses LLMs to extract structured information from unstructured text with precise source grounding.",
-            "Use_Case": "Structuring clinical notes, radiology reports, or long documents into actionable data.",
-            "URL": "https://github.com/google/langextract"
-        },
-        {
-            "Name": "CorridorKey",
-            "Category": "Video Production",
-            "Description": "A neural network-based tool for green screen extraction that separates foreground elements from background colors while preserving edges and motion blur.",
-            "Use_Case": "High-quality professional video compositing and rotoscoping.",
-            "URL": "https://github.com/nikopueringer/CorridorKey"
+            "Name": "PPT Master",
+            "Category": "Productivity",
+            "Description": "An AI-powered workflow that generates natively editable PowerPoint files from documents like PDFs or URLs, rather than creating flattened images.",
+            "Use_Case": "Automated presentation creation for professionals.",
+            "URL": "https://github.com/hugohe3/ppt-master"
         }
     ]
 }

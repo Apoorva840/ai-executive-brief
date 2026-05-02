@@ -1,42 +1,42 @@
 [
   {
-    "title": "Safe Bilevel Delegation (SBD): A Formal Framework for Runtime Delegation Safety in Multi-Agent Systems",
-    "summary": "arXiv:2604.27358v1 Announce Type: new Abstract: As large language model (LLM) agents are deployed in high-stakes environments, the question of how safely to delegate subtasks to specialized sub-agents becomes critical. Existing work addresses multi-agent architecture selection at design time or provides broad empirical guidelines, but neither provi",
-    "url": "https://arxiv.org/abs/2604.27358",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "Tencent's 440 MB AI model translates 33 languages offline on your phone",
-    "summary": "Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones. The article Tencent&#039;s 440 MB AI model translates 33 languages offline on your phone appeared first on The Decoder.",
-    "url": "https://the-decoder.com/tencents-440-mb-ai-model-translates-33-languages-offline-on-your-phone/",
+    "title": "ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training",
+    "summary": "A faulty reward signal during training caused ChatGPT models to start dropping goblins, gremlins, and other mythical creatures into their answers at a surprising rate. OpenAI says it's an example of how small, poorly tuned training incentives can produce unexpected side effects. The article ChatGPT&#039;s goblin obsession may be hilarious, but it p",
+    "url": "https://the-decoder.com/chatgpts-goblin-obsession-may-be-hilarious-but-it-points-to-a-deeper-problem-in-ai-training/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T12:24:34+00:00",
+    "published_at": "2026-05-01T13:47:57+00:00",
     "score": 7
   },
   {
-    "title": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos",
-    "summary": "The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. The article White House worried about compute limits as it blocks wider access to Anthropic&#039;s Mythos appeared first on The Decoder.",
-    "url": "https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-access-to-anthropics-mythos/",
+    "title": "Anthropic launches Claude Security to give defenders the same AI edge attackers already have",
+    "summary": "Anthropic wants to give cyber defenders an edge with Claude Security, drawing on the same offensive capabilities it recently deemed too dangerous to release in another model. The article Anthropic launches Claude Security to give defenders the same AI edge attackers already have appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-launches-claude-security-to-give-defenders-the-same-ai-edge-attackers-already-have/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T12:14:46+00:00",
+    "published_at": "2026-05-01T13:00:10+00:00",
     "score": 7
   },
   {
-    "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
-    "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
-    "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
-    "source": "Wired AI",
-    "published_at": "2026-04-30T17:41:14+00:00",
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "summary": "According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of Customer Success Europe, APAC, Middle East &#38; Africa at SAP, observes th",
+    "url": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+    "source": "AI News",
+    "published_at": "2026-05-01T13:05:37+00:00",
     "score": 6
   },
   {
-    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-    "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possibl",
-    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-04-30T15:59:41+00:00",
+    "title": "Per-token AI charges come to GitHub Copilot",
+    "summary": "As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model. The model that&#8217;s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of &#8216;Premium Requests&#8217; according to [&#8230;] The post Per-token ",
+    "url": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+    "source": "AI News",
+    "published_at": "2026-05-01T11:00:00+00:00",
+    "score": 6
+  },
+  {
+    "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+    "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+    "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+    "source": "Wired AI",
+    "published_at": "2026-05-01T20:25:28+00:00",
     "score": 5
   }
 ]

@@ -1,69 +1,53 @@
 [
   {
-    "title": "Safe Bilevel Delegation (SBD): A Formal Framework for Runtime Delegation Safety in Multi-Agent Systems",
-    "url": "https://arxiv.org/abs/2604.27358",
-    "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2604.27358v1 Announce Type: new Abstract: As large language model (LLM) agents are deployed in high-stakes environments, the question of how safely to delegate subtasks to specialized sub-agents becomes critical. Existing work addresses multi-agent architecture selection at design time or provides broad empirical guidelines, but neither provi",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "Tencent's 440 MB AI model translates 33 languages offline on your phone",
-    "url": "https://the-decoder.com/tencents-440-mb-ai-model-translates-33-languages-offline-on-your-phone/",
+    "title": "ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training",
+    "url": "https://the-decoder.com/chatgpts-goblin-obsession-may-be-hilarious-but-it-points-to-a-deeper-problem-in-ai-training/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones. The article Tencent&#039;s 440 MB AI model translates 33 languages offline on your phone appeared first on The Decoder.",
+    "what_happened": "A faulty reward signal during training caused ChatGPT models to start dropping goblins, gremlins, and other mythical creatures into their answers at a surprising rate. OpenAI says it's an example of how small, poorly tuned training incentives can produce unexpected side effects. The article ChatGPT&#039;s goblin obsession may be hilarious, but it p",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "AI Professionals"
     ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos",
-    "url": "https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-access-to-anthropics-mythos/",
+    "title": "Anthropic launches Claude Security to give defenders the same AI edge attackers already have",
+    "url": "https://the-decoder.com/anthropic-launches-claude-security-to-give-defenders-the-same-ai-edge-attackers-already-have/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. The article White House worried about compute limits as it blocks wider access to Anthropic&#039;s Mythos appeared first on The Decoder.",
+    "what_happened": "Anthropic wants to give cyber defenders an edge with Claude Security, drawing on the same offensive capabilities it recently deemed too dangerous to release in another model. The article Anthropic launches Claude Security to give defenders the same AI edge attackers already have appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
-    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
+    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
     "who_should_care": [
-      "AI Infrastructure Engineers",
-      "Sustainability Leaders"
+      "Mobile Engineers",
+      "Product Managers"
     ],
-    "technical_angle": "Hardware and energy constraints now shape model design decisions."
+    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
   },
   {
-    "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
-    "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
-    "source": "Wired AI",
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "url": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+    "source": "AI News",
     "score": 6,
-    "what_happened": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
+    "what_happened": "According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of Customer Success Europe, APAC, Middle East &#38; Africa at SAP, observes th",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "AI Professionals"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-    "source": "MIT Technology Review AI",
-    "score": 5,
-    "what_happened": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possibl",
+    "title": "Per-token AI charges come to GitHub Copilot",
+    "url": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+    "source": "AI News",
+    "score": 6,
+    "what_happened": "As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model. The model that&#8217;s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of &#8216;Premium Requests&#8217; according to [&#8230;] The post Per-token",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
@@ -71,5 +55,20 @@
       "AI Professionals"
     ],
     "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+    "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "who_should_care": [
+      "Policy Leaders",
+      "Tech Strategists"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   }
 ]

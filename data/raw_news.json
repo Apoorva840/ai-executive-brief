@@ -1,59 +1,38 @@
 [
   {
-    "title": "This startup\u2019s new mechanistic interpretability tool lets you debug LLMs",
-    "summary": "The San Francisco\u2013based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters\u2014the settings that determine a model\u2019s behavior\u2014during training. This could give model makers more fine-grained control over how this technology is built than was once thought possibl",
-    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
+    "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
     "source": "MIT Technology Review AI",
-    "published_at": "2026-04-30T15:59:41+00:00"
+    "published_at": "2026-05-01T22:08:19+00:00"
   },
   {
-    "title": "How Shivon Zilis Operated as Elon Musk\u2019s OpenAI Insider",
-    "summary": "Messages presented at trial reveal how Zilis, the mother of four of Musk\u2019s children, acted as an intermediary between him and OpenAI.",
-    "url": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-    "source": "Wired AI",
-    "published_at": "2026-05-01T00:51:18+00:00"
+    "title": "Cyber-Insecurity in the AI Era",
+    "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230",
+    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-01T15:54:01+00:00"
   },
   {
-    "title": "Good Luck Getting a Mac Mini for the Next \u2018Several Months\u2019",
-    "summary": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
-    "url": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
-    "source": "Wired AI",
-    "published_at": "2026-04-30T23:00:51+00:00"
+    "title": "Operationalizing AI for Scale and Sovereignty",
+    "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high\u2011quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and",
+    "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-01T15:31:09+00:00"
   },
   {
-    "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-    "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
-    "source": "Wired AI",
-    "published_at": "2026-04-30T18:54:54+00:00"
+    "title": "A new US phone network for Christians aims to block porn and gender-related content",
+    "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can\u2019t be turned off even by adult account owners. It\u2019s also rolling out a filter&#8230;",
+    "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-01T09:00:00+00:00"
   },
   {
-    "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI\u2019s Models to Train Its Own",
-    "summary": "While answering questions under oath, Musk argued it\u2019s standard practice for AI labs to use their competitors\u2019 models.",
-    "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+    "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+    "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+    "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
     "source": "Wired AI",
-    "published_at": "2026-04-30T17:41:14+00:00"
-  },
-  {
-    "title": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
-    "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
-    "url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
-    "source": "Wired AI",
-    "published_at": "2026-04-30T17:30:39+00:00"
-  },
-  {
-    "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
-    "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women\u2019s photos to make AI porn influencers, then offered online courses showing others how to do it.",
-    "url": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
-    "source": "Wired AI",
-    "published_at": "2026-04-30T10:30:00+00:00"
-  },
-  {
-    "title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
-    "summary": "The LinkedIn cofounder now has an AI drug discovery startup\u2014and thinks not asking chatbots for medical advice is \u201cbordering on committing malpractice.\u201d",
-    "url": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
-    "source": "Wired AI",
-    "published_at": "2026-04-30T09:00:00+00:00"
+    "published_at": "2026-05-01T20:25:28+00:00"
   },
   {
     "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
@@ -2310,101 +2289,80 @@
     "published_at": "2026-05-01T04:00:00+00:00"
   },
   {
-    "title": "Red-teaming\u00a0a\u00a0network of agents: Understanding what breaks when AI agents interact at scale",
-    "summary": "Safe agents don\u2019t guarantee a safe ecosystem of interconnected agents. Microsoft Research examines what breaks when AI agents interact and why network-level risks require new approaches. The post Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale appeared first on Microsoft Research.",
-    "url": "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
-    "source": "Microsoft Research",
-    "published_at": "2026-04-30T21:53:21+00:00"
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella says AI success is \"more about getting intense users and intense usage\" than seat counts",
-    "summary": "Microsoft is posting record profits and strong cloud growth, but just like Google, the company is saying little about how its generative AI business is actually performing. The article Microsoft CEO Satya Nadella says AI success is &quot;more about getting intense users and intense usage&quot; than seat counts appeared first on The Decoder.",
-    "url": "https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/",
+    "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
+    "summary": "Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk. The article Eight tech giants sign Pentagon deals to build an &quot;AI-first fighting fo",
+    "url": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T17:49:04+00:00"
+    "published_at": "2026-05-01T16:30:38+00:00"
   },
   {
-    "title": "Google CEO says Pichai says people \"love\" AI Overviews and keep coming back to search more",
-    "summary": "Alphabet is investing up to $190 billion in AI and cloud infrastructure through 2026, and the company says spending will rise \"significantly\" again in 2027. The article Google CEO says Pichai says people &quot;love&quot; AI Overviews and keep coming back to search more appeared first on The Decoder.",
-    "url": "https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-and-keep-coming-back-to-search-more/",
+    "title": "First Chinese AI startups are reportedly ditching offshore structures to register directly in China",
+    "summary": "After Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home. Now AI startups like Moonshot AI and StepFun are considering dissolving their foreign holding structures and registering directly in China as part of Beijing's broader push to keep its AI industry un",
+    "url": "https://the-decoder.com/first-chinese-ai-startups-are-reportedly-ditching-offshore-structures-to-register-directly-in-china/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T13:38:54+00:00"
+    "published_at": "2026-05-01T16:06:04+00:00"
   },
   {
-    "title": "OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule",
-    "summary": "OpenAI says it has reached its goal of 10 gigawatts of AI compute capacity in the United States several years ahead of schedule. The article OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/",
+    "title": "Big tech's AI spending balloons to $725 billion this year",
+    "summary": "Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year. The article Big tech&#039;s AI spending balloons to $725 billion this year appeared first on The Decoder.",
+    "url": "https://the-decoder.com/big-techs-ai-spending-balloons-to-725-billion-this-year/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T12:45:11+00:00"
+    "published_at": "2026-05-01T14:41:45+00:00"
   },
   {
-    "title": "Anthropic's new benchmark claims Claude can match human experts in bioinformatics",
-    "summary": "With BioMysteryBench, Anthropic wants to show that Claude can solve real bioinformatics problems at an expert level. The results are promising, but come with important caveats. The article Anthropic&#039;s new benchmark claims Claude can match human experts in bioinformatics appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropics-new-benchmark-claims-claude-can-match-human-experts-in-bioinformatics/",
+    "title": "ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training",
+    "summary": "A faulty reward signal during training caused ChatGPT models to start dropping goblins, gremlins, and other mythical creatures into their answers at a surprising rate. OpenAI says it's an example of how small, poorly tuned training incentives can produce unexpected side effects. The article ChatGPT&#039;s goblin obsession may be hilarious, but it p",
+    "url": "https://the-decoder.com/chatgpts-goblin-obsession-may-be-hilarious-but-it-points-to-a-deeper-problem-in-ai-training/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T12:31:31+00:00"
+    "published_at": "2026-05-01T13:47:57+00:00"
   },
   {
-    "title": "Tencent's 440 MB AI model translates 33 languages offline on your phone",
-    "summary": "Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones. The article Tencent&#039;s 440 MB AI model translates 33 languages offline on your phone appeared first on The Decoder.",
-    "url": "https://the-decoder.com/tencents-440-mb-ai-model-translates-33-languages-offline-on-your-phone/",
+    "title": "Microsoft puts an AI legal agent inside Word for contract review",
+    "summary": "Microsoft is bringing an AI agent for lawyers straight into Word. The \"Legal Agent\" reviews contracts, suggests edits, and checks clauses against internal guidelines. The article Microsoft puts an AI legal agent inside Word for contract review appeared first on The Decoder.",
+    "url": "https://the-decoder.com/microsoft-puts-an-ai-legal-agent-inside-word-for-contract-review/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T12:24:34+00:00"
+    "published_at": "2026-05-01T13:11:36+00:00"
   },
   {
-    "title": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos",
-    "summary": "The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. The article White House worried about compute limits as it blocks wider access to Anthropic&#039;s Mythos appeared first on The Decoder.",
-    "url": "https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-access-to-anthropics-mythos/",
+    "title": "Anthropic launches Claude Security to give defenders the same AI edge attackers already have",
+    "summary": "Anthropic wants to give cyber defenders an edge with Claude Security, drawing on the same offensive capabilities it recently deemed too dangerous to release in another model. The article Anthropic launches Claude Security to give defenders the same AI edge attackers already have appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-launches-claude-security-to-give-defenders-the-same-ai-edge-attackers-already-have/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T12:14:46+00:00"
+    "published_at": "2026-05-01T13:00:10+00:00"
   },
   {
-    "title": "FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs",
-    "summary": "The FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs. The article FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs appeared first on The Decoder.",
-    "url": "https://the-decoder.com/fda-bets-on-ai-and-cloud-monitoring-for-clinical-trials-as-it-looks-to-rebuild-after-doge-layoffs/",
+    "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
+    "summary": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GPT-5.5, meanwhile, is already shipping in ChatGPT and through the API. The article GPT-",
+    "url": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T12:11:22+00:00"
+    "published_at": "2026-05-01T10:25:37+00:00"
   },
   {
-    "title": "Anthropic reviewing investor offers that would value the company at over $900 billion",
-    "summary": "Anthropic is reviewing investor offers for a new funding round that would value the AI company at over $900 billion, Bloomberg reports. The article Anthropic reviewing investor offers that would value the company at over $900 billion appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over-900-billion/",
+    "title": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
+    "summary": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for serious tasks, let alone medical consultations. The article Google Deepmind&#039;s &quot;AI co-clinicia",
+    "url": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T12:07:24+00:00"
+    "published_at": "2026-05-01T09:21:32+00:00"
   },
   {
-    "title": "Softbank plans IPO for new AI and robotics company valued at up to $100 billion",
-    "summary": "Softbank is planning to launch and take public a new AI and robotics company called Roze in the United States, the Financial Times reports. The article Softbank plans IPO for new AI and robotics company valued at up to $100 billion appeared first on The Decoder.",
-    "url": "https://the-decoder.com/softbank-plans-ipo-for-new-ai-and-robotics-company-valued-at-up-to-100-billion/",
+    "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
+    "summary": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode. The article Mistral&#039;s new flagship Medium 3.5 folds chat, reasoning, and code into one m",
+    "url": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
     "source": "The Decoder",
-    "published_at": "2026-04-30T12:05:10+00:00"
+    "published_at": "2026-05-01T08:21:14+00:00"
   },
   {
-    "title": "What LG and NVIDIA\u2019s talks reveal about the future of physical AI",
-    "summary": "LG is currently engaged in exploratory discussions with NVIDIA concerning physical AI, data centres, and mobility. Following a meeting in Seoul between LG CEO Ryu Jae-cheol and Madison Huang, Senior Director of Product Marketing for Omniverse and Robotics at NVIDIA, the core operational dependencies required to run complex automated systems are bec",
-    "url": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "summary": "According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of Customer Success Europe, APAC, Middle East &#38; Africa at SAP, observes th",
+    "url": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
     "source": "AI News",
-    "published_at": "2026-04-30T15:59:54+00:00"
+    "published_at": "2026-05-01T13:05:37+00:00"
   },
   {
-    "title": "A guide to APIs, MCPs, and MCP Gateways",
-    "summary": "APIs and MCPs are often mentioned in the same breath as ways that systems can exchange information, but they are designed differently and have different purposes. This article hopes to explain the differences and how software developers and users should approach interaction with each. An API is mainly found in software applications, while an MCP [&",
-    "url": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
+    "title": "Per-token AI charges come to GitHub Copilot",
+    "summary": "As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model. The model that&#8217;s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of &#8216;Premium Requests&#8217; according to [&#8230;] The post Per-token ",
+    "url": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
     "source": "AI News",
-    "published_at": "2026-04-30T11:18:00+00:00"
-  },
-  {
-    "title": "AI agent governance takes focus as regulators flag control gaps",
-    "summary": "Australia&#8217;s financial regulator has warned financial firms that AI agent governance and assurance practices are poorly governed. The warning comes as banks and superannuation trustees expand AI in internal and customer-facing operations. The Australian Prudential Regulation Authority said it conducted a targeted review of selected large regul",
-    "url": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
-    "source": "AI News",
-    "published_at": "2026-04-30T10:00:00+00:00"
-  },
-  {
-    "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
-    "summary": "Every cloud beat. Every capex forecast rose. That is the two-sentence summary of the biggest earnings day of 2026, and it tells you almost everything you need to know about where Big Tech&#8217;s AI infrastructure spending actually stands right now. Microsoft, Alphabet, Meta, and Amazon collectively committed somewhere between US$630 billion and US",
-    "url": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
-    "source": "AI News",
-    "published_at": "2026-04-30T10:00:00+00:00"
+    "published_at": "2026-05-01T11:00:00+00:00"
   }
 ]
