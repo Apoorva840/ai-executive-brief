@@ -1,5 +1,50 @@
 [
   {
+    "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
+    "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator. The article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on T",
+    "url": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
+    "source": "The Decoder",
+    "published_at": "2026-05-02T07:35:24+00:00",
+    "score": 7,
+    "archived_at": "2026-05-03T04:31:28.319295+00:00"
+  },
+  {
+    "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
+    "summary": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs. The article xAI&#039;s new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
+    "url": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
+    "source": "The Decoder",
+    "published_at": "2026-05-02T12:14:46+00:00",
+    "score": 6,
+    "archived_at": "2026-05-03T04:31:28.319295+00:00"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
+    "summary": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society. The article Nvidia CEO Jensen Huang calls out tech leaders&#039; &quot;god complex&quot; over reckless AI job loss predictions appeared first on The Decoder.",
+    "url": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/",
+    "source": "The Decoder",
+    "published_at": "2026-05-02T10:32:09+00:00",
+    "score": 6,
+    "archived_at": "2026-05-03T04:31:28.319295+00:00"
+  },
+  {
+    "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
+    "summary": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings. The article ChatGPT now tracks users for ads by default as OpenAI looks for new revenue appeared first on The Dec",
+    "url": "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/",
+    "source": "The Decoder",
+    "published_at": "2026-05-02T08:30:15+00:00",
+    "score": 6,
+    "archived_at": "2026-05-03T04:31:28.319295+00:00"
+  },
+  {
+    "title": "Meta acquires Assured Robot Intelligence to accelerate humanoid robot push",
+    "summary": "Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones. The article Meta acquires Assured Robot Intelligence to accelerate humanoid robot push appeared first on The Decoder.",
+    "url": "https://the-decoder.com/meta-acquires-assured-robot-intelligence-to-accelerate-humanoid-robot-push/",
+    "source": "The Decoder",
+    "published_at": "2026-05-02T08:02:06+00:00",
+    "score": 6,
+    "archived_at": "2026-05-03T04:31:28.319295+00:00"
+  },
+  {
     "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
     "summary": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GPT-5.5, meanwhile, is already shipping in ChatGPT and through the API. The article GPT-",
     "url": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
@@ -2649,51 +2694,6 @@
     "title": "Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling",
     "summary": "arXiv:2112.07874v2 Announce Type: cross Abstract: We examine the extent to which, in principle, linguistic graph representations can complement and improve neural language modeling. With an ensemble setup consisting of a pretrained Transformer and ground-truth graphs from one of 7 different formalisms, we find that, overall, semantic constituency s",
     "url": "https://arxiv.org/abs/2112.07874",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models",
-    "summary": "arXiv:2604.02816v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have shown strong reasoning ability, but their high computational and memory costs hinder deployment in resource-constrained settings. While Post-Training Quantization (PTQ) and vision token pruning are standard compression techniques, they are usually treate",
-    "url": "https://arxiv.org/abs/2604.02816",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "Council Mode: Mitigating Hallucination and Bias in LLMs via Multi-Agent Consensus",
-    "summary": "arXiv:2604.02923v1 Announce Type: cross Abstract: Large Language Models (LLMs), particularly those employing Mixture-of-Experts (MoE) architectures, have achieved remarkable capabilities across diverse natural language processing tasks. However, these models frequently suffer from hallucinations -- generating plausible but factually incorrect conte",
-    "url": "https://arxiv.org/abs/2604.02923",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "An Independent Safety Evaluation of Kimi K2.5",
-    "summary": "arXiv:2604.03121v1 Announce Type: cross Abstract: Kimi K2.5 is an open-weight LLM that rivals closed models across coding, multimodal, and agentic benchmarks, but was released without an accompanying safety evaluation. In this work, we conduct a preliminary safety assessment of Kimi K2.5 focusing on risks likely to be exacerbated by powerful open-w",
-    "url": "https://arxiv.org/abs/2604.03121",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models",
-    "summary": "arXiv:2604.03179v1 Announce Type: cross Abstract: The recent success of reinforcement learning (RL) in large reasoning models has inspired the growing adoption of RL for post-training Multimodal Large Language Models (MLLMs) to enhance their visual reasoning capabilities. Although many studies have reported improved performance, it remains unclear ",
-    "url": "https://arxiv.org/abs/2604.03179",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "WiseMind: a knowledge-guided multi-agent framework for accurate and empathetic psychiatric diagnosis",
-    "summary": "arXiv:2502.20689v3 Announce Type: replace Abstract: Large Language Models (LLMs) offer promising opportunities to support mental healthcare workflows, yet they often lack the structured clinical reasoning needed for reliable diagnosis and may struggle to provide the emotionally attuned communication essential for patient trust. Here, we introduce W",
-    "url": "https://arxiv.org/abs/2502.20689",
     "source": "Arxiv AI",
     "published_at": "2026-04-06T04:00:00+00:00",
     "score": 7,

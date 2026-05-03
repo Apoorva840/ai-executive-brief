@@ -1,101 +1,47 @@
 [
   {
-    "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
-    "summary": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GPT-5.5, meanwhile, is already shipping in ChatGPT and through the API. The article GPT-",
-    "url": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
+    "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
+    "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator. The article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on T",
+    "url": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
     "source": "The Decoder",
-    "published_at": "2026-05-01T10:25:37+00:00",
+    "published_at": "2026-05-02T07:35:24+00:00",
     "score": 7,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
+    "archived_at": "2026-05-03T04:31:28.319295+00:00"
   },
   {
-    "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
-    "summary": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode. The article Mistral&#039;s new flagship Medium 3.5 folds chat, reasoning, and code into one m",
-    "url": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
+    "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
+    "summary": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs. The article xAI&#039;s new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
+    "url": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
     "source": "The Decoder",
-    "published_at": "2026-05-01T08:21:14+00:00",
-    "score": 7,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
-    "summary": "Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk. The article Eight tech giants sign Pentagon deals to build an &quot;AI-first fighting fo",
-    "url": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/",
-    "source": "The Decoder",
-    "published_at": "2026-05-01T16:30:38+00:00",
+    "published_at": "2026-05-02T12:14:46+00:00",
     "score": 6,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
+    "archived_at": "2026-05-03T04:31:28.319295+00:00"
   },
   {
-    "title": "First Chinese AI startups are reportedly ditching offshore structures to register directly in China",
-    "summary": "After Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home. Now AI startups like Moonshot AI and StepFun are considering dissolving their foreign holding structures and registering directly in China as part of Beijing's broader push to keep its AI industry un",
-    "url": "https://the-decoder.com/first-chinese-ai-startups-are-reportedly-ditching-offshore-structures-to-register-directly-in-china/",
+    "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
+    "summary": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society. The article Nvidia CEO Jensen Huang calls out tech leaders&#039; &quot;god complex&quot; over reckless AI job loss predictions appeared first on The Decoder.",
+    "url": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/",
     "source": "The Decoder",
-    "published_at": "2026-05-01T16:06:04+00:00",
+    "published_at": "2026-05-02T10:32:09+00:00",
     "score": 6,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
+    "archived_at": "2026-05-03T04:31:28.319295+00:00"
   },
   {
-    "title": "Big tech's AI spending balloons to $725 billion this year",
-    "summary": "Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year. The article Big tech&#039;s AI spending balloons to $725 billion this year appeared first on The Decoder.",
-    "url": "https://the-decoder.com/big-techs-ai-spending-balloons-to-725-billion-this-year/",
+    "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
+    "summary": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings. The article ChatGPT now tracks users for ads by default as OpenAI looks for new revenue appeared first on The Dec",
+    "url": "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/",
     "source": "The Decoder",
-    "published_at": "2026-05-01T14:41:45+00:00",
+    "published_at": "2026-05-02T08:30:15+00:00",
     "score": 6,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
+    "archived_at": "2026-05-03T04:31:28.319295+00:00"
   },
   {
-    "title": "Microsoft puts an AI legal agent inside Word for contract review",
-    "summary": "Microsoft is bringing an AI agent for lawyers straight into Word. The \"Legal Agent\" reviews contracts, suggests edits, and checks clauses against internal guidelines. The article Microsoft puts an AI legal agent inside Word for contract review appeared first on The Decoder.",
-    "url": "https://the-decoder.com/microsoft-puts-an-ai-legal-agent-inside-word-for-contract-review/",
+    "title": "Meta acquires Assured Robot Intelligence to accelerate humanoid robot push",
+    "summary": "Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones. The article Meta acquires Assured Robot Intelligence to accelerate humanoid robot push appeared first on The Decoder.",
+    "url": "https://the-decoder.com/meta-acquires-assured-robot-intelligence-to-accelerate-humanoid-robot-push/",
     "source": "The Decoder",
-    "published_at": "2026-05-01T13:11:36+00:00",
+    "published_at": "2026-05-02T08:02:06+00:00",
     "score": 6,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
-    "summary": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for serious tasks, let alone medical consultations. The article Google Deepmind&#039;s &quot;AI co-clinicia",
-    "url": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
-    "source": "The Decoder",
-    "published_at": "2026-05-01T09:21:32+00:00",
-    "score": 5,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-    "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
-    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-01T22:08:19+00:00",
-    "score": 3,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Cyber-Insecurity in the AI Era",
-    "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230",
-    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-01T15:54:01+00:00",
-    "score": 3,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Operationalizing AI for Scale and Sovereignty",
-    "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and",
-    "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-01T15:31:09+00:00",
-    "score": 3,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "A new US phone network for Christians aims to block porn and gender-related content",
-    "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;",
-    "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-01T09:00:00+00:00",
-    "score": 3,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
+    "archived_at": "2026-05-03T04:31:28.319295+00:00"
   }
 ]
