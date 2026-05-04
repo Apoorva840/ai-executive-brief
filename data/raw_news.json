@@ -1,58 +1,37 @@
 [
   {
-    "title": "Disneyland Now Uses Face Recognition on Visitors",
-    "summary": "Plus: The NSA tests Anthropic\u2019s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
-    "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-    "source": "Wired AI",
-    "published_at": "2026-05-02T10:30:00+00:00"
+    "title": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off",
+    "summary": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely. The article Microsoft caught sneaking &quot;Co-Authored-by Copilot&quot; into VS Code commits - even with AI off appeared first on The Decoder.",
+    "url": "https://the-decoder.com/co-pilot-becomes-a-co-author-in-vs-code-without-being-asked/",
+    "source": "The Decoder",
+    "published_at": "2026-05-03T09:31:15+00:00"
   },
   {
-    "title": "Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows",
-    "summary": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble. The article Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis sh",
-    "url": "https://the-decoder.com/even-the-latest-ai-models-make-three-systematic-reasoning-errors-arc-agi-3-analysis-shows/",
+    "title": "MIT study explains why scaling language models works so reliably",
+    "summary": "MIT researchers have a mechanistic explanation for why large language model performance scales so reliably with size. The answer comes down to a phenomenon called superposition. The article MIT study explains why scaling language models works so reliably appeared first on The Decoder.",
+    "url": "https://the-decoder.com/mit-study-explains-why-scaling-language-models-works-so-reliably/",
     "source": "The Decoder",
-    "published_at": "2026-05-02T13:31:52+00:00"
+    "published_at": "2026-05-03T08:42:45+00:00"
   },
   {
-    "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
-    "summary": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs. The article xAI&#039;s new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
-    "url": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
+    "title": "China is falling behind in the AI race, according to a US government benchmark",
+    "summary": "A US government agency says China is now eight months behind in the AI race, but independent data doesn't back that up. And while US labs keep chasing smarter models, the price edge from Deepseek and other Chinese players may end up being the stronger argument. The article China is falling behind in the AI race, according to a US government benchma",
+    "url": "https://the-decoder.com/china-is-falling-behind-in-the-ai-race-according-to-a-us-government-benchmark/",
     "source": "The Decoder",
-    "published_at": "2026-05-02T12:14:46+00:00"
+    "published_at": "2026-05-03T08:12:00+00:00"
   },
   {
-    "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
-    "summary": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society. The article Nvidia CEO Jensen Huang calls out tech leaders&#039; &quot;god complex&quot; over reckless AI job loss predictions appeared first on The Decoder.",
-    "url": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/",
+    "title": "Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding",
+    "summary": "Xiaomi's new MiMo-V2.5-Pro nearly matches Anthropic's Claude Opus 4.6 on coding benchmarks while burning 40 to 60 percent fewer tokens, according to the company. The release pushes Xiaomi deeper into the race among Chinese open-weight providers like Deepseek, where the fight is shifting from raw benchmark scores to how cheaply and how long a model ",
+    "url": "https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/",
     "source": "The Decoder",
-    "published_at": "2026-05-02T10:32:09+00:00"
+    "published_at": "2026-05-03T07:24:01+00:00"
   },
   {
-    "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company",
-    "summary": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead. The article Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion ",
-    "url": "https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/",
+    "title": "Same prompt, different morals: how frontier AI models diverge on ethical dilemmas",
+    "summary": "A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decides what an AI is allowed to do, and whose ethics does it follow? The article Same prompt, different morals: how frontier AI models diverge on ethical d",
+    "url": "https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/",
     "source": "The Decoder",
-    "published_at": "2026-05-02T09:27:21+00:00"
-  },
-  {
-    "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
-    "summary": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings. The article ChatGPT now tracks users for ads by default as OpenAI looks for new revenue appeared first on The Dec",
-    "url": "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T08:30:15+00:00"
-  },
-  {
-    "title": "Meta acquires Assured Robot Intelligence to accelerate humanoid robot push",
-    "summary": "Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones. The article Meta acquires Assured Robot Intelligence to accelerate humanoid robot push appeared first on The Decoder.",
-    "url": "https://the-decoder.com/meta-acquires-assured-robot-intelligence-to-accelerate-humanoid-robot-push/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T08:02:06+00:00"
-  },
-  {
-    "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
-    "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator. The article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on T",
-    "url": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T07:35:24+00:00"
+    "published_at": "2026-05-03T07:00:50+00:00"
   }
 ]

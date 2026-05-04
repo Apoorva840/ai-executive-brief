@@ -1,5 +1,32 @@
 [
   {
+    "title": "Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding",
+    "summary": "Xiaomi's new MiMo-V2.5-Pro nearly matches Anthropic's Claude Opus 4.6 on coding benchmarks while burning 40 to 60 percent fewer tokens, according to the company. The release pushes Xiaomi deeper into the race among Chinese open-weight providers like Deepseek, where the fight is shifting from raw benchmark scores to how cheaply and how long a model ",
+    "url": "https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/",
+    "source": "The Decoder",
+    "published_at": "2026-05-03T07:24:01+00:00",
+    "score": 7,
+    "archived_at": "2026-05-04T04:31:23.299743+00:00"
+  },
+  {
+    "title": "Same prompt, different morals: how frontier AI models diverge on ethical dilemmas",
+    "summary": "A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decides what an AI is allowed to do, and whose ethics does it follow? The article Same prompt, different morals: how frontier AI models diverge on ethical d",
+    "url": "https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/",
+    "source": "The Decoder",
+    "published_at": "2026-05-03T07:00:50+00:00",
+    "score": 7,
+    "archived_at": "2026-05-04T04:31:23.299743+00:00"
+  },
+  {
+    "title": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off",
+    "summary": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely. The article Microsoft caught sneaking &quot;Co-Authored-by Copilot&quot; into VS Code commits - even with AI off appeared first on The Decoder.",
+    "url": "https://the-decoder.com/co-pilot-becomes-a-co-author-in-vs-code-without-being-asked/",
+    "source": "The Decoder",
+    "published_at": "2026-05-03T09:31:15+00:00",
+    "score": 6,
+    "archived_at": "2026-05-04T04:31:23.299743+00:00"
+  },
+  {
     "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
     "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator. The article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on T",
     "url": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
@@ -2667,33 +2694,6 @@
     "title": "Aligning Progress and Feasibility: A Neuro-Symbolic Dual Memory Framework for Long-Horizon LLM Agents",
     "summary": "arXiv:2604.02734v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated strong potential in long-horizon decision-making tasks, such as embodied manipulation and web interaction. However, agents frequently struggle with endless trial-and-error loops or deviate from the main objective in complex environments. We attribute thes",
     "url": "https://arxiv.org/abs/2604.02734",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "CharTool: Tool-Integrated Visual Reasoning for Chart Understanding",
-    "summary": "arXiv:2604.02794v1 Announce Type: new Abstract: Charts are ubiquitous in scientific and financial literature for presenting structured data. However, chart reasoning remains challenging for multimodal large language models (MLLMs) due to the lack of high-quality training data, as well as the need for fine-grained visual grounding and precise numeri",
-    "url": "https://arxiv.org/abs/2604.02794",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
-    "summary": "arXiv:2604.03016v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) are evolving from passive observers into active agents, solving problems through Visual Expansion (invoking visual tools) and Knowledge Expansion (open-web search). However, existing evaluations fall short: they lack flexible tool integration, test visual and s",
-    "url": "https://arxiv.org/abs/2604.03016",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling",
-    "summary": "arXiv:2112.07874v2 Announce Type: cross Abstract: We examine the extent to which, in principle, linguistic graph representations can complement and improve neural language modeling. With an ensemble setup consisting of a pretrained Transformer and ground-truth graphs from one of 7 different formalisms, we find that, overall, semantic constituency s",
-    "url": "https://arxiv.org/abs/2112.07874",
     "source": "Arxiv AI",
     "published_at": "2026-04-06T04:00:00+00:00",
     "score": 7,

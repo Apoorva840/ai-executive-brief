@@ -1,75 +1,74 @@
 [
   {
-    "title": "Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows",
-    "url": "https://the-decoder.com/even-the-latest-ai-models-make-three-systematic-reasoning-errors-arc-agi-3-analysis-shows/",
+    "title": "MIT study explains why scaling language models works so reliably",
+    "url": "https://the-decoder.com/mit-study-explains-why-scaling-language-models-works-so-reliably/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble. The article Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis sh",
+    "what_happened": "MIT researchers have a mechanistic explanation for why large language model performance scales so reliably with size. The answer comes down to a phenomenon called superposition. The article MIT study explains why scaling language models works so reliably appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company",
-    "url": "https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead. The article Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "Disneyland Now Uses Face Recognition on Visitors",
-    "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+    "title": "China is falling behind in the AI race, according to a US government benchmark",
+    "url": "https://the-decoder.com/china-is-falling-behind-in-the-ai-race-according-to-a-us-government-benchmark/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "A US government agency says China is now eight months behind in the AI race, but independent data doesn't back that up. And while US labs keep chasing smarter models, the price edge from Deepseek and other Chinese players may end up being the stronger argument. The article China is falling behind in the AI race, according to a US government benchma",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
+    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
+    "who_should_care": [
+      "Mobile Engineers",
+      "Product Managers"
+    ],
+    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
+  },
+  {
+    "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
+    "url": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator. The article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on T",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
+    "url": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
+    "source": "The Decoder",
+    "score": 6,
+    "what_happened": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs. The article xAI&#039;s new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "AI Professionals"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
-    "url": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
+    "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
+    "url": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/",
     "source": "The Decoder",
-    "score": 7,
-    "what_happened": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GPT-5.5, meanwhile, is already shipping in ChatGPT and through the API. The article GPT-",
+    "score": 6,
+    "what_happened": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society. The article Nvidia CEO Jensen Huang calls out tech leaders&#039; &quot;god complex&quot; over reckless AI job loss predictions appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "AI Professionals"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
-    "url": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode. The article Mistral&#039;s new flagship Medium 3.5 folds chat, reasoning, and code into one m",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   }
 ]

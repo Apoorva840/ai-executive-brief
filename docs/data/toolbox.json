@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 02, 2026",
+    "last_updated": "May 04, 2026",
     "tools": [
         {
-            "Name": "TradingAgents",
-            "Category": "Financial AI",
-            "Description": "A multi-agent framework that mirrors real-world trading firms by deploying specialized LLM-powered agents to collaboratively evaluate market conditions.",
-            "Use_Case": "Automated financial market analysis and research support.",
-            "URL": "https://github.com/TauricResearch/TradingAgents"
+            "Name": "Pixelle-Video",
+            "Category": "AI Content Creation",
+            "Description": "An end-to-end automated framework for short video production.",
+            "Use_Case": "Generating complete short videos from a single prompt by orchestrating LLMs for scriptwriting, image generation, audio synthesis, and video assembly.",
+            "URL": "https://github.com/AIDC-AI/Pixelle-Video"
+        },
+        {
+            "Name": "Local Deep Research",
+            "Category": "AI Research Assistant",
+            "Description": "An agentic research tool designed for local privacy, supporting multiple LLM backends and various search engines.",
+            "Use_Case": "Conducting deep autonomous research across the web and private documents with citations and report synthesis, all kept locally and encrypted.",
+            "URL": "https://github.com/LearningCircuit/local-deep-research"
         },
         {
             "Name": "Maigret",
-            "Category": "OSINT / Security",
-            "Description": "An OSINT tool that gathers a dossier on a person using only their username by checking 3,000+ websites.",
-            "Use_Case": "Social media account investigation and digital footprint research.",
+            "Category": "OSINT / Information Gathering",
+            "Description": "A robust tool for collecting dossiers on individuals based solely on a username across 3000+ websites.",
+            "Use_Case": "Performing automated reconnaissance and gathering profile information for social media analysis and security research.",
             "URL": "https://github.com/soxoj/maigret"
-        },
-        {
-            "Name": "PPT Master",
-            "Category": "Productivity",
-            "Description": "An AI-powered workflow that generates natively editable PowerPoint files from documents like PDFs or URLs, rather than creating flattened images.",
-            "Use_Case": "Automated presentation creation for professionals.",
-            "URL": "https://github.com/hugohe3/ppt-master"
         }
     ]
 }
