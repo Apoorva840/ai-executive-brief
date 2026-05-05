@@ -1,5 +1,41 @@
 [
   {
+    "title": "Building AI data centers is becoming a stress test for banks",
+    "summary": "The construction of new AI data centers devours billions in borrowed capital. Major banks such as JPMorgan and Morgan Stanley are now looking for ways to pass on the growing credit risks to other investors. The article Building AI data centers is becoming a stress test for banks appeared first on The Decoder.",
+    "url": "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/",
+    "source": "The Decoder",
+    "published_at": "2026-05-04T13:21:07+00:00",
+    "score": 6,
+    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+  },
+  {
+    "title": "Cerebras targets $40 billion valuation in second IPO attempt",
+    "summary": "AI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar with the matter. The article Cerebras targets $40 billion valuation in second IPO attempt appeared first on The Decoder.",
+    "url": "https://the-decoder.com/cerebras-targets-40-billion-valuation-in-second-ipo-attempt/",
+    "source": "The Decoder",
+    "published_at": "2026-05-04T11:11:13+00:00",
+    "score": 6,
+    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+  },
+  {
+    "title": "OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves",
+    "summary": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job is done. The article OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves appeared first on The Decode",
+    "url": "https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/",
+    "source": "The Decoder",
+    "published_at": "2026-05-04T09:35:53+00:00",
+    "score": 6,
+    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+  },
+  {
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to&#8230;",
+    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-04T15:51:27+00:00",
+    "score": 3,
+    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+  },
+  {
     "title": "Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding",
     "summary": "Xiaomi's new MiMo-V2.5-Pro nearly matches Anthropic's Claude Opus 4.6 on coding benchmarks while burning 40 to 60 percent fewer tokens, according to the company. The release pushes Xiaomi deeper into the race among Chinese open-weight providers like Deepseek, where the fight is shifting from raw benchmark scores to how cheaply and how long a model ",
     "url": "https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/",
@@ -2658,42 +2694,6 @@
     "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
     "summary": "arXiv:2604.02368v1 Announce Type: new Abstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffer from narrow domain coverage, reliance on generali",
     "url": "https://arxiv.org/abs/2604.02368",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling",
-    "summary": "arXiv:2604.02545v1 Announce Type: new Abstract: The preservation of intangible cultural heritage is a critical challenge as collective memory fades over time. While Large Language Models (LLMs) offer a promising avenue for generating engaging narratives, their propensity for factual inaccuracies or \"hallucinations\" makes them unreliable for heritag",
-    "url": "https://arxiv.org/abs/2604.02545",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "Do Audio-Visual Large Language Models Really See and Hear?",
-    "summary": "arXiv:2604.02605v1 Announce Type: new Abstract: Audio-Visual Large Language Models (AVLLMs) are emerging as unified interfaces to multimodal perception. We present the first mechanistic interpretability study of AVLLMs, analyzing how audio and visual features evolve and fuse through different layers of an AVLLM to produce the final text outputs. We",
-    "url": "https://arxiv.org/abs/2604.02605",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "AutoVerifier: An Agentic Automated Verification Framework Using Large Language Models",
-    "summary": "arXiv:2604.02617v1 Announce Type: new Abstract: Scientific and Technical Intelligence (S&amp;TI) analysis requires verifying complex technical claims across rapidly growing literature, where existing approaches fail to bridge the verification gap between surface-level accuracy and deeper methodological validity. We present AutoVerifier, an LLM-base",
-    "url": "https://arxiv.org/abs/2604.02617",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-07T03:44:14.042368+00:00"
-  },
-  {
-    "title": "Aligning Progress and Feasibility: A Neuro-Symbolic Dual Memory Framework for Long-Horizon LLM Agents",
-    "summary": "arXiv:2604.02734v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated strong potential in long-horizon decision-making tasks, such as embodied manipulation and web interaction. However, agents frequently struggle with endless trial-and-error loops or deviate from the main objective in complex environments. We attribute thes",
-    "url": "https://arxiv.org/abs/2604.02734",
     "source": "Arxiv AI",
     "published_at": "2026-04-06T04:00:00+00:00",
     "score": 7,

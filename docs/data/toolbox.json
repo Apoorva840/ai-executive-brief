@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 04, 2026",
+    "last_updated": "May 05, 2026",
     "tools": [
         {
-            "Name": "Pixelle-Video",
-            "Category": "AI Content Creation",
-            "Description": "An end-to-end automated framework for short video production.",
-            "Use_Case": "Generating complete short videos from a single prompt by orchestrating LLMs for scriptwriting, image generation, audio synthesis, and video assembly.",
-            "URL": "https://github.com/AIDC-AI/Pixelle-Video"
+            "Name": "Rapid-MLX",
+            "Category": "Local AI Engine",
+            "Description": "A high-performance local AI engine for Apple Silicon devices, optimized for speed and tool-calling capabilities.",
+            "Use_Case": "Running local AI models with OpenAI-compatible API support for agents like Cursor, Claude Code, and Aider.",
+            "URL": "https://github.com/raullenchai/Rapid-MLX"
         },
         {
-            "Name": "Local Deep Research",
-            "Category": "AI Research Assistant",
-            "Description": "An agentic research tool designed for local privacy, supporting multiple LLM backends and various search engines.",
-            "Use_Case": "Conducting deep autonomous research across the web and private documents with citations and report synthesis, all kept locally and encrypted.",
+            "Name": "PraisonAI",
+            "Category": "AI Agent Framework",
+            "Description": "A multi-agent framework that facilitates the creation of autonomous, self-improving AI workforces with support for memory, RAG, and over 100 LLMs.",
+            "Use_Case": "Deploying complex multi-agent workflows for research, planning, coding, and task automation.",
+            "URL": "https://github.com/MervinPraison/PraisonAI"
+        },
+        {
+            "Name": "Local Deep Research (LDR)",
+            "Category": "Research Assistant",
+            "Description": "An AI-powered research assistant designed to perform autonomous, deep research using local or cloud LLMs with private and encrypted data storage.",
+            "Use_Case": "Conducting private, agentic research across the web and private document libraries while maintaining data security.",
             "URL": "https://github.com/LearningCircuit/local-deep-research"
-        },
-        {
-            "Name": "Maigret",
-            "Category": "OSINT / Information Gathering",
-            "Description": "A robust tool for collecting dossiers on individuals based solely on a username across 3000+ websites.",
-            "Use_Case": "Performing automated reconnaissance and gathering profile information for social media analysis and security research.",
-            "URL": "https://github.com/soxoj/maigret"
         }
     ]
 }

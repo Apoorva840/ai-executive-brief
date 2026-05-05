@@ -1,45 +1,42 @@
 [
   {
-    "title": "MIT study explains why scaling language models works so reliably",
-    "summary": "MIT researchers have a mechanistic explanation for why large language model performance scales so reliably with size. The answer comes down to a phenomenon called superposition. The article MIT study explains why scaling language models works so reliably appeared first on The Decoder.",
-    "url": "https://the-decoder.com/mit-study-explains-why-scaling-language-models-works-so-reliably/",
+    "title": "Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI",
+    "summary": "Anthropic, Blackstone, Hellman &#038; Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude. The article Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-and-openai-now-agree-on-one-thing-selling-ai-requires-a-lot-more-than-just-the-ai/",
     "source": "The Decoder",
-    "published_at": "2026-05-03T08:42:45+00:00",
+    "published_at": "2026-05-04T18:04:35+00:00",
     "score": 7
   },
   {
-    "title": "China is falling behind in the AI race, according to a US government benchmark",
-    "summary": "A US government agency says China is now eight months behind in the AI race, but independent data doesn't back that up. And while US labs keep chasing smarter models, the price edge from Deepseek and other Chinese players may end up being the stronger argument. The article China is falling behind in the AI race, according to a US government benchma",
-    "url": "https://the-decoder.com/china-is-falling-behind-in-the-ai-race-according-to-a-us-government-benchmark/",
+    "title": "OpenAI raises over $4 billion for new enterprise deployment venture",
+    "summary": "OpenAI has raised more than $4 billion for a new joint venture called \"The Deployment Company,\" according to Bloomberg. The article OpenAI raises over $4 billion for new enterprise deployment venture appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-raises-over-4-billion-for-new-enterprise-deployment-venture/",
     "source": "The Decoder",
-    "published_at": "2026-05-03T08:12:00+00:00",
-    "score": 7
+    "published_at": "2026-05-04T14:02:18+00:00",
+    "score": 6
   },
   {
-    "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
-    "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator. The article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on T",
-    "url": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T07:35:24+00:00",
-    "score": 7,
-    "archived_at": "2026-05-03T04:31:28.319295+00:00"
+    "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
+    "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
+    "url": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "published_at": "2026-05-04T23:19:52+00:00",
+    "score": 5
   },
   {
-    "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
-    "summary": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs. The article xAI&#039;s new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
-    "url": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T12:14:46+00:00",
-    "score": 6,
-    "archived_at": "2026-05-03T04:31:28.319295+00:00"
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "summary": "Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that d",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+    "source": "AI News",
+    "published_at": "2026-05-04T11:00:00+00:00",
+    "score": 5
   },
   {
-    "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
-    "summary": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society. The article Nvidia CEO Jensen Huang calls out tech leaders&#039; &quot;god complex&quot; over reckless AI job loss predictions appeared first on The Decoder.",
-    "url": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T10:32:09+00:00",
-    "score": 6,
-    "archived_at": "2026-05-03T04:31:28.319295+00:00"
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "summary": "Two weeks ago at Google Cloud Next &#8217;26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it&#160;made&#160;agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini Enterprise Agent Platform, pitched as the successor to",
+    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+    "source": "AI News",
+    "published_at": "2026-05-04T10:00:00+00:00",
+    "score": 5
   }
 ]

@@ -1,29 +1,38 @@
 [
   {
-    "title": "Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding",
-    "summary": "Xiaomi's new MiMo-V2.5-Pro nearly matches Anthropic's Claude Opus 4.6 on coding benchmarks while burning 40 to 60 percent fewer tokens, according to the company. The release pushes Xiaomi deeper into the race among Chinese open-weight providers like Deepseek, where the fight is shifting from raw benchmark scores to how cheaply and how long a model ",
-    "url": "https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/",
+    "title": "Building AI data centers is becoming a stress test for banks",
+    "summary": "The construction of new AI data centers devours billions in borrowed capital. Major banks such as JPMorgan and Morgan Stanley are now looking for ways to pass on the growing credit risks to other investors. The article Building AI data centers is becoming a stress test for banks appeared first on The Decoder.",
+    "url": "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/",
     "source": "The Decoder",
-    "published_at": "2026-05-03T07:24:01+00:00",
-    "score": 7,
-    "archived_at": "2026-05-04T04:31:23.299743+00:00"
-  },
-  {
-    "title": "Same prompt, different morals: how frontier AI models diverge on ethical dilemmas",
-    "summary": "A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decides what an AI is allowed to do, and whose ethics does it follow? The article Same prompt, different morals: how frontier AI models diverge on ethical d",
-    "url": "https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/",
-    "source": "The Decoder",
-    "published_at": "2026-05-03T07:00:50+00:00",
-    "score": 7,
-    "archived_at": "2026-05-04T04:31:23.299743+00:00"
-  },
-  {
-    "title": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off",
-    "summary": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely. The article Microsoft caught sneaking &quot;Co-Authored-by Copilot&quot; into VS Code commits - even with AI off appeared first on The Decoder.",
-    "url": "https://the-decoder.com/co-pilot-becomes-a-co-author-in-vs-code-without-being-asked/",
-    "source": "The Decoder",
-    "published_at": "2026-05-03T09:31:15+00:00",
+    "published_at": "2026-05-04T13:21:07+00:00",
     "score": 6,
-    "archived_at": "2026-05-04T04:31:23.299743+00:00"
+    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+  },
+  {
+    "title": "Cerebras targets $40 billion valuation in second IPO attempt",
+    "summary": "AI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar with the matter. The article Cerebras targets $40 billion valuation in second IPO attempt appeared first on The Decoder.",
+    "url": "https://the-decoder.com/cerebras-targets-40-billion-valuation-in-second-ipo-attempt/",
+    "source": "The Decoder",
+    "published_at": "2026-05-04T11:11:13+00:00",
+    "score": 6,
+    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+  },
+  {
+    "title": "OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves",
+    "summary": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job is done. The article OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves appeared first on The Decode",
+    "url": "https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/",
+    "source": "The Decoder",
+    "published_at": "2026-05-04T09:35:53+00:00",
+    "score": 6,
+    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+  },
+  {
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to&#8230;",
+    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-04T15:51:27+00:00",
+    "score": 3,
+    "archived_at": "2026-05-05T04:00:17.598617+00:00"
   }
 ]
