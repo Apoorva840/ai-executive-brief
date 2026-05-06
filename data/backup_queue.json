@@ -1,38 +1,137 @@
 [
   {
-    "title": "Building AI data centers is becoming a stress test for banks",
-    "summary": "The construction of new AI data centers devours billions in borrowed capital. Major banks such as JPMorgan and Morgan Stanley are now looking for ways to pass on the growing credit risks to other investors. The article Building AI data centers is becoming a stress test for banks appeared first on The Decoder.",
-    "url": "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/",
-    "source": "The Decoder",
-    "published_at": "2026-05-04T13:21:07+00:00",
-    "score": 6,
-    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+    "title": "Adversarial Flow Matching for Imperceptible Attacks on End-to-End Autonomous Driving",
+    "summary": "arXiv:2605.00880v1 Announce Type: cross Abstract: Autonomous driving (AD) is evolving towards end-to-end (E2E) frameworks through two primary paradigms: monolithic models exemplified by Vision-Language-Action (VLA), and specialized modular architectures. Despite their divergent designs, both paradigms increasingly rely on Transformer backbones for ",
+    "url": "https://arxiv.org/abs/2605.00880",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
   },
   {
-    "title": "Cerebras targets $40 billion valuation in second IPO attempt",
-    "summary": "AI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar with the matter. The article Cerebras targets $40 billion valuation in second IPO attempt appeared first on The Decoder.",
-    "url": "https://the-decoder.com/cerebras-targets-40-billion-valuation-in-second-ipo-attempt/",
-    "source": "The Decoder",
-    "published_at": "2026-05-04T11:11:13+00:00",
-    "score": 6,
-    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+    "title": "IPS: In-Prompt Process Supervision for Short Video Content Moderation",
+    "summary": "arXiv:2412.15251v3 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) are effective at capturing the semantics of short video content; however, they often fail to attend to the policy-specific details required for reliable content moderation. To address this limitation, we introduce IPS, a novel framework that integrate",
+    "url": "https://arxiv.org/abs/2412.15251",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
   },
   {
-    "title": "OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves",
-    "summary": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job is done. The article OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves appeared first on The Decode",
-    "url": "https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/",
-    "source": "The Decoder",
-    "published_at": "2026-05-04T09:35:53+00:00",
-    "score": 6,
-    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+    "title": "Efficient Reasoning with Hidden Thinking",
+    "summary": "arXiv:2501.19201v2 Announce Type: replace-cross Abstract: Chain-of-Thought (CoT) reasoning has become a powerful framework for improving complex problem-solving capabilities in Multimodal Large Language Models (MLLMs). However, the verbose nature of textual reasoning introduces significant inefficiencies. In this work, we propose Heima (as hidden l",
+    "url": "https://arxiv.org/abs/2501.19201",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
   },
   {
-    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to&#8230;",
-    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-04T15:51:27+00:00",
-    "score": 3,
-    "archived_at": "2026-05-05T04:00:17.598617+00:00"
+    "title": "Valley3: Scaling Omni Foundation Models for E-commerce",
+    "summary": "arXiv:2605.01278v1 Announce Type: new Abstract: In this work, we present Valley3, an omni multimodal large language model (MLLM) developed for diverse global e-commerce tasks, with unified understanding and reasoning capabilities across text, images, video, and audio. A key feature of Valley3 is its native multilingual audio capability for e-commer",
+    "url": "https://arxiv.org/abs/2605.01278",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "GRAIL: A Deep-Granularity Hybrid Resonance Framework for Real-Time Agent Discovery via SLM-Enhanced Indexing",
+    "summary": "arXiv:2605.02489v1 Announce Type: new Abstract: As the ecosystem of Large Language Model (LLM)-based agents expands rapidly, efficient and accurate Agent Discovery becomes a critical bottleneck for large-scale multi-agent collaboration. Existing approaches typically face a dichotomy: either relying on heavy-weight LLMs for intent parsing, leading t",
+    "url": "https://arxiv.org/abs/2605.02489",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "Strategy-Aware Optimization Modeling with Reasoning LLMs",
+    "summary": "arXiv:2605.02545v1 Announce Type: new Abstract: Large language models (LLMs) can generate syntactically valid optimization programs, yet often struggle to reliably choose an effective modeling strategy, leading to incorrect formulations and inefficient solver behavior. We propose SAGE, a strategy-aware framework that makes Modeling Strategy explici",
+    "url": "https://arxiv.org/abs/2605.02545",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "Separating Intelligence from Execution: A Workflow Engine for the Model Context Protocol",
+    "summary": "arXiv:2605.00827v1 Announce Type: cross Abstract: Large Language Model (LLM) agents increasingly interact with external systems through tool-calling protocols such as the Model Context Protocol (MCP). In prevailing architectures, the agent must reason about every tool invocation in every session, consuming tokens proportional to the number of actio",
+    "url": "https://arxiv.org/abs/2605.00827",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "X2SAM: Any Segmentation in Images and Videos",
+    "summary": "arXiv:2605.00891v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated strong image-level visual understanding and reasoning, yet their pixel-level perception across both images and videos remains limited. Foundation segmentation models such as the SAM series produce high-quality masks, but they rely on low-lev",
+    "url": "https://arxiv.org/abs/2605.00891",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "TRIP-Evaluate: An Open Multimodal Benchmark for Evaluating Large Models in Transportation",
+    "summary": "arXiv:2605.00907v1 Announce Type: cross Abstract: Large language models (LLMs) and multimodal large models (MLLMs) are increasingly used for transportation tasks such as regulation question answering, traffic management support, engineering review, and autonomous-driving scene reasoning. Yet transportation workflows are rule-intensive, computation-",
+    "url": "https://arxiv.org/abs/2605.00907",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "CLEAR: Revealing How Noise and Ambiguity Degrade Reliability in LLMs for Medicine",
+    "summary": "arXiv:2605.01011v1 Announce Type: cross Abstract: Medical large language model (LLM) evaluations rely on simplified, exam-style benchmarks that rarely reflect the ambiguity of real-world medical inquiries. We introduce the CLinical Evaluation of Ambiguity and Reliability (CLEAR) framework, which assesses how decision-space presentation, ambiguity, ",
+    "url": "https://arxiv.org/abs/2605.01011",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "EmoMM: Benchmarking and Steering MLLM for Multimodal Emotion Recognition under Conflict and Missingness",
+    "summary": "arXiv:2605.01024v1 Announce Type: cross Abstract: Multimodal Emotion Recognition (MER) is critical for interpreting real-world interactions. While Multimodal Large Language Models (MLLM) have shown promise in MER, their internal decision-making mechanisms under modality conflict and missingness remain largely underexplored. In this paper, to system",
+    "url": "https://arxiv.org/abs/2605.01024",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "Component-Aware Self-Speculative Decoding in Hybrid Language Models",
+    "summary": "arXiv:2605.01106v1 Announce Type: cross Abstract: Speculative decoding accelerates autoregressive inference by drafting candidate tokens with a fast model and verifying them in parallel with the target. Self-speculative methods avoid the need for an external drafter but have been studied exclusively in homogeneous Transformer architectures. We intr",
+    "url": "https://arxiv.org/abs/2605.01106",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "CNN-based Multi-In-Multi-Out Model for Efficient Spatiotemporal Prediction",
+    "summary": "arXiv:2605.01277v1 Announce Type: cross Abstract: Recently, Convolutional Neural Network (CNN) or Transformer architecture based models have been proposed to overcome the limitations of Recurrent Neural Network (RNN) based models in spatiotemporal prediction. These models prevent the inefficiency of parallelization limitation due to the sequential ",
+    "url": "https://arxiv.org/abs/2605.01277",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "AgriKD: Cross-Architecture Knowledge Distillation for Efficient Leaf Disease Classification",
+    "summary": "arXiv:2605.01355v1 Announce Type: cross Abstract: Automated leaf disease classification is critical for early disease detection in resource-constrained field environments. Vision Transformers (ViTs) provide strong representation capability by modeling long-range dependencies and inter-class relationships; however, their high computational cost make",
+    "url": "https://arxiv.org/abs/2605.01355",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+  },
+  {
+    "title": "FT-RAG: A Fine-grained Retrieval-Augmented Generation Framework for Complex Table Reasoning",
+    "summary": "arXiv:2605.01495v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by grounding responses in external knowledge during inference. However, conventiona RAG systems under-perform on structured tabular data, largely due to coarse retrieval granularity and insufficient table semantic comprehensi",
+    "url": "https://arxiv.org/abs/2605.01495",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-06T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-06T04:17:05.770495+00:00"
   }
 ]

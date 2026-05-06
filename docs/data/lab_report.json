@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-04-26",
+    "last_updated": "2024-05-27",
     "papers": [
         {
-            "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
-            "innovation": "A Bayesian statistical framework that calibrates automated evaluation metrics against human judgments, enabling confident and reliable migration of Large Language Models in production systems.",
-            "benchmarks": "Focuses on calibrating automated evaluation metrics, implying performance against existing evaluation suites relevant to LLMs, particularly concerning migration confidence, though specific benchmarks are not detailed in the abstract.",
-            "use_case": "Ensuring a smooth, confident, and validated transition when an underlying Large Language Model in a production system needs to be replaced or updated due to end-of-life or performance requirements.",
-            "url": "https://arxiv.org/abs/2604.27082"
+            "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
+            "innovation": "A novel chatbot architecture for high-stakes medical contexts, employing Prioritized Evidence RAG (Retrieval-Augmented Generation) and verifiable citations to explicitly ground answers in official guidelines, effectively mitigating LLM hallucination.",
+            "benchmarks": "Improved accuracy and verifiability compared to standard LLMs by grounding responses in clinical guidelines and providing explicit citations, essential for high-stakes medical applications.",
+            "use_case": "Clinical decision support, medical information retrieval, building trustworthy and verifiable LLM applications in sensitive domains.",
+            "url": "https://arxiv.org/abs/2605.00846"
         },
         {
-            "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
-            "innovation": "A unified multi-agent architecture (comprising five agents) that autonomously generates end-to-end machine learning pipelines from natural language goals and datasets, incorporating self-healing capabilities for robustness.",
-            "benchmarks": "Aims to improve 'efficiency, robustness and explainability' in ML pipeline generation; however, specific quantitative benchmarks are not provided in the abstract.",
-            "use_case": "Automating the complete machine learning development lifecycle, from data profiling and intent handling to model generation and deployment, for enhanced efficiency, robustness, and transparency in ML engineering.",
-            "url": "https://arxiv.org/abs/2604.27096"
+            "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
+            "innovation": "Proposes a multi-agent system paradigm to overcome the inherent limitations of single-agent LLM-driven scientific workflows, specifically addressing context window accumulation, complex routing, and tool use for enhanced autonomous reasoning.",
+            "benchmarks": "Aims to significantly improve scalability, complexity handling, and overall reasoning capabilities compared to single-agent LLM systems by distributing tasks and managing context more effectively.",
+            "use_case": "Scientific discovery and simulation (e.g., hydrodynamics), complex problem-solving with LLMs, designing scalable and robust AI systems, mitigating LLM context window constraints in advanced applications.",
+            "url": "https://arxiv.org/abs/2605.01102"
         },
         {
-            "title": "Step-level Optimization for Efficient Computer-use Agents",
-            "innovation": "Proposes step-level optimization techniques to significantly improve the efficiency, robustness, and overall performance of computer-use agents that interact directly with arbitrary graphical user interfaces for general software automation.",
-            "benchmarks": "References 'recent advances in benchmark performance' for computer-use agents, indicating a contribution to improving results in established evaluation scenarios for these types of agents, although specific new benchmarks or results are not detailed in the abstract.",
-            "use_case": "Developing more reliable and performant AI agents capable of automating complex tasks by interacting with diverse software applications through their graphical user interfaces, making general software automation more practical.",
-            "url": "https://arxiv.org/abs/2604.27151"
+            "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
+            "innovation": "Presents a machine-checked formalization (using Rocq 8.19) of governed AI workflow architectures, proving that effect-level governance can be imposed without sacrificing computational expressivity. This establishes foundational principles for verifiable AI system design.",
+            "benchmarks": "Formal proofs demonstrating semantic preservation, expressive minimality, and decidability boundaries for governed AI workflows, providing strong guarantees about system behavior and safety properties.",
+            "use_case": "Designing secure, auditable, and reliable AI workflow architectures, implementing AI governance in safety-critical systems, formal verification of AI system properties, ensuring compliance and transparency in AI deployment.",
+            "url": "https://arxiv.org/abs/2605.01030"
         }
     ]
 }

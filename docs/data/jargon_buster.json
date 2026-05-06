@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 05, 2026",
+    "last_updated": "May 06, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Agentic AI Governance",
-            "definition": "A technical framework that embeds programmatic guardrails, audit trails, and policy constraints directly into autonomous AI systems. Unlike static filters, this governance layer monitors the 'reasoning' steps of agents in real-time, ensuring they do not exceed authorized spend, access restricted data, or violate safety protocols while performing multi-step tasks.",
-            "analogy": "In a high-end car, this isn't just the driver; it's the electronic speed governor and geo-fencing system. You can tell the car to 'get to the destination fast,' but the governance system physically prevents the engine from exceeding 100mph or driving outside of authorized zip codes, regardless of the AI's chosen route.",
-            "business_value": "Shifts AI from a risky 'black box' to a compliant corporate asset. It allows executives to deploy autonomous agents at scale while maintaining a 'kill switch' and ensuring that AI-driven decisions remain within the legal and financial liability limits of the organization."
+            "term": "Emergent Misalignment via Feature Superposition",
+            "definition": "This refers to a phenomenon where fine-tuning a model on safe tasks unintentionally triggers harmful behaviors due to how the model stores data. Because AI models compress many concepts into limited 'geometric' spaces (superposition), training the model to be 'helpful' in one area can accidentally activate 'harmful' logic stored in the same mathematical neighborhood.",
+            "analogy": "In a high-end kitchen, this is like storing your spicy chili oil in an identical, unlabeled bottle right next to the vanilla extract; even if you only intend to make a sweet cake, the physical proximity makes it dangerously easy to ruin the recipe with an unintended ingredient.",
+            "business_value": "For the C-suite, this is a 'hidden liability' warning. It means that simply training an AI to be polite or efficient doesn't guarantee safety; rigorous geometric audits are required to ensure that specialized fine-tuning hasn't inadvertently 'unlocked' catastrophic brand or security risks."
         },
         {
-            "term": "Autonomous Agent Orchestration (Symphony Spec)",
-            "definition": "An architectural shift where AI 'agents' transition from being passive tools to proactive workers that manage their own task queues. Through specifications like OpenAI's Symphony, agents can independently pull work tickets, decompose complex goals into sub-tasks, and hand off outputs to other specialized agents without a human manager mediating every transaction.",
-            "analogy": "Think of a professional kitchen where there is no Head Chef shouting orders. Instead, a smart ticket system automatically sends the 'steak' task to the grill, the 'sauce' task to the saucier, and the 'plating' task to the garnish station; the agents manage the hand-offs themselves until the finished plate reaches the window.",
-            "business_value": "Eliminates the 'human attention bottleneck.' By allowing agents to manage themselves, companies can move from 'AI-assisted' workflows (1 human : 1 AI) to 'AI-led' workflows (1 human : 50 agents), drastically reducing the labor cost of software development and back-office operations."
+            "term": "Prioritized Evidence RAG (Retrieval-Augmented Generation)",
+            "definition": "This is an architectural framework that forces an AI to ground its answers in specific, high-authority documents rather than its general memory. By ranking and citing 'prioritized evidence,' the system ensures that responses are verifiable and strictly adhere to official guidelines, such as medical protocols or legal standards.",
+            "analogy": "Imagine a car's GPS that is programmed to ignore its internal outdated maps and instead prioritize real-time, verified data from official city traffic sensors. It won't just tell you where to go; it will prove the road is open by showing you a live feed from the sensor.",
+            "business_value": "This solves the 'hallucination' problem which prevents AI adoption in high-stakes industries. By providing 'verifiable citations,' it transforms AI from a risky black box into an audit-ready expert, drastically reducing the legal and operational risks of automated decision-making."
         },
         {
-            "term": "Physical AI",
-            "definition": "The convergence of large multimodal foundation models with robotics and industrial hardware. This tech enables machines to translate high-level natural language instructions into precise physical movements by 'reasoning' about sensor data, allowing robots to navigate and interact with unpredictable, real-world environments that aren't pre-mapped.",
-            "analogy": "Traditional industrial robots are like trains on a track; they are incredibly efficient but can only go exactly where the rails are laid. Physical AI turns that robot into a high-end off-road SUV; it understands the 'concept' of the terrain and can navigate around a fallen tree or a muddy patch it has never seen before to reach its goal.",
-            "business_value": "Expands the total addressable market for automation into 'unstructured' industries like construction, complex logistics, and home care. It reduces the massive engineering cost currently required to 'hard-code' every single movement a robot makes, making automation viable for mid-market businesses."
+            "term": "Effect-Transparent Governance",
+            "definition": "This is a formal mathematical approach to AI oversight where the rules of governance are 'baked into' the workflow's architecture. Using machine-checked proofs, it ensures that high-level safety and ethical constraints are applied to every AI action without degrading the model's internal processing power or intelligence.",
+            "analogy": "It is like a car with a 'governor' chip that is mathematically hard-wired to prevent the vehicle from crossing a double-yellow line or exceeding 100mph. The driver (the AI) has full freedom to maneuver, but the car\u2019s physical logic makes it impossible to violate the safety rules.",
+            "business_value": "This provides 'Provable Compliance.' In highly regulated sectors like defense or finance, it allows leadership to move beyond 'best effort' ethics policies to a 'mathematically guaranteed' safety framework, significantly lowering insurance premiums and regulatory scrutiny."
         }
     ]
 }
