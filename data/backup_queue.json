@@ -1,137 +1,137 @@
 [
   {
-    "title": "Adversarial Flow Matching for Imperceptible Attacks on End-to-End Autonomous Driving",
-    "summary": "arXiv:2605.00880v1 Announce Type: cross Abstract: Autonomous driving (AD) is evolving towards end-to-end (E2E) frameworks through two primary paradigms: monolithic models exemplified by Vision-Language-Action (VLA), and specialized modular architectures. Despite their divergent designs, both paradigms increasingly rely on Transformer backbones for ",
-    "url": "https://arxiv.org/abs/2605.00880",
+    "title": "Where Paths Split: Localized, Calibrated Control of Moral Reasoning in Large Language Models",
+    "summary": "arXiv:2605.03609v1 Announce Type: new Abstract: Large language models often display heterogeneous moral preferences across settings. We study inference-time steering toward a desired ethical framework while preserving general competence. We present Convergent-Divergent Routing, which traces and edits minimal branch points inside transformer blocks ",
+    "url": "https://arxiv.org/abs/2605.03609",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
-  },
-  {
-    "title": "IPS: In-Prompt Process Supervision for Short Video Content Moderation",
-    "summary": "arXiv:2412.15251v3 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) are effective at capturing the semantics of short video content; however, they often fail to attend to the policy-specific details required for reliable content moderation. To address this limitation, we introduce IPS, a novel framework that integrate",
-    "url": "https://arxiv.org/abs/2412.15251",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
-  },
-  {
-    "title": "Efficient Reasoning with Hidden Thinking",
-    "summary": "arXiv:2501.19201v2 Announce Type: replace-cross Abstract: Chain-of-Thought (CoT) reasoning has become a powerful framework for improving complex problem-solving capabilities in Multimodal Large Language Models (MLLMs). However, the verbose nature of textual reasoning introduces significant inefficiencies. In this work, we propose Heima (as hidden l",
-    "url": "https://arxiv.org/abs/2501.19201",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
-  },
-  {
-    "title": "Valley3: Scaling Omni Foundation Models for E-commerce",
-    "summary": "arXiv:2605.01278v1 Announce Type: new Abstract: In this work, we present Valley3, an omni multimodal large language model (MLLM) developed for diverse global e-commerce tasks, with unified understanding and reasoning capabilities across text, images, video, and audio. A key feature of Valley3 is its native multilingual audio capability for e-commer",
-    "url": "https://arxiv.org/abs/2605.01278",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "GRAIL: A Deep-Granularity Hybrid Resonance Framework for Real-Time Agent Discovery via SLM-Enhanced Indexing",
-    "summary": "arXiv:2605.02489v1 Announce Type: new Abstract: As the ecosystem of Large Language Model (LLM)-based agents expands rapidly, efficient and accurate Agent Discovery becomes a critical bottleneck for large-scale multi-agent collaboration. Existing approaches typically face a dichotomy: either relying on heavy-weight LLMs for intent parsing, leading t",
-    "url": "https://arxiv.org/abs/2605.02489",
+    "title": "ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting",
+    "summary": "arXiv:2605.03804v1 Announce Type: new Abstract: Long-term personalized memory for LLM agents is challenging on resource-limited edge devices due to high storage costs and multimodal complexity. To address this, we propose ScrapMem, a framework that integrates multimodal data into \"Scrapbook Page.\" ScrapMem introduces Optical Forgetting, an optical ",
+    "url": "https://arxiv.org/abs/2605.03804",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "Strategy-Aware Optimization Modeling with Reasoning LLMs",
-    "summary": "arXiv:2605.02545v1 Announce Type: new Abstract: Large language models (LLMs) can generate syntactically valid optimization programs, yet often struggle to reliably choose an effective modeling strategy, leading to incorrect formulations and inefficient solver behavior. We propose SAGE, a strategy-aware framework that makes Modeling Strategy explici",
-    "url": "https://arxiv.org/abs/2605.02545",
+    "title": "PAMNet: Cycle-aware Phase-Amplitude Modulation Network for Multivariate Time Series Forecasting",
+    "summary": "arXiv:2605.02938v1 Announce Type: cross Abstract: Reliable periodic patterns serve as a fundamental basis for accurate multivariate time series forecasting. However, existing methods either implicitly extract periodicity through complex model architectures (e.g., Transformers) with high computational overhead or overlook the intrinsic phase-amplitu",
+    "url": "https://arxiv.org/abs/2605.02938",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "Separating Intelligence from Execution: A Workflow Engine for the Model Context Protocol",
-    "summary": "arXiv:2605.00827v1 Announce Type: cross Abstract: Large Language Model (LLM) agents increasingly interact with external systems through tool-calling protocols such as the Model Context Protocol (MCP). In prevailing architectures, the agent must reason about every tool invocation in every session, consuming tokens proportional to the number of actio",
-    "url": "https://arxiv.org/abs/2605.00827",
+    "title": "RouteHijack: Routing-Aware Attack on Mixture-of-Experts LLMs",
+    "summary": "arXiv:2605.02946v1 Announce Type: cross Abstract: Safety alignment is critical for the responsible deployment of large language models (LLMs). As Mixture-of-Experts (MoE) architectures are increasingly adopted to scale model capacity, understanding their safety robustness becomes essential. Existing adversarial attacks, however, have notable limita",
+    "url": "https://arxiv.org/abs/2605.02946",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "X2SAM: Any Segmentation in Images and Videos",
-    "summary": "arXiv:2605.00891v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated strong image-level visual understanding and reasoning, yet their pixel-level perception across both images and videos remains limited. Foundation segmentation models such as the SAM series produce high-quality masks, but they rely on low-lev",
-    "url": "https://arxiv.org/abs/2605.00891",
+    "title": "AutoRAGTuner: A Declarative Framework for Automatic Optimization of RAG Pipelines",
+    "summary": "arXiv:2605.02967v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) enhances LLMs, but performance is highly sensitive to complex architecture designs and hyper-parameter configurations, which currently rely on inefficient manual tuning. We present AutoRAGTuner, a declarative, configuration-driven framework that automates the RAG",
+    "url": "https://arxiv.org/abs/2605.02967",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "TRIP-Evaluate: An Open Multimodal Benchmark for Evaluating Large Models in Transportation",
-    "summary": "arXiv:2605.00907v1 Announce Type: cross Abstract: Large language models (LLMs) and multimodal large models (MLLMs) are increasingly used for transportation tasks such as regulation question answering, traffic management support, engineering review, and autonomous-driving scene reasoning. Yet transportation workflows are rule-intensive, computation-",
-    "url": "https://arxiv.org/abs/2605.00907",
+    "title": "Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology",
+    "summary": "arXiv:2605.03352v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated robust capabilities in recognizing everyday human activities, yet their potential for analyzing clinically significant involuntary movements in neurological disorders remains largely unexplored. This pilot study evaluates the capability of M",
+    "url": "https://arxiv.org/abs/2605.03352",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "CLEAR: Revealing How Noise and Ambiguity Degrade Reliability in LLMs for Medicine",
-    "summary": "arXiv:2605.01011v1 Announce Type: cross Abstract: Medical large language model (LLM) evaluations rely on simplified, exam-style benchmarks that rarely reflect the ambiguity of real-world medical inquiries. We introduce the CLinical Evaluation of Ambiguity and Reliability (CLEAR) framework, which assesses how decision-space presentation, ambiguity, ",
-    "url": "https://arxiv.org/abs/2605.01011",
+    "title": "Steer Like the LLM: Activation Steering that Mimics Prompting",
+    "summary": "arXiv:2605.03907v1 Announce Type: cross Abstract: Large language models can be steered at inference time through prompting or activation interventions, but activation steering methods often underperform compared to prompt-based approaches. We propose a framework that formulates prompt steering as a form of activation steering and investigates wheth",
+    "url": "https://arxiv.org/abs/2605.03907",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "EmoMM: Benchmarking and Steering MLLM for Multimodal Emotion Recognition under Conflict and Missingness",
-    "summary": "arXiv:2605.01024v1 Announce Type: cross Abstract: Multimodal Emotion Recognition (MER) is critical for interpreting real-world interactions. While Multimodal Large Language Models (MLLM) have shown promise in MER, their internal decision-making mechanisms under modality conflict and missingness remain largely underexplored. In this paper, to system",
-    "url": "https://arxiv.org/abs/2605.01024",
+    "title": "Agentic publications: redesigning scientific publishing in the age of thinking large language models",
+    "summary": "arXiv:2505.13246v2 Announce Type: replace Abstract: Purpose: This paper introduces the concept of \"Agentic Publication,\" a novel LLM-driven framework designed to complement traditional scientific publishing by transforming papers into interactive knowledge systems that address challenges created by exponential growth in scientific literature. Desig",
+    "url": "https://arxiv.org/abs/2505.13246",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "Component-Aware Self-Speculative Decoding in Hybrid Language Models",
-    "summary": "arXiv:2605.01106v1 Announce Type: cross Abstract: Speculative decoding accelerates autoregressive inference by drafting candidate tokens with a fast model and verifying them in parallel with the target. Self-speculative methods avoid the need for an external drafter but have been studied exclusively in homogeneous Transformer architectures. We intr",
-    "url": "https://arxiv.org/abs/2605.01106",
+    "title": "TCM-Serve: Modality-aware Scheduling for Multimodal Large Language Model Inference",
+    "summary": "arXiv:2603.26498v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) power platforms like ChatGPT, Gemini, and Copilot, enabling richer interactions with text, images, and videos. These heterogeneous workloads introduce additional inference stages, such as vision preprocessing and encoding, that inflate latency and mem",
+    "url": "https://arxiv.org/abs/2603.26498",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "CNN-based Multi-In-Multi-Out Model for Efficient Spatiotemporal Prediction",
-    "summary": "arXiv:2605.01277v1 Announce Type: cross Abstract: Recently, Convolutional Neural Network (CNN) or Transformer architecture based models have been proposed to overcome the limitations of Recurrent Neural Network (RNN) based models in spatiotemporal prediction. These models prevent the inefficiency of parallelization limitation due to the sequential ",
-    "url": "https://arxiv.org/abs/2605.01277",
+    "title": "SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference",
+    "summary": "arXiv:2604.21231v2 Announce Type: replace-cross Abstract: Efficient inference for on-device Large Language Models (LLMs) remains challenging due to limited hardware resources and the high cost of the prefill stage, which processes the full input context to construct Key-Value (KV) caches. We present SparKV, an adaptive KV loading framework that com",
+    "url": "https://arxiv.org/abs/2604.21231",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "AgriKD: Cross-Architecture Knowledge Distillation for Efficient Leaf Disease Classification",
-    "summary": "arXiv:2605.01355v1 Announce Type: cross Abstract: Automated leaf disease classification is critical for early disease detection in resource-constrained field environments. Vision Transformers (ViTs) provide strong representation capability by modeling long-range dependencies and inter-class relationships; however, their high computational cost make",
-    "url": "https://arxiv.org/abs/2605.01355",
+    "title": "From Mirage to Grounding: Towards Reliable Multimodal Circuit-to-Verilog Code Generation",
+    "summary": "arXiv:2604.27969v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) are increasingly used to translate visual artifacts into code, from UI mockups into HTML to scientific plots into Python scripts. A circuit diagram can be viewed as a visual domain-specific language for hardware: it encodes timing, topology, and bit l",
+    "url": "https://arxiv.org/abs/2604.27969",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
+    "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   },
   {
-    "title": "FT-RAG: A Fine-grained Retrieval-Augmented Generation Framework for Complex Table Reasoning",
-    "summary": "arXiv:2605.01495v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by grounding responses in external knowledge during inference. However, conventiona RAG systems under-perform on structured tabular data, largely due to coarse retrieval granularity and insufficient table semantic comprehensi",
-    "url": "https://arxiv.org/abs/2605.01495",
+    "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
+    "summary": "arXiv:2605.03034v1 Announce Type: new Abstract: Agentic systems involved in high-stake decision-making under adversarial pressure need formal guarantees not offered by existing approaches. Motivated by the operational needs of security operations centers (SOCs) that must configure endpoint detection and response (EDR) policies under adversarial pre",
+    "url": "https://arxiv.org/abs/2605.03034",
     "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
+    "published_at": "2026-05-07T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
+  },
+  {
+    "title": "Are you with me? A Framework for Detecting Mental Model Discrepancies in Task-Based Team Dialogues",
+    "summary": "arXiv:2605.03149v1 Announce Type: new Abstract: Humans typically use natural language to update teammates on task states. Since not all updates are communicated, discrepancies arise between the team members' mental models that negatively affect overall team performance. How can we categorize such discrepancies? Do misalignments detected in team dia",
+    "url": "https://arxiv.org/abs/2605.03149",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-07T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
+  },
+  {
+    "title": "Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?",
+    "summary": "arXiv:2605.03195v1 Announce Type: new Abstract: Modern coding agents increasingly delegate specialized subtasks to subagents, which are smaller, focused agentic loops that handle narrow responsibilities like search, debugging or terminal execution. This architectural pattern keeps the main agent's context window clean by isolating verbose outputs (",
+    "url": "https://arxiv.org/abs/2605.03195",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-07T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
+  },
+  {
+    "title": "ADAPTS: Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms",
+    "summary": "arXiv:2605.03212v2 Announce Type: new Abstract: Modeling latent clinical constructs from unconstrained clinical interactions is a unique challenge in affective computing. We present ADAPTS (Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms), a framework for automated rating of depression and anxiety severity using a mixture",
+    "url": "https://arxiv.org/abs/2605.03212",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-07T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   }
 ]

@@ -2,25 +2,25 @@
     "last_updated": "2024-05-27",
     "papers": [
         {
-            "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
-            "innovation": "A novel chatbot architecture for high-stakes medical contexts, employing Prioritized Evidence RAG (Retrieval-Augmented Generation) and verifiable citations to explicitly ground answers in official guidelines, effectively mitigating LLM hallucination.",
-            "benchmarks": "Improved accuracy and verifiability compared to standard LLMs by grounding responses in clinical guidelines and providing explicit citations, essential for high-stakes medical applications.",
-            "use_case": "Clinical decision support, medical information retrieval, building trustworthy and verifiable LLM applications in sensitive domains.",
-            "url": "https://arxiv.org/abs/2605.00846"
+            "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
+            "innovation": "Proposes a novel tool-mediated LLM architecture that provides formal guarantees for agentic systems operating in high-stakes, adversarial environments, particularly for autonomous cyber defense. This addresses a critical gap in existing approaches that lack robust formal assurances.",
+            "benchmarks": "Motivated by operational needs of Security Operations Centers (SOCs) for configuring Endpoint Detection and Response (EDR) policies under adversarial pressure, implying evaluation in realistic cyber defense scenarios.",
+            "use_case": "Deployment of autonomous agents in critical infrastructures (e.g., cyber defense), high-stakes decision-making where formal guarantees and robustness against adversarial attacks are paramount.",
+            "url": "https://arxiv.org/abs/2605.03034"
         },
         {
-            "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
-            "innovation": "Proposes a multi-agent system paradigm to overcome the inherent limitations of single-agent LLM-driven scientific workflows, specifically addressing context window accumulation, complex routing, and tool use for enhanced autonomous reasoning.",
-            "benchmarks": "Aims to significantly improve scalability, complexity handling, and overall reasoning capabilities compared to single-agent LLM systems by distributing tasks and managing context more effectively.",
-            "use_case": "Scientific discovery and simulation (e.g., hydrodynamics), complex problem-solving with LLMs, designing scalable and robust AI systems, mitigating LLM context window constraints in advanced applications.",
-            "url": "https://arxiv.org/abs/2605.01102"
+            "title": "Learning Correct Behavior from Examples: Validating Sequential Execution in Autonomous Agents",
+            "innovation": "Presents a novel algorithm for automatically learning and validating correct sequential behavior of autonomous agents from a small number of examples, addressing the challenges of manual specification, exact sequence matching, or large training datasets.",
+            "benchmarks": "The abstract highlights the limitations of 'traditional testing approaches' and the need to validate 'increasingly sophisticated' autonomous agents, suggesting benchmarks against common testing paradigms for sequential execution.",
+            "use_case": "Ensuring reliability and safety of autonomous agents through automated validation of their sequential execution, reducing the manual effort in testing and debugging complex agent behaviors, crucial for deployment in critical systems.",
+            "url": "https://arxiv.org/abs/2605.03159"
         },
         {
-            "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
-            "innovation": "Presents a machine-checked formalization (using Rocq 8.19) of governed AI workflow architectures, proving that effect-level governance can be imposed without sacrificing computational expressivity. This establishes foundational principles for verifiable AI system design.",
-            "benchmarks": "Formal proofs demonstrating semantic preservation, expressive minimality, and decidability boundaries for governed AI workflows, providing strong guarantees about system behavior and safety properties.",
-            "use_case": "Designing secure, auditable, and reliable AI workflow architectures, implementing AI governance in safety-critical systems, formal verification of AI system properties, ensuring compliance and transparency in AI deployment.",
-            "url": "https://arxiv.org/abs/2605.01030"
+            "title": "Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?",
+            "innovation": "Investigates the architectural pattern of delegating specialized subtasks within an agentic system to smaller, focused subagents (like Terminus-4B) to manage context window bloat and potentially improve efficiency/cost compared to relying solely on large frontier LLMs.",
+            "benchmarks": "Implies empirical comparison of performance of smaller models against frontier LLMs for specific 'agentic execution tasks' such as search, debugging, or terminal execution within a subagent loop.",
+            "use_case": "Optimizing resource utilization and cost in LLM-based agent systems, architecting efficient and scalable multi-agent systems, improving context window management for complex tasks, and deploying agents in resource-constrained environments.",
+            "url": "https://arxiv.org/abs/2605.03195"
         }
     ]
 }
