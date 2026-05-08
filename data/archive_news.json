@@ -1,5 +1,95 @@
 [
   {
+    "title": "Google Deepmind takes a stake in EVE Online studio to test AI models",
+    "summary": "Google Deepmind is acquiring a minority stake in the studio behind the space MMO EVE Online and will use the game as a testing ground for AI models. The article Google Deepmind takes a stake in EVE Online studio to test AI models appeared first on The Decoder.",
+    "url": "https://the-decoder.com/google-deepmind-takes-a-stake-in-eve-online-studio-to-test-ai-models/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T11:15:37+00:00",
+    "score": 7,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "Europe's answer to AI regulation complexity is to just delay most of it",
+    "summary": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudification\" apps are now explicitly banned. The labeling requirement for deepfakes and AI-generated text still takes effect in August 2026. The article Eur",
+    "url": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T17:36:39+00:00",
+    "score": 6,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization",
+    "summary": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees. The article AI translation company DeepL cuts around 250 jobs to rebuild as an &quot;AI-native&quot; organization appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T14:45:19+00:00",
+    "score": 6,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center",
+    "summary": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk. The article How Anthropic&#039;s 80x growth blew past its own infrastructure and straight into Musk&#039;s data center appeared first on The Decoder.",
+    "url": "https://the-decoder.com/how-anthropics-80x-growth-blew-past-its-own-infrastructure-and-straight-into-musks-data-center/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T14:09:49+00:00",
+    "score": 6,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "The US and China are considering formal talks on AI",
+    "summary": "The US and China are exploring official talks on artificial intelligence, the Wall Street Journal reports. The article The US and China are considering formal talks on AI appeared first on The Decoder.",
+    "url": "https://the-decoder.com/the-us-and-china-are-considering-formal-talks-on-ai/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T11:13:12+00:00",
+    "score": 6,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes",
+    "summary": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights. Along with Outcomes and Multiagent Orchestration, now both in public beta, the updates are designed to help AI agents learn and improve across sessions. The art",
+    "url": "https://the-decoder.com/claudes-new-dreaming-feature-is-designed-to-let-ai-agents-learn-from-their-mistakes/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T10:59:37+00:00",
+    "score": 6,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+    "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+    "source": "Wired AI",
+    "published_at": "2026-05-08T01:42:14+00:00",
+    "score": 5,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
+    "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+    "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+    "source": "Wired AI",
+    "published_at": "2026-05-07T16:25:48+00:00",
+    "score": 5,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+    "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
+    "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+    "source": "Wired AI",
+    "published_at": "2026-05-07T11:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+    "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+    "url": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
+    "source": "Wired AI",
+    "published_at": "2026-05-07T11:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
     "title": "Where Paths Split: Localized, Calibrated Control of Moral Reasoning in Large Language Models",
     "summary": "arXiv:2605.03609v1 Announce Type: new Abstract: Large language models often display heterogeneous moral preferences across settings. We study inference-time steering toward a desired ethical framework while preserving general competence. We present Convergent-Divergent Routing, which traces and edits minimal branch points inside transformer blocks ",
     "url": "https://arxiv.org/abs/2605.03609",
@@ -2608,95 +2698,5 @@
     "published_at": "2026-04-10T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "TeamLLM: A Human-Like Team-Oriented Collaboration Framework for Multi-Step Contextualized Tasks",
-    "summary": "arXiv:2604.06765v1 Announce Type: cross Abstract: Recently, multi-Large Language Model (LLM) frameworks have been proposed to solve contextualized tasks. However, these frameworks do not explicitly emulate human team role division, which may lead to a single perspective, thereby weakening performance on multi-step contextualized tasks. To address t",
-    "url": "https://arxiv.org/abs/2604.06765",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models",
-    "summary": "arXiv:2604.06912v1 Announce Type: cross Abstract: MLLMs require high-resolution visual inputs for fine-grained tasks like document understanding and dense scene perception. However, current global resolution scaling paradigms indiscriminately flood the quadratic self-attention mechanism with visually redundant tokens, severely bottlenecking inferen",
-    "url": "https://arxiv.org/abs/2604.06912",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "Commander-GPT: Dividing and Routing for Multimodal Sarcasm Detection",
-    "summary": "arXiv:2506.19420v2 Announce Type: replace Abstract: Multimodal sarcasm understanding is a high-order cognitive task. Although large language models (LLMs) have shown impressive performance on many downstream NLP tasks, growing evidence suggests that they struggle with sarcasm understanding. In this paper, we propose Commander-GPT, a modular decisio",
-    "url": "https://arxiv.org/abs/2506.19420",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding",
-    "summary": "arXiv:2507.22025v4 Announce Type: replace Abstract: The emergence of Multimodal Large Language Models (MLLMs) has driven significant advances in Graphical User Interface (GUI) agent capabilities. Nevertheless, existing GUI agent training and inference techniques still suffer from a dilemma for reasoning designs, ineffective reward, and visual noise",
-    "url": "https://arxiv.org/abs/2507.22025",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "FBS: Modeling Native Parallel Reading inside a Transformer",
-    "summary": "arXiv:2601.21708v2 Announce Type: replace Abstract: Large language models (LLMs) excel across many tasks, yet inference is still dominated by strictly token-by-token autoregression. Existing acceleration methods largely patch this pipeline and miss core human-reading ingredients: content-adaptive foresight, chunk-structure-aware compute allocation,",
-    "url": "https://arxiv.org/abs/2601.21708",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation",
-    "summary": "arXiv:2602.11635v2 Announce Type: replace Abstract: Multimodal large language models (MLLMs) have achieved strong performance on perception-oriented tasks, yet their ability to perform mathematical spatial reasoning, defined as the capacity to parse and manipulate two- and three-dimensional relations, remains unclear. Humans easily solve textbook-s",
-    "url": "https://arxiv.org/abs/2602.11635",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "ConfusionPrompt: Practical Private Inference for Online Large Language Models",
-    "summary": "arXiv:2401.00870v5 Announce Type: replace-cross Abstract: State-of-the-art large language models (LLMs) are typically deployed as online services, requiring users to transmit detailed prompts to cloud servers. This raises significant privacy concerns. In response, we introduce ConfusionPrompt, a novel framework for private LLM inference that protec",
-    "url": "https://arxiv.org/abs/2401.00870",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes",
-    "summary": "arXiv:2410.22177v2 Announce Type: replace-cross Abstract: As more applications of large language models (LLMs) for 3D content for immersive environments emerge, it is crucial to study user behaviour to identify interaction patterns and potential barriers to guide the future design of immersive content creation and editing systems which involve LLMs",
-    "url": "https://arxiv.org/abs/2410.22177",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "MolDA: Molecular Understanding and Generation via Large Language Diffusion Model",
-    "summary": "arXiv:2604.04403v2 Announce Type: replace Abstract: Large Language Models (LLMs) have significantly advanced molecular discovery, but existing multimodal molecular architectures fundamentally rely on autoregressive (AR) backbones. This strict left-to-right inductive bias is sub-optimal for generating chemically valid molecules, as it struggles to a",
-    "url": "https://arxiv.org/abs/2604.04403",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-08T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-04-09T03:39:03.730854+00:00"
-  },
-  {
-    "title": "Reveal-to-Revise: Explainable Bias-Aware Generative Modeling with Multimodal Attention",
-    "summary": "arXiv:2510.12957v3 Announce Type: replace-cross Abstract: We present an explainable, bias-aware generative framework that unifies cross-modal attention fusion, Grad-CAM++ attribution, and a Reveal-to-Revise feedback loop within a single training paradigm. The architecture couples a conditional attention WGAN GP with bias regularization and iterativ",
-    "url": "https://arxiv.org/abs/2510.12957",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-08T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-04-09T03:39:03.730854+00:00"
   }
 ]

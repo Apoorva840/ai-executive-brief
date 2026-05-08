@@ -1,52 +1,45 @@
 [
   {
-    "title": "Elon Musk\u2019s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-    "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
-    "url": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+    "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+    "summary": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
     "source": "Wired AI",
-    "published_at": "2026-05-06T23:23:45+00:00"
+    "published_at": "2026-05-08T01:42:14+00:00"
   },
   {
-    "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-    "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk\u2019s xAI.",
-    "url": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+    "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+    "summary": "Today on Uncanny Valley, we\u2019re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
     "source": "Wired AI",
-    "published_at": "2026-05-06T18:28:52+00:00"
+    "published_at": "2026-05-07T21:37:20+00:00"
   },
   {
-    "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-    "summary": "New research suggests that reliance on AI assistants can have a negative impact on people\u2019s ability to think and problem solve.",
-    "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+    "title": "How to Disable Google's Gemini in Chrome",
+    "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+    "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
     "source": "Wired AI",
-    "published_at": "2026-05-06T18:00:00+00:00"
+    "published_at": "2026-05-07T20:31:57+00:00"
   },
   {
-    "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
-    "summary": "Anthropic announced \u201cdreaming\u201d for AI agents to sort through \u201cmemories\u201d at its developer conference. Can we not?",
-    "url": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+    "title": "ChatGPT Has \u2018Goblin\u2019 Mania in the US. In China It Will \u2018Catch You Steadily\u2019",
+    "summary": "OpenAI\u2019s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+    "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
     "source": "Wired AI",
-    "published_at": "2026-05-06T16:51:12+00:00"
+    "published_at": "2026-05-07T16:25:48+00:00"
   },
   {
-    "title": "Hackers Hate AI Slop Even More Than You Do",
-    "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about \u201cAI shit\u201d flooding platforms where they discuss cyberattacks and other illegal activity.",
-    "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+    "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+    "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds\u2014and in thousands of cases, spill highly sensitive data onto the public internet.",
+    "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
     "source": "Wired AI",
-    "published_at": "2026-05-06T15:49:12+00:00"
+    "published_at": "2026-05-07T11:00:00+00:00"
   },
   {
-    "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri\u2019s AI Features",
-    "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
-    "url": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+    "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+    "summary": "When Stick Figure\u2019s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+    "url": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
     "source": "Wired AI",
-    "published_at": "2026-05-06T10:41:37+00:00"
-  },
-  {
-    "title": "Hasan Piker, Self-Described \u2018Ayatollah of Woke,\u2019 Wants AI to Die",
-    "summary": "The far-left Twitch streamer says AI is rotting our brains. He\u2019s also addicted to Twitter and listens to at least eight podcasts.",
-    "url": "https://www.wired.com/story/hasan-piker-user-behavior/",
-    "source": "Wired AI",
-    "published_at": "2026-05-06T10:00:00+00:00"
+    "published_at": "2026-05-07T11:00:00+00:00"
   },
   {
     "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
@@ -2002,80 +1995,66 @@
     "published_at": "2026-05-07T04:00:00+00:00"
   },
   {
-    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-05-06T19:06:55+00:00"
-  },
-  {
-    "title": "OpenAI built a networking protocol with AMD, Broadcom, Intel, Microsoft, and NVIDIA to fix AI supercomputer bottlenecks",
-    "summary": "OpenAI has teamed up with AMD, Broadcom, Intel, Microsoft, and NVIDIA to develop MRC, an open source network protocol that sends data across hundreds of paths simultaneously between GPUs. Instead of three or four switch layers, MRC needs only two to connect over 100,000 GPUs, cutting both power and costs. The protocol is already running on OpenAI's",
-    "url": "https://the-decoder.com/openai-built-a-networking-protocol-with-amd-broadcom-intel-microsoft-and-nvidia-to-fix-ai-supercomputer-bottlenecks/",
+    "title": "OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations",
+    "summary": "OpenAI is shipping three new voice models\u2014GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper\u2014that can reason in real time, translate across 70+ languages, and transcribe live speech. GPT-Realtime-2 brings reasoning that OpenAI says matches GPT-5. The article OpenAI&#039;s new voice model brings GPT-5-level reasoning to real-time conve",
+    "url": "https://the-decoder.com/openais-new-voice-model-brings-gpt-5-level-reasoning-to-real-time-conversations/",
     "source": "The Decoder",
-    "published_at": "2026-05-06T19:13:21+00:00"
+    "published_at": "2026-05-07T18:44:08+00:00"
   },
   {
-    "title": "Anthropic taps SpaceX's Colossus-1 data center for 220,000 GPUs to power Claude",
-    "summary": "Anthropic is taking over the full computing capacity of SpaceX's Colossus 1 data center, more than 300 megawatts and over 220,000 NVIDIA GPUs, expected to come online within a month. The company is also doubling rate limits for Claude Code and significantly raising API limits for Opus models. The article Anthropic taps SpaceX&#039;s Colossus-1 data",
-    "url": "https://the-decoder.com/anthropic-taps-spacexs-colossus-1-data-center-for-220000-gpus-to-power-claude/",
+    "title": "Europe's answer to AI regulation complexity is to just delay most of it",
+    "summary": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudification\" apps are now explicitly banned. The labeling requirement for deepfakes and AI-generated text still takes effect in August 2026. The article Eur",
+    "url": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
     "source": "The Decoder",
-    "published_at": "2026-05-06T18:42:24+00:00"
+    "published_at": "2026-05-07T17:36:39+00:00"
   },
   {
-    "title": "Google speeds up Gemma 4 threefold with multi-token prediction",
-    "summary": "Google has released multi-token prediction drafters for its Gemma 4 open model family that speed up text generation by up to three times. A small auxiliary model suggests several tokens at once while the main model checks them in a single pass. The article Google speeds up Gemma 4 threefold with multi-token prediction appeared first on The Decoder.",
-    "url": "https://the-decoder.com/google-speeds-up-gemma-4-threefold-with-multi-token-prediction/",
+    "title": "AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization",
+    "summary": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees. The article AI translation company DeepL cuts around 250 jobs to rebuild as an &quot;AI-native&quot; organization appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/",
     "source": "The Decoder",
-    "published_at": "2026-05-06T16:05:28+00:00"
+    "published_at": "2026-05-07T14:45:19+00:00"
   },
   {
-    "title": "ChatGPT ads are now open to small businesses as OpenAI builds a full self-serve ad platform",
-    "summary": "Advertisers in the US can now book ads in ChatGPT on their own. The $50,000 minimum budget is gone. OpenAI is targeting $2.5 billion in ad revenue this year. The article ChatGPT ads are now open to small businesses as OpenAI builds a full self-serve ad platform appeared first on The Decoder.",
-    "url": "https://the-decoder.com/chatgpt-ads-are-now-open-to-small-businesses-as-openai-builds-a-full-self-serve-ad-platform/",
+    "title": "How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center",
+    "summary": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk. The article How Anthropic&#039;s 80x growth blew past its own infrastructure and straight into Musk&#039;s data center appeared first on The Decoder.",
+    "url": "https://the-decoder.com/how-anthropics-80x-growth-blew-past-its-own-infrastructure-and-straight-into-musks-data-center/",
     "source": "The Decoder",
-    "published_at": "2026-05-06T13:28:38+00:00"
+    "published_at": "2026-05-07T14:09:49+00:00"
   },
   {
-    "title": "Deepseek nears $45 billion valuation as China's state chip fund leads round",
-    "summary": "Deepseek is close to a funding round that could value the Chinese AI lab at roughly $45 billion, according to the Financial Times. The article Deepseek nears $45 billion valuation as China&#039;s state chip fund leads round appeared first on The Decoder.",
-    "url": "https://the-decoder.com/deepseek-nears-45-billion-valuation-as-chinas-state-chip-fund-leads-round/",
+    "title": "AI models follow their values better when they first learn why those values matter",
+    "summary": "A study from the Anthropic Fellows Program shows that training a language model on texts explaining its intended values before teaching it specific behaviors leads to significantly better adherence to those values, even in situations never encountered during training. The article AI models follow their values better when they first learn why those ",
+    "url": "https://the-decoder.com/ai-models-follow-their-values-better-when-they-first-learn-why-those-values-matter/",
     "source": "The Decoder",
-    "published_at": "2026-05-06T13:22:12+00:00"
+    "published_at": "2026-05-07T12:45:25+00:00"
   },
   {
-    "title": "Google and Meta race to build personal AI agents as Anthropic and OpenAI pull further ahead",
-    "summary": "Google and Meta are both internally testing personal AI agents - codenamed \"Remy\" and \"Hatch\" - designed to handle everyday tasks on their own, a direct response to the lead built by Anthropic and OpenAI. Google shut down its browser agent project Mariner to focus on the effort. The market is shifting away from browser agents toward integrated assi",
-    "url": "https://the-decoder.com/google-and-meta-race-to-build-personal-ai-agents-as-anthropic-and-openai-pull-further-ahead/",
+    "title": "Google Deepmind takes a stake in EVE Online studio to test AI models",
+    "summary": "Google Deepmind is acquiring a minority stake in the studio behind the space MMO EVE Online and will use the game as a testing ground for AI models. The article Google Deepmind takes a stake in EVE Online studio to test AI models appeared first on The Decoder.",
+    "url": "https://the-decoder.com/google-deepmind-takes-a-stake-in-eve-online-studio-to-test-ai-models/",
     "source": "The Decoder",
-    "published_at": "2026-05-06T12:53:38+00:00"
+    "published_at": "2026-05-07T11:15:37+00:00"
   },
   {
-    "title": "Anthropic commits $200 billion to Google Cloud over five years",
-    "summary": "According to a report by The Information, Anthropic has committed to spending roughly $200 billion on Google Cloud over the next five years - more than 40 percent of Google's entire cloud backlog. Together with OpenAI, the two money-losing startups account for roughly half of the $2 trillion in committed cloud revenue at Amazon, Microsoft, Google, ",
-    "url": "https://the-decoder.com/anthropic-commits-200-billion-to-google-cloud-over-five-years/",
+    "title": "The US and China are considering formal talks on AI",
+    "summary": "The US and China are exploring official talks on artificial intelligence, the Wall Street Journal reports. The article The US and China are considering formal talks on AI appeared first on The Decoder.",
+    "url": "https://the-decoder.com/the-us-and-china-are-considering-formal-talks-on-ai/",
     "source": "The Decoder",
-    "published_at": "2026-05-06T12:45:12+00:00"
+    "published_at": "2026-05-07T11:13:12+00:00"
   },
   {
-    "title": "HP and the art of AI and data for the enterprise",
-    "summary": "Ahead of the AI &#38; Big Data Expo at the San Jose McEnery Convention Center, May 18-19, we spoke to Jerome Gabryszewski, the company&#8217;s AI &#38; Data Science Business Development Manager about AI, processing data for AI ingestion, and local versus cloud compute. The technology media is fond of quoting that data is &#8216;the new [&#8230;] Th",
-    "url": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+    "title": "Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes",
+    "summary": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights. Along with Outcomes and Multiagent Orchestration, now both in public beta, the updates are designed to help AI agents learn and improve across sessions. The art",
+    "url": "https://the-decoder.com/claudes-new-dreaming-feature-is-designed-to-let-ai-agents-learn-from-their-mistakes/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T10:59:37+00:00"
+  },
+  {
+    "title": "AI helping ease the UK\u2019s NHS burden",
+    "summary": "The words &#8220;pressure&#8221; and &#8220;NHS&#8221; go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon. As NHS England continues the struggle to reduce its 7.25 million waiting list, new policies are being introduced to move care away from hospitals and [&#8230;] The po",
+    "url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
     "source": "AI News",
-    "published_at": "2026-05-06T15:14:00+00:00"
-  },
-  {
-    "title": "US government increases AI suppliers and rethinks Anthropic\u2019s role",
-    "summary": "The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on classified operations. The companies join OpenAI, xAI, and Google as companie",
-    "url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-    "source": "AI News",
-    "published_at": "2026-05-06T12:23:00+00:00"
-  },
-  {
-    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
-    "summary": "Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in work and daily tasks. Remy is being tested in a staff-only version of the Gemini app. The report said it reviewed an internal document and spoke with two people familiar [&#8230;] The post Google tests Remy AI",
-    "url": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
-    "source": "AI News",
-    "published_at": "2026-05-06T10:00:00+00:00"
+    "published_at": "2026-05-07T09:35:00+00:00"
   }
 ]

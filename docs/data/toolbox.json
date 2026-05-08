@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 05, 2026",
+    "last_updated": "May 08, 2026",
     "tools": [
         {
-            "Name": "Rapid-MLX",
-            "Category": "Local AI Engine",
-            "Description": "A high-performance local AI engine for Apple Silicon devices, optimized for speed and tool-calling capabilities.",
-            "Use_Case": "Running local AI models with OpenAI-compatible API support for agents like Cursor, Claude Code, and Aider.",
-            "URL": "https://github.com/raullenchai/Rapid-MLX"
-        },
-        {
-            "Name": "PraisonAI",
-            "Category": "AI Agent Framework",
-            "Description": "A multi-agent framework that facilitates the creation of autonomous, self-improving AI workforces with support for memory, RAG, and over 100 LLMs.",
-            "Use_Case": "Deploying complex multi-agent workflows for research, planning, coding, and task automation.",
-            "URL": "https://github.com/MervinPraison/PraisonAI"
-        },
-        {
-            "Name": "Local Deep Research (LDR)",
-            "Category": "Research Assistant",
-            "Description": "An AI-powered research assistant designed to perform autonomous, deep research using local or cloud LLMs with private and encrypted data storage.",
-            "Use_Case": "Conducting private, agentic research across the web and private document libraries while maintaining data security.",
+            "Name": "Local Deep Research",
+            "Category": "AI Research Assistant",
+            "Description": "An AI-powered research assistant that performs deep, agentic research using multiple LLMs and search engines with proper citations.",
+            "Use_Case": "Automating complex research tasks, synthesizing reports from web and local documents, and building a searchable knowledge base.",
             "URL": "https://github.com/LearningCircuit/local-deep-research"
+        },
+        {
+            "Name": "Claude for Financial Services",
+            "Category": "Financial Agent Framework",
+            "Description": "A collection of reference agents, skills, and data connectors for financial workflows like investment banking and equity research.",
+            "Use_Case": "Automating financial workflows such as pitch deck creation, model building, GL reconciliation, and KYC screening.",
+            "URL": "https://github.com/anthropics/financial-services"
+        },
+        {
+            "Name": "PageIndex",
+            "Category": "RAG / Document Intelligence",
+            "Description": "A vectorless, reasoning-based RAG system that uses hierarchical tree indexing to simulate human-like retrieval.",
+            "Use_Case": "Retrieving highly relevant context from long, complex professional documents without the limitations of traditional vector embeddings.",
+            "URL": "https://github.com/VectifyAI/PageIndex"
         }
     ]
 }

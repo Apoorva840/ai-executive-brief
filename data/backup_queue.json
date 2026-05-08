@@ -1,137 +1,92 @@
 [
   {
-    "title": "Where Paths Split: Localized, Calibrated Control of Moral Reasoning in Large Language Models",
-    "summary": "arXiv:2605.03609v1 Announce Type: new Abstract: Large language models often display heterogeneous moral preferences across settings. We study inference-time steering toward a desired ethical framework while preserving general competence. We present Convergent-Divergent Routing, which traces and edits minimal branch points inside transformer blocks ",
-    "url": "https://arxiv.org/abs/2605.03609",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
+    "title": "Google Deepmind takes a stake in EVE Online studio to test AI models",
+    "summary": "Google Deepmind is acquiring a minority stake in the studio behind the space MMO EVE Online and will use the game as a testing ground for AI models. The article Google Deepmind takes a stake in EVE Online studio to test AI models appeared first on The Decoder.",
+    "url": "https://the-decoder.com/google-deepmind-takes-a-stake-in-eve-online-studio-to-test-ai-models/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T11:15:37+00:00",
     "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
   },
   {
-    "title": "ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting",
-    "summary": "arXiv:2605.03804v1 Announce Type: new Abstract: Long-term personalized memory for LLM agents is challenging on resource-limited edge devices due to high storage costs and multimodal complexity. To address this, we propose ScrapMem, a framework that integrates multimodal data into \"Scrapbook Page.\" ScrapMem introduces Optical Forgetting, an optical ",
-    "url": "https://arxiv.org/abs/2605.03804",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "PAMNet: Cycle-aware Phase-Amplitude Modulation Network for Multivariate Time Series Forecasting",
-    "summary": "arXiv:2605.02938v1 Announce Type: cross Abstract: Reliable periodic patterns serve as a fundamental basis for accurate multivariate time series forecasting. However, existing methods either implicitly extract periodicity through complex model architectures (e.g., Transformers) with high computational overhead or overlook the intrinsic phase-amplitu",
-    "url": "https://arxiv.org/abs/2605.02938",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "RouteHijack: Routing-Aware Attack on Mixture-of-Experts LLMs",
-    "summary": "arXiv:2605.02946v1 Announce Type: cross Abstract: Safety alignment is critical for the responsible deployment of large language models (LLMs). As Mixture-of-Experts (MoE) architectures are increasingly adopted to scale model capacity, understanding their safety robustness becomes essential. Existing adversarial attacks, however, have notable limita",
-    "url": "https://arxiv.org/abs/2605.02946",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "AutoRAGTuner: A Declarative Framework for Automatic Optimization of RAG Pipelines",
-    "summary": "arXiv:2605.02967v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) enhances LLMs, but performance is highly sensitive to complex architecture designs and hyper-parameter configurations, which currently rely on inefficient manual tuning. We present AutoRAGTuner, a declarative, configuration-driven framework that automates the RAG",
-    "url": "https://arxiv.org/abs/2605.02967",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology",
-    "summary": "arXiv:2605.03352v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated robust capabilities in recognizing everyday human activities, yet their potential for analyzing clinically significant involuntary movements in neurological disorders remains largely unexplored. This pilot study evaluates the capability of M",
-    "url": "https://arxiv.org/abs/2605.03352",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Steer Like the LLM: Activation Steering that Mimics Prompting",
-    "summary": "arXiv:2605.03907v1 Announce Type: cross Abstract: Large language models can be steered at inference time through prompting or activation interventions, but activation steering methods often underperform compared to prompt-based approaches. We propose a framework that formulates prompt steering as a form of activation steering and investigates wheth",
-    "url": "https://arxiv.org/abs/2605.03907",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Agentic publications: redesigning scientific publishing in the age of thinking large language models",
-    "summary": "arXiv:2505.13246v2 Announce Type: replace Abstract: Purpose: This paper introduces the concept of \"Agentic Publication,\" a novel LLM-driven framework designed to complement traditional scientific publishing by transforming papers into interactive knowledge systems that address challenges created by exponential growth in scientific literature. Desig",
-    "url": "https://arxiv.org/abs/2505.13246",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "TCM-Serve: Modality-aware Scheduling for Multimodal Large Language Model Inference",
-    "summary": "arXiv:2603.26498v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) power platforms like ChatGPT, Gemini, and Copilot, enabling richer interactions with text, images, and videos. These heterogeneous workloads introduce additional inference stages, such as vision preprocessing and encoding, that inflate latency and mem",
-    "url": "https://arxiv.org/abs/2603.26498",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference",
-    "summary": "arXiv:2604.21231v2 Announce Type: replace-cross Abstract: Efficient inference for on-device Large Language Models (LLMs) remains challenging due to limited hardware resources and the high cost of the prefill stage, which processes the full input context to construct Key-Value (KV) caches. We present SparKV, an adaptive KV loading framework that com",
-    "url": "https://arxiv.org/abs/2604.21231",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "From Mirage to Grounding: Towards Reliable Multimodal Circuit-to-Verilog Code Generation",
-    "summary": "arXiv:2604.27969v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) are increasingly used to translate visual artifacts into code, from UI mockups into HTML to scientific plots into Python scripts. A circuit diagram can be viewed as a visual domain-specific language for hardware: it encodes timing, topology, and bit l",
-    "url": "https://arxiv.org/abs/2604.27969",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
-    "summary": "arXiv:2605.03034v1 Announce Type: new Abstract: Agentic systems involved in high-stake decision-making under adversarial pressure need formal guarantees not offered by existing approaches. Motivated by the operational needs of security operations centers (SOCs) that must configure endpoint detection and response (EDR) policies under adversarial pre",
-    "url": "https://arxiv.org/abs/2605.03034",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
+    "title": "Europe's answer to AI regulation complexity is to just delay most of it",
+    "summary": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudification\" apps are now explicitly banned. The labeling requirement for deepfakes and AI-generated text still takes effect in August 2026. The article Eur",
+    "url": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T17:36:39+00:00",
     "score": 6,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
   },
   {
-    "title": "Are you with me? A Framework for Detecting Mental Model Discrepancies in Task-Based Team Dialogues",
-    "summary": "arXiv:2605.03149v1 Announce Type: new Abstract: Humans typically use natural language to update teammates on task states. Since not all updates are communicated, discrepancies arise between the team members' mental models that negatively affect overall team performance. How can we categorize such discrepancies? Do misalignments detected in team dia",
-    "url": "https://arxiv.org/abs/2605.03149",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
+    "title": "AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization",
+    "summary": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees. The article AI translation company DeepL cuts around 250 jobs to rebuild as an &quot;AI-native&quot; organization appeared first on The Decoder.",
+    "url": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T14:45:19+00:00",
     "score": 6,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
   },
   {
-    "title": "Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?",
-    "summary": "arXiv:2605.03195v1 Announce Type: new Abstract: Modern coding agents increasingly delegate specialized subtasks to subagents, which are smaller, focused agentic loops that handle narrow responsibilities like search, debugging or terminal execution. This architectural pattern keeps the main agent's context window clean by isolating verbose outputs (",
-    "url": "https://arxiv.org/abs/2605.03195",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
+    "title": "How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center",
+    "summary": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk. The article How Anthropic&#039;s 80x growth blew past its own infrastructure and straight into Musk&#039;s data center appeared first on The Decoder.",
+    "url": "https://the-decoder.com/how-anthropics-80x-growth-blew-past-its-own-infrastructure-and-straight-into-musks-data-center/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T14:09:49+00:00",
     "score": 6,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
   },
   {
-    "title": "ADAPTS: Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms",
-    "summary": "arXiv:2605.03212v2 Announce Type: new Abstract: Modeling latent clinical constructs from unconstrained clinical interactions is a unique challenge in affective computing. We present ADAPTS (Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms), a framework for automated rating of depression and anxiety severity using a mixture",
-    "url": "https://arxiv.org/abs/2605.03212",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
+    "title": "The US and China are considering formal talks on AI",
+    "summary": "The US and China are exploring official talks on artificial intelligence, the Wall Street Journal reports. The article The US and China are considering formal talks on AI appeared first on The Decoder.",
+    "url": "https://the-decoder.com/the-us-and-china-are-considering-formal-talks-on-ai/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T11:13:12+00:00",
     "score": 6,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes",
+    "summary": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights. Along with Outcomes and Multiagent Orchestration, now both in public beta, the updates are designed to help AI agents learn and improve across sessions. The art",
+    "url": "https://the-decoder.com/claudes-new-dreaming-feature-is-designed-to-let-ai-agents-learn-from-their-mistakes/",
+    "source": "The Decoder",
+    "published_at": "2026-05-07T10:59:37+00:00",
+    "score": 6,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+    "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+    "source": "Wired AI",
+    "published_at": "2026-05-08T01:42:14+00:00",
+    "score": 5,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
+    "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+    "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+    "source": "Wired AI",
+    "published_at": "2026-05-07T16:25:48+00:00",
+    "score": 5,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+    "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
+    "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+    "source": "Wired AI",
+    "published_at": "2026-05-07T11:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+  },
+  {
+    "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+    "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+    "url": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
+    "source": "Wired AI",
+    "published_at": "2026-05-07T11:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-08T04:03:16.090792+00:00"
   }
 ]

@@ -1,42 +1,42 @@
 [
   {
-    "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
-    "summary": "arXiv:2605.03042v1 Announce Type: cross Abstract: This report describes ARIS (Auto-Research-in-sleep), an open-source research harness for autonomous research, including its architecture, assurance mechanisms, and early deployment experience. The performance of agent systems built on LLMs depends on both the model weights and the harness around the",
-    "url": "https://arxiv.org/abs/2605.03042",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-05-06T19:06:55+00:00",
-    "score": 8
-  },
-  {
-    "title": "Anthropic taps SpaceX's Colossus-1 data center for 220,000 GPUs to power Claude",
-    "summary": "Anthropic is taking over the full computing capacity of SpaceX's Colossus 1 data center, more than 300 megawatts and over 220,000 NVIDIA GPUs, expected to come online within a month. The company is also doubling rate limits for Claude Code and significantly raising API limits for Opus models. The article Anthropic taps SpaceX&#039;s Colossus-1 data",
-    "url": "https://the-decoder.com/anthropic-taps-spacexs-colossus-1-data-center-for-220000-gpus-to-power-claude/",
+    "title": "OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations",
+    "summary": "OpenAI is shipping three new voice models—GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper—that can reason in real time, translate across 70+ languages, and transcribe live speech. GPT-Realtime-2 brings reasoning that OpenAI says matches GPT-5. The article OpenAI&#039;s new voice model brings GPT-5-level reasoning to real-time conve",
+    "url": "https://the-decoder.com/openais-new-voice-model-brings-gpt-5-level-reasoning-to-real-time-conversations/",
     "source": "The Decoder",
-    "published_at": "2026-05-06T18:42:24+00:00",
+    "published_at": "2026-05-07T18:44:08+00:00",
     "score": 7
   },
   {
-    "title": "Google speeds up Gemma 4 threefold with multi-token prediction",
-    "summary": "Google has released multi-token prediction drafters for its Gemma 4 open model family that speed up text generation by up to three times. A small auxiliary model suggests several tokens at once while the main model checks them in a single pass. The article Google speeds up Gemma 4 threefold with multi-token prediction appeared first on The Decoder.",
-    "url": "https://the-decoder.com/google-speeds-up-gemma-4-threefold-with-multi-token-prediction/",
+    "title": "AI models follow their values better when they first learn why those values matter",
+    "summary": "A study from the Anthropic Fellows Program shows that training a language model on texts explaining its intended values before teaching it specific behaviors leads to significantly better adherence to those values, even in situations never encountered during training. The article AI models follow their values better when they first learn why those ",
+    "url": "https://the-decoder.com/ai-models-follow-their-values-better-when-they-first-learn-why-those-values-matter/",
     "source": "The Decoder",
-    "published_at": "2026-05-06T16:05:28+00:00",
+    "published_at": "2026-05-07T12:45:25+00:00",
     "score": 7
   },
   {
-    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
-    "summary": "The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on classified operations. The companies join OpenAI, xAI, and Google as companie",
-    "url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-    "source": "AI News",
-    "published_at": "2026-05-06T12:23:00+00:00",
+    "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+    "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+    "source": "Wired AI",
+    "published_at": "2026-05-07T21:37:20+00:00",
     "score": 6
+  },
+  {
+    "title": "How to Disable Google's Gemini in Chrome",
+    "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+    "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+    "source": "Wired AI",
+    "published_at": "2026-05-07T20:31:57+00:00",
+    "score": 6
+  },
+  {
+    "title": "AI helping ease the UK’s NHS burden",
+    "summary": "The words &#8220;pressure&#8221; and &#8220;NHS&#8221; go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon. As NHS England continues the struggle to reduce its 7.25 million waiting list, new policies are being introduced to move care away from hospitals and [&#8230;] The po",
+    "url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+    "source": "AI News",
+    "published_at": "2026-05-07T09:35:00+00:00",
+    "score": 5
   }
 ]

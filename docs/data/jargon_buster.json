@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 07, 2026",
+    "last_updated": "May 08, 2026",
     "is_weekly_active": true,
     "terms": [
         {
             "term": "Stable Agentic Control",
-            "definition": "A framework that integrates formal control theory with LLM-based agents to provide mathematical guarantees for autonomous behavior in high-stakes environments. It ensures that even when an agent encounters adversarial pressure or unexpected data, its actions remain within predefined safety and operational boundaries.",
-            "analogy": "It is like an Electronic Stability Control (ESC) system in a high-performance car; while the driver (or AI) handles the steering, the system monitors wheel sensors to automatically apply brakes and prevent the vehicle from spinning out of control during a sharp turn.",
-            "business_value": "Shifts AI from 'best-effort' experimental pilots to 'mission-critical' deployments by mitigating the liability of unpredictable autonomous decisions in cybersecurity, finance, and industrial operations."
+            "definition": "A specialized AI architecture that transitions Large Language Models (LLMs) from passive advisors to autonomous agents with formal safety guarantees. It utilizes tool-mediated frameworks to ensure that AI-driven actions, particularly in high-stakes environments like cybersecurity, adhere to strict operational bounds even when facing adversarial attacks.",
+            "analogy": "Think of it like a high-end autonomous driving system equipped with a 'hard-coded' safety governor; even if the AI driver decides the fastest route is through a park, the physical governor prevents the car from leaving the paved road or exceeding safe speed limits.",
+            "business_value": "This enables 'Autonomous SOCs' (Security Operations Centers). By moving from human-in-the-loop to human-on-the-loop, organizations can respond to cyber threats at machine speed with mathematical certainty that the AI won't accidentally shut down critical business infrastructure during a defense maneuver."
         },
         {
             "term": "Affordance-Based Tool Repurposing",
-            "definition": "The ability of an AI agent to identify latent physical or functional properties of an object\u2014beyond its primary intended use\u2014to solve a novel problem. This involves mapping abstract goals to the physical characteristics of available tools, such as using a heavy paperweight as a hammer when a traditional hammer is missing.",
-            "analogy": "Imagine a chef who discovers the kitchen's immersion blender is broken and creatively uses a cordless power drill with a whisk attachment to finish the sauce; the agent identifies the 'rotation' affordance of the drill to meet the 'mixing' goal.",
-            "business_value": "Enables extreme operational agility; systems with this capability can troubleshoot supply chain or hardware failures by finding creative workarounds with existing inventory, drastically reducing downtime when specific resources are unavailable."
+            "definition": "The technical capability of an AI model to identify the latent properties of an object or software tool to solve a problem outside of that tool's primary design. This requires 'creative reasoning' where the AI understands the physical or functional essence (affordances) of a tool rather than just following its instruction manual.",
+            "analogy": "In a kitchen, this is the difference between a cook who only uses a rolling pin to flatten dough, and a chef who realizes a heavy wine bottle has the same weight and shape 'affordances' to do the job when the rolling pin is missing.",
+            "business_value": "This represents the 'Reasoning' frontier of AI. For the enterprise, it means moving beyond rigid automation to systems that can creatively troubleshoot supply chain or logistical bottlenecks by repurposing existing software assets in ways your IT department never originally envisioned."
         },
         {
-            "term": "Symbolic Regression",
-            "definition": "A machine learning technique that identifies the underlying mathematical equations\u2014rather than just numerical patterns\u2014that best describe a given dataset. Unlike 'black-box' neural networks, it produces human-readable formulas that offer transparent insights into the physical or economic laws governing a system's behavior.",
-            "analogy": "Instead of a car's GPS just telling you that you will arrive in 20 minutes (prediction), symbolic regression provides you with the exact physics formula including speed, wind resistance, and fuel consumption that explains why it takes 20 minutes (explanation).",
-            "business_value": "Transforms data into intellectual property; by uncovering the literal 'laws' of your market or manufacturing process, you gain transparent, auditable models that are easier to defend to regulators and more robust for long-term strategic forecasting."
+            "term": "Vibe-Coding (Data Leakage Risks)",
+            "definition": "A trend where natural language descriptions ('vibes') are used to instantly generate and deploy full-stack applications via AI platforms like Replit or Lovable. Because this process often bypasses traditional code reviews and security protocols, it frequently results in 'leaky' apps that inadvertently expose sensitive API keys and corporate data to the public internet.",
+            "analogy": "It is like having an ultra-fast IKEA robot that builds a house in ten minutes based on a verbal sketch; the house looks beautiful and is ready to move in immediately, but the robot might have forgotten to put locks on the back door or insulate the wiring because you didn't specifically mention 'security.'",
+            "business_value": "While vibe-coding slashes the cost of rapid prototyping to near zero, it creates a massive 'Shadow IT' liability. CEOs must implement 'AI Guardrails' to ensure that the speed of AI-assisted development doesn't result in a catastrophic data breach that negates all productivity gains."
         }
     ]
 }
