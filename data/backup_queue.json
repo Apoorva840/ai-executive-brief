@@ -1,92 +1,74 @@
 [
   {
-    "title": "Google Deepmind takes a stake in EVE Online studio to test AI models",
-    "summary": "Google Deepmind is acquiring a minority stake in the studio behind the space MMO EVE Online and will use the game as a testing ground for AI models. The article Google Deepmind takes a stake in EVE Online studio to test AI models appeared first on The Decoder.",
-    "url": "https://the-decoder.com/google-deepmind-takes-a-stake-in-eve-online-studio-to-test-ai-models/",
+    "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
+    "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researcher Jerry Tworek just six weeks ago, is already targeting a $4 billion valuation. The article AI money keeps flowing as Deepseek plans record raise an",
+    "url": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/",
     "source": "The Decoder",
-    "published_at": "2026-05-07T11:15:37+00:00",
-    "score": 7,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "Europe's answer to AI regulation complexity is to just delay most of it",
-    "summary": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudification\" apps are now explicitly banned. The labeling requirement for deepfakes and AI-generated text still takes effect in August 2026. The article Eur",
-    "url": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
-    "source": "The Decoder",
-    "published_at": "2026-05-07T17:36:39+00:00",
+    "published_at": "2026-05-08T17:50:53+00:00",
     "score": 6,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
   },
   {
-    "title": "AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization",
-    "summary": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees. The article AI translation company DeepL cuts around 250 jobs to rebuild as an &quot;AI-native&quot; organization appeared first on The Decoder.",
-    "url": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/",
+    "title": "Anthropic approaches $1 trillion valuation as revenue grows fivefold",
+    "summary": "According to the Financial Times, Anthropic's planned funding round is taking shape. The round aims to raise up to $50 billion, which would value the company at roughly $900 billion. The article Anthropic approaches $1 trillion valuation as revenue grows fivefold appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-approaches-1-trillion-valuation-as-revenue-grows-fivefold/",
     "source": "The Decoder",
-    "published_at": "2026-05-07T14:45:19+00:00",
+    "published_at": "2026-05-08T14:49:24+00:00",
     "score": 6,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
   },
   {
-    "title": "How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center",
-    "summary": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk. The article How Anthropic&#039;s 80x growth blew past its own infrastructure and straight into Musk&#039;s data center appeared first on The Decoder.",
-    "url": "https://the-decoder.com/how-anthropics-80x-growth-blew-past-its-own-infrastructure-and-straight-into-musks-data-center/",
+    "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities",
+    "summary": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false positives. Going forward, every new piece of code is to be automatically checked before commit. The a",
+    "url": "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/",
     "source": "The Decoder",
-    "published_at": "2026-05-07T14:09:49+00:00",
+    "published_at": "2026-05-08T09:23:28+00:00",
     "score": 6,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
   },
   {
-    "title": "The US and China are considering formal talks on AI",
-    "summary": "The US and China are exploring official talks on artificial intelligence, the Wall Street Journal reports. The article The US and China are considering formal talks on AI appeared first on The Decoder.",
-    "url": "https://the-decoder.com/the-us-and-china-are-considering-formal-talks-on-ai/",
-    "source": "The Decoder",
-    "published_at": "2026-05-07T11:13:12+00:00",
-    "score": 6,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes",
-    "summary": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights. Along with Outcomes and Multiagent Orchestration, now both in public beta, the updates are designed to help AI agents learn and improve across sessions. The art",
-    "url": "https://the-decoder.com/claudes-new-dreaming-feature-is-designed-to-let-ai-agents-learn-from-their-mistakes/",
-    "source": "The Decoder",
-    "published_at": "2026-05-07T10:59:37+00:00",
-    "score": 6,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-    "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+    "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+    "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+    "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
     "source": "Wired AI",
-    "published_at": "2026-05-08T01:42:14+00:00",
+    "published_at": "2026-05-08T15:00:00+00:00",
     "score": 5,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
   },
   {
-    "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
-    "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
-    "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+    "title": "The New Wild West of AI Kids’ Toys",
+    "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+    "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
     "source": "Wired AI",
-    "published_at": "2026-05-07T16:25:48+00:00",
+    "published_at": "2026-05-08T10:00:00+00:00",
     "score": 5,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
   },
   {
-    "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
-    "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
-    "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
-    "source": "Wired AI",
-    "published_at": "2026-05-07T11:00:00+00:00",
+    "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
+    "summary": "Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience al",
+    "url": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+    "source": "Microsoft Research",
+    "published_at": "2026-05-08T19:53:56+00:00",
     "score": 5,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
   },
   {
-    "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
-    "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
-    "url": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
-    "source": "Wired AI",
-    "published_at": "2026-05-07T11:00:00+00:00",
+    "title": "SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations",
+    "summary": "SoftBank has reduced a loan secured by OpenAI shares from 10 to around 6 billion dollars. Lenders are apparently reluctant to reliably assess the value of an unlisted company like OpenAI. The article SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations appeared first on The Decoder.",
+    "url": "https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/",
+    "source": "The Decoder",
+    "published_at": "2026-05-08T16:26:58+00:00",
     "score": 5,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+  },
+  {
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;",
+    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-08T23:59:19+00:00",
+    "score": 3,
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
   }
 ]

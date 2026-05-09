@@ -1,5 +1,77 @@
 [
   {
+    "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
+    "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researcher Jerry Tworek just six weeks ago, is already targeting a $4 billion valuation. The article AI money keeps flowing as Deepseek plans record raise an",
+    "url": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/",
+    "source": "The Decoder",
+    "published_at": "2026-05-08T17:50:53+00:00",
+    "score": 6,
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+  },
+  {
+    "title": "Anthropic approaches $1 trillion valuation as revenue grows fivefold",
+    "summary": "According to the Financial Times, Anthropic's planned funding round is taking shape. The round aims to raise up to $50 billion, which would value the company at roughly $900 billion. The article Anthropic approaches $1 trillion valuation as revenue grows fivefold appeared first on The Decoder.",
+    "url": "https://the-decoder.com/anthropic-approaches-1-trillion-valuation-as-revenue-grows-fivefold/",
+    "source": "The Decoder",
+    "published_at": "2026-05-08T14:49:24+00:00",
+    "score": 6,
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+  },
+  {
+    "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities",
+    "summary": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false positives. Going forward, every new piece of code is to be automatically checked before commit. The a",
+    "url": "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/",
+    "source": "The Decoder",
+    "published_at": "2026-05-08T09:23:28+00:00",
+    "score": 6,
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+  },
+  {
+    "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+    "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+    "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+    "source": "Wired AI",
+    "published_at": "2026-05-08T15:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+  },
+  {
+    "title": "The New Wild West of AI Kids’ Toys",
+    "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+    "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+    "source": "Wired AI",
+    "published_at": "2026-05-08T10:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+  },
+  {
+    "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
+    "summary": "Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience al",
+    "url": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+    "source": "Microsoft Research",
+    "published_at": "2026-05-08T19:53:56+00:00",
+    "score": 5,
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+  },
+  {
+    "title": "SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations",
+    "summary": "SoftBank has reduced a loan secured by OpenAI shares from 10 to around 6 billion dollars. Lenders are apparently reluctant to reliably assess the value of an unlisted company like OpenAI. The article SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations appeared first on The Decoder.",
+    "url": "https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/",
+    "source": "The Decoder",
+    "published_at": "2026-05-08T16:26:58+00:00",
+    "score": 5,
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+  },
+  {
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;",
+    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-08T23:59:19+00:00",
+    "score": 3,
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+  },
+  {
     "title": "Google Deepmind takes a stake in EVE Online studio to test AI models",
     "summary": "Google Deepmind is acquiring a minority stake in the studio behind the space MMO EVE Online and will use the game as a testing ground for AI models. The article Google Deepmind takes a stake in EVE Online studio to test AI models appeared first on The Decoder.",
     "url": "https://the-decoder.com/google-deepmind-takes-a-stake-in-eve-online-studio-to-test-ai-models/",
@@ -2626,77 +2698,5 @@
     "published_at": "2026-04-11T10:15:05+00:00",
     "score": 6,
     "archived_at": "2026-04-12T03:55:04.435554+00:00"
-  },
-  {
-    "title": "Claude Code's new Ultraplan feature moves task planning to the cloud",
-    "summary": "Anthropic's new Ultraplan feature for Claude Code moves task planning to the cloud. Claude works out the plan in the browser while the terminal stays free for other work. The article Claude Code&#039;s new Ultraplan feature moves task planning to the cloud appeared first on The Decoder.",
-    "url": "https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/",
-    "source": "The Decoder",
-    "published_at": "2026-04-11T09:13:38+00:00",
-    "score": 6,
-    "archived_at": "2026-04-12T03:55:04.435554+00:00"
-  },
-  {
-    "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
-    "summary": "arXiv:2604.06277v1 Announce Type: new Abstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retrieval systems, or auxiliary judge models. We ask whether this external supervision can instead be distilled into the model's own representations during",
-    "url": "https://arxiv.org/abs/2604.06277",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "Steering the Verifiability of Multimodal AI Hallucinations",
-    "summary": "arXiv:2604.06714v1 Announce Type: new Abstract: AI applications driven by multimodal large language models (MLLMs) are prone to hallucinations and pose considerable risks to human users. Crucially, such hallucinations are not equally problematic: some hallucination contents could be detected by human users(i.e., obvious hallucinations), while other",
-    "url": "https://arxiv.org/abs/2604.06714",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "Concentrated siting of AI data centers drives regional power-system stress under rising global compute demand",
-    "summary": "arXiv:2604.06198v1 Announce Type: cross Abstract: The rapid rise of generative artificial intelligence (AI) is driving unprecedented growth in global computational demand, placing increasing pressure on electricity systems. This study introduces an AI-energy coupling framework that combines large language models (LLMs)-based analysis of corporate, ",
-    "url": "https://arxiv.org/abs/2604.06198",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "Tool-MCoT: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation",
-    "summary": "arXiv:2604.06205v1 Announce Type: cross Abstract: The growth of online platforms and user content requires strong content moderation systems that can handle complex inputs from various media types. While large language models (LLMs) are effective, their high computational cost and latency present significant challenges for scalable deployment. To a",
-    "url": "https://arxiv.org/abs/2604.06205",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "MO-RiskVAE: A Multi-Omics Variational Autoencoder for Survival Risk Modeling in Multiple MyelomaMO-RiskVAE",
-    "summary": "arXiv:2604.06267v1 Announce Type: cross Abstract: Multimodal variational autoencoders (VAEs) have emerged as a powerful framework for survival risk modeling in multiple myeloma by integrating heterogeneous omics and clinical data. However, when trained under survival supervision, standard latent regularization strategies often fail to preserve prog",
-    "url": "https://arxiv.org/abs/2604.06267",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "MAT-Cell: A Multi-Agent Tree-Structured Reasoning Framework for Batch-Level Single-Cell Annotation",
-    "summary": "arXiv:2604.06269v1 Announce Type: cross Abstract: Automated cellular reasoning faces a core dichotomy: supervised methods fall into the Reference Trap and fail to generalize to out-of-distribution cell states, while large language models (LLMs), without grounded biological priors, suffer from a Signal-to-Noise Paradox that produces spurious associa",
-    "url": "https://arxiv.org/abs/2604.06269",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
-  },
-  {
-    "title": "A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM",
-    "summary": "arXiv:2604.06666v1 Announce Type: cross Abstract: Explainable fake news detection aims to assess the veracity of news claims while providing human-friendly explanations. Existing methods incorporating investigative journalism are often inefficient and struggle with breaking news. Recent advances in large language models (LLMs) enable leveraging ext",
-    "url": "https://arxiv.org/abs/2604.06666",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-10T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-11T03:29:00.362846+00:00"
   }
 ]

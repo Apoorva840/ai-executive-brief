@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 08, 2026",
+    "last_updated": "May 09, 2026",
     "tools": [
+        {
+            "Name": "CloakBrowser",
+            "Category": "Automation / Web Scraping",
+            "Description": "A stealth Chromium binary that mimics human behavior to pass advanced anti-bot detections.",
+            "Use_Case": "Automated data collection and browser automation for sites with strict bot protection.",
+            "URL": "https://github.com/CloakHQ/CloakBrowser"
+        },
         {
             "Name": "Local Deep Research",
             "Category": "AI Research Assistant",
-            "Description": "An AI-powered research assistant that performs deep, agentic research using multiple LLMs and search engines with proper citations.",
-            "Use_Case": "Automating complex research tasks, synthesizing reports from web and local documents, and building a searchable knowledge base.",
+            "Description": "An agentic research tool that runs locally, offering private, encrypted deep research capabilities.",
+            "Use_Case": "Performing automated deep-dive research with multiple LLMs and search engines while keeping data private.",
             "URL": "https://github.com/LearningCircuit/local-deep-research"
         },
         {
-            "Name": "Claude for Financial Services",
-            "Category": "Financial Agent Framework",
-            "Description": "A collection of reference agents, skills, and data connectors for financial workflows like investment banking and equity research.",
-            "Use_Case": "Automating financial workflows such as pitch deck creation, model building, GL reconciliation, and KYC screening.",
-            "URL": "https://github.com/anthropics/financial-services"
-        },
-        {
-            "Name": "PageIndex",
-            "Category": "RAG / Document Intelligence",
-            "Description": "A vectorless, reasoning-based RAG system that uses hierarchical tree indexing to simulate human-like retrieval.",
-            "Use_Case": "Retrieving highly relevant context from long, complex professional documents without the limitations of traditional vector embeddings.",
-            "URL": "https://github.com/VectifyAI/PageIndex"
+            "Name": "PaddleOCR",
+            "Category": "OCR / Document AI",
+            "Description": "A highly accurate, lightweight OCR toolkit designed to turn images and PDFs into structured data for LLMs.",
+            "Use_Case": "Converting complex documents (PDFs, images) into LLM-ready formats like Markdown or JSON.",
+            "URL": "https://github.com/PaddlePaddle/PaddleOCR"
         }
     ]
 }
