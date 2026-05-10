@@ -2,25 +2,11 @@
     "last_updated": "2023-10-27",
     "papers": [
         {
-            "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-            "innovation": "Development of CyberSecQwen-4B, a specialized, compact (4B parameters) AI model optimized for defensive cybersecurity tasks. Key innovation is the focus on small, domain-specific, locally runnable models to address practical deployment and resource constraints in critical applications.",
-            "benchmarks": "While not detailed in the provided abstract, models like this would typically be benchmarked on specific cybersecurity tasks (e.g., threat detection, vulnerability analysis, incident response, log analysis) against larger general-purpose models or existing security tools, with a strong emphasis on performance metrics like accuracy, false positive rates, inference speed, and memory footprint, especially for local deployment scenarios.",
-            "use_case": "Enhancing defensive cybersecurity operations with on-device or locally-deployed AI, providing specialized threat intelligence, assisting security analysts in incident response, automating vulnerability assessments, and enabling AI capabilities in resource-constrained environments.",
-            "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b"
-        },
-        {
-            "title": "EMO: Pretraining mixture of experts for emergent modularity",
-            "innovation": "Investigates pretraining Mixture of Experts (MoE) architectures to foster emergent modularity. This approach aims to create highly specialized 'experts' within a larger model, improving efficiency, scalability, and potentially interpretability for very large models by activating only relevant parts for a given task.",
-            "benchmarks": "Although not specified in the abstract, research on MoE models typically involves benchmarking on a range of standard large-scale tasks (e.g., language modeling perplexity, generation quality, various downstream NLP tasks) comparing against dense models of similar parameter count or FLOPs, with a focus on training speed, inference efficiency, and performance scaling. Evaluation might also include analysis of expert specialization.",
-            "use_case": "Designing and training more efficient and scalable large language models (LLMs) and other deep learning models, optimizing computational resources for model training and inference, developing specialized AI agents, and improving the understanding of internal model representations and functionalities.",
-            "url": "https://huggingface.co/blog/allenai/emo"
-        },
-        {
-            "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
-            "innovation": "Creation and release of a novel, large-scale, and realistic open dataset representing the approximate transmission topology of the U.S. power grid. The innovation also lies in the scalable pipeline developed to derive this complex and crucial dataset from publicly available information, making advanced power systems research more accessible.",
-            "benchmarks": "This paper focuses on providing a dataset, which serves as a *basis* for benchmarks rather than presenting them. It would be used to benchmark AI models and algorithms for tasks such as power flow analysis, grid stability prediction, congestion management, transmission expansion planning, and resilience assessments against various perturbations.",
-            "use_case": "Training and evaluating AI models for critical infrastructure management, smart grid applications, energy policy analysis, optimizing power distribution and transmission, assessing grid resilience to natural disasters or cyberattacks, and fostering research in energy systems and climate change mitigation.",
-            "url": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/"
+            "title": "OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support",
+            "innovation": "Proposes a novel dual-tier multi-agent framework designed for oncology clinical decision support with a strong emphasis on privacy preservation. This architecture likely enables collaborative AI capabilities across sensitive medical datasets while maintaining patient data confidentiality, potentially leveraging federated learning, secure multi-party computation, or differential privacy within its agent interactions. The 'dual-tier' aspect suggests a sophisticated organization of AI agents for specialized tasks and data handling.",
+            "benchmarks": "Given the scope, an AI Engineer would anticipate benchmarks focusing on clinical accuracy (e.g., F1-score for treatment recommendations, diagnostic precision), privacy guarantees (e.g., quantifiable privacy loss, security proof strength), and system performance (e.g., inference latency, scalability, computational overhead of privacy mechanisms). While specific results are not available without the abstract, these are critical areas for evaluation in such a system.",
+            "use_case": "Primary use case is to provide intelligent clinical decision support for oncologists, aiding in diagnosis, treatment planning, and personalized patient care in oncology. Crucially, its privacy-preserving nature allows for secure aggregation of knowledge and models across multiple healthcare institutions without direct data sharing, accelerating research and improving patient outcomes in a compliant and ethical manner. Valuable for AI Engineers building secure, ethical, and deployable AI in healthcare.",
+            "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
         }
     ]
 }

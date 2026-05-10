@@ -1,5 +1,23 @@
 [
   {
+    "title": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
+    "summary": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choice argument for users and regulators while it keeps sidelining the open web in favor of its own AI interfaces. The article Google&#039;s &quot;Preferr",
+    "url": "https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/",
+    "source": "The Decoder",
+    "published_at": "2026-05-09T10:29:00+00:00",
+    "score": 6,
+    "archived_at": "2026-05-10T04:35:25.343500+00:00"
+  },
+  {
+    "title": "Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows",
+    "summary": "Software that claims to read human emotions using AI is quietly becoming a fixture of everyday work life, Ellen Cushing reports in a feature for The Atlantic. The article Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows appeared first on The Decoder.",
+    "url": "https://the-decoder.com/pseudoscientific-emotion-ai-is-invading-the-workplace-an-atlantic-report-shows/",
+    "source": "The Decoder",
+    "published_at": "2026-05-09T07:20:09+00:00",
+    "score": 6,
+    "archived_at": "2026-05-10T04:35:25.343500+00:00"
+  },
+  {
     "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
     "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researcher Jerry Tworek just six weeks ago, is already targeting a $4 billion valuation. The article AI money keeps flowing as Deepseek plans record raise an",
     "url": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/",
@@ -2678,24 +2696,6 @@
     "url": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/",
     "source": "The Decoder",
     "published_at": "2026-04-11T13:32:58+00:00",
-    "score": 6,
-    "archived_at": "2026-04-12T03:55:04.435554+00:00"
-  },
-  {
-    "title": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
-    "summary": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\" The article The operator behind the AI agent that defamed an open-source developer calls it a &quot;social experiment&quot; appeared first on The Decoder.",
-    "url": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/",
-    "source": "The Decoder",
-    "published_at": "2026-04-11T11:22:21+00:00",
-    "score": 6,
-    "archived_at": "2026-04-12T03:55:04.435554+00:00"
-  },
-  {
-    "title": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
-    "summary": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it. The article Overworld&#039;s Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware appeared first on The Decoder.",
-    "url": "https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/",
-    "source": "The Decoder",
-    "published_at": "2026-04-11T10:15:05+00:00",
     "score": 6,
     "archived_at": "2026-04-12T03:55:04.435554+00:00"
   }

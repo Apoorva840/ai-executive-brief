@@ -1,74 +1,20 @@
 [
   {
-    "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
-    "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researcher Jerry Tworek just six weeks ago, is already targeting a $4 billion valuation. The article AI money keeps flowing as Deepseek plans record raise an",
-    "url": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/",
+    "title": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
+    "summary": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choice argument for users and regulators while it keeps sidelining the open web in favor of its own AI interfaces. The article Google&#039;s &quot;Preferr",
+    "url": "https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/",
     "source": "The Decoder",
-    "published_at": "2026-05-08T17:50:53+00:00",
+    "published_at": "2026-05-09T10:29:00+00:00",
     "score": 6,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+    "archived_at": "2026-05-10T04:35:25.343500+00:00"
   },
   {
-    "title": "Anthropic approaches $1 trillion valuation as revenue grows fivefold",
-    "summary": "According to the Financial Times, Anthropic's planned funding round is taking shape. The round aims to raise up to $50 billion, which would value the company at roughly $900 billion. The article Anthropic approaches $1 trillion valuation as revenue grows fivefold appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropic-approaches-1-trillion-valuation-as-revenue-grows-fivefold/",
+    "title": "Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows",
+    "summary": "Software that claims to read human emotions using AI is quietly becoming a fixture of everyday work life, Ellen Cushing reports in a feature for The Atlantic. The article Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows appeared first on The Decoder.",
+    "url": "https://the-decoder.com/pseudoscientific-emotion-ai-is-invading-the-workplace-an-atlantic-report-shows/",
     "source": "The Decoder",
-    "published_at": "2026-05-08T14:49:24+00:00",
+    "published_at": "2026-05-09T07:20:09+00:00",
     "score": 6,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities",
-    "summary": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false positives. Going forward, every new piece of code is to be automatically checked before commit. The a",
-    "url": "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/",
-    "source": "The Decoder",
-    "published_at": "2026-05-08T09:23:28+00:00",
-    "score": 6,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-    "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-    "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "source": "Wired AI",
-    "published_at": "2026-05-08T15:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "The New Wild West of AI Kids’ Toys",
-    "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-    "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
-    "source": "Wired AI",
-    "published_at": "2026-05-08T10:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
-    "summary": "Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience al",
-    "url": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
-    "source": "Microsoft Research",
-    "published_at": "2026-05-08T19:53:56+00:00",
-    "score": 5,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations",
-    "summary": "SoftBank has reduced a loan secured by OpenAI shares from 10 to around 6 billion dollars. Lenders are apparently reluctant to reliably assess the value of an unlisted company like OpenAI. The article SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations appeared first on The Decoder.",
-    "url": "https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/",
-    "source": "The Decoder",
-    "published_at": "2026-05-08T16:26:58+00:00",
-    "score": 5,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-    "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;",
-    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-08T23:59:19+00:00",
-    "score": 3,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+    "archived_at": "2026-05-10T04:35:25.343500+00:00"
   }
 ]

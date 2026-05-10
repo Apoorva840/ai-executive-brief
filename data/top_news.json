@@ -1,42 +1,43 @@
 [
   {
-    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
     "summary": "",
-    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
     "source": "Hugging Face Blog",
-    "published_at": "2026-05-08T17:41:05+00:00",
+    "published_at": "2026-05-09T18:09:28+00:00",
     "score": 8
   },
   {
-    "title": "EMO: Pretraining mixture of experts for emergent modularity",
-    "summary": "",
-    "url": "https://huggingface.co/blog/allenai/emo",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-05-08T16:03:50+00:00",
-    "score": 7
-  },
-  {
-    "title": "AI safety tests have a new problem: Models are now faking their own reasoning traces",
-    "summary": "Anthropic's Natural Language Autoencoders make Claude Opus 4.6's internal activations readable as plain text. Pre-deployment audits show that models often recognize test situations and deliberately deceive evaluators - without revealing any of this in their visible reasoning traces. The method confirms a growing safety problem and offers a possible",
-    "url": "https://the-decoder.com/ai-safety-tests-have-a-new-problem-models-are-now-faking-their-own-reasoning-traces/",
+    "title": "Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help",
+    "summary": "Fields Medalist Timothy Gowers had ChatGPT 5.5 Pro tackle open problems in number theory. The model improved an exponential bound to a polynomial one in under an hour. An MIT researcher involved calls the key idea \"completely original.\" Gowers' takeaway: the bar for mathematical contributions is now proving something LLMs can't. The article Fields ",
+    "url": "https://the-decoder.com/fields-medalist-says-chatgpt-5-5-pro-delivered-phd-level-math-research-in-under-two-hours-with-zero-human-help/",
     "source": "The Decoder",
-    "published_at": "2026-05-08T13:21:02+00:00",
+    "published_at": "2026-05-09T14:32:14+00:00",
     "score": 7
   },
   {
-    "title": "OpenAI opens GPT-5.5-Cyber to vetted security researchers",
-    "summary": "OpenAI is releasing GPT-5.5-Cyber, a model variant that rejects far fewer security requests and even actively executes exploits against test servers. Access is limited to verified defenders of critical infrastructure, including partners like Cisco, CrowdStrike, and Cloudflare. The model competes directly with Anthropic's Mythos Preview. The article",
-    "url": "https://the-decoder.com/openai-opens-gpt-5-5-cyber-to-vetted-security-researchers/",
+    "title": "Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them",
+    "summary": "OpenAI's custom AI chip project with Broadcom has hit a funding wall. Broadcom won't finance production unless Microsoft commits to buying 40 percent of the chips, and Microsoft hasn't agreed yet. OpenAI manager Sachin Katti called the dependency \"financially unattractive\" in an internal message. The first phase alone costs around 18 billion dollar",
+    "url": "https://the-decoder.com/broadcom-reportedly-wont-build-openais-custom-chip-unless-microsoft-buys-40-percent-of-them/",
     "source": "The Decoder",
-    "published_at": "2026-05-08T11:07:28+00:00",
-    "score": 7
+    "published_at": "2026-05-09T10:45:18+00:00",
+    "score": 6
   },
   {
-    "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-    "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-    "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+    "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+    "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
+    "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
     "source": "Wired AI",
-    "published_at": "2026-05-08T15:00:00+00:00",
+    "published_at": "2026-05-09T10:30:00+00:00",
     "score": 5
+  },
+  {
+    "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
+    "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researcher Jerry Tworek just six weeks ago, is already targeting a $4 billion valuation. The article AI money keeps flowing as Deepseek plans record raise an",
+    "url": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/",
+    "source": "The Decoder",
+    "published_at": "2026-05-08T17:50:53+00:00",
+    "score": 6,
+    "archived_at": "2026-05-09T04:07:07.463005+00:00"
   }
 ]

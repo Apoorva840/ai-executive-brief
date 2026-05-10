@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 09, 2026",
+    "last_updated": "May 10, 2026",
     "tools": [
         {
+            "Name": "Claude for Financial Services",
+            "Category": "Financial Agent Framework",
+            "Description": "A comprehensive repository of agents, skills, and data connectors for financial workflows including investment banking, wealth management, and fund administration.",
+            "Use_Case": "Automating complex financial workflows such as market research, DCF/LBO modeling, and KYC document screening.",
+            "URL": "https://github.com/anthropics/financial-services"
+        },
+        {
             "Name": "CloakBrowser",
-            "Category": "Automation / Web Scraping",
-            "Description": "A stealth Chromium binary that mimics human behavior to pass advanced anti-bot detections.",
-            "Use_Case": "Automated data collection and browser automation for sites with strict bot protection.",
+            "Category": "Stealth Automation",
+            "Description": "A stealth-patched Chromium browser designed to bypass bot detection systems by modifying fingerprints at the C++ source level.",
+            "Use_Case": "Web scraping, automation, and AI agent navigation on sites with advanced protection like Cloudflare Turnstile or reCAPTCHA v3.",
             "URL": "https://github.com/CloakHQ/CloakBrowser"
         },
         {
             "Name": "Local Deep Research",
-            "Category": "AI Research Assistant",
-            "Description": "An agentic research tool that runs locally, offering private, encrypted deep research capabilities.",
-            "Use_Case": "Performing automated deep-dive research with multiple LLMs and search engines while keeping data private.",
+            "Category": "Agentic Research",
+            "Description": "A private, self-hosted AI research assistant that performs deep web and document research with proper citations while keeping all data local and encrypted.",
+            "Use_Case": "Conducting deep, private, and agentic research across web, academic papers, and private documents with high accuracy.",
             "URL": "https://github.com/LearningCircuit/local-deep-research"
-        },
-        {
-            "Name": "PaddleOCR",
-            "Category": "OCR / Document AI",
-            "Description": "A highly accurate, lightweight OCR toolkit designed to turn images and PDFs into structured data for LLMs.",
-            "Use_Case": "Converting complex documents (PDFs, images) into LLM-ready formats like Markdown or JSON.",
-            "URL": "https://github.com/PaddlePaddle/PaddleOCR"
         }
     ]
 }
