@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 10, 2026",
+    "last_updated": "May 11, 2026",
     "tools": [
         {
-            "Name": "Claude for Financial Services",
-            "Category": "Financial Agent Framework",
-            "Description": "A comprehensive repository of agents, skills, and data connectors for financial workflows including investment banking, wealth management, and fund administration.",
-            "Use_Case": "Automating complex financial workflows such as market research, DCF/LBO modeling, and KYC document screening.",
-            "URL": "https://github.com/anthropics/financial-services"
+            "Name": "GenericAgent",
+            "Category": "AI Agents",
+            "Description": "A minimal, self-evolving autonomous agent framework that crystallizes execution paths into reusable skills.",
+            "Use_Case": "Automating system-level tasks such as web browsing, file management, and terminal operations.",
+            "URL": "https://github.com/lsdefine/GenericAgent"
         },
         {
             "Name": "CloakBrowser",
-            "Category": "Stealth Automation",
-            "Description": "A stealth-patched Chromium browser designed to bypass bot detection systems by modifying fingerprints at the C++ source level.",
-            "Use_Case": "Web scraping, automation, and AI agent navigation on sites with advanced protection like Cloudflare Turnstile or reCAPTCHA v3.",
+            "Category": "Automation & Stealth",
+            "Description": "A stealth-focused Chromium browser with C++ source-level patches designed to pass bot detection.",
+            "Use_Case": "Reliable web scraping and automation in environments with strict anti-bot systems.",
             "URL": "https://github.com/CloakHQ/CloakBrowser"
         },
         {
-            "Name": "Local Deep Research",
-            "Category": "Agentic Research",
-            "Description": "A private, self-hosted AI research assistant that performs deep web and document research with proper citations while keeping all data local and encrypted.",
-            "Use_Case": "Conducting deep, private, and agentic research across web, academic papers, and private documents with high accuracy.",
-            "URL": "https://github.com/LearningCircuit/local-deep-research"
+            "Name": "Open WebUI",
+            "Category": "AI Interface",
+            "Description": "A user-friendly, feature-rich, self-hosted web interface for LLMs supporting RAG and multiple backends.",
+            "Use_Case": "Managing and interacting with local or cloud-hosted AI models through a robust GUI.",
+            "URL": "https://github.com/open-webui/open-webui"
         }
     ]
 }

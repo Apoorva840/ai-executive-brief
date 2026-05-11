@@ -1,43 +1,43 @@
 [
   {
-    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-    "summary": "",
-    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-05-09T18:09:28+00:00",
+    "title": "BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning",
+    "summary": "arXiv:2605.07394v1 Announce Type: cross Abstract: Image captioning is one of the most fundamental tasks in computer vision. Owing to its open-ended nature, it has received significant attention in the era of multimodal large language models (MLLMs). In pursuit of ever more detailed and accurate captions, recent work has increasingly turned to reinf",
+    "url": "https://arxiv.org/abs/2605.07394",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help",
-    "summary": "Fields Medalist Timothy Gowers had ChatGPT 5.5 Pro tackle open problems in number theory. The model improved an exponential bound to a polynomial one in under an hour. An MIT researcher involved calls the key idea \"completely original.\" Gowers' takeaway: the bar for mathematical contributions is now proving something LLMs can't. The article Fields ",
-    "url": "https://the-decoder.com/fields-medalist-says-chatgpt-5-5-pro-delivered-phd-level-math-research-in-under-two-hours-with-zero-human-help/",
-    "source": "The Decoder",
-    "published_at": "2026-05-09T14:32:14+00:00",
+    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "summary": "",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-05-10T18:44:11+00:00",
     "score": 7
   },
   {
-    "title": "Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them",
-    "summary": "OpenAI's custom AI chip project with Broadcom has hit a funding wall. Broadcom won't finance production unless Microsoft commits to buying 40 percent of the chips, and Microsoft hasn't agreed yet. OpenAI manager Sachin Katti called the dependency \"financially unattractive\" in an internal message. The first phase alone costs around 18 billion dollar",
-    "url": "https://the-decoder.com/broadcom-reportedly-wont-build-openais-custom-chip-unless-microsoft-buys-40-percent-of-them/",
+    "title": "AI agents can now hack computers and copy themselves, and they're getting better fast",
+    "summary": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers expect remaining barriers to fall as models get better at hacking. The article AI agents can now hack computers and copy themselves, and they&#039;re get",
+    "url": "https://the-decoder.com/ai-agents-can-now-hack-computers-and-copy-themselves-and-theyre-getting-better-fast/",
     "source": "The Decoder",
-    "published_at": "2026-05-09T10:45:18+00:00",
-    "score": 6
+    "published_at": "2026-05-10T11:45:41+00:00",
+    "score": 7
   },
   {
-    "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-    "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
-    "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-    "source": "Wired AI",
-    "published_at": "2026-05-09T10:30:00+00:00",
-    "score": 5
+    "title": "METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers",
+    "summary": "METR can barely measure Claude Mythos Preview with its current test suite. Only five out of 228 tasks cover the relevant capability range. Meanwhile, Palo Alto Networks reports that frontier models autonomously chain vulnerabilities, shrinking the time from initial access to data exfiltration to just 25 minutes. Evaluation methods are growing more ",
+    "url": "https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/",
+    "source": "The Decoder",
+    "published_at": "2026-05-10T09:25:22+00:00",
+    "score": 7
   },
   {
-    "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
-    "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researcher Jerry Tworek just six weeks ago, is already targeting a $4 billion valuation. The article AI money keeps flowing as Deepseek plans record raise an",
-    "url": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/",
+    "title": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
+    "summary": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choice argument for users and regulators while it keeps sidelining the open web in favor of its own AI interfaces. The article Google&#039;s &quot;Preferr",
+    "url": "https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/",
     "source": "The Decoder",
-    "published_at": "2026-05-08T17:50:53+00:00",
+    "published_at": "2026-05-09T10:29:00+00:00",
     "score": 6,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
+    "archived_at": "2026-05-10T04:35:25.343500+00:00"
   }
 ]

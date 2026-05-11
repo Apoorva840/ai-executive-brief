@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 10, 2026",
+    "last_updated": "May 11, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Multi-Agent Frameworks",
-            "definition": "A system architecture where multiple autonomous AI models, or 'agents,' are assigned specialized roles and work collaboratively to solve complex problems. These frameworks use a coordination layer to manage communication and task delegation, allowing for higher precision and cross-verification in sensitive fields like oncology.",
-            "analogy": "In a high-end kitchen, this is the 'Brigade de Cuisine' system: rather than one chef attempting to cook every dish, you have a specialized saucier, a pastry chef, and a grill master all working in concert to deliver a single, perfect five-course meal.",
-            "business_value": "Shifts AI from a general-purpose chatbot to a reliable autonomous workforce. This enables the automation of high-stakes, multi-step professional workflows that previously required a team of human subject matter experts."
+            "term": "Continual Adaptation (CASCADE)",
+            "definition": "Continual adaptation is a paradigm shift where Large Language Models continue to learn and refine their parameters or internal knowledge bases after deployment. Instead of being 'frozen' post-training, the model uses case-based reasoning to integrate real-time feedback and new data streams into its operational logic.",
+            "analogy": "In a kitchen, this is like a chef who doesn't just follow a static recipe book from culinary school, but continuously tweaks the seasoning of a dish based on the specific acidity of today\u2019s tomatoes and the direct feedback from the diners in the room.",
+            "business_value": "This eliminates 'model rot' and the massive costs associated with full retraining cycles. For the CEO, it means your AI investment becomes more accurate and specialized the longer it is in production, directly increasing the ROI of proprietary data."
         },
         {
-            "term": "Automated Mathematical Reasoning (AMR)",
-            "definition": "The capability of an LLM to perform deductive, symbolic logic to solve novel problems rather than relying solely on pattern recognition from its training data. This represents a transition from 'probabilistic guessing' to 'verifiable discovery,' allowing models to optimize mathematical bounds and prove original theorems without human guidance.",
-            "analogy": "If traditional AI is a GPS that follows pre-mapped roads, AMR is an off-road vehicle that can navigate uncharted territory by calculating the physics of the terrain and building its own path as it moves forward.",
-            "business_value": "When AI moves from 'summarizing the past' to 'inventing the future' through original PhD-level research, it accelerates R&D cycles in cryptography, material science, and pharmaceutical drug discovery at a fraction of the current cost."
+            "term": "Spectral Diagnostics for Agent Coalitions",
+            "definition": "This technique involves analyzing the internal mathematical representations (tensors) of multiple interacting AI agents to detect 'hidden coalitions' or emergent group-level behaviors. It uses spectral analysis to distinguish between agents that are merely reacting to the same data and those that have developed a deep, potentially unintended, functional alignment.",
+            "analogy": "Imagine a fleet of self-driving cars that starts moving in a tight, synchronized formation to reduce wind resistance. To an observer, they just look like they are driving fast, but a spectral diagnostic is like looking at the cars' internal radio frequencies to see if they have 'secretly' negotiated a convoy agreement without being told to.",
+            "business_value": "As enterprises deploy multi-agent systems for supply chains or trading, there is a risk of 'emergent cartels' that could bypass corporate governance. These diagnostics provide a critical audit layer for AI safety and regulatory compliance."
         },
         {
-            "term": "Custom AI Silicon (ASIC) Scaling",
-            "definition": "The design and production of Application-Specific Integrated Circuits (ASICs) optimized exclusively for neural network training and inference. Unlike general-purpose GPUs, these chips require massive capital expenditure (CapEx) and guaranteed volume commitments from cloud providers to offset the multi-billion dollar costs of fabrication.",
-            "analogy": "Imagine commissioning a custom-built race car engine tailored for one specific track; the manufacturer won't even start the factory line unless your business partner signs a contract to pay for 40% of the fuel and maintenance for the next five years.",
-            "business_value": "This reflects the 'CapEx Moat' in the AI industry. Success is no longer just about who has the best algorithm, but who has the balance sheet and ecosystem partnerships to control their own hardware supply chain and reduce long-term compute costs."
+            "term": "Pre-Verbalization Commitment",
+            "definition": "Pre-verbalization commitment refers to the specific point during an LLM's internal processing where its final answer choice stabilizes, even before it has finished generating the 'Chain of Thought' text. This metric identifies when a model has 'made up its mind' internally, regardless of how much more reasoning it appears to be doing on the screen.",
+            "analogy": "It is like a professional driver approaching a sharp turn; their mind has committed to the steering angle and braking pressure seconds before the car actually enters the apex. The visible turn is just the execution of a decision made much earlier.",
+            "business_value": "Understanding commitment points allows for 'early-exit' computation. By cutting off a model once it has committed to a stable answer, firms can reduce GPU latency and token costs by 30-50% without sacrificing the quality of the final output."
         }
     ]
 }

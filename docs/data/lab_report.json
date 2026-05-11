@@ -1,12 +1,26 @@
 {
-    "last_updated": "2023-10-27",
+    "last_updated": "2024-05-17",
     "papers": [
         {
-            "title": "OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support",
-            "innovation": "Proposes a novel dual-tier multi-agent framework designed for oncology clinical decision support with a strong emphasis on privacy preservation. This architecture likely enables collaborative AI capabilities across sensitive medical datasets while maintaining patient data confidentiality, potentially leveraging federated learning, secure multi-party computation, or differential privacy within its agent interactions. The 'dual-tier' aspect suggests a sophisticated organization of AI agents for specialized tasks and data handling.",
-            "benchmarks": "Given the scope, an AI Engineer would anticipate benchmarks focusing on clinical accuracy (e.g., F1-score for treatment recommendations, diagnostic precision), privacy guarantees (e.g., quantifiable privacy loss, security proof strength), and system performance (e.g., inference latency, scalability, computational overhead of privacy mechanisms). While specific results are not available without the abstract, these are critical areas for evaluation in such a system.",
-            "use_case": "Primary use case is to provide intelligent clinical decision support for oncologists, aiding in diagnosis, treatment planning, and personalized patient care in oncology. Crucially, its privacy-preserving nature allows for secure aggregation of knowledge and models across multiple healthcare institutions without direct data sharing, accelerating research and improving patient outcomes in a compliant and ethical manner. Valuable for AI Engineers building secure, ethical, and deployable AI in healthcare.",
-            "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
+            "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+            "innovation": "Proposes 'Case-Based Continual Adaptation' (CASCADE) as a mechanism for Large Language Models (LLMs) to learn and adapt continuously during their deployment phase, effectively breaking the rigid separation between training and inference. This enables LLMs to evolve with new data and scenarios in real-time.",
+            "benchmarks": "While not explicitly stated in the abstract, the paper's focus implies benchmarks would measure the efficiency and effectiveness of continuous learning, such as improved accuracy on new or shifting data distributions, reduced catastrophic forgetting, faster adaptation to novel tasks, and maintenance of performance over extended deployment periods compared to static models.",
+            "use_case": "Essential for AI engineers deploying LLMs in dynamic environments where models need to stay up-to-date, adapt to user feedback, or handle evolving data streams without requiring full retraining. Applicable to intelligent assistants, recommendation engines, customer support bots, and any LLM expected to learn post-deployment.",
+            "url": "https://arxiv.org/abs/2605.06702"
+        },
+        {
+            "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+            "innovation": "Provides a comprehensive survey and structured overview of the diverse and fragmented landscape of memory mechanisms for LLM-based agents. It categorizes these mechanisms, tracing their evolution from simple storage to more complex 'experience'-driven systems, offering a unified understanding of a critical architectural component.",
+            "benchmarks": "As a survey, it synthesizes the findings and implicit benchmarks from existing research, which typically include metrics related to long-term knowledge retention, context window efficiency, accuracy in multi-turn interactions, generalization to new tasks based on past 'experience,' and the overall coherence and intelligence of agent behavior enabled by specific memory architectures.",
+            "use_case": "Invaluable for AI engineers designing and implementing complex LLM agents. It serves as a guide for selecting, combining, or developing novel memory architectures to build more intelligent, stateful, and persistent agents capable of sophisticated long-term reasoning and interaction.",
+            "url": "https://arxiv.org/abs/2605.06716"
+        },
+        {
+            "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+            "innovation": "Addresses the significant engineering challenges of creating scalable and reproducible training environments for visual web agents. It aims to overcome limitations of existing offline datasets or restricted simulated environments by providing robust infrastructure for data collection and agent training in the complex and dynamic web domain.",
+            "benchmarks": "This work would likely be benchmarked by its ability to facilitate the training of web agents that achieve higher task success rates across a wider variety of websites, demonstrate improved generalization to unseen web layouts, exhibit faster and more efficient data collection, and provide consistent, reproducible results across different training runs and environments.",
+            "use_case": "Crucial for AI engineers developing and testing visual web agents for tasks like web automation, data extraction, intelligent browsing, or accessibility tools. It provides the foundational tooling and methodology needed to build robust and reliable agents that can operate effectively in the real-world web.",
+            "url": "https://arxiv.org/abs/2605.06761"
         }
     ]
 }

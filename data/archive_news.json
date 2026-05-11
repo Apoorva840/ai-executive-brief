@@ -1,5 +1,140 @@
 [
   {
+    "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models",
+    "summary": "arXiv:2605.07721v1 Announce Type: cross Abstract: Recurrent LLM architectures have emerged as a promising approach for improving reasoning, as they enable multi-step computation in the embedding space without generating intermediate tokens. Models such as Ouro perform reasoning by iteratively updating internal representations while retaining a stan",
+    "url": "https://arxiv.org/abs/2605.07721",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "CRAFT: Forgetting-Aware Intervention-Based Adaptation for Continual Learning",
+    "summary": "arXiv:2605.05732v2 Announce Type: replace-cross Abstract: Large language models (LLMs) can acquire new capabilities through fine-tuning, but continual adaptation often leads to catastrophic forgetting. We propose CRAFT, a continual learning framework that avoids updating model weights by instead learning low-rank interventions on hidden representat",
+    "url": "https://arxiv.org/abs/2605.05732",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "The Context Gathering Decision Process: A POMDP Framework for Agentic Search",
+    "summary": "arXiv:2605.07042v1 Announce Type: new Abstract: Large Language Model (LLM) agents are deployed in complex environments -- such as massive codebases, enterprise databases, and conversational histories -- where the relevant state far exceeds their context windows. To navigate these spaces, an agent must iteratively explore the environment to find rel",
+    "url": "https://arxiv.org/abs/2605.07042",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "GraphReAct: Reasoning and Acting for Multi-step Graph Inference",
+    "summary": "arXiv:2605.07357v1 Announce Type: new Abstract: Reasoning-acting frameworks enhance large language models (LLMs) by interleaving reasoning with actions for dynamic information acquisition. However, extending this paradigm to graph learning remains underexplored. Graph data is inherently structured, with information distributed across nodes and edge",
+    "url": "https://arxiv.org/abs/2605.07357",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "Efficient Data Selection for Multimodal Models via Incremental Optimization Utility",
+    "summary": "arXiv:2605.07488v1 Announce Type: new Abstract: The scaling of Large Multimodal Models (LMMs) is constrained by the quality-quantity trade-off inherent in synthetic data. Previous approaches, such as LLM-as-a-Judge, have proven their effectiveness in addressing this but suffer from prohibitive computational costs and lack of interpretability. To br",
+    "url": "https://arxiv.org/abs/2605.07488",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "GASim: A Graph-Accelerated Hybrid Framework for Social Simulation",
+    "summary": "arXiv:2605.07692v1 Announce Type: new Abstract: Large-scale social simulators are essential for studying complex social patterns. Prior work explores hybrid methods to scale up simulations, combining large language models (LLM)-based agents with numerical agent-based models (ABM). However, this incurs high latency due to expensive memory retrieval ",
+    "url": "https://arxiv.org/abs/2605.07692",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "Abductive Reasoning with Probabilistic Commonsense",
+    "summary": "arXiv:2605.08011v1 Announce Type: new Abstract: Recent efforts to improve the reasoning abilities of Large Language Models (LLMs) have focused on integrating formal logic solvers within neurosymbolic frameworks. A key challenge is that formal solvers lack commonsense world knowledge, preventing them from making reasoning steps that humans find obvi",
+    "url": "https://arxiv.org/abs/2605.08011",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "Toeplitz MLP Mixers are Low Complexity, Information-Rich Sequence Models",
+    "summary": "arXiv:2605.06683v1 Announce Type: cross Abstract: Transformer-based large language models are in some respects limited by the quadratic time and space computational complexity of attention. We introduce the Toeplitz MLP Mixer (TMM), a transformer-like architecture that swaps attention for triangular-masked Toeplitz matrix multiplication over the se",
+    "url": "https://arxiv.org/abs/2605.06683",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "A Self-Healing Framework for Reliable LLM-Based Autonomous Agents",
+    "summary": "arXiv:2605.06737v1 Announce Type: cross Abstract: Autonomous agents based on Large Language Models (LLMs) are increasingly being utilized in complex software systems. However, reliability remains a significant challenge due to unpredictable failures such as hallucinations, execution errors, and inconsistent reasoning. This paper proposes a reliabil",
+    "url": "https://arxiv.org/abs/2605.06737",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations",
+    "summary": "arXiv:2605.06758v1 Announce Type: cross Abstract: Relative spatial relations provide a compact representation of spatial structure and are fundamental to relative spatial reasoning in 3D layout generation. Recent works leverage Multimodal Large Language Models (MLLMs) to infer such relations, but the inferred relations are often unreliable and are ",
+    "url": "https://arxiv.org/abs/2605.06758",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment",
+    "summary": "arXiv:2605.06850v1 Announce Type: cross Abstract: Reinforcement Learning (RL) has emerged as a crucial paradigm for unlocking the advanced reasoning capabilities of Large Language Models (LLMs), encompassing frameworks like RLHF and RLAIF. Regardless of the specific optimization algorithm (e.g., PPO, GRPO, or Online DPO), online RL inherently requi",
+    "url": "https://arxiv.org/abs/2605.06850",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "MIST: Multimodal Interactive Speech-based Tool-calling Conversational Assistants for Smart Homes",
+    "summary": "arXiv:2605.06897v1 Announce Type: cross Abstract: The rise of Internet of Things (IoT) devices in the physical world necessitates voice-based interfaces capable of handling complex user experiences. While modern Large Language Models (LLMs) already demonstrate strong tool-usage capabilities, modeling real-world IoT devices presents a difficult, und",
+    "url": "https://arxiv.org/abs/2605.06897",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "An Interpretable and Scalable Framework for Evaluating Large Language Models",
+    "summary": "arXiv:2605.07046v1 Announce Type: cross Abstract: Evaluation of large language models (LLMs) is increasingly critical, yet standard benchmarking methods rely on average accuracy, overlooking both the inherent stochasticity of LLM outputs and the heterogeneity of benchmark items. Item Response Theory (IRT) offers a principled framework for modeling ",
+    "url": "https://arxiv.org/abs/2605.07046",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding",
+    "summary": "arXiv:2605.07141v1 Announce Type: cross Abstract: Open-world referring segmentation requires grounding unconstrained language expressions to precise pixel-level regions. Existing multimodal large language models (MLLMs) exhibit strong open-world visual grounding, but their outputs remain limited to sparse bounding-box coordinates and are insufficie",
+    "url": "https://arxiv.org/abs/2605.07141",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
+    "title": "Reformulating KV Cache Eviction Problem for Long-Context LLM Inference",
+    "summary": "arXiv:2605.07234v1 Announce Type: cross Abstract: Large language models (LLMs) support long-context inference but suffer from substantial memory and runtime overhead due to Key-Value (KV) Cache growth. Existing KV Cache eviction methods primarily rely on local attention weights, neglecting the influence of value representations, output projection, ",
+    "url": "https://arxiv.org/abs/2605.07234",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-11T04:47:20.471779+00:00"
+  },
+  {
     "title": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
     "summary": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choice argument for users and regulators while it keeps sidelining the open web in favor of its own AI interfaces. The article Google&#039;s &quot;Preferr",
     "url": "https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-04-13T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-04-14T03:53:19.753544+00:00"
-  },
-  {
-    "title": "HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing",
-    "summary": "arXiv:2604.08884v1 Announce Type: cross Abstract: While multimodal large language models (MLLMs) have made significant strides in natural image understanding, their ability to perceive and reason over hyperspectral image (HSI) remains underexplored, which is a vital modality in remote sensing. The high dimensionality and intricate spectral-spatial ",
-    "url": "https://arxiv.org/abs/2604.08884",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
-  },
-  {
-    "title": "MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator",
-    "summary": "arXiv:2604.08947v1 Announce Type: cross Abstract: As Large Language Models (LLMs) become increasingly prevalent in text simplification, systematically evaluating their outputs across diverse prompting strategies and architectures remains a critical methodological challenge in both NLP research and Intelligent Tutoring Systems (ITS). Developing robu",
-    "url": "https://arxiv.org/abs/2604.08947",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
-  },
-  {
-    "title": "PinpointQA: A Dataset and Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos",
-    "summary": "arXiv:2604.08991v1 Announce Type: cross Abstract: Small object-centric spatial understanding in indoor videos remains a significant challenge for multimodal large language models (MLLMs), despite its practical value for object search and assistive applications. Although existing benchmarks have advanced video spatial intelligence, embodied reasonin",
-    "url": "https://arxiv.org/abs/2604.08991",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
-  },
-  {
-    "title": "ASTRA: Adaptive Semantic Tree Reasoning Architecture for Complex Table Question Answering",
-    "summary": "arXiv:2604.08999v1 Announce Type: cross Abstract: Table serialization remains a critical bottleneck for Large Language Models (LLMs) in complex table question answering, hindered by challenges such as structural neglect, representation gaps, and reasoning opacity. Existing serialization methods fail to capture explicit hierarchies and lack schema f",
-    "url": "https://arxiv.org/abs/2604.08999",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
-  },
-  {
-    "title": "Watt Counts: Energy-Aware Benchmark for Sustainable LLM Inference on Heterogeneous GPU Architectures",
-    "summary": "arXiv:2604.09048v1 Announce Type: cross Abstract: While the large energy consumption of Large Language Models (LLMs) is recognized by the community, system operators lack guidance for energy-efficient LLM inference deployments that leverage energy trade-offs of heterogeneous hardware due to a lack of energy-aware benchmarks and data. In this work w",
-    "url": "https://arxiv.org/abs/2604.09048",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
-  },
-  {
-    "title": "Learning Vision-Language-Action World Models for Autonomous Driving",
-    "summary": "arXiv:2604.09059v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models have recently achieved notable progress in end-to-end autonomous driving by integrating perception, reasoning, and control within a unified multimodal framework. However, they often lack explicit modeling of temporal dynamics and global world consistency, which li",
-    "url": "https://arxiv.org/abs/2604.09059",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
-  },
-  {
-    "title": "DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation",
-    "summary": "arXiv:2604.09089v1 Announce Type: cross Abstract: Large Language Models (LLMs) for code generation can replicate insecure patterns from their training data. To mitigate this, a common strategy for security hardening is to fine-tune models using supervision derived from the final transformer layer. However, this design may suffer from a final-layer ",
-    "url": "https://arxiv.org/abs/2604.09089",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
-  },
-  {
-    "title": "VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
-    "summary": "arXiv:2604.09529v1 Announce Type: cross Abstract: Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes domains. Existing verbalized confidence calibration methods, largely developed for text-only LLMs, typi",
-    "url": "https://arxiv.org/abs/2604.09529",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
-  },
-  {
-    "title": "Rethinking Prospect Theory for LLMs: Revealing the Instability of Decision-Making under Epistemic Uncertainty",
-    "summary": "arXiv:2508.08992v3 Announce Type: replace Abstract: Prospect Theory (PT) models human decision-making behaviour under uncertainty, among which linguistic uncertainty is commonly adopted in real-world scenarios. Although recent studies have developed some frameworks to test PT parameters for Large Language Models (LLMs), few have considered the fitn",
-    "url": "https://arxiv.org/abs/2508.08992",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-13T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-14T03:53:19.753544+00:00"
-  },
-  {
-    "title": "Man who firebombed Sam Altman's home was likely driven by AI extinction fears",
-    "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity to extinction. The article Man who firebombed Sam Altman&#039;s home was likely driven by AI extinction fears appeared first on The Decoder.",
-    "url": "https://the-decoder.com/man-who-firebombed-sam-altmans-home-was-likely-driven-by-ai-extinction-fears/",
-    "source": "The Decoder",
-    "published_at": "2026-04-12T15:04:58+00:00",
-    "score": 6,
-    "archived_at": "2026-04-13T04:03:10.888979+00:00"
-  },
-  {
-    "title": "OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans",
-    "summary": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up. The article OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/",
-    "source": "The Decoder",
-    "published_at": "2026-04-12T13:32:38+00:00",
-    "score": 6,
-    "archived_at": "2026-04-13T04:03:10.888979+00:00"
-  },
-  {
-    "title": "Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior",
-    "summary": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior. The article Anthropic seeks advice from Christian leaders on Claude&#039;s moral and spiritual behavior appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/",
-    "source": "The Decoder",
-    "published_at": "2026-04-12T11:25:54+00:00",
-    "score": 6,
-    "archived_at": "2026-04-13T04:03:10.888979+00:00"
-  },
-  {
-    "title": "Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks",
-    "summary": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks. The article Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks appeared first on The Decod",
-    "url": "https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/",
-    "source": "The Decoder",
-    "published_at": "2026-04-12T08:59:26+00:00",
-    "score": 6,
-    "archived_at": "2026-04-13T04:03:10.888979+00:00"
-  },
-  {
-    "title": "Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions",
-    "summary": "ChatGPT told a man with delusional beliefs he had the highest level of mental health, then helped him forge clinical reports to stalk and humiliate his ex-girlfriend. She's now suing OpenAI and says the company ignored three separate warnings. The article Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions appeared first ",
-    "url": "https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/",
-    "source": "The Decoder",
-    "published_at": "2026-04-12T07:43:23+00:00",
-    "score": 6,
-    "archived_at": "2026-04-13T04:03:10.888979+00:00"
-  },
-  {
-    "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
-    "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\" The article Someone threw a Molotov cocktail at OpenAI CEO Sam Altman&#039;s home in the middle of the night appeared first o",
-    "url": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/",
-    "source": "The Decoder",
-    "published_at": "2026-04-11T13:32:58+00:00",
-    "score": 6,
-    "archived_at": "2026-04-12T03:55:04.435554+00:00"
   }
 ]
