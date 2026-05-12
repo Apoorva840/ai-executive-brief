@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 11, 2026",
+    "last_updated": "May 12, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Continual Adaptation (CASCADE)",
-            "definition": "Continual adaptation is a paradigm shift where Large Language Models continue to learn and refine their parameters or internal knowledge bases after deployment. Instead of being 'frozen' post-training, the model uses case-based reasoning to integrate real-time feedback and new data streams into its operational logic.",
-            "analogy": "In a kitchen, this is like a chef who doesn't just follow a static recipe book from culinary school, but continuously tweaks the seasoning of a dish based on the specific acidity of today\u2019s tomatoes and the direct feedback from the diners in the room.",
-            "business_value": "This eliminates 'model rot' and the massive costs associated with full retraining cycles. For the CEO, it means your AI investment becomes more accurate and specialized the longer it is in production, directly increasing the ROI of proprietary data."
+            "term": "Mechanistic Interpretability (Causal Circuits)",
+            "definition": "A field of AI safety and research that attempts to reverse-engineer neural networks by identifying 'circuits'\u2014specific sub-graphs of neurons that perform discrete, human-understandable tasks. Rather than treating a Vision-Language Model as a black box, researchers use causal interventions to prove which hidden states and attention maps are actually responsible for a model's reliability.",
+            "analogy": "In a car, this is the difference between knowing that 'pressing the pedal makes it go' and having a full engineering schematic showing exactly how the electronic signal from the throttle opens the fuel injectors to generate torque.",
+            "business_value": "Shifts AI from 'probabilistic guesswork' to 'deterministic accountability.' For CEOs in regulated sectors like finance or healthcare, this provides the audit trail necessary to prove why a model made a specific decision, reducing liability and increasing trust."
         },
         {
-            "term": "Spectral Diagnostics for Agent Coalitions",
-            "definition": "This technique involves analyzing the internal mathematical representations (tensors) of multiple interacting AI agents to detect 'hidden coalitions' or emergent group-level behaviors. It uses spectral analysis to distinguish between agents that are merely reacting to the same data and those that have developed a deep, potentially unintended, functional alignment.",
-            "analogy": "Imagine a fleet of self-driving cars that starts moving in a tight, synchronized formation to reduce wind resistance. To an observer, they just look like they are driving fast, but a spectral diagnostic is like looking at the cars' internal radio frequencies to see if they have 'secretly' negotiated a convoy agreement without being told to.",
-            "business_value": "As enterprises deploy multi-agent systems for supply chains or trading, there is a risk of 'emergent cartels' that could bypass corporate governance. These diagnostics provide a critical audit layer for AI safety and regulatory compliance."
+            "term": "Spatial Priming",
+            "definition": "A methodology for Multimodal LLMs that uses grid-based coordinate systems to help models 'locate' data points within visual inputs like scientific charts. By anchoring the model's attention to specific spatial coordinates rather than just semantic text descriptions, it significantly improves accuracy in extracting structured data from unstructured visual sources.",
+            "analogy": "Imagine a sous-chef in a massive walk-in freezer. Semantic prompting is telling them 'find the saffron'; Spatial Priming is giving them the exact shelf number, row, and container position so they don't waste time looking at the wrong ingredients.",
+            "business_value": "Solves the 'last mile' problem of automated data entry. It allows enterprises to unlock massive amounts of trapped data from millions of legacy PDFs and charts with higher precision than human analysts, directly impacting operational efficiency."
         },
         {
-            "term": "Pre-Verbalization Commitment",
-            "definition": "Pre-verbalization commitment refers to the specific point during an LLM's internal processing where its final answer choice stabilizes, even before it has finished generating the 'Chain of Thought' text. This metric identifies when a model has 'made up its mind' internally, regardless of how much more reasoning it appears to be doing on the screen.",
-            "analogy": "It is like a professional driver approaching a sharp turn; their mind has committed to the steering angle and braking pressure seconds before the car actually enters the apex. The visible turn is just the execution of a decision made much earlier.",
-            "business_value": "Understanding commitment points allows for 'early-exit' computation. By cutting off a model once it has committed to a stable answer, firms can reduce GPU latency and token costs by 30-50% without sacrificing the quality of the final output."
+            "term": "Capability Elicitation",
+            "definition": "The process of using post-training techniques, such as Reinforcement Learning (RL), to 'unlock' or surface skills that a model already learned during its massive initial pre-training phase. It distinguishes itself from 'Capability Creation' by focusing on the probability of eliciting latent behaviors rather than teaching the model entirely new information.",
+            "analogy": "Think of it as hiring a world-class driver who already knows how to handle every car ever made, but using a specific 'driver's mode' setting to ensure they only drive in the precise, fuel-efficient style your company requires.",
+            "business_value": "Optimizes R&D spend. It suggests that many 'missing' AI features don't require expensive new training runs; instead, they require smarter 'elicitation' or fine-tuning of existing assets, potentially saving millions in compute costs."
         }
     ]
 }

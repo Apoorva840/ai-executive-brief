@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-05-17",
+    "last_updated": "2024-05-24",
     "papers": [
         {
-            "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
-            "innovation": "Proposes 'Case-Based Continual Adaptation' (CASCADE) as a mechanism for Large Language Models (LLMs) to learn and adapt continuously during their deployment phase, effectively breaking the rigid separation between training and inference. This enables LLMs to evolve with new data and scenarios in real-time.",
-            "benchmarks": "While not explicitly stated in the abstract, the paper's focus implies benchmarks would measure the efficiency and effectiveness of continuous learning, such as improved accuracy on new or shifting data distributions, reduced catastrophic forgetting, faster adaptation to novel tasks, and maintenance of performance over extended deployment periods compared to static models.",
-            "use_case": "Essential for AI engineers deploying LLMs in dynamic environments where models need to stay up-to-date, adapt to user feedback, or handle evolving data streams without requiring full retraining. Applicable to intelligent assistants, recommendation engines, customer support bots, and any LLM expected to learn post-deployment.",
-            "url": "https://arxiv.org/abs/2605.06702"
+            "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+            "innovation": "Introduces adaptive multi-granularity skill reuse to optimize cost and relevance for LLM agents. This approach tackles the practical challenge of managing complex skill libraries by allowing agents to select skills at appropriate levels of detail, avoiding costly and irrelevant invocations.",
+            "benchmarks": "Likely improved cost-efficiency (e.g., token usage) and sustained or enhanced task performance for LLM agents across various procedural tasks compared to flat skill libraries.",
+            "use_case": "Building cost-effective and scalable LLM agents that can efficiently reuse learned skills across a wide range of tasks, particularly in scenarios where computational resources are a concern or task complexity varies.",
+            "url": "https://arxiv.org/abs/2605.08386"
         },
         {
-            "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
-            "innovation": "Provides a comprehensive survey and structured overview of the diverse and fragmented landscape of memory mechanisms for LLM-based agents. It categorizes these mechanisms, tracing their evolution from simple storage to more complex 'experience'-driven systems, offering a unified understanding of a critical architectural component.",
-            "benchmarks": "As a survey, it synthesizes the findings and implicit benchmarks from existing research, which typically include metrics related to long-term knowledge retention, context window efficiency, accuracy in multi-turn interactions, generalization to new tasks based on past 'experience,' and the overall coherence and intelligence of agent behavior enabled by specific memory architectures.",
-            "use_case": "Invaluable for AI engineers designing and implementing complex LLM agents. It serves as a guide for selecting, combining, or developing novel memory architectures to build more intelligent, stateful, and persistent agents capable of sophisticated long-term reasoning and interaction.",
-            "url": "https://arxiv.org/abs/2605.06716"
+            "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
+            "innovation": "Proposes a framework for co-evolving compositional DAGs (Directed Acyclic Graphs) that represent tool libraries alongside the agent's planner. This addresses the critical engineering challenge of scaling tool-augmented agents by ensuring efficient retrieval and adaptation of tools as the library grows.",
+            "benchmarks": "Expected improvements in tool retrieval efficiency, scalability of tool libraries, and robust performance of tool-augmented agents on complex tasks with a growing set of available tools.",
+            "use_case": "Developing advanced, scalable tool-augmented LLM agents that need to manage, evolve, and efficiently utilize a large and growing repertoire of external tools and subroutines, crucial for complex real-world applications.",
+            "url": "https://arxiv.org/abs/2605.08399"
         },
         {
-            "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
-            "innovation": "Addresses the significant engineering challenges of creating scalable and reproducible training environments for visual web agents. It aims to overcome limitations of existing offline datasets or restricted simulated environments by providing robust infrastructure for data collection and agent training in the complex and dynamic web domain.",
-            "benchmarks": "This work would likely be benchmarked by its ability to facilitate the training of web agents that achieve higher task success rates across a wider variety of websites, demonstrate improved generalization to unseen web layouts, exhibit faster and more efficient data collection, and provide consistent, reproducible results across different training runs and environments.",
-            "use_case": "Crucial for AI engineers developing and testing visual web agents for tasks like web automation, data extraction, intelligent browsing, or accessibility tools. It provides the foundational tooling and methodology needed to build robust and reliable agents that can operate effectively in the real-world web.",
-            "url": "https://arxiv.org/abs/2605.06761"
+            "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+            "innovation": "Introduces 'Spatial Priming' and a 'Grid-Based Approach' to significantly improve the accuracy of multimodal LLMs in extracting data from scientific charts. This offers a concrete and effective method to overcome challenges with non-standardized chart data, outperforming traditional semantic prompting.",
+            "benchmarks": "Demonstrates superior accuracy in data extraction from various scientific charts, particularly non-standardized ones, compared to existing prompting strategies like semantic prompting.",
+            "use_case": "Automating the accurate extraction of numerical and categorical data from images of scientific charts, graphs, and plots. This is highly valuable for large-scale scientific literature analysis, data digitization, and enhancing data-driven research workflows.",
+            "url": "https://arxiv.org/abs/2605.08220"
         }
     ]
 }

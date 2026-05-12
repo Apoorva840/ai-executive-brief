@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 11, 2026",
+    "last_updated": "May 12, 2026",
     "tools": [
         {
-            "Name": "GenericAgent",
-            "Category": "AI Agents",
-            "Description": "A minimal, self-evolving autonomous agent framework that crystallizes execution paths into reusable skills.",
-            "Use_Case": "Automating system-level tasks such as web browsing, file management, and terminal operations.",
-            "URL": "https://github.com/lsdefine/GenericAgent"
-        },
-        {
             "Name": "CloakBrowser",
-            "Category": "Automation & Stealth",
-            "Description": "A stealth-focused Chromium browser with C++ source-level patches designed to pass bot detection.",
-            "Use_Case": "Reliable web scraping and automation in environments with strict anti-bot systems.",
+            "Category": "Browser Automation / Stealth",
+            "Description": "A stealth Chromium binary with source-level C++ patches to evade advanced bot detection systems.",
+            "Use_Case": "Automated web scraping and agent interactions on sites with high-security bot protection (e.g., Cloudflare, reCAPTCHA).",
             "URL": "https://github.com/CloakHQ/CloakBrowser"
         },
         {
-            "Name": "Open WebUI",
-            "Category": "AI Interface",
-            "Description": "A user-friendly, feature-rich, self-hosted web interface for LLMs supporting RAG and multiple backends.",
-            "Use_Case": "Managing and interacting with local or cloud-hosted AI models through a robust GUI.",
-            "URL": "https://github.com/open-webui/open-webui"
+            "Name": "Stable Diffusion Web UI",
+            "Category": "Generative AI / Image Synthesis",
+            "Description": "A comprehensive web interface for Stable Diffusion providing advanced image generation, editing, and restoration features.",
+            "Use_Case": "Local image generation, inpainting, outpainting, and AI-assisted art creation.",
+            "URL": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+        },
+        {
+            "Name": "oMLX",
+            "Category": "LLM Inference / Local AI",
+            "Description": "An optimized LLM inference server for Apple Silicon featuring continuous batching, tiered KV caching (RAM/SSD), and menu-bar management.",
+            "Use_Case": "Running local LLMs and vision models on macOS with high efficiency and low-latency prefix caching.",
+            "URL": "https://github.com/jundot/omlx"
         }
     ]
 }
