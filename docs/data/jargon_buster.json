@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 12, 2026",
+    "last_updated": "May 13, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Mechanistic Interpretability (Causal Circuits)",
-            "definition": "A field of AI safety and research that attempts to reverse-engineer neural networks by identifying 'circuits'\u2014specific sub-graphs of neurons that perform discrete, human-understandable tasks. Rather than treating a Vision-Language Model as a black box, researchers use causal interventions to prove which hidden states and attention maps are actually responsible for a model's reliability.",
-            "analogy": "In a car, this is the difference between knowing that 'pressing the pedal makes it go' and having a full engineering schematic showing exactly how the electronic signal from the throttle opens the fuel injectors to generate torque.",
-            "business_value": "Shifts AI from 'probabilistic guesswork' to 'deterministic accountability.' For CEOs in regulated sectors like finance or healthcare, this provides the audit trail necessary to prove why a model made a specific decision, reducing liability and increasing trust."
+            "term": "Mechanistic Causal Circuits",
+            "definition": "This research approach moves beyond observing 'attention maps' to identifying the specific neural sub-networks, or circuits, that govern model logic. By mapping these circuits, developers can determine if a model\u2019s output is driven by true reasoning or merely superficial pattern matching.",
+            "analogy": "In a car, an attention map is like a dashboard warning light; it tells you something is happening. A causal circuit is the actual physical wiring and sensors\u2014understanding it allows you to know exactly which fuse blew and why.",
+            "business_value": "Shifting from 'black box' AI to mechanistic transparency allows enterprises to audit model reliability for high-stakes decisions, significantly reducing the liability and 'hallucination' risks inherent in opaque systems."
         },
         {
-            "term": "Spatial Priming",
-            "definition": "A methodology for Multimodal LLMs that uses grid-based coordinate systems to help models 'locate' data points within visual inputs like scientific charts. By anchoring the model's attention to specific spatial coordinates rather than just semantic text descriptions, it significantly improves accuracy in extracting structured data from unstructured visual sources.",
-            "analogy": "Imagine a sous-chef in a massive walk-in freezer. Semantic prompting is telling them 'find the saffron'; Spatial Priming is giving them the exact shelf number, row, and container position so they don't waste time looking at the wrong ingredients.",
-            "business_value": "Solves the 'last mile' problem of automated data entry. It allows enterprises to unlock massive amounts of trapped data from millions of legacy PDFs and charts with higher precision than human analysts, directly impacting operational efficiency."
+            "term": "Auto-Rubric Reward Modeling",
+            "definition": "Traditional Reinforcement Learning from Human Feedback (RLHF) often collapses complex human preferences into a single numerical score. Auto-rubrics decompose these preferences into explicit, multi-dimensional generative criteria, allowing models to be trained against a structured set of rules rather than vague 'vibes.'",
+            "analogy": "Instead of telling a chef the meal was 'bad' (standard RLHF), an auto-rubric provides a detailed scorecard grading the saltiness, texture, and presentation separately. This allows the chef to fix the specific ingredient that failed.",
+            "business_value": "This enables companies to automate the alignment of AI with internal brand standards or regulatory requirements, creating more consistent outputs without the massive expense of constant human review."
         },
         {
-            "term": "Capability Elicitation",
-            "definition": "The process of using post-training techniques, such as Reinforcement Learning (RL), to 'unlock' or surface skills that a model already learned during its massive initial pre-training phase. It distinguishes itself from 'Capability Creation' by focusing on the probability of eliciting latent behaviors rather than teaching the model entirely new information.",
-            "analogy": "Think of it as hiring a world-class driver who already knows how to handle every car ever made, but using a specific 'driver's mode' setting to ensure they only drive in the precise, fuel-efficient style your company requires.",
-            "business_value": "Optimizes R&D spend. It suggests that many 'missing' AI features don't require expensive new training runs; instead, they require smarter 'elicitation' or fine-tuning of existing assets, potentially saving millions in compute costs."
+            "term": "Provenance-based Memory Agents",
+            "definition": "Current AI agents often treat past experiences as isolated files in a folder. Provenance-based memory uses Directed Acyclic Graphs (DAGs) to track the dependency chains of how one action led to another, applying Q-learning to optimize the agent's long-term decision-making strategy.",
+            "analogy": "A standard agent remembers that it bought flour; a provenance-based agent remembers it bought flour specifically because it intended to bake bread, and it tracks whether that bread eventually succeeded to decide if it should buy that brand of flour again.",
+            "business_value": "For the C-suite, this translates to 'autonomous efficiency.' Agents that learn from the success or failure of multi-step workflows reduce compute waste and increase the success rate of complex, automated business processes."
         }
     ]
 }

@@ -4,134 +4,134 @@
     "summary": "arXiv:2605.09981v1 Announce Type: cross Abstract: Multimodal models that jointly reason over protein sequences, structures, and function annotations within a unified representation hold immense potential for integrating multimodal data and generating new proteins with designed functional properties. To utilize transformer architectures, such models",
     "url": "https://arxiv.org/abs/2605.09981",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "AHD Agent: Agentic Reinforcement Learning for Automatic Heuristic Design",
     "summary": "arXiv:2605.08756v1 Announce Type: new Abstract: Automatic heuristic design (AHD) has emerged as a promising paradigm for solving NP-hard combinatorial optimization problems (COPs). Recent works show that large language models (LLMs), when integrated into well-designed frameworks (i.e., LLM-AHD), can autonomously discover high-performing heuristics.",
     "url": "https://arxiv.org/abs/2605.08756",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "A Prompt-Aware Structuring Framework for Reliable Reuse of AI-Generated Content in the Agentic Web",
     "summary": "arXiv:2605.09283v1 Announce Type: new Abstract: The evolution of Large Language Models (LLMs) and the software agents built on them (AI agents) marks a turning point in the transition from a human-centric Web to an ``Agentic Web'' driven by AI agents. However, for AI-Generated Content (AIGC), which is expected to dominate the Web, there is currentl",
     "url": "https://arxiv.org/abs/2605.09283",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "Beyond Accuracy: Evaluating Strategy Diversity in LLM Mathematical Reasoning",
     "summary": "arXiv:2605.09292v1 Announce Type: new Abstract: Large language models now achieve high final-answer accuracy on mathematical reasoning benchmarks, but accuracy alone does not capture reasoning flexibility. We introduce a strategy-level evaluation framework instantiated on 80 AMC 10/12 and AIME problems with 217 AoPS-derived reference strategy famil",
     "url": "https://arxiv.org/abs/2605.09292",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "Strategic Exploitation in LLM Agent Markets: A Simulation Framework for E-Commerce Trust",
     "summary": "arXiv:2605.10059v1 Announce Type: new Abstract: Agent-based modeling (ABM) has long been used in economics to study human behavior, and large language model (LLM) agents now enable new forms of social and economic simulation. While prior work has discovered strategic deception by LLM agents in financial trading and auction markets, e-commerce remai",
     "url": "https://arxiv.org/abs/2605.10059",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks",
     "summary": "arXiv:2605.10286v1 Announce Type: new Abstract: Building effective clinical decision support systems requires the synthesis of complex heterogeneous multimodal data. Such modalities include temporal electronic health records data, medical images, radiology reports, and clinical notes. Large language model (LLM)-based agents have shown impressive pe",
     "url": "https://arxiv.org/abs/2605.10286",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "GuardAD: Safeguarding Autonomous Driving MLLMs via Markovian Safety Logic",
     "summary": "arXiv:2605.10386v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) are increasingly integrated into autonomous driving (AD) systems; however, they remain vulnerable to diverse safety threats, particularly in accident-prone scenarios. Recent safeguard mechanisms have shown promise by incorporating logical constraints, yet most ",
     "url": "https://arxiv.org/abs/2605.10386",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "Probing Cross-modal Information Hubs in Audio-Visual LLMs",
-    "summary": "arXiv:2605.10815v1 Announce Type: new Abstract: Audio-visual large language models (AVLLMs) have recently emerged as a powerful architecture capable of jointly reasoning over audio, visual, and textual modalities. In AVLLMs, the bidirectional interaction between audio and video modalities introduces intricate processing dynamics, necessitating a de",
+    "summary": "arXiv:2605.10815v2 Announce Type: new Abstract: Audio-visual large language models (AVLLMs) have recently emerged as a powerful architecture capable of jointly reasoning over audio, visual, and textual modalities. In AVLLMs, the bidirectional interaction between audio and video modalities introduces intricate processing dynamics, necessitating a de",
     "url": "https://arxiv.org/abs/2605.10815",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "Neuroscience-Inspired Analyses of Visual Interestingness in Multimodal Transformers",
     "summary": "arXiv:2605.08188v1 Announce Type: cross Abstract: Human attention is the gateway to conscious perception, memory and decision-making. However, its role in modern transformer models remains largely unexplored. As these systems increasingly influence what people see, prefer and buy, the question arises as to whether they encode principles of human in",
     "url": "https://arxiv.org/abs/2605.08188",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "When Attention Beats Fourier: Multi-Scale Transformers for PDE Solving on Irregular Domains",
     "summary": "arXiv:2605.08318v1 Announce Type: cross Abstract: We study the problem of \\emph{architecture selection} for deep learning models trained to solve partial differential equations (PDEs), asking when transformer-based architectures with learned attention outperform Fourier-domain neural operators. We introduce the \\textbf{Multi-Scale Attention Transfo",
     "url": "https://arxiv.org/abs/2605.08318",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "A Semantic-Sampling Framework for Evaluating Calibration in Open-Ended Question Answering",
     "summary": "arXiv:2605.08432v1 Announce Type: cross Abstract: Calibration measures whether a model's predicted confidence aligns with its empirical accuracy, and is central to the reliable deployment of large language models (LLMs) in high-stakes domains such as medicine and law. While much recent work focuses on improving LLM calibration, the equally importan",
     "url": "https://arxiv.org/abs/2605.08432",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "Narrative Landscape: Mapping Narrative Dispositions Across LLMs",
     "summary": "arXiv:2605.08742v1 Announce Type: cross Abstract: This study proposes a quantitative framework for profiling LLM dispositions as stable, model-specific regularities in output under repeated, controlled elicitation. Using a structured narrative constraint-selection task administered across six frontier models and three instruction types, we operatio",
     "url": "https://arxiv.org/abs/2605.08742",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "PPU-Bench:Real World Benchmark for Personalized Partial Unlearning in Vision Language Models",
     "summary": "arXiv:2605.08800v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) may memorize sensitive cross-modal information during pretraining. However, existing MLLM unlearning benchmarks rely on synthetic knowledge injection or complete subject-level deletion, which fail to capture realistic, personalized deletion requests that requ",
     "url": "https://arxiv.org/abs/2605.08800",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "Tracking the Truth: Object-Centric Spatio-Temporal Monitoring for Video Large Language Models",
     "summary": "arXiv:2605.08974v1 Announce Type: cross Abstract: While multimodal large language models (MLLMs) have advanced video understanding, they remain highly prone to hallucinations in dynamic scenes. We argue this stems from a failure in spatio-temporal monitoring, the ability to persistently track object identities, states, and relations over time. Exis",
     "url": "https://arxiv.org/abs/2605.08974",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   },
   {
     "title": "A Communication-Theoretic Framework for LLM Agents: Cost-Aware Adaptive Reliability",
     "summary": "arXiv:2605.09121v1 Announce Type: cross Abstract: Agents built on large language models (LLMs) rely on a range of reliability techniques, including retry, majority voting, and self-consistency, that have been developed in parallel rather than within a common analytical framework. We observe that an LLM sampled at temperature $T$ is a discrete stoch",
     "url": "https://arxiv.org/abs/2605.09121",
     "source": "Arxiv AI",
-    "published_at": "2026-05-12T04:00:00+00:00",
+    "published_at": "2026-05-13T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-12T04:18:16.630144+00:00"
+    "archived_at": "2026-05-13T04:33:38.311648+00:00"
   }
 ]

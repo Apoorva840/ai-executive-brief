@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 12, 2026",
+    "last_updated": "May 13, 2026",
     "tools": [
         {
-            "Name": "CloakBrowser",
-            "Category": "Browser Automation / Stealth",
-            "Description": "A stealth Chromium binary with source-level C++ patches to evade advanced bot detection systems.",
-            "Use_Case": "Automated web scraping and agent interactions on sites with high-security bot protection (e.g., Cloudflare, reCAPTCHA).",
-            "URL": "https://github.com/CloakHQ/CloakBrowser"
+            "Name": "LiteLLM",
+            "Category": "AI Development Infrastructure",
+            "Description": "A unified AI gateway and Python SDK for calling over 100 LLM providers in a standard OpenAI format.",
+            "Use_Case": "Unified interface for swapping LLM providers without rewriting code, adding cost tracking, and managing load balancing.",
+            "URL": "https://github.com/BerriAI/litellm"
         },
         {
-            "Name": "Stable Diffusion Web UI",
-            "Category": "Generative AI / Image Synthesis",
-            "Description": "A comprehensive web interface for Stable Diffusion providing advanced image generation, editing, and restoration features.",
-            "Use_Case": "Local image generation, inpainting, outpainting, and AI-assisted art creation.",
-            "URL": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+            "Name": "Open Interpreter",
+            "Category": "AI Agent / Automation",
+            "Description": "A natural language interface that allows LLMs to execute code (Python, JavaScript, Shell) locally on your computer.",
+            "Use_Case": "Controlling the computer's general-purpose capabilities through natural language for file manipulation, browser research, and data analysis.",
+            "URL": "https://github.com/openinterpreter/open-interpreter"
         },
         {
-            "Name": "oMLX",
-            "Category": "LLM Inference / Local AI",
-            "Description": "An optimized LLM inference server for Apple Silicon featuring continuous batching, tiered KV caching (RAM/SSD), and menu-bar management.",
-            "Use_Case": "Running local LLMs and vision models on macOS with high efficiency and low-latency prefix caching.",
-            "URL": "https://github.com/jundot/omlx"
+            "Name": "Transformers",
+            "Category": "Machine Learning Framework",
+            "Description": "A foundational model-definition framework providing state-of-the-art pretrained models for text, vision, audio, and multimodal tasks.",
+            "Use_Case": "Serving as the central pivot for model definitions used by various inference engines and training frameworks across the AI ecosystem.",
+            "URL": "https://github.com/huggingface/transformers"
         }
     ]
 }
