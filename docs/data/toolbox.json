@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 13, 2026",
+    "last_updated": "May 14, 2026",
     "tools": [
         {
-            "Name": "LiteLLM",
-            "Category": "AI Development Infrastructure",
-            "Description": "A unified AI gateway and Python SDK for calling over 100 LLM providers in a standard OpenAI format.",
-            "Use_Case": "Unified interface for swapping LLM providers without rewriting code, adding cost tracking, and managing load balancing.",
-            "URL": "https://github.com/BerriAI/litellm"
+            "Name": "Scientific Agent Skills",
+            "Category": "Scientific Research & AI Agents",
+            "Description": "A comprehensive collection of 135 ready-to-use skills for AI agents, covering genomics, drug discovery, and data analysis.",
+            "Use_Case": "Automating complex, multi-step scientific research workflows and data analysis pipelines using AI agents.",
+            "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
         },
         {
-            "Name": "Open Interpreter",
-            "Category": "AI Agent / Automation",
-            "Description": "A natural language interface that allows LLMs to execute code (Python, JavaScript, Shell) locally on your computer.",
-            "Use_Case": "Controlling the computer's general-purpose capabilities through natural language for file manipulation, browser research, and data analysis.",
-            "URL": "https://github.com/openinterpreter/open-interpreter"
+            "Name": "CloakBrowser",
+            "Category": "Web Automation & Security",
+            "Description": "A stealth Chromium binary designed to pass bot detection at the source level using C++ patches.",
+            "Use_Case": "Reliable web scraping and browser automation that bypasses advanced anti-bot systems like Cloudflare Turnstile and reCAPTCHA v3.",
+            "URL": "https://github.com/CloakHQ/CloakBrowser"
         },
         {
-            "Name": "Transformers",
-            "Category": "Machine Learning Framework",
-            "Description": "A foundational model-definition framework providing state-of-the-art pretrained models for text, vision, audio, and multimodal tasks.",
-            "Use_Case": "Serving as the central pivot for model definitions used by various inference engines and training frameworks across the AI ecosystem.",
-            "URL": "https://github.com/huggingface/transformers"
+            "Name": "PraisonAI",
+            "Category": "AI Agent Orchestration",
+            "Description": "A framework for building autonomous, self-improving multi-agent systems with built-in memory and RAG.",
+            "Use_Case": "Deploying autonomous agent workforces for tasks like research, coding, and business workflow automation.",
+            "URL": "https://github.com/MervinPraison/PraisonAI"
         }
     ]
 }
