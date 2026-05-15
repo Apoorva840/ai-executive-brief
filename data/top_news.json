@@ -1,42 +1,42 @@
 [
   {
-    "title": "Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion",
-    "summary": "arXiv:2605.12825v1 Announce Type: cross Abstract: We introduce Orthrus, a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token generation of diffusion models. The sequential nature of standard autoregressive decoding represents a",
-    "url": "https://arxiv.org/abs/2605.12825",
+    "title": "LoRA in LoRA: Towards Parameter-Efficient Architecture Expansion for Continual Visual Instruction Tuning",
+    "summary": "arXiv:2508.06202v2 Announce Type: replace-cross Abstract: Continual Visual Instruction Tuning (CVIT) enables Multimodal Large Language Models (MLLMs) to incrementally learn new tasks over time. However, this process is challenged by catastrophic forgetting, where performance on previously learned tasks deteriorates as the model adapts to new ones. ",
+    "url": "https://arxiv.org/abs/2508.06202",
     "source": "Arxiv AI",
-    "published_at": "2026-05-14T04:00:00+00:00",
+    "published_at": "2026-05-15T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Luma opens Uni-1.1 image model API at prices and quality matching OpenAI and Google",
-    "summary": "Luma is making its Uni-1.1 image model available via API, with prices starting at $0.04 per image at 2,048-pixel resolution. On the Arena leaderboard, the model ranks third, right behind Google and OpenAI. The API includes web search, built-in reasoning, and support for up to nine reference images. The article Luma opens Uni-1.1 image model API at ",
-    "url": "https://the-decoder.com/luma-opens-uni-1-1-image-model-api-at-prices-and-quality-matching-openai-and-google/",
-    "source": "The Decoder",
-    "published_at": "2026-05-13T15:45:46+00:00",
-    "score": 7
-  },
-  {
-    "title": "GridSFM: A new, small foundation model for the electric grid",
-    "summary": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health. The post GridSFM: A new, small foundation model for the electric grid appeared first on Microsof",
-    "url": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
-    "source": "Microsoft Research",
-    "published_at": "2026-05-13T16:00:20+00:00",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-05-14T18:55:01+00:00",
     "score": 6
   },
   {
-    "title": "Tencent plans to ramp up AI spending as China's chip supply allegedly improves",
-    "summary": "Tencent plans to significantly boost AI infrastructure spending in the second half of 2026, as Chinese chipmakers ramp up domestic AI chip production. The company also posted strong first-quarter results and is in talks for a stake in Deepseek. The article Tencent plans to ramp up AI spending as China&#039;s chip supply allegedly improves appeared ",
-    "url": "https://the-decoder.com/tencent-plans-to-ramp-up-ai-spending-as-chinas-chip-supply-allegedly-improves/",
-    "source": "The Decoder",
-    "published_at": "2026-05-13T18:46:46+00:00",
-    "score": 6
-  },
-  {
-    "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
-    "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
-    "url": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+    "title": "The Real Losers of the Musk v. Altman Trial",
+    "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+    "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
     "source": "Wired AI",
-    "published_at": "2026-05-13T21:58:47+00:00",
+    "published_at": "2026-05-15T00:49:53+00:00",
+    "score": 5
+  },
+  {
+    "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+    "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+    "url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+    "source": "Wired AI",
+    "published_at": "2026-05-14T20:27:34+00:00",
+    "score": 5
+  },
+  {
+    "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+    "summary": "British technology company Humanoid will deploy humanoid robots at factories operated by German industrial supplier Schaeffler, Reuters reported. The two companies&#8217; agreement covers an estimated 1,000 to 2,000 robots in Schaeffler&#8217;s global manufacturing sites by 2032, according to a Humanoid spokesperson. The companies have not disclose",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+    "source": "AI News",
+    "published_at": "2026-05-14T10:00:00+00:00",
     "score": 5
   }
 ]

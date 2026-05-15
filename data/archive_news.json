@@ -1,5 +1,140 @@
 [
   {
+    "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+    "summary": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and dete",
+    "url": "https://arxiv.org/abs/2605.13848",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+    "summary": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disam",
+    "url": "https://arxiv.org/abs/2605.13850",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "OmniDrop: Layer-wise Token Pruning for Omni-modal LLMs via Query-Guidance",
+    "summary": "arXiv:2605.14458v1 Announce Type: new Abstract: Omni-modal large language models have demonstrated remarkable potential in holistic multimodal understanding; however, the token explosion caused by high-resolution audio and video inputs remains a critical bottleneck for real-time applications and long-form reasoning. Existing omni-modal token compre",
+    "url": "https://arxiv.org/abs/2605.14458",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "A Heterogeneous Temporal Memory Governance Framework for Long-Term LLM Persona Consistency",
+    "summary": "arXiv:2605.14802v1 Announce Type: new Abstract: Large language models often suffer from fact loss, timeline confusion, persona drift, and reduced stability during long-range interaction, especially under high-noise knowledge bases, context clearing, and cross-model transfer. To address these issues, we introduce ARPM, an external temporal memory go",
+    "url": "https://arxiv.org/abs/2605.14802",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "Small, Private Language Models as Teammates for Educational Assessment Design",
+    "summary": "arXiv:2605.15015v1 Announce Type: new Abstract: Generative AI increasingly supports educational design tasks, e.g., through Large Language Models (LLMs), demonstrating the capability to design assessment questions that are aligned with pedagogical frameworks (e.g., Bloom's taxonomy). However, they often rely on subjective or limited evaluation meth",
+    "url": "https://arxiv.org/abs/2605.15015",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "Orchard: An Open-Source Agentic Modeling Framework",
+    "summary": "arXiv:2605.15040v1 Announce Type: new Abstract: Agentic modeling aims to transform LLMs into autonomous agents capable of solving complex tasks through planning, reasoning, tool use, and multi-turn interaction with environments. Despite major investment, open research remains constrained by infrastructure and training gaps. Many high-performing sys",
+    "url": "https://arxiv.org/abs/2605.15040",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "Case-Based Calibration of Adaptive Reasoning and Execution for LLM Tool Use",
+    "summary": "arXiv:2605.15041v1 Announce Type: new Abstract: Tool use extends large language models beyond parametric knowledge, but reliable execution requires balancing appropriate reasoning depth with strict structural validity. We approach this problem from a case-based perspective to present CAST, a case-driven framework that treats historical execution tr",
+    "url": "https://arxiv.org/abs/2605.15041",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "APWA: A Distributed Architecture for Parallelizable Agentic Workflows",
+    "summary": "arXiv:2605.15132v1 Announce Type: new Abstract: Autonomous multi-agent systems based on large language models (LLMs) have demonstrated remarkable abilities in independently solving complex tasks in a wide breadth of application domains. However, these systems hit critical reasoning, coordination, and computational scaling bottlenecks as the size an",
+    "url": "https://arxiv.org/abs/2605.15132",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "Multi-Scale Dequant: Eliminating Dequantization Bottleneck via Activation Decomposition for Efficient LLM Inference",
+    "summary": "arXiv:2605.13915v1 Announce Type: cross Abstract: Quantization is essential for efficient large language model (LLM) inference, yet the dequantization step-converting low-bit weights back to high-precision for matrix multiplication has become a critical bottleneck on modern AI accelerators. On architectures with decoupled compute units (e.g., Ascen",
+    "url": "https://arxiv.org/abs/2605.13915",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "Diagnosing Training Inference Mismatch in LLM Reinforcement Learning",
+    "summary": "arXiv:2605.14220v1 Announce Type: cross Abstract: Modern LLM RL systems separate rollout generation from policy optimization. These two stages are expected to produce token probabilities that match exactly. However, implementation differences can make them assign different values to the same sequence under the same model weights, inducing Training-",
+    "url": "https://arxiv.org/abs/2605.14220",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "Contestable Multi-Agent Debate with Arena-based Argumentative Computation for Multimedia Verification",
+    "summary": "arXiv:2605.14495v1 Announce Type: cross Abstract: Multimedia verification requires not only accurate conclusions but also transparent and contestable reasoning. We propose a contestable multi-agent framework that integrates multimodal large language models, external verification tools, and arena-based quantitative bipolar argumentation (A-QBAF) as ",
+    "url": "https://arxiv.org/abs/2605.14495",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "MultiEmo-Bench: Multi-label Visual Emotion Analysis for Multi-modal Large Language Models",
+    "summary": "arXiv:2605.14635v1 Announce Type: cross Abstract: This paper introduces a multi-label visual emotion analysis benchmark dataset for comprehensively evaluating the ability of multimodal large language models (MLLMs) to predict the emotions evoked by images. Recent user studies report an unintuitive finding: humans may prefer the predictions of MLLMs",
+    "url": "https://arxiv.org/abs/2605.14635",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "MHSA: A Lightweight Framework for Mitigating Hallucinations via Steered Attention in LVLMs",
+    "summary": "arXiv:2605.14966v1 Announce Type: cross Abstract: Large vision-language models (LVLMs) have achieved remarkable performance across diverse multimodal tasks, yet they continue to suffer from hallucinations, generating content that is inconsistent with the visual input. Prior work DHCP (Detecting Hallucinations by Cross-modal Attention Pattern) has e",
+    "url": "https://arxiv.org/abs/2605.14966",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "Graph of States: Solving Abductive Tasks with Large Language Models",
+    "summary": "arXiv:2603.21250v2 Announce Type: replace Abstract: Logical reasoning encompasses deduction, induction, and abduction. However, while Large Language Models (LLMs) have effectively mastered the former two, abductive reasoning remains significantly underexplored. Existing frameworks, predominantly designed for static deductive tasks, fail to generali",
+    "url": "https://arxiv.org/abs/2603.21250",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
+    "title": "Attractor Geometry of Transformer Memory: From Conflict Arbitration to Confident Hallucination",
+    "summary": "arXiv:2605.05686v2 Announce Type: replace Abstract: Language models draw on two knowledge sources: facts baked into weights (parametric memory, PM) and information in context (working memory, WM). We study two mechanistically distinct failure modes--conflict, when PM and WM disagree and interfere; and hallucination, when the queried fact was never ",
+    "url": "https://arxiv.org/abs/2605.05686",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+  },
+  {
     "title": "Seg-Agent: Test-Time Multimodal Reasoning for Training-Free Language-Guided Segmentation",
     "summary": "arXiv:2605.12953v1 Announce Type: cross Abstract: Language-guided segmentation transcends the scope limitations of traditional semantic segmentation, enabling models to segment arbitrary target regions based on natural language instructions. Existing approaches typically adopt a two-stage framework: employing Multimodal Large Language Models (MLLMs",
     "url": "https://arxiv.org/abs/2605.12953",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-04-19T13:08:17+00:00",
     "score": 6,
     "archived_at": "2026-04-20T04:01:52.992380+00:00"
-  },
-  {
-    "title": "First token counts reveal Opus 4.7 costs significantly more than 4.6 despite Anthropic's flat pricing",
-    "summary": "Anthropic's Opus 4.7 matches its predecessor's per-token price, but each request ends up costing significantly more. The reason: a new tokenizer that breaks the same text into up to 47 percent more tokens. Early measurements show what that shift means in practice for Claude Code users. The article First token counts reveal Opus 4.7 costs significan",
-    "url": "https://the-decoder.com/first-token-counts-reveal-opus-4-7-costs-significantly-more-than-4-6-despite-anthropics-flat-pricing/",
-    "source": "The Decoder",
-    "published_at": "2026-04-19T10:01:53+00:00",
-    "score": 6,
-    "archived_at": "2026-04-20T04:01:52.992380+00:00"
-  },
-  {
-    "title": "AI-generated influencers flood social media with pro-Trump content ahead of midterms",
-    "summary": "Hundreds of AI avatars are flooding TikTok, Instagram, and YouTube with pro-Trump messaging. Some accounts have pulled in more than 35,000 followers and millions of views, and Trump himself has already shared AI-generated content. It's unclear whether this is the work of individual activists or a coordinated campaign. The article AI-generated influ",
-    "url": "https://the-decoder.com/ai-generated-influencers-flood-social-media-with-pro-trump-content-ahead-of-midterms/",
-    "source": "The Decoder",
-    "published_at": "2026-04-19T09:07:54+00:00",
-    "score": 6,
-    "archived_at": "2026-04-20T04:01:52.992380+00:00"
-  },
-  {
-    "title": "Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study",
-    "summary": "A research team developed an OpenClaw agent for smart glasses to find out how continuously perceiving AI changes the way people use agentic AI systems. The article Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study appeared first on The Decoder.",
-    "url": "https://the-decoder.com/always-on-ray-ban-meta-glasses-powered-by-openclaw-speed-up-everyday-tasks-in-new-study/",
-    "source": "The Decoder",
-    "published_at": "2026-04-19T07:55:33+00:00",
-    "score": 6,
-    "archived_at": "2026-04-20T04:01:52.992380+00:00"
-  },
-  {
-    "title": "Salesforce CEO Marc Benioff says APIs are the new UI for AI agents",
-    "summary": "Salesforce is opening its entire platform to AI agents. With \"Headless 360,\" the API becomes the user interface and the browser becomes obsolete. CEO Marc Benioff is putting into practice exactly what OpenAI's Sam Altman recently called an inevitable shift. The article Salesforce CEO Marc Benioff says APIs are the new UI for AI agents appeared firs",
-    "url": "https://the-decoder.com/salesforce-ceo-marc-benioff-says-apis-are-the-new-ui-for-ai-agents/",
-    "source": "The Decoder",
-    "published_at": "2026-04-18T13:06:19+00:00",
-    "score": 6,
-    "archived_at": "2026-04-19T03:59:19.936162+00:00"
-  },
-  {
-    "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
-    "summary": "Anthropic CEO Dario Amodei sees no limits to AI scaling and is urging the industry not to downplay the risk of job losses, but to make the upside big enough to offset the disruption. The article Anthropic CEO Amodei declares &quot;there is no end to the rainbow&quot; for AI scaling appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropic-ceo-amodei-declares-there-is-no-end-to-the-rainbow-for-ai-scaling/",
-    "source": "The Decoder",
-    "published_at": "2026-04-18T10:17:28+00:00",
-    "score": 6,
-    "archived_at": "2026-04-19T03:59:19.936162+00:00"
-  },
-  {
-    "title": "Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding",
-    "summary": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI that improves itself. The article Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding appeare",
-    "url": "https://the-decoder.com/self-improving-ai-startup-recursive-superintelligence-pulls-in-500-million-just-four-months-after-founding/",
-    "source": "The Decoder",
-    "published_at": "2026-04-18T09:32:57+00:00",
-    "score": 6,
-    "archived_at": "2026-04-19T03:59:19.936162+00:00"
-  },
-  {
-    "title": "OpenAI loses three executives in one swoop as restructuring reshapes its product lineup",
-    "summary": "Three high-profile executives are walking away from OpenAI. The departures come as the company restructures and doubles down on coding and enterprise customers. The article OpenAI loses three executives in one swoop as restructuring reshapes its product lineup appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-loses-three-executives-in-one-swoop-as-restructuring-reshapes-its-product-lineup/",
-    "source": "The Decoder",
-    "published_at": "2026-04-18T07:20:45+00:00",
-    "score": 6,
-    "archived_at": "2026-04-19T03:59:19.936162+00:00"
-  },
-  {
-    "title": "Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds",
-    "summary": "Just 10 to 15 minutes with an AI assistant is enough to measurably weaken problem-solving ability and persistence on later tasks done without AI, according to a new study from researchers in the US and UK. The article Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds appeared first on The",
-    "url": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/",
-    "source": "The Decoder",
-    "published_at": "2026-04-18T12:45:14+00:00",
-    "score": 5,
-    "archived_at": "2026-04-19T03:59:19.936162+00:00"
-  },
-  {
-    "title": "Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI infrastructure",
-    "summary": "Meta is preparing to cut around 8,000 jobs on May 20, with a second wave planned for later this year. In total, more than 20 percent of the workforce could be let go as the company moves to offset its massive AI spending. The article Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI inf",
-    "url": "https://the-decoder.com/zuckerberg-reportedly-trades-headcount-for-compute-as-meta-readies-to-cut-10-percent-of-its-workforce-to-fund-ai-infrastructure/",
-    "source": "The Decoder",
-    "published_at": "2026-04-18T08:05:35+00:00",
-    "score": 5,
-    "archived_at": "2026-04-19T03:59:19.936162+00:00"
-  },
-  {
-    "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
-    "summary": "arXiv:2604.14178v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable capabilities in reasoning and tool use, yet they often suffer from rigid, reactive control flows that limit their adaptability and efficiency. Most existing frameworks rely on fixed pipelines or failure-triggered reflection, causing agents",
-    "url": "https://arxiv.org/abs/2604.14178",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-17T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-18T03:40:53.680763+00:00"
-  },
-  {
-    "title": "GDPR Auto-Formalization with AI Agents and Human Verification",
-    "summary": "arXiv:2604.14607v1 Announce Type: new Abstract: We study the overall process of automatic formalization of GDPR provisions using large language models, within a human-in-the-loop verification framework. Rather than aiming for full autonomy, we adopt a role-specialized workflow in which LLM-based AI components, operating in a multi-agent setting wit",
-    "url": "https://arxiv.org/abs/2604.14607",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-17T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-18T03:40:53.680763+00:00"
-  },
-  {
-    "title": "MirrorBench: Evaluating Self-centric Intelligence in MLLMs by Introducing a Mirror",
-    "summary": "arXiv:2604.14785v1 Announce Type: new Abstract: Recent progress in Multimodal Large Language Models (MLLMs) has demonstrated remarkable advances in perception and reasoning, suggesting their potential for embodied intelligence. While recent studies have evaluated embodied MLLMs in interactive settings, current benchmarks mainly target capabilities ",
-    "url": "https://arxiv.org/abs/2604.14785",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-17T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-18T03:40:53.680763+00:00"
-  },
-  {
-    "title": "Stateful Evidence-Driven Retrieval-Augmented Generation with Iterative Reasoning",
-    "summary": "arXiv:2604.14170v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) grounds Large Language Models (LLMs) in external knowledge but often suffers from flat context representations and stateless retrieval, leading to unstable performance. We propose Stateful Evidence-Driven RAG with Iterative Reasoning, a framework that models ques",
-    "url": "https://arxiv.org/abs/2604.14170",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-17T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-18T03:40:53.680763+00:00"
-  },
-  {
-    "title": "The PICCO Framework for Large Language Model Prompting: A Taxonomy and Reference Architecture for Prompt Structure",
-    "summary": "arXiv:2604.14197v1 Announce Type: cross Abstract: Large language model (LLM) performance depends heavily on prompt design, yet prompt construction is often described and applied inconsistently. Our purpose was to derive a reference framework for structuring LLM prompts. This paper presents PICCO, a framework derived through a rigorous synthesis of ",
-    "url": "https://arxiv.org/abs/2604.14197",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-17T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-18T03:40:53.680763+00:00"
-  },
-  {
-    "title": "VeriGraphi: A Multi-Agent Framework of Hierarchical RTL Generation for Large Hardware Designs",
-    "summary": "arXiv:2604.14550v1 Announce Type: cross Abstract: Generating synthesizable Verilog for large, hierarchical hardware designs remains a significant challenge for large language models (LLMs), which struggle to replicate the structured reasoning that human experts employ when translating complex specifications into RTL. When tasked with producing hier",
-    "url": "https://arxiv.org/abs/2604.14550",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-17T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-18T03:40:53.680763+00:00"
   }
 ]

@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 14, 2026",
+    "last_updated": "May 15, 2026",
     "tools": [
         {
             "Name": "Scientific Agent Skills",
-            "Category": "Scientific Research & AI Agents",
-            "Description": "A comprehensive collection of 135 ready-to-use skills for AI agents, covering genomics, drug discovery, and data analysis.",
-            "Use_Case": "Automating complex, multi-step scientific research workflows and data analysis pipelines using AI agents.",
+            "Category": "Scientific Research",
+            "Description": "A collection of 135+ ready-to-use scientific skills for AI agents, covering genomics, drug discovery, and clinical research.",
+            "Use_Case": "Automating complex multi-step scientific workflows like virtual drug screening or single-cell RNA-seq analysis.",
             "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
         },
         {
-            "Name": "CloakBrowser",
-            "Category": "Web Automation & Security",
-            "Description": "A stealth Chromium binary designed to pass bot detection at the source level using C++ patches.",
-            "Use_Case": "Reliable web scraping and browser automation that bypasses advanced anti-bot systems like Cloudflare Turnstile and reCAPTCHA v3.",
-            "URL": "https://github.com/CloakHQ/CloakBrowser"
+            "Name": "PraisonAI",
+            "Category": "Multi-Agent Systems",
+            "Description": "An orchestration framework for hiring and deploying 24/7 autonomous AI workforces with built-in memory and RAG.",
+            "Use_Case": "Deploying self-improving teams of agents to perform research, coding, and workflow automation in 5 lines of code.",
+            "URL": "https://github.com/MervinPraison/PraisonAI"
         },
         {
-            "Name": "PraisonAI",
-            "Category": "AI Agent Orchestration",
-            "Description": "A framework for building autonomous, self-improving multi-agent systems with built-in memory and RAG.",
-            "Use_Case": "Deploying autonomous agent workforces for tasks like research, coding, and business workflow automation.",
-            "URL": "https://github.com/MervinPraison/PraisonAI"
+            "Name": "CloakBrowser",
+            "Category": "Stealth Automation",
+            "Description": "A stealth Chromium binary that bypasses bot detection at the C++ source level, serving as a drop-in Playwright/Puppeteer replacement.",
+            "Use_Case": "Automating web interactions on highly protected sites (e.g., Cloudflare Turnstile, reCAPTCHA v3) without getting blocked.",
+            "URL": "https://github.com/CloakHQ/CloakBrowser"
         }
     ]
 }
