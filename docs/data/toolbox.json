@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 15, 2026",
+    "last_updated": "May 16, 2026",
     "tools": [
         {
-            "Name": "Scientific Agent Skills",
-            "Category": "Scientific Research",
-            "Description": "A collection of 135+ ready-to-use scientific skills for AI agents, covering genomics, drug discovery, and clinical research.",
-            "Use_Case": "Automating complex multi-step scientific workflows like virtual drug screening or single-cell RNA-seq analysis.",
-            "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
-        },
-        {
-            "Name": "PraisonAI",
-            "Category": "Multi-Agent Systems",
-            "Description": "An orchestration framework for hiring and deploying 24/7 autonomous AI workforces with built-in memory and RAG.",
-            "Use_Case": "Deploying self-improving teams of agents to perform research, coding, and workflow automation in 5 lines of code.",
-            "URL": "https://github.com/MervinPraison/PraisonAI"
+            "Name": "MinerU",
+            "Category": "Document Parsing",
+            "Description": "A high-accuracy document parsing engine that converts PDFs, Office docs (DOCX, PPTX, XLSX), and images into structured Markdown/JSON.",
+            "Use_Case": "Converting complex scientific or professional documents into LLM-ready formats for RAG and agentic workflows.",
+            "URL": "https://github.com/opendatalab/MinerU"
         },
         {
             "Name": "CloakBrowser",
-            "Category": "Stealth Automation",
-            "Description": "A stealth Chromium binary that bypasses bot detection at the C++ source level, serving as a drop-in Playwright/Puppeteer replacement.",
-            "Use_Case": "Automating web interactions on highly protected sites (e.g., Cloudflare Turnstile, reCAPTCHA v3) without getting blocked.",
+            "Category": "Browser Automation",
+            "Description": "A stealth Chromium binary that passes advanced bot detection by patching fingerprints at the C++ source level.",
+            "Use_Case": "Bypassing anti-bot systems in scraping tasks or automated browser testing without JS injection or configuration hacks.",
             "URL": "https://github.com/CloakHQ/CloakBrowser"
+        },
+        {
+            "Name": "Scientific Agent Skills",
+            "Category": "AI Agent Productivity",
+            "Description": "A collection of 135 ready-to-use scientific skills for AI agents, covering genomics, drug discovery, and data analysis.",
+            "Use_Case": "Transforming general-purpose AI coding agents into specialized research assistants for complex scientific pipelines.",
+            "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 15, 2026",
+    "last_updated": "May 16, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Engine-Led Agentic Orchestration",
-            "definition": "Unlike traditional prompted orchestration where an LLM decides its next step on the fly, engine-led orchestration uses a deterministic framework to define explicit workflow transitions. This approach utilizes a 'graph' structure to prevent the AI from falling into infinite loops or hallucinating incorrect process routes during complex tasks.",
-            "analogy": "In a kitchen, this is the difference between a chef guessing the recipe as they go (prompted) versus following a rigorous, high-tech assembly line where the conveyor belt physically prevents the ingredients from moving to the oven before they have been chopped (engine-led).",
-            "business_value": "For the C-suite, this represents the transition from AI as a 'unpredictable toy' to AI as a 'reliable utility.' It ensures reproducibility and auditability, which are non-negotiable requirements for deployment in highly regulated sectors like financial services."
-        },
-        {
-            "term": "Data Sovereignty in Autonomous Systems",
-            "definition": "This refers to the digital and legal framework that allows an organization to maintain absolute control over its proprietary data as it interacts with third-party AI models. It addresses the 'tacit bargain' by ensuring that data used for real-time autonomous reasoning remains within private governance boundaries rather than leaking into external training sets.",
-            "analogy": "Think of it as a high-end car's black box recorder; while the car is built by a third party, the driving data stays in your private vault, and the manufacturer has no key to access it or use it to train other drivers without your explicit permission.",
-            "business_value": "Protecting your 'data moat' is critical for long-term valuation. Sovereignty ensures that your unique intellectual property isn't inadvertently used to train a competitor's model, preserving your firm's unique competitive advantage in an AI-commoditized market."
+            "term": "Non-Linear Agent Orchestration",
+            "definition": "A framework that moves away from simple, sequential AI prompting toward a graph-based 'engine' that explicitly defines workflow transitions. By using a structured engine instead of the model\u2019s internal intuition to route tasks, it prevents the system from getting stuck in infinite loops or 'hallucinating' the next logical step in a complex business process.",
+            "analogy": "In a professional kitchen, this is the difference between a head chef shouting random orders based on instinct versus a digital tracking system that ensures the steak cannot be plated until the vegetable station confirms the sides are ready.",
+            "business_value": "Reliability and reproducibility are the primary barriers to enterprise AI. Moving to non-linear orchestration reduces 'hallucinated routing,' ensuring that automated customer or internal workflows behave predictably every time, which lowers operational risk and manual oversight costs."
         },
         {
             "term": "Execution Topology",
-            "definition": "Execution topology is a design pattern that focuses on the structural 'wiring' of how data and commands flow between different AI agents and human operators. It maps the physical and logical paths\u2014such as hub-and-spoke, sequential, or mesh networks\u2014that define how a multi-agent system moves information to reach a conclusion.",
-            "analogy": "In a luxury car, the execution topology is the electrical architecture and CAN bus system that dictates exactly how the brake pedal signal reaches the calipers; it\u2019s not about 'what' the signal says, but the physical path it must take to ensure the car stops safely every time.",
-            "business_value": "Understanding topology allows executives to optimize for 'operational efficiency.' By refining the flow of agent interactions, businesses can reduce latency, minimize API costs, and eliminate bottlenecks in automated decision-making processes."
+            "definition": "The structural design or 'map' of how data flows through a multi-agent AI system, distinct from the agents' cognitive capabilities. While the 'cognitive function' focuses on what an AI knows, the topology defines the hierarchy\u2014how specialized agents are connected, which agents have oversight, and how information is handed off between specialized workers.",
+            "analogy": "Think of this as the difference between a driver\u2019s skill (cognition) and the car\u2019s drivetrain (topology). You can have a world-class driver, but if the drivetrain isn't connected to the wheels, the car won't move; topology ensures the 'brain' is properly wired to the 'wheels' of the business.",
+            "business_value": "For CEOs, understanding topology allows for 'modular' AI strategy. It enables the business to upgrade specific AI 'brains' (models) without having to redesign the entire workflow architecture, significantly future-proofing technical investments."
+        },
+        {
+            "term": "Invisible Orchestrators",
+            "definition": "A system architecture where a hidden central controller manages multiple specialized worker agents without direct user visibility into the coordination layer. While this creates a seamless user experience, research indicates it can lead to 'power-holder dissociation,' where the system inadvertently suppresses safety protocols or protective behaviors in favor of efficiency.",
+            "analogy": "Imagine a car with a 'ghost' co-pilot that silently adjusts your steering and braking based on what it thinks you want. While the ride feels smoother, the driver loses the tactile feedback necessary to realize they are approaching a dangerous skid until it is too late.",
+            "business_value": "While invisible orchestration makes AI tools feel 'magical' and easy to use, it creates a hidden liability gap. Executives must mandate 'orchestration transparency' in their AI stacks to ensure that safety-critical decisions remain auditable and that the system doesn't bypass corporate governance in the name of speed."
         }
     ]
 }

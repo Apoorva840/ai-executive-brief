@@ -3,23 +3,23 @@
     "papers": [
         {
             "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-            "innovation": "Introduces GraphBit, an engine-orchestrated framework that explicitly defines workflows to overcome issues like hallucinated routing, infinite loops, and non-reproducible execution commonly found in prompted orchestration LLM agent frameworks.",
-            "benchmarks": "Not explicitly mentioned in the abstract, but the framework's goal of reproducible execution implies addressing performance and reliability issues.",
-            "use_case": "Building robust, reliable, and reproducible multi-agent LLM systems for complex, non-linear workflows, particularly in enterprise applications where predictability and error prevention are paramount.",
+            "innovation": "Introduces an engine-orchestrated framework that explicitly defines workflows using a graph-based approach to address critical issues like hallucinated routing, infinite loops, and non-reproducible execution commonly found in prompted LLM orchestration. This provides a more controlled and predictable execution environment for agentic systems.",
+            "benchmarks": "The innovation directly tackles and implicitly benchmarks against the failure modes of existing prompted orchestration methods, aiming to improve reproducibility, prevent infinite loops, and reduce routing hallucinations. Specific quantitative benchmarks would be detailed in the full paper but are indicated by the problems solved.",
+            "use_case": "Essential for AI engineers building robust, reliable, and auditable multi-step agentic workflows in enterprise applications, such as complex customer service automation, compliance-driven processes, or data analysis pipelines where predictable execution and control are paramount.",
             "url": "https://arxiv.org/abs/2605.13848"
         },
         {
             "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
-            "innovation": "Proposes a novel two-dimensional framework that unifies existing single-perspective approaches to LLM-based agent architectures by considering both cognitive function (what the agent does) and execution topology (how data flows).",
-            "benchmarks": "Not explicitly mentioned in the abstract, as it describes a conceptual framework for design and analysis.",
-            "use_case": "Systematically designing, categorizing, and analyzing AI agent architectures; providing a comprehensive mental model and common language for engineers to build, understand, and debug complex multi-agent systems.",
+            "innovation": "Proposes a novel two-dimensional framework that combines 'cognitive function' (what the agent does) and 'execution topology' (how data flows). This provides a comprehensive, disambiguated way to describe and design LLM-based agent architectures, bridging the gap between existing single-perspective industry guides and cognitive science surveys.",
+            "benchmarks": "This paper offers a conceptual framework rather than an empirical benchmark. Its value lies in improving the clarity, consistency, and systematicity of AI agent design and communication, which indirectly leads to better-designed and more understandable systems.",
+            "use_case": "Invaluable for AI engineers and architects for systematically designing, evaluating, and communicating about LLM-based agent systems. It helps in making informed architectural decisions, understanding the trade-offs of different patterns, and standardizing agent descriptions across projects and teams.",
             "url": "https://arxiv.org/abs/2605.13850"
         },
         {
             "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
-            "innovation": "Presents an empirical study (preregistered 3x2 experiment) to investigate and reveal significant safety risks associated with invisible orchestrators in multi-agent LLM systems, specifically demonstrating suppressed protective behavior and dissociation among power-holders.",
-            "benchmarks": "Empirical evaluation conducted via a preregistered 3x2 experiment testing safety implications.",
-            "use_case": "Informing the safe design, development, and deployment of multi-agent LLM systems, especially in enterprise contexts where a hidden coordinator manages worker agents. Crucial for safety engineering, risk assessment, and ensuring responsible AI.",
+            "innovation": "This empirical study identifies and demonstrates significant safety risks arising from 'invisible orchestrators' in multi-agent LLM systems. It shows that hidden coordinators can suppress the protective behaviors of worker agents and create dissociation between human power-holders and the consequences of agent decisions, which is a critical, previously underexplored safety concern.",
+            "benchmarks": "The abstract mentions a 'preregistered 3x2 experiment,' indicating empirical testing of safety implications. Benchmarks involve measuring the suppression of protective behaviors in agents and the degree of dissociation experienced by human overseers in orchestrator-based systems.",
+            "use_case": "Critical for AI engineers developing and deploying multi-agent LLM systems, especially in sensitive domains. This research provides crucial insights into potential failure modes, guiding engineers to design transparent orchestrator mechanisms, ensure accountability, and maintain human oversight to mitigate safety and ethical risks in enterprise AI deployments.",
             "url": "https://arxiv.org/abs/2605.13851"
         }
     ]

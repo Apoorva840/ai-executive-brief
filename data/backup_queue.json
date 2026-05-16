@@ -4,134 +4,134 @@
     "summary": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and dete",
     "url": "https://arxiv.org/abs/2605.13848",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
     "summary": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disam",
     "url": "https://arxiv.org/abs/2605.13850",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "OmniDrop: Layer-wise Token Pruning for Omni-modal LLMs via Query-Guidance",
     "summary": "arXiv:2605.14458v1 Announce Type: new Abstract: Omni-modal large language models have demonstrated remarkable potential in holistic multimodal understanding; however, the token explosion caused by high-resolution audio and video inputs remains a critical bottleneck for real-time applications and long-form reasoning. Existing omni-modal token compre",
     "url": "https://arxiv.org/abs/2605.14458",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "A Heterogeneous Temporal Memory Governance Framework for Long-Term LLM Persona Consistency",
     "summary": "arXiv:2605.14802v1 Announce Type: new Abstract: Large language models often suffer from fact loss, timeline confusion, persona drift, and reduced stability during long-range interaction, especially under high-noise knowledge bases, context clearing, and cross-model transfer. To address these issues, we introduce ARPM, an external temporal memory go",
     "url": "https://arxiv.org/abs/2605.14802",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "Small, Private Language Models as Teammates for Educational Assessment Design",
     "summary": "arXiv:2605.15015v1 Announce Type: new Abstract: Generative AI increasingly supports educational design tasks, e.g., through Large Language Models (LLMs), demonstrating the capability to design assessment questions that are aligned with pedagogical frameworks (e.g., Bloom's taxonomy). However, they often rely on subjective or limited evaluation meth",
     "url": "https://arxiv.org/abs/2605.15015",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "Orchard: An Open-Source Agentic Modeling Framework",
     "summary": "arXiv:2605.15040v1 Announce Type: new Abstract: Agentic modeling aims to transform LLMs into autonomous agents capable of solving complex tasks through planning, reasoning, tool use, and multi-turn interaction with environments. Despite major investment, open research remains constrained by infrastructure and training gaps. Many high-performing sys",
     "url": "https://arxiv.org/abs/2605.15040",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "Case-Based Calibration of Adaptive Reasoning and Execution for LLM Tool Use",
     "summary": "arXiv:2605.15041v1 Announce Type: new Abstract: Tool use extends large language models beyond parametric knowledge, but reliable execution requires balancing appropriate reasoning depth with strict structural validity. We approach this problem from a case-based perspective to present CAST, a case-driven framework that treats historical execution tr",
     "url": "https://arxiv.org/abs/2605.15041",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "APWA: A Distributed Architecture for Parallelizable Agentic Workflows",
     "summary": "arXiv:2605.15132v1 Announce Type: new Abstract: Autonomous multi-agent systems based on large language models (LLMs) have demonstrated remarkable abilities in independently solving complex tasks in a wide breadth of application domains. However, these systems hit critical reasoning, coordination, and computational scaling bottlenecks as the size an",
     "url": "https://arxiv.org/abs/2605.15132",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "Multi-Scale Dequant: Eliminating Dequantization Bottleneck via Activation Decomposition for Efficient LLM Inference",
     "summary": "arXiv:2605.13915v1 Announce Type: cross Abstract: Quantization is essential for efficient large language model (LLM) inference, yet the dequantization step-converting low-bit weights back to high-precision for matrix multiplication has become a critical bottleneck on modern AI accelerators. On architectures with decoupled compute units (e.g., Ascen",
     "url": "https://arxiv.org/abs/2605.13915",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "Diagnosing Training Inference Mismatch in LLM Reinforcement Learning",
     "summary": "arXiv:2605.14220v1 Announce Type: cross Abstract: Modern LLM RL systems separate rollout generation from policy optimization. These two stages are expected to produce token probabilities that match exactly. However, implementation differences can make them assign different values to the same sequence under the same model weights, inducing Training-",
     "url": "https://arxiv.org/abs/2605.14220",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "Contestable Multi-Agent Debate with Arena-based Argumentative Computation for Multimedia Verification",
     "summary": "arXiv:2605.14495v1 Announce Type: cross Abstract: Multimedia verification requires not only accurate conclusions but also transparent and contestable reasoning. We propose a contestable multi-agent framework that integrates multimodal large language models, external verification tools, and arena-based quantitative bipolar argumentation (A-QBAF) as ",
     "url": "https://arxiv.org/abs/2605.14495",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "MultiEmo-Bench: Multi-label Visual Emotion Analysis for Multi-modal Large Language Models",
     "summary": "arXiv:2605.14635v1 Announce Type: cross Abstract: This paper introduces a multi-label visual emotion analysis benchmark dataset for comprehensively evaluating the ability of multimodal large language models (MLLMs) to predict the emotions evoked by images. Recent user studies report an unintuitive finding: humans may prefer the predictions of MLLMs",
     "url": "https://arxiv.org/abs/2605.14635",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "MHSA: A Lightweight Framework for Mitigating Hallucinations via Steered Attention in LVLMs",
     "summary": "arXiv:2605.14966v1 Announce Type: cross Abstract: Large vision-language models (LVLMs) have achieved remarkable performance across diverse multimodal tasks, yet they continue to suffer from hallucinations, generating content that is inconsistent with the visual input. Prior work DHCP (Detecting Hallucinations by Cross-modal Attention Pattern) has e",
     "url": "https://arxiv.org/abs/2605.14966",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "Graph of States: Solving Abductive Tasks with Large Language Models",
     "summary": "arXiv:2603.21250v2 Announce Type: replace Abstract: Logical reasoning encompasses deduction, induction, and abduction. However, while Large Language Models (LLMs) have effectively mastered the former two, abductive reasoning remains significantly underexplored. Existing frameworks, predominantly designed for static deductive tasks, fail to generali",
     "url": "https://arxiv.org/abs/2603.21250",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   },
   {
     "title": "Attractor Geometry of Transformer Memory: From Conflict Arbitration to Confident Hallucination",
     "summary": "arXiv:2605.05686v2 Announce Type: replace Abstract: Language models draw on two knowledge sources: facts baked into weights (parametric memory, PM) and information in context (working memory, WM). We study two mechanistically distinct failure modes--conflict, when PM and WM disagree and interfere; and hallucination, when the queried fact was never ",
     "url": "https://arxiv.org/abs/2605.05686",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-15T04:39:04.433121+00:00"
+    "archived_at": "2026-05-16T04:13:05.639145+00:00"
   }
 ]

@@ -4,39 +4,39 @@
     "summary": "arXiv:2508.06202v2 Announce Type: replace-cross Abstract: Continual Visual Instruction Tuning (CVIT) enables Multimodal Large Language Models (MLLMs) to incrementally learn new tasks over time. However, this process is challenged by catastrophic forgetting, where performance on previously learned tasks deteriorates as the model adapts to new ones. ",
     "url": "https://arxiv.org/abs/2508.06202",
     "source": "Arxiv AI",
-    "published_at": "2026-05-15T04:00:00+00:00",
+    "published_at": "2026-05-16T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-05-14T18:55:01+00:00",
+    "title": "Google busts the myth that AI search needs its own SEO playbook",
+    "summary": "Google says the SEO industry's favorite new buzzwords, \"generative engine optimization\" and \"answer engine optimization,\" are just regular SEO by another name. In new documentation, the company dismantles common tactics like LLMS.txt files and content chunking, making it clear that AI search runs on the same ranking systems as traditional search. T",
+    "url": "https://the-decoder.com/google-busts-the-myth-that-ai-search-needs-its-own-seo-playbook/",
+    "source": "The Decoder",
+    "published_at": "2026-05-15T18:42:56+00:00",
+    "score": 7
+  },
+  {
+    "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
+    "summary": "Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-hor",
+    "url": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "source": "Microsoft Research",
+    "published_at": "2026-05-15T18:06:57+00:00",
     "score": 6
   },
   {
-    "title": "The Real Losers of the Musk v. Altman Trial",
-    "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
-    "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-    "source": "Wired AI",
-    "published_at": "2026-05-15T00:49:53+00:00",
-    "score": 5
+    "title": "ChatGPT now wants access to your bank account so it can tell you to stop ordering takeout",
+    "summary": "OpenAI is turning ChatGPT into a personal financial assistant. Pro users in the US can now connect their bank accounts through Plaid to get personalized analysis based on real transaction data. The feature runs on GPT-5.5 Thinking and will eventually roll out to all users. OpenAI warns the chatbot is still not a licensed financial advisor. The arti",
+    "url": "https://the-decoder.com/chatgpt-now-wants-access-to-your-bank-account-so-it-can-tell-you-to-stop-ordering-takeout/",
+    "source": "The Decoder",
+    "published_at": "2026-05-15T17:43:49+00:00",
+    "score": 6
   },
   {
-    "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
-    "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
-    "url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+    "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+    "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+    "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
     "source": "Wired AI",
-    "published_at": "2026-05-14T20:27:34+00:00",
-    "score": 5
-  },
-  {
-    "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
-    "summary": "British technology company Humanoid will deploy humanoid robots at factories operated by German industrial supplier Schaeffler, Reuters reported. The two companies&#8217; agreement covers an estimated 1,000 to 2,000 robots in Schaeffler&#8217;s global manufacturing sites by 2032, according to a Humanoid spokesperson. The companies have not disclose",
-    "url": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
-    "source": "AI News",
-    "published_at": "2026-05-14T10:00:00+00:00",
+    "published_at": "2026-05-15T17:09:17+00:00",
     "score": 5
   }
 ]
