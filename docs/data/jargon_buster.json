@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 16, 2026",
+    "last_updated": "May 17, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Non-Linear Agent Orchestration",
-            "definition": "A framework that moves away from simple, sequential AI prompting toward a graph-based 'engine' that explicitly defines workflow transitions. By using a structured engine instead of the model\u2019s internal intuition to route tasks, it prevents the system from getting stuck in infinite loops or 'hallucinating' the next logical step in a complex business process.",
-            "analogy": "In a professional kitchen, this is the difference between a head chef shouting random orders based on instinct versus a digital tracking system that ensures the steak cannot be plated until the vegetable station confirms the sides are ready.",
-            "business_value": "Reliability and reproducibility are the primary barriers to enterprise AI. Moving to non-linear orchestration reduces 'hallucinated routing,' ensuring that automated customer or internal workflows behave predictably every time, which lowers operational risk and manual oversight costs."
+            "term": "Autonomous Cyber-Agents",
+            "definition": "These are AI systems designed to execute multi-step objectives by independently navigating web browsers, writing code, and iterating on strategies without human intervention. In cybersecurity, these agents use LLMs to analyze software vulnerabilities in real-time and autonomously develop exploits, such as those targeting the Google V8 engine.",
+            "analogy": "Imagine a self-driving car that doesn't just steer, but also autonomously diagnoses mechanical failures, finds the most efficient shortcut through a construction zone, and negotiates with a toll booth to get the best rate\u2014all without a driver present.",
+            "business_value": "The shift from AI 'assistants' to 'agents' means your enterprise security perimeter is now facing non-stop, high-speed probing that adapts faster than human response teams. Investing in agentic AI for defense is no longer a luxury; it is a required countermeasure against automated, low-cost offensive exploits."
         },
         {
-            "term": "Execution Topology",
-            "definition": "The structural design or 'map' of how data flows through a multi-agent AI system, distinct from the agents' cognitive capabilities. While the 'cognitive function' focuses on what an AI knows, the topology defines the hierarchy\u2014how specialized agents are connected, which agents have oversight, and how information is handed off between specialized workers.",
-            "analogy": "Think of this as the difference between a driver\u2019s skill (cognition) and the car\u2019s drivetrain (topology). You can have a world-class driver, but if the drivetrain isn't connected to the wheels, the car won't move; topology ensures the 'brain' is properly wired to the 'wheels' of the business.",
-            "business_value": "For CEOs, understanding topology allows for 'modular' AI strategy. It enables the business to upgrade specific AI 'brains' (models) without having to redesign the entire workflow architecture, significantly future-proofing technical investments."
+            "term": "Mixture-of-Experts (MoE) Sparsity",
+            "definition": "MoE is an architectural design where a large neural network is divided into specialized sub-networks, or 'experts,' with only a small fraction activated for any single task. Recent advancements allow for 'domain-specific' pruning, where up to 87.5% of these experts are removed to reduce memory footprint while maintaining near-full performance.",
+            "analogy": "It is like a high-end commercial kitchen staffed with 100 specialist chefs, where the head waiter is smart enough to only wake up the pastry chef and the saucier for a dessert order, keeping the other 98 chefs off the clock to save on payroll.",
+            "business_value": "This significantly lowers the 'inference tax'\u2014the cost of running AI. Companies can now deploy highly intelligent models on cheaper, memory-constrained hardware or edge devices, transforming AI from a massive capital expenditure into a lean, scalable operational tool."
         },
         {
-            "term": "Invisible Orchestrators",
-            "definition": "A system architecture where a hidden central controller manages multiple specialized worker agents without direct user visibility into the coordination layer. While this creates a seamless user experience, research indicates it can lead to 'power-holder dissociation,' where the system inadvertently suppresses safety protocols or protective behaviors in favor of efficiency.",
-            "analogy": "Imagine a car with a 'ghost' co-pilot that silently adjusts your steering and braking based on what it thinks you want. While the ride feels smoother, the driver loses the tactile feedback necessary to realize they are approaching a dangerous skid until it is too late.",
-            "business_value": "While invisible orchestration makes AI tools feel 'magical' and easy to use, it creates a hidden liability gap. Executives must mandate 'orchestration transparency' in their AI stacks to ensure that safety-critical decisions remain auditable and that the system doesn't bypass corporate governance in the name of speed."
+            "term": "World Modeling (Physical Reasoning)",
+            "definition": "World modeling is an AI's ability to internalize the laws of physics and logical cause-and-effect rather than simply predicting the next pixel or word in a sequence. While generative models excel at visual 'hallucinations,' true world modeling ensures that objects maintain their mass, gravity acts consistently, and logical continuity is preserved across time.",
+            "analogy": "Think of a movie set where the backdrop looks incredibly real, but if an actor leans on a 'brick' wall, it wobbles because it is actually painted foam; world modeling is the difference between that Hollywood facade and a building constructed with real steel and stone.",
+            "business_value": "For sectors like manufacturing, logistics, and robotics, 'stunning' visuals are useless if they are physically impossible. Transitioning to world-model-based AI allows for high-fidelity digital twins and simulations that can accurately predict real-world outcomes, reducing the risk of expensive physical prototyping failures."
         }
     ]
 }

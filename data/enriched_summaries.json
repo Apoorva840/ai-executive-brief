@@ -1,75 +1,75 @@
 [
   {
-    "title": "LoRA in LoRA: Towards Parameter-Efficient Architecture Expansion for Continual Visual Instruction Tuning",
-    "url": "https://arxiv.org/abs/2508.06202",
-    "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2508.06202v2 Announce Type: replace-cross Abstract: Continual Visual Instruction Tuning (CVIT) enables Multimodal Large Language Models (MLLMs) to incrementally learn new tasks over time. However, this process is challenged by catastrophic forgetting, where performance on previously learned tasks deteriorates as the model adapts to new ones.",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
-    "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
-    ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "Google busts the myth that AI search needs its own SEO playbook",
-    "url": "https://the-decoder.com/google-busts-the-myth-that-ai-search-needs-its-own-seo-playbook/",
+    "title": "New benchmark confirms AI video generators look stunning but still can't reason about the world",
+    "url": "https://the-decoder.com/new-benchmark-confirms-ai-video-generators-look-stunning-but-still-cant-reason-about-the-world/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Google says the SEO industry's favorite new buzzwords, \"generative engine optimization\" and \"answer engine optimization,\" are just regular SEO by another name. In new documentation, the company dismantles common tactics like LLMS.txt files and content chunking, making it clear that AI search runs on the same ranking systems as traditional search. T",
+    "what_happened": "A new benchmark called WorldReasonBench tests video generators not on image quality, but on physical and logical plausibility. ByteDance's Seedance 2.0 leads the field ahead of Veo 3.1 and Sora 2, with commercial models scoring roughly twice as high as open-source alternatives. Logical reasoning remains the hardest category for every model by a wid",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "AI Professionals"
     ],
     "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
-    "url": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
-    "source": "Microsoft Research",
-    "score": 6,
-    "what_happened": "Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-hor",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
-    "who_should_care": [
-      "Applied Researchers",
-      "Enterprise ML Teams"
-    ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
-  },
-  {
-    "title": "ChatGPT now wants access to your bank account so it can tell you to stop ordering takeout",
-    "url": "https://the-decoder.com/chatgpt-now-wants-access-to-your-bank-account-so-it-can-tell-you-to-stop-ordering-takeout/",
+    "title": "OpenAI bought a voice cloning startup famous for celebrity imitations",
+    "url": "https://the-decoder.com/openai-bought-a-voice-cloning-startup-famous-for-celebrity-imitations/",
     "source": "The Decoder",
-    "score": 6,
-    "what_happened": "OpenAI is turning ChatGPT into a personal financial assistant. Pro users in the US can now connect their bank accounts through Plaid to get personalized analysis based on real transaction data. The feature runs on GPT-5.5 Thinking and will eventually roll out to all users. OpenAI warns the chatbot is still not a licensed financial advisor. The arti",
+    "score": 7,
+    "what_happened": "OpenAI has acquired Weights.gg, a small startup that let users create and share AI voice clones of celebrities like Taylor Swift and Donald Trump. The team of around six now works at OpenAI, but the company doesn't plan to release a standalone cloning product. The article OpenAI bought a voice cloning startup famous for celebrity imitations appeare",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-    "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+    "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
+    "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+    "what_happened": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "Policy Leaders",
       "Tech Strategists"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+    "url": "https://arxiv.org/abs/2605.13848",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and dete",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+    "url": "https://arxiv.org/abs/2605.13850",
+    "source": "Arxiv AI",
+    "score": 7,
+    "what_happened": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disam",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   }
 ]

@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 16, 2026",
+    "last_updated": "May 17, 2026",
     "tools": [
         {
-            "Name": "MinerU",
-            "Category": "Document Parsing",
-            "Description": "A high-accuracy document parsing engine that converts PDFs, Office docs (DOCX, PPTX, XLSX), and images into structured Markdown/JSON.",
-            "Use_Case": "Converting complex scientific or professional documents into LLM-ready formats for RAG and agentic workflows.",
-            "URL": "https://github.com/opendatalab/MinerU"
-        },
-        {
-            "Name": "CloakBrowser",
-            "Category": "Browser Automation",
-            "Description": "A stealth Chromium binary that passes advanced bot detection by patching fingerprints at the C++ source level.",
-            "Use_Case": "Bypassing anti-bot systems in scraping tasks or automated browser testing without JS injection or configuration hacks.",
-            "URL": "https://github.com/CloakHQ/CloakBrowser"
-        },
-        {
             "Name": "Scientific Agent Skills",
-            "Category": "AI Agent Productivity",
+            "Category": "Scientific Research",
             "Description": "A collection of 135 ready-to-use scientific skills for AI agents, covering genomics, drug discovery, and data analysis.",
-            "Use_Case": "Transforming general-purpose AI coding agents into specialized research assistants for complex scientific pipelines.",
+            "Use_Case": "Automating complex multi-step scientific workflows like virtual screening or omics analysis in Cursor, Claude, or Codex.",
             "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
+        },
+        {
+            "Name": "CLI-Anything",
+            "Category": "Software Integration",
+            "Description": "A plugin framework that enables AI agents to control virtually any professional software through a generated CLI harness.",
+            "Use_Case": "Turning GUI applications like Blender, GIMP, or LibreOffice into agent-native tools for automated content generation.",
+            "URL": "https://github.com/HKUDS/CLI-Anything"
+        },
+        {
+            "Name": "DeepEval",
+            "Category": "LLM Evaluation",
+            "Description": "An open-source unit-testing framework designed specifically for evaluating LLM-based applications.",
+            "Use_Case": "Measuring performance metrics like answer relevancy, hallucination, and bias in RAG pipelines and chatbots during development.",
+            "URL": "https://github.com/confident-ai/deepeval"
         }
     ]
 }
