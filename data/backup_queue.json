@@ -1,56 +1,137 @@
 [
   {
-    "title": "Researchers train AI model that hits near-full performance with just 12.5 percent of its experts",
-    "summary": "Researchers at the Allen Institute for AI and UC Berkeley have built EMO, a mixture-of-experts model whose experts specialize in content domains instead of word types. That lets you strip out three-quarters of the experts while losing only about one percentage point of performance, a step that could make MoE models practical for memory-constrained ",
-    "url": "https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/",
-    "source": "The Decoder",
-    "published_at": "2026-05-16T07:55:11+00:00",
+    "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
+    "summary": "arXiv:2605.15215v1 Announce Type: new Abstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are typically injected into the agent reasoning loop as contextual guidance once matched to a runtime task, enabling specialized task-solving capabilities.",
+    "url": "https://arxiv.org/abs/2605.15215",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-17T04:42:08.528109+00:00"
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
   },
   {
-    "title": "Google says GEO and AEO are a myth and traditional SEO is all you need for AI search",
-    "summary": "Google says the SEO industry's favorite new buzzwords, \"generative engine optimization\" and \"answer engine optimization,\" are just regular SEO by another name. In new documentation, the company dismantles common tactics like LLMS.txt files and content chunking, making it clear that AI search runs on the same ranking systems as traditional search. T",
-    "url": "https://the-decoder.com/google-says-geo-and-aeo-are-a-myth-and-traditional-seo-is-all-you-need-for-ai-search/",
-    "source": "The Decoder",
-    "published_at": "2026-05-16T06:00:56+00:00",
+    "title": "Solvita: Enhancing Large Language Models for Competitive Programming via Agentic Evolution",
+    "summary": "arXiv:2605.15301v1 Announce Type: new Abstract: Large language models (LLMs) still struggle with the rigorous reasoning demands of hard competitive programming. While recent multi-agent frameworks attempt to bridge this reliability gap, they remain fundamentally stateless: they rely on static retrieval and discard the valuable problem-solving and d",
+    "url": "https://arxiv.org/abs/2605.15301",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-17T04:42:08.528109+00:00"
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
   },
   {
-    "title": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously",
-    "summary": "Researchers at Carnegie Mellon University built a new benchmark that measures how far AI agents can go when exploiting real vulnerabilities in Google's V8 engine. Mythos leads GPT-5.5 by a wide margin but costs twelve times as much. The article New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously appeared fir",
-    "url": "https://the-decoder.com/new-benchmark-shows-claude-mythos-and-gpt-5-5-can-develop-real-browser-exploits-autonomously/",
-    "source": "The Decoder",
-    "published_at": "2026-05-16T13:08:05+00:00",
-    "score": 6,
-    "archived_at": "2026-05-17T04:42:08.528109+00:00"
+    "title": "RTL-BenchMT: Dynamic Maintenance of RTL Generation Benchmark Through Agent-Assisted Analysis and Revision",
+    "summary": "arXiv:2605.15537v1 Announce Type: new Abstract: This paper introduces RTL-BenchMT, an agentic framework for dynamically maintaining RTL generation benchmarks. Large Language Models (LLMs) assisted automated RTL generation is one of the most important directions in EDA research. However, current RTL benchmarks face two critical challenges: (1) flawe",
+    "url": "https://arxiv.org/abs/2605.15537",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
   },
   {
-    "title": "YouTube opens its deepfake face-swap detection tool to all adult creators",
-    "summary": "YouTube is opening its Likeness Detection tool to all creators 18 and older. The system spots AI-generated face fakes in other users' videos and lets creators file removal requests directly through YouTube Studio. Until now, the feature was limited to partner program members; now it's meant to protect smaller channels too. The article YouTube opens",
-    "url": "https://the-decoder.com/youtube-opens-its-deepfake-face-swap-detection-tool-to-all-adult-creators/",
-    "source": "The Decoder",
-    "published_at": "2026-05-16T12:21:39+00:00",
-    "score": 6,
-    "archived_at": "2026-05-17T04:42:08.528109+00:00"
+    "title": "DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding",
+    "summary": "arXiv:2605.15542v1 Announce Type: new Abstract: GUI agents powered by Multimodal Large Language Models (MLLMs) have demonstrated impressive capability in understanding and executing user instructions. However, accurately grounding instruction-relevant elements from high-resolution screenshots cluttered with irrelevant UI components remains challeng",
+    "url": "https://arxiv.org/abs/2605.15542",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
   },
   {
-    "title": "AI made a tiny slice of Silicon Valley filthy rich and left the rest wondering why they bother",
-    "summary": "According to Menlo Ventures partner Deedy Das, about 10,000 people in Silicon Valley have amassed fortunes of over $20 million thanks to the AI boom at Anthropic, OpenAI, xAI, Meta, and Nvidia. Everyone else feels left behind. Middle management feels hollowed out. Even the winners struggle with a \"profound lack of purpose.\" The article AI made a ti",
-    "url": "https://the-decoder.com/ai-made-a-tiny-slice-of-silicon-valley-filthy-rich-and-left-the-rest-wondering-why-they-bother/",
-    "source": "The Decoder",
-    "published_at": "2026-05-16T08:48:55+00:00",
-    "score": 6,
-    "archived_at": "2026-05-17T04:42:08.528109+00:00"
+    "title": "PRISM: Prompt Reliability via Iterative Simulation and Monitoring for Enterprise Conversational AI",
+    "summary": "arXiv:2605.15665v1 Announce Type: new Abstract: Deploying large language model (LLM)-driven conversational agents in enterprise settings requires prompts that are simultaneously correct at launch and resilient to the non-deterministic behavioral drift that characterizes production LLM deployments. Existing prompt optimization frameworks address pro",
+    "url": "https://arxiv.org/abs/2605.15665",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
   },
   {
-    "title": "For $1.3 million a month, OpenClaw founder Peter Steinberger runs 100 AI agents that code, review PRs, and find bugs",
-    "summary": "A three-person team led by Peter Steinberger keeps about 100 Codex instances running for the open-source project OpenClaw, driving OpenAI API spend to $1.3 million a month. Steinberger frames the bill as a research investment: he wants to see what software development looks like when token costs don't matter. The article For $1.3 million a month, O",
-    "url": "https://the-decoder.com/for-1-3-million-a-month-openclaw-founder-peter-steinberger-runs-100-ai-agents-that-code-review-prs-and-find-bugs/",
-    "source": "The Decoder",
-    "published_at": "2026-05-16T09:55:19+00:00",
-    "score": 5,
-    "archived_at": "2026-05-17T04:42:08.528109+00:00"
+    "title": "GenAI-Driven Approach to RISC-V Supply Chain Exploration",
+    "summary": "arXiv:2605.15223v1 Announce Type: cross Abstract: This paper presents an LLM-empowered workflow for RISC-V supply chain analysis, integrating Vision-Language Models (VLMs) and Model-Driven Engineering (MDE) to enable comprehensive, multimodal data-driven insights. The proposed approach addresses the challenges of heterogeneous and unstructured supp",
+    "url": "https://arxiv.org/abs/2605.15223",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
+  },
+  {
+    "title": "GQA-{\\mu}P: The maximal parameterization update for grouped query attention",
+    "summary": "arXiv:2605.15290v1 Announce Type: cross Abstract: Hyperparameter transfer across model architectures dramatically reduces the amount of compute necessary for tuning large language models (LLMs). The maximal update parameterization ({\\mu}P) ensures transfer through principled mathematical analysis but can be challenging to derive for new model archi",
+    "url": "https://arxiv.org/abs/2605.15290",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
+  },
+  {
+    "title": "Representation Without Reward: A JEPA Audit for LLM Fine-Tuning",
+    "summary": "arXiv:2605.15394v1 Announce Type: cross Abstract: Joint-embedding predictive architectures (JEPAs) propose that a model should learn more useful abstractions when trained to predict latent representations rather than observed outputs. For autoregressive language-model fine-tuning the principle entails a stricter requirement: the induced hidden-stat",
+    "url": "https://arxiv.org/abs/2605.15394",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
+  },
+  {
+    "title": "Margin-Adaptive Confidence Ranking for Reliable LLM Judgement",
+    "summary": "arXiv:2605.15416v1 Announce Type: cross Abstract: Jung et al. (2025) introduce a hypothesis testing framework for guaranteeing agreement between large language models (LLMs) and human judgments, relying on the assumption that the model's estimated confidence is monotonic with respect to human-disagreement risk. In practice, however, this assumption",
+    "url": "https://arxiv.org/abs/2605.15416",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
+  },
+  {
+    "title": "DrugSAGE:Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery",
+    "summary": "arXiv:2605.15461v1 Announce Type: cross Abstract: Building state-of-the-art (SOTA) predictive models for drug discovery requires expensive search over tools, architectures, and training strategies. Current LLM-based agents can find SOTA solutions through extensive trial and error, but they do not retain the experience accumulated along the way and ",
+    "url": "https://arxiv.org/abs/2605.15461",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
+  },
+  {
+    "title": "Hybrid LLM-based Intelligent Framework for Robot Task Scheduling",
+    "summary": "arXiv:2605.15486v1 Announce Type: cross Abstract: This study introduces intelligent frameworks that use Large Language Models (LLMs) to improve task scheduling for construction robots. The LLM is fed with key data about the desired task, such as agent action abilities, and the desired end goal to be achieved. A well-balanced allocation strategy is ",
+    "url": "https://arxiv.org/abs/2605.15486",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
+  },
+  {
+    "title": "Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs",
+    "summary": "arXiv:2605.15491v1 Announce Type: cross Abstract: Layer pruning removes entire Transformer decoder blocks from large language models, but introduces a mismatch between the hidden state received by the next surviving layer and the distribution it was trained to process, leading to significant performance degradation. We propose Ghosted Layers, a tra",
+    "url": "https://arxiv.org/abs/2605.15491",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
+  },
+  {
+    "title": "A Few GPUs, A Whole Lotta Scale: Faithful LLM Training Emulation with PrismLLM",
+    "summary": "arXiv:2605.15617v1 Announce Type: cross Abstract: Large language model (LLM) training today runs on clusters spanning thousands of GPUs. While this scale enables rapid model advances, developing, debugging, and performance-tuning the training framework inevitably becomes complex and costly. This is because engineers often need to reproduce producti",
+    "url": "https://arxiv.org/abs/2605.15617",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
+  },
+  {
+    "title": "ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models",
+    "summary": "arXiv:2605.15687v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) may memorize sensitive cross-modal information during pretraining, making machine unlearning (MU) crucial. Existing methods typically evaluate unlearning effectiveness based on output deviations, while overlooking the generation quality after unlearning. This",
+    "url": "https://arxiv.org/abs/2605.15687",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
+  },
+  {
+    "title": "GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions",
+    "summary": "arXiv:2605.15764v1 Announce Type: cross Abstract: Understanding social interactions requires reasoning over subtle non-verbal cues, yet current multimodal large language models (MLLMs) often fail to identify who interacts with whom in multi-person videos. We introduce GRASP, a large-scale social reasoning dataset that connects high-level social QA ",
+    "url": "https://arxiv.org/abs/2605.15764",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-18T04:54:39.536520+00:00"
   }
 ]

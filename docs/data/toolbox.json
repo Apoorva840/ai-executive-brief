@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 17, 2026",
+    "last_updated": "May 18, 2026",
     "tools": [
         {
-            "Name": "Scientific Agent Skills",
-            "Category": "Scientific Research",
-            "Description": "A collection of 135 ready-to-use scientific skills for AI agents, covering genomics, drug discovery, and data analysis.",
-            "Use_Case": "Automating complex multi-step scientific workflows like virtual screening or omics analysis in Cursor, Claude, or Codex.",
-            "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
-        },
-        {
             "Name": "CLI-Anything",
-            "Category": "Software Integration",
-            "Description": "A plugin framework that enables AI agents to control virtually any professional software through a generated CLI harness.",
-            "Use_Case": "Turning GUI applications like Blender, GIMP, or LibreOffice into agent-native tools for automated content generation.",
+            "Category": "AI Development",
+            "Description": "A tool that automates the creation of agent-native CLIs for any existing professional software.",
+            "Use_Case": "Turning legacy desktop applications like Blender or GIMP into tools that AI coding agents can interact with via command line.",
             "URL": "https://github.com/HKUDS/CLI-Anything"
         },
         {
-            "Name": "DeepEval",
-            "Category": "LLM Evaluation",
-            "Description": "An open-source unit-testing framework designed specifically for evaluating LLM-based applications.",
-            "Use_Case": "Measuring performance metrics like answer relevancy, hallucination, and bias in RAG pipelines and chatbots during development.",
-            "URL": "https://github.com/confident-ai/deepeval"
+            "Name": "Shadowbroker",
+            "Category": "OSINT / Intelligence",
+            "Description": "A decentralized, self-hosted intelligence platform that visualizes real-time global telemetry.",
+            "Use_Case": "Aggregating multi-domain data (flight tracking, maritime, satellite imagery) into a map interface controllable by AI agents.",
+            "URL": "https://github.com/BigBodyCobain/Shadowbroker"
+        },
+        {
+            "Name": "Scientific Agent Skills",
+            "Category": "Scientific Research",
+            "Description": "A collection of 135 ready-to-use skills for scientific workflows, including bioinformatics, chemistry, and research analysis.",
+            "Use_Case": "Equipping AI agents with specialized knowledge and tools to perform complex scientific data processing and literature research.",
+            "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
         }
     ]
 }

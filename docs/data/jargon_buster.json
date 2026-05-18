@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 17, 2026",
+    "last_updated": "May 18, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Autonomous Cyber-Agents",
-            "definition": "These are AI systems designed to execute multi-step objectives by independently navigating web browsers, writing code, and iterating on strategies without human intervention. In cybersecurity, these agents use LLMs to analyze software vulnerabilities in real-time and autonomously develop exploits, such as those targeting the Google V8 engine.",
-            "analogy": "Imagine a self-driving car that doesn't just steer, but also autonomously diagnoses mechanical failures, finds the most efficient shortcut through a construction zone, and negotiates with a toll booth to get the best rate\u2014all without a driver present.",
-            "business_value": "The shift from AI 'assistants' to 'agents' means your enterprise security perimeter is now facing non-stop, high-speed probing that adapts faster than human response teams. Investing in agentic AI for defense is no longer a luxury; it is a required countermeasure against automated, low-cost offensive exploits."
+            "term": "State-Constrained Dispatch",
+            "definition": "A control framework for multi-agent systems that treats AI execution as a formal state machine rather than a flexible graph. It enforces strict business logic 'guardrails' by ensuring an agent cannot transition to a new task until specific, predefined safety and process conditions are met.",
+            "analogy": "In a car, this is like an electronic gear-lock that physically prevents the transmission from shifting into 'Reverse' while the vehicle is moving forward at high speeds, regardless of what the driver (the AI) attempts to do.",
+            "business_value": "This eliminates 'process hallucinations' where AI agents might skip critical steps like budget approvals or compliance checks. For the CEO, this means AI can be integrated into high-stakes corporate workflows without the risk of the model bypassing established SOPs."
         },
         {
-            "term": "Mixture-of-Experts (MoE) Sparsity",
-            "definition": "MoE is an architectural design where a large neural network is divided into specialized sub-networks, or 'experts,' with only a small fraction activated for any single task. Recent advancements allow for 'domain-specific' pruning, where up to 87.5% of these experts are removed to reduce memory footprint while maintaining near-full performance.",
-            "analogy": "It is like a high-end commercial kitchen staffed with 100 specialist chefs, where the head waiter is smart enough to only wake up the pastry chef and the saucier for a dessert order, keeping the other 98 chefs off the clock to save on payroll.",
-            "business_value": "This significantly lowers the 'inference tax'\u2014the cost of running AI. Companies can now deploy highly intelligent models on cheaper, memory-constrained hardware or edge devices, transforming AI from a massive capital expenditure into a lean, scalable operational tool."
+            "term": "Proof-Derived Authorization",
+            "definition": "A security paradigm for autonomous agents that replaces traditional identity-based credentials (API keys) with cryptographic proofs of intent. It requires the AI to provide a verifiable 'proof' that its proposed action is semantically safe and logically aligned with its assigned mission before the system grants permission to execute.",
+            "analogy": "Imagine a commercial kitchen where the walk-in freezer doesn't open just because it recognizes the Chef's face; instead, it only unlocks when the Chef presents a digital order slip proving they actually need to retrieve lobster for a confirmed customer table.",
+            "business_value": "This is the 'Zero Trust' model for the AI era. it protects the bottom line by ensuring that even if an agent is 'tricked' by a prompt injection attack, it cannot execute unauthorized financial transfers or delete data because it cannot generate a valid safety proof for those actions."
         },
         {
-            "term": "World Modeling (Physical Reasoning)",
-            "definition": "World modeling is an AI's ability to internalize the laws of physics and logical cause-and-effect rather than simply predicting the next pixel or word in a sequence. While generative models excel at visual 'hallucinations,' true world modeling ensures that objects maintain their mass, gravity acts consistently, and logical continuity is preserved across time.",
-            "analogy": "Think of a movie set where the backdrop looks incredibly real, but if an actor leans on a 'brick' wall, it wobbles because it is actually painted foam; world modeling is the difference between that Hollywood facade and a building constructed with real steel and stone.",
-            "business_value": "For sectors like manufacturing, logistics, and robotics, 'stunning' visuals are useless if they are physically impossible. Transitioning to world-model-based AI allows for high-fidelity digital twins and simulations that can accurately predict real-world outcomes, reducing the risk of expensive physical prototyping failures."
+            "term": "Internalized Self-Critique (ICRL)",
+            "definition": "A reinforcement learning technique where a model is trained to incorporate the feedback from a 'critic' directly into its own underlying neural architecture. This moves the AI from a 'multi-step' process (generate then check) to a 'single-step' process where the model inherently avoids its previous mistakes without needing a separate oversight loop.",
+            "analogy": "It is the difference between a trainee cook who needs a Head Chef to taste every sauce and suggest more salt (External Critique), and a Master Chef who has 'internalized' those lessons and perfectly seasons the dish the first time (Internalized).",
+            "business_value": "ICRL significantly reduces 'Inference Latency' and compute costs. By training models to be right the first time, businesses can stop paying for the 'double-check' compute cycles, resulting in faster customer responses and lower cloud infrastructure bills."
         }
     ]
 }

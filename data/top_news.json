@@ -1,44 +1,44 @@
 [
   {
-    "title": "New benchmark confirms AI video generators look stunning but still can't reason about the world",
-    "summary": "A new benchmark called WorldReasonBench tests video generators not on image quality, but on physical and logical plausibility. ByteDance's Seedance 2.0 leads the field ahead of Veo 3.1 and Sora 2, with commercial models scoring roughly twice as high as open-source alternatives. Logical reasoning remains the hardest category for every model by a wid",
-    "url": "https://the-decoder.com/new-benchmark-confirms-ai-video-generators-look-stunning-but-still-cant-reason-about-the-world/",
+    "title": "Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design",
+    "summary": "arXiv:2605.15871v1 Announce Type: new Abstract: Toward recursive self-improvement, we investigate LLM agents autonomously designing foundation models beyond standard Transformers. We introduce a dual-framework approach: AIRA-Compose for high-level architecture search, and AIRA-Design for low-level mechanistic implementation. AIRA-Compose uses 11 ag",
+    "url": "https://arxiv.org/abs/2605.15871",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-18T04:00:00+00:00",
+    "score": 9
+  },
+  {
+    "title": "World Action Models give robots the ability to simulate consequences before they move",
+    "summary": "World Action Models tackle a basic weakness of today's robotics AI: current models learn which movements match which camera images, but they don't understand how the world actually changes as a result. A new survey organizes about a hundred papers into two architectural lines and shows a key edge: these models can learn from everyday videos that co",
+    "url": "https://the-decoder.com/world-action-models-give-robots-the-ability-to-simulate-consequences-before-they-move/",
     "source": "The Decoder",
-    "published_at": "2026-05-16T10:55:47+00:00",
+    "published_at": "2026-05-17T13:15:25+00:00",
     "score": 7
   },
   {
-    "title": "OpenAI bought a voice cloning startup famous for celebrity imitations",
-    "summary": "OpenAI has acquired Weights.gg, a small startup that let users create and share AI voice clones of celebrities like Taylor Swift and Donald Trump. The team of around six now works at OpenAI, but the company doesn't plan to release a standalone cloning product. The article OpenAI bought a voice cloning startup famous for celebrity imitations appeare",
-    "url": "https://the-decoder.com/openai-bought-a-voice-cloning-startup-famous-for-celebrity-imitations/",
+    "title": "Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases",
+    "summary": "Mistral CEO Arthur Mensch warns of Europe's growing cybersecurity dependency: France's military code bases should not be scanned by US AI models. Modern AI can orchestrate attacks and suggest exploits, including Mistral's own models. Mensch rules out a sale and says Mistral is aiming for an IPO instead. The article Mistral CEO Arthur Mensch warns F",
+    "url": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/",
     "source": "The Decoder",
-    "published_at": "2026-05-16T10:23:55+00:00",
+    "published_at": "2026-05-17T09:15:30+00:00",
     "score": 7
   },
   {
-    "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
-    "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
-    "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
-    "source": "Wired AI",
-    "published_at": "2026-05-16T09:30:00+00:00",
-    "score": 5
+    "title": "Researchers train AI model that hits near-full performance with just 12.5 percent of its experts",
+    "summary": "Researchers at the Allen Institute for AI and UC Berkeley have built EMO, a mixture-of-experts model whose experts specialize in content domains instead of word types. That lets you strip out three-quarters of the experts while losing only about one percentage point of performance, a step that could make MoE models practical for memory-constrained ",
+    "url": "https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/",
+    "source": "The Decoder",
+    "published_at": "2026-05-16T07:55:11+00:00",
+    "score": 7,
+    "archived_at": "2026-05-17T04:42:08.528109+00:00"
   },
   {
-    "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-    "summary": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and dete",
-    "url": "https://arxiv.org/abs/2605.13848",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-16T04:00:00+00:00",
+    "title": "Google says GEO and AEO are a myth and traditional SEO is all you need for AI search",
+    "summary": "Google says the SEO industry's favorite new buzzwords, \"generative engine optimization\" and \"answer engine optimization,\" are just regular SEO by another name. In new documentation, the company dismantles common tactics like LLMS.txt files and content chunking, making it clear that AI search runs on the same ranking systems as traditional search. T",
+    "url": "https://the-decoder.com/google-says-geo-and-aeo-are-a-myth-and-traditional-seo-is-all-you-need-for-ai-search/",
+    "source": "The Decoder",
+    "published_at": "2026-05-16T06:00:56+00:00",
     "score": 7,
-    "archived_at": "2026-05-16T04:13:05.639145+00:00"
-  },
-  {
-    "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
-    "summary": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disam",
-    "url": "https://arxiv.org/abs/2605.13850",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-16T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-16T04:13:05.639145+00:00"
+    "archived_at": "2026-05-17T04:42:08.528109+00:00"
   }
 ]
